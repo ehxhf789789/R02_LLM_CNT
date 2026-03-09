@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { fetchKBDetail } from '../api/client';
 import {
-  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend,
-  PieChart, Pie, Cell, ResponsiveContainer, Treemap,
+  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip,
+  PieChart, Pie, Cell, ResponsiveContainer,
 } from 'recharts';
 
 const COLORS = ['#1a237e', '#4CAF50', '#FF9800', '#9C27B0', '#00BCD4', '#F44336', '#3F51B5', '#E91E63'];

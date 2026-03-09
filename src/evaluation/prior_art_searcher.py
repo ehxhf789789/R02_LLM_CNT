@@ -110,6 +110,7 @@ class PriorArtSearcher:
         max_patents: int = 15,
         max_papers: int = 15,
         exclude_tech_numbers: list[str] | None = None,
+        cutoff_year: int | None = None,
     ) -> PriorArtContext:
         """제안기술에 대한 선행기술을 종합 검색.
 
@@ -120,6 +121,7 @@ class PriorArtSearcher:
             max_patents: 최대 특허 수집 수
             max_papers: 최대 논문 수집 수
             exclude_tech_numbers: 자기참조 방지를 위해 제외할 기술 번호
+            cutoff_year: 시간적 커트오프 — 이 연도 이후 발행 자료 제외
         """
         # 1. 키워드 추출
         if tech_keywords:
@@ -137,6 +139,12 @@ class PriorArtSearcher:
 
         # 4. 지정기술 매칭 (로컬 DB) — 자기참조 제외
         designated = self._search_designated_techs(keywords, exclude_tech_numbers)
+
+        # 시간적 커트오프: cutoff_year 이후 발행된 선행기술 제외
+        if cutoff_year:
+            patents = self._apply_temporal_cutoff(patents, cutoff_year, date_field="application_date")
+            papers = self._apply_temporal_cutoff(papers, cutoff_year, date_field="publish_year")
+            designated = self._apply_temporal_cutoff(designated, cutoff_year, date_field="protection_period")
 
         context = PriorArtContext(
             query_keywords=keywords,
@@ -220,6 +228,23 @@ class PriorArtSearcher:
                     break
 
         return papers[:max_results]
+
+    @staticmethod
+    def _apply_temporal_cutoff(
+        records: list[dict], cutoff_year: int, date_field: str,
+    ) -> list[dict]:
+        """시간적 커트오프를 적용하여 cutoff_year 이후 자료를 제외."""
+        filtered = []
+        for r in records:
+            val = str(r.get(date_field, ""))
+            try:
+                year = int(val[:4])
+                if year <= cutoff_year:
+                    filtered.append(r)
+            except (ValueError, TypeError):
+                # 연도 정보 없는 레코드는 포함 (보수적)
+                filtered.append(r)
+        return filtered
 
     def _search_designated_techs(
         self, keywords: list[str], exclude_tech_numbers: list[str] | None = None,

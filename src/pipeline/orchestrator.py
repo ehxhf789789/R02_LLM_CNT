@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import time
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -100,10 +101,17 @@ class Orchestrator:
         tech_field = proposal.get("tech_field", "")
         tech_number = proposal.get("tech_number", "")
 
+        # 시간적 커트오프: 지정연도 추출 (통제 실험에서 미래 정보 유입 방지)
+        cutoff_year = self._extract_cutoff_year(proposal)
+
         if not run_id:
             run_id = f"run_{tech_number}_{int(time.time())}"
 
-        logger.info("평가 시작: %s (%s) - %s", tech_name, tech_field, run_id)
+        logger.info(
+            "평가 시작: %s (%s) - %s [커트오프: %s]",
+            tech_name, tech_field, run_id,
+            f"{cutoff_year}년" if cutoff_year else "없음",
+        )
 
         result = EvaluationRun(
             run_id=run_id,
@@ -136,6 +144,7 @@ class Orchestrator:
             tech_description=proposal.get("tech_description", ""),
             tech_keywords=proposal.get("search_keywords"),
             exclude_tech_numbers=prior_art_exclude,
+            cutoff_year=cutoff_year,
         )
 
         # 3. 에이전트별 KB 조립 + 프롬프트 생성
@@ -150,6 +159,7 @@ class Orchestrator:
                 profile,
                 tech_query=tech_name,
                 exclude_tech_numbers=exclude_list,
+                cutoff_year=cutoff_year,
             )
             prompt = self.prompt_builder.build_evaluation_prompt(kb, prior_art_ctx, proposal)
             agent_prompts[profile.agent_id] = prompt
@@ -273,6 +283,39 @@ class Orchestrator:
             "reasoning": vote.reasoning,
             "prior_art_comparison": vote.prior_art_comparison,
         }
+
+    @staticmethod
+    def _extract_cutoff_year(proposal: dict) -> int | None:
+        """제안기술의 지정연도를 추출하여 시간적 커트오프로 사용.
+
+        통제 실험에서 미래 정보 유입을 방지한다.
+        예: 2020년 지정 기술이면 2020년 이후 발행 자료를 KB에서 제외.
+
+        Returns:
+            지정연도 (int) 또는 None (실시간 평가 / 연도 정보 없는 경우)
+        """
+        # 1. 직접 지정된 cutoff_year 우선
+        if proposal.get("cutoff_year"):
+            try:
+                return int(proposal["cutoff_year"])
+            except (ValueError, TypeError):
+                pass
+
+        # 2. designation_year 필드
+        if proposal.get("designation_year"):
+            try:
+                return int(proposal["designation_year"])
+            except (ValueError, TypeError):
+                pass
+
+        # 3. protection_period에서 시작연도 추출 (e.g., "2020-09-30 ~ 2027-09-30")
+        period = proposal.get("protection_period", "")
+        if period:
+            match = re.match(r"(\d{4})", str(period))
+            if match:
+                return int(match.group(1))
+
+        return None
 
     def _save_result(self, result: EvaluationRun) -> Path:
         """평가 결과를 JSON으로 저장."""

@@ -57,6 +57,16 @@ PRIOR_ART_TEMPLATE = """\
 ---
 """
 
+TEMPORAL_CONTEXT_TEMPLATE = """\
+---
+# 평가 시점 안내
+
+이 기술은 {designation_year}년에 건설신기술로 신청되었습니다.
+평가 시 {designation_year}년까지의 기술 동향과 선행기술만을 기준으로 판단하세요.
+{designation_year}년 이후에 공개된 기술이나 연구는 평가 근거로 사용하지 마세요.
+---
+"""
+
 TECH_PROPOSAL_TEMPLATE = """\
 ---
 # 평가 대상: 건설신기술 신청서
@@ -179,6 +189,13 @@ class PromptBuilder:
         user_parts.append(PRIOR_ART_TEMPLATE.format(
             prior_art_context=prior_art_text,
         ))
+
+        # 시간적 컨텍스트 (통제 실험: 지정연도 이후 정보 제외)
+        designation_year = tech_proposal.get("designation_year") or tech_proposal.get("cutoff_year")
+        if designation_year:
+            user_parts.append(TEMPORAL_CONTEXT_TEMPLATE.format(
+                designation_year=designation_year,
+            ))
 
         # 제안기술 명세
         # PDF에서 추출한 추가 섹션 구성

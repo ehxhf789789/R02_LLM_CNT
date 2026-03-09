@@ -106,12 +106,32 @@ class KBStore:
         logger.info("지정 건설신기술 %d건 저장: %s", len(techs), out_path)
         return out_path
 
-    def load_designated_techs(self) -> list[dict]:
-        """저장된 지정 건설신기술 목록 로드."""
+    def load_designated_techs(self, enriched_only: bool = False) -> list[dict]:
+        """저장된 지정 건설신기술 목록 로드.
+
+        Args:
+            enriched_only: True이면 홍보자료(enriched PDF)가 있는 기술만 반환.
+                           KB용으로는 False(전체 포함)가 기본 — 홍보자료 미보유 건도
+                           존재 정보로 포함해야 신규성/진보성 판단이 가능하다.
+                           입력데이터(프로포절) 선별 시에만 True로 사용한다.
+        """
         path = self.dynamic_dir / "cnt_designated" / "designated_list.json"
         if not path.exists():
             return []
-        return self._read_json(path)
+        all_techs = self._read_json(path)
+        if not enriched_only:
+            return all_techs
+        enriched_dir = self.dynamic_dir / "cnt_designated" / "enriched"
+        if not enriched_dir.exists():
+            logger.warning("enriched 디렉토리 없음: %s", enriched_dir)
+            return all_techs
+        enriched_nums = {
+            f.stem.replace("designated_", "")
+            for f in enriched_dir.glob("designated_*.json")
+        }
+        filtered = [t for t in all_techs if str(t.get("tech_number", "")) in enriched_nums]
+        logger.info("지정기술 필터링: %d/%d건 (홍보자료 보유)", len(filtered), len(all_techs))
+        return filtered
 
     # --- Semantic Scholar 논문 데이터 ---
 

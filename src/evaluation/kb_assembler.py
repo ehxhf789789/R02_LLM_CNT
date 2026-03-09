@@ -114,6 +114,7 @@ class KBAssembler:
         profile: AgentProfile,
         tech_query: str = "",
         exclude_tech_numbers: list[str] | None = None,
+        cutoff_year: int | None = None,
     ) -> HierarchicalKB:
         """에이전트 프로파일에 맞는 계층적 KB를 조립.
 
@@ -121,6 +122,7 @@ class KBAssembler:
             profile: 에이전트 프로파일
             tech_query: 벡터 검색용 쿼리 (제안기술명 등)
             exclude_tech_numbers: KB에서 제외할 기술 번호
+            cutoff_year: 시간적 커트오프 — 이 연도 이후 발행 자료 제외
         """
         category_code = profile.specialty.major.code
 
@@ -141,6 +143,7 @@ class KBAssembler:
                 source_type="patent",
                 category_major=major_code,
                 exclude_tech_numbers=exclude_tech_numbers,
+                cutoff_year=cutoff_year,
             )
             prior_papers = self.vectorizer.search(
                 query=tech_query,
@@ -148,6 +151,7 @@ class KBAssembler:
                 source_type="paper",
                 category_major=major_code,
                 exclude_tech_numbers=exclude_tech_numbers,
+                cutoff_year=cutoff_year,
             )
             designated_techs = self.vectorizer.search(
                 query=tech_query,
@@ -155,12 +159,14 @@ class KBAssembler:
                 source_type="designated_tech",
                 category_major=major_name,
                 exclude_tech_numbers=exclude_tech_numbers,
+                cutoff_year=cutoff_year,
             )
             codil_docs = self.vectorizer.search(
                 query=tech_query,
                 top_k=10,
                 source_type="codil",
                 category_major=major_code,
+                cutoff_year=cutoff_year,
             )
         else:
             # JSON store 기반 (폴백)

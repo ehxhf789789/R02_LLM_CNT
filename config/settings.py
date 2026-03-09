@@ -29,7 +29,7 @@ class Settings(BaseSettings):
     aws_access_key_id: str = ""
     aws_secret_access_key: str = ""
     aws_default_region: str = "us-east-1"
-    bedrock_model_id: str = "us.anthropic.claude-sonnet-4-6"
+    bedrock_model_id: str = "us.anthropic.claude-sonnet-4-6-20250514-v1:0"
     bedrock_embedding_model_id: str = "cohere.embed-multilingual-v3"
 
     # Evaluation settings

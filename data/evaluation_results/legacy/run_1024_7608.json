@@ -1,0 +1,127 @@
+{
+  "run_id": "run_1024_7608",
+  "tech_number": "1024",
+  "tech_name": "회전각 계측과 신호처리를 통한 교량 정·동적 처짐 측정 시스템",
+  "tech_field": "토목 > 교량 > 교량 유지.보수",
+  "panel_size": 15,
+  "panel_profiles": [
+    {
+      "agent_id": "agent_01_exact_h",
+      "match_level": "exact",
+      "experience": "high",
+      "experience_years": 23,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_02_exact_h",
+      "match_level": "exact",
+      "experience": "high",
+      "experience_years": 19,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_03_exact_l",
+      "match_level": "exact",
+      "experience": "low",
+      "experience_years": 3,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_04_exact_m",
+      "match_level": "exact",
+      "experience": "medium",
+      "experience_years": 7,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_05_exact_h",
+      "match_level": "exact",
+      "experience": "high",
+      "experience_years": 21,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_06_exact_h",
+      "match_level": "exact",
+      "experience": "high",
+      "experience_years": 15,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_07_exact_m",
+      "match_level": "exact",
+      "experience": "medium",
+      "experience_years": 13,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_08_exact_h",
+      "match_level": "exact",
+      "experience": "high",
+      "experience_years": 23,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_09_exact_l",
+      "match_level": "exact",
+      "experience": "low",
+      "experience_years": 3,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_10_exact_l",
+      "match_level": "exact",
+      "experience": "low",
+      "experience_years": 4,
+      "specialty": "대분류: 토목 > 중분류: 교량 > 소분류: 교량 유지.보수"
+    },
+    {
+      "agent_id": "agent_11_partial_m",
+      "match_level": "partial",
+      "experience": "medium",
+      "experience_years": 12,
+      "specialty": "대분류: 토목 > 중분류: 토질 및 기초 > 소분류: 옹벽(보강토 옹벽 포함)건축"
+    },
+    {
+      "agent_id": "agent_12_partial_m",
+      "match_level": "partial",
+      "experience": "medium",
+      "experience_years": 8,
+      "specialty": "대분류: 건축 > 중분류: 마감 > 소분류: 금속"
+    },
+    {
+      "agent_id": "agent_13_partial_h",
+      "match_level": "partial",
+      "experience": "high",
+      "experience_years": 22,
+      "specialty": "대분류: 토목 > 중분류: 터널 > 소분류: 터널 보강 안정"
+    },
+    {
+      "agent_id": "agent_14_partial_l",
+      "match_level": "partial",
+      "experience": "low",
+      "experience_years": 3,
+      "specialty": "대분류: 건축 > 중분류: 기초 > 소분류: 기초 보강"
+    },
+    {
+      "agent_id": "agent_15_partial_l",
+      "match_level": "partial",
+      "experience": "low",
+      "experience_years": 3,
+      "specialty": "대분류: 건축 > 중분류: 철근콘크리트 > 소분류: 기타 철근콘크리트"
+    }
+  ],
+  "votes": [],
+  "ensemble_result": {
+    "final_verdict": "rejected",
+    "approval_ratio": 0.0,
+    "weighted_approval_ratio": 0.0,
+    "avg_novelty_total": 0.0,
+    "avg_progressiveness_total": 0.0,
+    "avg_total": 0.0,
+    "dissenting_opinions": [],
+    "consensus_evidence": []
+  },
+  "chairman_review": {},
+  "elapsed_seconds": 207.46683168411255
+}

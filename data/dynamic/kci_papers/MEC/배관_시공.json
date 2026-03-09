@@ -1,0 +1,27 @@
+[
+  {
+    "article_id": "ART003035735",
+    "title": "배관 및 벽체 매입요소의 시공법에 따른 차음성능 및 기밀성능 평가",
+    "title_ko": "배관 및 벽체 매입요소의 시공법에 따른 차음성능 및 기밀성능 평가",
+    "title_en": "Performance Evaluation of Sound Insulation and Airtightness in Relation to Construction Methods for Noise Reduction Factors",
+    "authors": "김민주(한국패시브건축협회), 박종일(사단법인 한국패시브건축협회), 이정훈(충남대학교), 정수광(숭실대학교)",
+    "journal": "한국건축친환경설비학회 논문집",
+    "publisher": "한국건축친환경설비학회",
+    "publish_year": "2023",
+    "publish_month": "12",
+    "volume": "17",
+    "issue": "6",
+    "abstract": "This study focuses on noise challenges in apartments, specifically inter-household noise. It examines five noise reduction factors, with a focus on airtightness and sound insulation.\nFindings show significant variations in sound insulation at low frequencies, depending on construction methods. Common trends emerge at 25 Hz and 63 Hz across all factors. Elements like tin pipe, insulated pipe, and panel board enhance noise insulation through airtight construction, while switches 2 and 4 exhibit decreased performance. The study establishes a strong correlation between sound insulation and air tightness, particularly in the mid-frequency range (315 Hz to 2,000 Hz), suggesting potential use of mid-frequency data for effective air tightness analysis.",
+    "abstract_ko": "This study focuses on noise challenges in apartments, specifically inter-household noise. It examines five noise reduction factors, with a focus on airtightness and sound insulation.\nFindings show significant variations in sound insulation at low frequencies, depending on construction methods. Common trends emerge at 25 Hz and 63 Hz across all factors. Elements like tin pipe, insulated pipe, and panel board enhance noise insulation through airtight construction, while switches 2 and 4 exhibit decreased performance. The study establishes a strong correlation between sound insulation and air tightness, particularly in the mid-frequency range (315 Hz to 2,000 Hz), suggesting potential use of mid-frequency data for effective air tightness analysis.",
+    "abstract_en": "This study focuses on noise challenges in apartments, specifically inter-household noise. It examines five noise reduction factors, with a focus on airtightness and sound insulation.\nFindings show significant variations in sound insulation at low frequencies, depending on construction methods. Common trends emerge at 25 Hz and 63 Hz across all factors. Elements like tin pipe, insulated pipe, and panel board enhance noise insulation through airtight construction, while switches 2 and 4 exhibit decreased performance. The study establishes a strong correlation between sound insulation and air tightness, particularly in the mid-frequency range (315 Hz to 2,000 Hz), suggesting potential use of mid-frequency data for effective air tightness analysis.",
+    "fpage": "400",
+    "lpage": "410",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003035735",
+    "citation_count": "0",
+    "article_category": "건물에너지",
+    "source": "kci",
+    "search_keyword": "배관 시공",
+    "category": "MEC"
+  }
+]

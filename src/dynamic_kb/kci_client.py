@@ -20,7 +20,7 @@ from config.settings import settings
 logger = logging.getLogger(__name__)
 
 # KCI Open API 엔드포인트
-SEARCH_URL = "https://open.kci.go.kr/po/openApi/openApiSearch.kci"
+SEARCH_URL = "https://open.kci.go.kr/po/openapi/openApiSearch.kci"
 
 
 @dataclass

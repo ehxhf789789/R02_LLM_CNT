@@ -1,14 +1,15 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import Dashboard from './pages/Dashboard';
 import ResultDetail from './pages/ResultDetail';
 import AnalysisDashboard from './pages/AnalysisDashboard';
 import KBVisualization from './pages/KBVisualization';
 import PipelineWorkflow from './pages/PipelineWorkflow';
 import ExperimentControl from './pages/ExperimentControl';
-import { fetchAllEvalStatus, fetchResults } from './api/client';
+import Settings from './pages/Settings';
+import { fetchAllEvalStatus } from './api/client';
 import './App.css';
 
-type Page = 'dashboard' | 'result' | 'analysis' | 'kb' | 'pipeline' | 'experiment';
+type Page = 'dashboard' | 'result' | 'analysis' | 'kb' | 'pipeline' | 'experiment' | 'settings';
 
 const App: React.FC = () => {
   const [page, setPage] = useState<Page>('dashboard');
@@ -31,6 +32,8 @@ const App: React.FC = () => {
         setPage('pipeline');
       } else if (hash === '#/experiment') {
         setPage('experiment');
+      } else if (hash === '#/settings') {
+        setPage('settings');
       } else {
         setPage('dashboard');
       }
@@ -72,6 +75,7 @@ const App: React.FC = () => {
           <a href="#/experiment" className={page === 'experiment' ? 'active' : ''}>
             실험실행{hasRunning && <span className="running-badge">{runningJobs.length}</span>}
           </a>
+          <a href="#/settings" className={page === 'settings' ? 'active' : ''}>설정</a>
         </div>
       </nav>
 
@@ -87,6 +91,7 @@ const App: React.FC = () => {
             setRunningJobs={setRunningJobs}
           />
         )}
+        {page === 'settings' && <Settings />}
       </main>
     </div>
   );

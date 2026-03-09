@@ -5,11 +5,14 @@
 엔드포인트:
   - POST /api/evaluate: 단일 기술 평가 실행
   - POST /api/evaluate/batch: 배치 평가 실행
+  - POST /api/evaluate/sensitivity: 민감도 실험 실행 (커트오프 미적용)
   - GET  /api/results: 평가 결과 목록
   - GET  /api/results/{run_id}: 개별 결과 상세
   - GET  /api/analysis/accuracy: 정확도 분석
   - GET  /api/analysis/consistency: 일관성 분석
   - GET  /api/analysis/score-patterns: 점수 패턴 분석
+  - GET  /api/analysis/sensitivity: 커트오프 민감도 분석
+  - GET  /api/experiment/config: 실험 설계 구성 정보
   - GET  /api/proposals: 제안기술 목록
   - GET  /api/kb/status: KB 상태
 """
@@ -34,7 +37,7 @@ logger = logging.getLogger(__name__)
 app = FastAPI(
     title="건설신기술 LLM 평가 시스템",
     description="LLM 기반 건설신기술 1차 평가 프레임워크",
-    version="0.3.0",
+    version="1.0.0",
 )
 
 app.add_middleware(
@@ -58,6 +61,22 @@ class BatchEvaluateRequest(BaseModel):
     tech_numbers: list[str]
     repetitions: int = 1
     seed: int | None = None
+
+
+class SensitivityRunRequest(BaseModel):
+    tech_numbers: list[str]
+    repetitions: int = 1
+    seed: int | None = None
+
+
+class SettingsUpdate(BaseModel):
+    aws_access_key_id: str | None = None
+    aws_secret_access_key: str | None = None
+    aws_default_region: str | None = None
+    bedrock_model_id: str | None = None
+    min_panel_size: int | None = None
+    max_panel_size: int | None = None
+    quorum_threshold: float | None = None
 
 
 # --- Endpoints ---
@@ -118,7 +137,9 @@ def list_results():
         return {"results": []}
 
     results = []
-    for f in sorted(results_dir.glob("run_*.json"), reverse=True):
+    result_files = sorted(results_dir.glob("run_*.json"), reverse=True)
+    result_files += sorted(results_dir.glob("nocutoff_*.json"), reverse=True)
+    for f in result_files:
         with open(f, encoding="utf-8") as fp:
             data = json.load(fp)
         results.append({
@@ -170,6 +191,81 @@ def analyze_score_patterns():
     return analyzer.analyze(settings.results_dir)
 
 
+@app.get("/api/analysis/sensitivity")
+def analyze_sensitivity():
+    """커트오프 민감도 분석 (검증4)."""
+    from src.analysis.sensitivity_analyzer import SensitivityAnalyzer
+    analyzer = SensitivityAnalyzer()
+    return analyzer.analyze(settings.results_dir)
+
+
+@app.get("/api/experiment/config")
+def experiment_config():
+    """실험 설계 구성: 그룹 분류 및 통계."""
+    ACCURACY_CUTOFF = 2018
+    SENSITIVITY_RANGE = (2013, 2017)
+
+    proposals_dir = settings.proposals_dir
+    if not proposals_dir.exists():
+        return {"groups": {}, "proposals": []}
+
+    proposals = []
+    for f in sorted(proposals_dir.glob("proposal_*.json")):
+        with open(f, encoding="utf-8") as fp:
+            data = json.load(fp)
+        year = data.get("designation_year")
+        if year and year >= ACCURACY_CUTOFF:
+            group = "accuracy"
+        elif year and SENSITIVITY_RANGE[0] <= year <= SENSITIVITY_RANGE[1]:
+            group = "sensitivity"
+        elif year:
+            group = "pre2018"
+        else:
+            group = "unknown"
+        proposals.append({
+            "tech_number": data.get("tech_number", ""),
+            "tech_name": data.get("tech_name", ""),
+            "designation_year": year,
+            "group": group,
+        })
+
+    groups = {
+        "accuracy": len([p for p in proposals if p["group"] == "accuracy"]),
+        "sensitivity": len([p for p in proposals if p["group"] == "sensitivity"]),
+        "pre2018": len([p for p in proposals if p["group"] == "pre2018"]),
+        "total": len(proposals),
+    }
+
+    return {"groups": groups, "proposals": proposals}
+
+
+@app.post("/api/evaluate/sensitivity")
+async def evaluate_sensitivity(req: SensitivityRunRequest, bg: BackgroundTasks):
+    """민감도 실험: 커트오프 미적용 버전 배치 실행."""
+    run_ids = []
+
+    for tech_num in req.tech_numbers:
+        for rep in range(req.repetitions):
+            seed = (req.seed or 0) + rep if req.seed is not None else None
+            run_id = f"nocutoff_{tech_num}_{rep:03d}"
+            run_ids.append(run_id)
+
+            proposal_path = settings.proposals_dir / f"proposal_{tech_num}.json"
+            if not proposal_path.exists():
+                continue
+
+            with open(proposal_path, encoding="utf-8") as f:
+                proposal = json.load(f)
+
+            # 커트오프 필드 제거 → _extract_cutoff_year()가 None 반환
+            nocutoff_proposal = {k: v for k, v in proposal.items()
+                                 if k not in ("designation_year", "cutoff_year", "protection_period")}
+
+            bg.add_task(_run_evaluation, nocutoff_proposal, run_id, seed, False)
+
+    return {"run_ids": run_ids, "status": "started", "count": len(run_ids)}
+
+
 @app.get("/api/proposals")
 def list_proposals():
     """제안기술 목록."""
@@ -185,6 +281,8 @@ def list_proposals():
             "tech_number": data.get("tech_number", ""),
             "tech_name": data.get("tech_name", ""),
             "tech_field": data.get("tech_field", ""),
+            "designation_year": data.get("designation_year"),
+            "category_code": data.get("category_code", ""),
         })
 
     return {"proposals": proposals, "count": len(proposals)}
@@ -599,6 +697,87 @@ def analyze_experience_correlation():
             for d in agent_data
         ],
     }
+
+
+# --- Settings Endpoints ---
+
+@app.get("/api/settings")
+def get_settings():
+    """현재 설정 조회 (시크릿 마스킹)."""
+    key = settings.aws_access_key_id
+    secret = settings.aws_secret_access_key
+    return {
+        "aws_access_key_id": (key[:8] + "..." + key[-4:]) if len(key) > 12 else ("설정됨" if key else "미설정"),
+        "aws_secret_access_key": "설정됨" if secret else "미설정",
+        "aws_default_region": settings.aws_default_region,
+        "bedrock_model_id": settings.bedrock_model_id,
+        "bedrock_embedding_model_id": settings.bedrock_embedding_model_id,
+        "min_panel_size": settings.min_panel_size,
+        "max_panel_size": settings.max_panel_size,
+        "quorum_threshold": settings.quorum_threshold,
+        "exact_match_ratio": settings.exact_match_ratio,
+        "data_dir": str(settings.data_dir),
+    }
+
+
+@app.put("/api/settings")
+def update_settings_endpoint(req: SettingsUpdate):
+    """설정 업데이트 (.env 파일에 저장)."""
+    env_path = Path(".env")
+    env_lines: list[str] = []
+    if env_path.exists():
+        env_lines = env_path.read_text(encoding="utf-8").splitlines()
+
+    updates: dict[str, str] = {}
+    for field_name, value in req.model_dump(exclude_none=True).items():
+        env_key = field_name.upper()
+        updates[env_key] = str(value)
+        # settings 객체도 즉시 반영
+        setattr(settings, field_name, value)
+
+    # .env 파일 업데이트
+    new_lines = []
+    updated_keys = set()
+    for line in env_lines:
+        key_part = line.split("=", 1)[0].strip() if "=" in line else ""
+        if key_part in updates:
+            new_lines.append(f"{key_part}={updates[key_part]}")
+            updated_keys.add(key_part)
+        else:
+            new_lines.append(line)
+
+    # 새 키 추가
+    for key, val in updates.items():
+        if key not in updated_keys:
+            new_lines.append(f"{key}={val}")
+
+    env_path.write_text("\n".join(new_lines) + "\n", encoding="utf-8")
+
+    return {"status": "updated", "updated_fields": list(updates.keys())}
+
+
+@app.post("/api/settings/test-bedrock")
+def test_bedrock_connection():
+    """Bedrock 연결 테스트."""
+    try:
+        import boto3
+        from botocore.config import Config as BotoConfig
+
+        client = boto3.client(
+            "bedrock-runtime",
+            config=BotoConfig(region_name=settings.aws_default_region),
+            aws_access_key_id=settings.aws_access_key_id or None,
+            aws_secret_access_key=settings.aws_secret_access_key or None,
+        )
+        response = client.converse(
+            modelId=settings.bedrock_model_id,
+            messages=[{"role": "user", "content": [{"text": "Hello, respond with just 'OK'."}]}],
+            inferenceConfig={"maxTokens": 10, "temperature": 0},
+        )
+        output = response.get("output", {}).get("message", {}).get("content", [{}])[0].get("text", "")
+        return {"status": "success", "response": output, "model": settings.bedrock_model_id}
+    except Exception as e:
+        return {"status": "error", "error": str(e), "model": settings.bedrock_model_id}
 
 
 # --- Static File Serving (React 빌드) ---

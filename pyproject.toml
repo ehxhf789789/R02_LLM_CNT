@@ -1,12 +1,12 @@
 [build-system]
 requires = ["setuptools>=68.0", "wheel"]
-build-backend = "setuptools.backends._legacy:_Backend"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "cnt-knowledge-base"
 version = "0.2.0"
 description = "건설신기술 평가 프레임워크를 위한 지식베이스 구축 및 LLM 평가 시스템"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 dependencies = [
     "requests>=2.31.0",
     "beautifulsoup4>=4.12.0",

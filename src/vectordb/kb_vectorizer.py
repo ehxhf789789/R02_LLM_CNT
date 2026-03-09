@@ -160,13 +160,15 @@ class KBVectorizer:
         if paper_skipped:
             logger.info("논문 품질 필터: %d건 스킵 (초록 부재)", paper_skipped)
 
-        # 지정기술 데이터
+        # 지정기술 데이터 — 전체 포함 (홍보자료 미보유 건도 존재 정보로 KB에 포함)
+        # 신규성/진보성 판단 시 기지정 기술의 존재를 알아야 하므로 전체 목록을 KB에 넣는다.
+        # enriched(PDF 상세) 데이터는 별도 섹션에서 추가한다.
         designated_path = base_dir / "cnt_designated" / "designated_list.json"
         if designated_path.exists():
             records = self._load_json(designated_path)
             for r in records:
                 tech_num = r.get("tech_number", "")
-                # 제외 목록 체크
+                # 제외 목록 체크 (평가 대상 기술 자기참조 방지)
                 if tech_num in self._excluded_tech_numbers:
                     logger.debug("제외 기술: %s (%s)", tech_num, r.get("tech_name", ""))
                     continue
@@ -305,6 +307,7 @@ class KBVectorizer:
         source_type: str | None = None,
         category_major: str | None = None,
         exclude_tech_numbers: list[str] | None = None,
+        cutoff_year: int | None = None,
     ) -> list[dict]:
         """벡터 유사도 검색.
 
@@ -314,6 +317,9 @@ class KBVectorizer:
             source_type: 소스 유형 필터 (patent, paper, designated_tech, codil)
             category_major: 대분류 필터
             exclude_tech_numbers: 제외할 기술 번호
+            cutoff_year: 시간적 커트오프 — 이 연도 이후 발행된 자료를 제외.
+                         통제 실험에서 평가 대상 기술의 지정연도를 기준으로
+                         미래 정보 유입을 방지한다.
         """
         if not self.embedding_client:
             self.embedding_client = BedrockEmbeddingClient()
@@ -340,6 +346,15 @@ class KBVectorizer:
         exclude_set = set(exclude_tech_numbers or []) | self._excluded_tech_numbers
         if exclude_set:
             results = results[~results["tech_number"].isin(exclude_set)]
+
+        # 시간적 커트오프: cutoff_year 이후 발행 자료 제외
+        if cutoff_year and "publish_year" in results.columns:
+            def _year_ok(val):
+                try:
+                    return int(str(val)[:4]) <= cutoff_year
+                except (ValueError, TypeError):
+                    return True  # 연도 정보 없는 레코드는 포함
+            results = results[results["publish_year"].apply(_year_ok)]
 
         results = results.head(top_k)
 

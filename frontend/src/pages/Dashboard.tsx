@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { fetchResults, fetchKBStatus } from '../api/client';
+import { fetchResults, fetchKBStatus, fetchProposals } from '../api/client';
 
 interface ResultSummary {
   run_id: string;
@@ -12,16 +12,21 @@ interface ResultSummary {
   elapsed_seconds: number;
 }
 
+const ACCURACY_CUTOFF = 2018;
+const SENSITIVITY_RANGE: [number, number] = [2013, 2017];
+
 const Dashboard: React.FC = () => {
   const [results, setResults] = useState<ResultSummary[]>([]);
   const [kbStatus, setKbStatus] = useState<any>(null);
+  const [proposals, setProposals] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    Promise.all([fetchResults(), fetchKBStatus()])
-      .then(([resResults, resKB]) => {
+    Promise.all([fetchResults(), fetchKBStatus(), fetchProposals()])
+      .then(([resResults, resKB, resProposals]) => {
         setResults(resResults.data.results || []);
         setKbStatus(resKB.data);
+        setProposals(resProposals.data.proposals || []);
       })
       .catch(console.error)
       .finally(() => setLoading(false));
@@ -30,6 +35,13 @@ const Dashboard: React.FC = () => {
   if (loading) return <div className="loading">로딩 중...</div>;
 
   const approvedCount = results.filter(r => r.final_verdict === 'approved').length;
+  const nocutoffCount = results.filter(r => r.run_id?.startsWith('nocutoff_')).length;
+
+  const accuracyProposals = proposals.filter(p => (p.designation_year || 0) >= ACCURACY_CUTOFF);
+  const sensitivityProposals = proposals.filter(p => {
+    const y = p.designation_year || 0;
+    return y >= SENSITIVITY_RANGE[0] && y <= SENSITIVITY_RANGE[1];
+  });
 
   return (
     <div className="dashboard">
@@ -56,6 +68,34 @@ const Dashboard: React.FC = () => {
           </div>
           <div className="stat-label">벡터 KB 상태</div>
         </div>
+      </div>
+
+      {/* 하이브리드 4검증 실험 설계 요약 */}
+      <div className="chart-section" style={{ borderLeft: '4px solid #1a237e' }}>
+        <h2>하이브리드 4검증 실험 설계</h2>
+        <div className="stats-grid">
+          <div className="stat-card bg-blue">
+            <div className="stat-value">{accuracyProposals.length}</div>
+            <div className="stat-label">검증1: 정확도 (2018+)</div>
+          </div>
+          <div className="stat-card bg-green">
+            <div className="stat-value">{proposals.length}</div>
+            <div className="stat-label">검증2: 일관성 (전체)</div>
+          </div>
+          <div className="stat-card">
+            <div className="stat-value">{proposals.length}</div>
+            <div className="stat-label">검증3: 점수패턴 (전체)</div>
+          </div>
+          <div className="stat-card" style={{ borderLeft: '4px solid #FF9800' }}>
+            <div className="stat-value">{sensitivityProposals.length}</div>
+            <div className="stat-label">검증4: 민감도 (2013-17)</div>
+          </div>
+        </div>
+        {nocutoffCount > 0 && (
+          <div className="info-box" style={{ marginTop: 8 }}>
+            커트오프 미적용(nocutoff) 결과: {nocutoffCount}건 완료
+          </div>
+        )}
       </div>
 
       <h2>평가 결과 목록</h2>

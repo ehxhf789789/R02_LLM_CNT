@@ -117,6 +117,16 @@ class ProposalBuilder:
         with open(path, encoding="utf-8") as f:
             all_techs = json.load(f)
 
+        # 홍보자료(enriched) 보유 기술만 후보로 선정
+        enriched_dir = path.parent / "enriched"
+        if enriched_dir.exists():
+            enriched_nums = {
+                f.stem.replace("designated_", "")
+                for f in enriched_dir.glob("designated_*.json")
+            }
+            all_techs = [t for t in all_techs if str(t.get("tech_number", "")) in enriched_nums]
+            logger.info("홍보자료 보유 기술: %d건", len(all_techs))
+
         # 필터링
         candidates = all_techs
         if status_filter:

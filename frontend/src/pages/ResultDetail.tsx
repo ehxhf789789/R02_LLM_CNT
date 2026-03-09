@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { fetchResult, EvaluationResult, AgentVote, EvidenceDetail } from '../api/client';
+import { fetchResult, EvaluationResult, EvidenceDetail } from '../api/client';
 import {
   RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar,
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend,
@@ -340,7 +340,18 @@ const ResultDetail: React.FC<Props> = ({ runId }) => {
           {selectedVote.reasoning && (
             <>
               <h4>종합 판단</h4>
-              <p>{selectedVote.reasoning}</p>
+              {typeof selectedVote.reasoning === 'string' ? (
+                <p>{selectedVote.reasoning}</p>
+              ) : (
+                <div className="reasoning-details">
+                  {Object.entries(selectedVote.reasoning).map(([key, value]) => (
+                    <div key={key} style={{ marginBottom: 8 }}>
+                      <strong>{key.replace(/_/g, ' ').replace('reasoning', '').trim()}:</strong>
+                      <p style={{ margin: '4px 0 0 12px' }}>{String(value)}</p>
+                    </div>
+                  ))}
+                </div>
+              )}
             </>
           )}
         </div>

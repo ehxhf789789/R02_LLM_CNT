@@ -1,0 +1,27 @@
+[
+  {
+    "article_id": "ART002919413",
+    "title": "통합 국가공간데이터기반(i-NSDI)의 국가 디지털트윈 모델의 연구",
+    "title_ko": "통합 국가공간데이터기반(i-NSDI)의 국가 디지털트윈 모델의 연구",
+    "title_en": "Study on a National Digital Twin Model Based on Integrated National Geospatial Data Infrastructure(i-NSDI) Strategy",
+    "authors": "이영진(경일대학교)",
+    "journal": "한국측량학회지",
+    "publisher": "한국측량학회",
+    "publish_year": "2022",
+    "publish_month": "12",
+    "volume": "40",
+    "issue": "6",
+    "abstract": "The purpose of this study intend to improve the Integrated National Spatial Data Infrastructure(i-NSDI) strategyfor public geospatial data, such as construction and economic infrastructure data based on the National Spatial DataInfrastructure(NSDI). It examines the spatial digital twin model and mobility environment applied domesticallyand abroad, and presents a national digital twin(NDTwin) concept model that can be applied to local governmentsand public institutions through digital twin data flow and structural analysis of construction infrastructure data.\nThis model can be implemented and managed by the local governments and public infrastructure's authorities touse the results for feasibility evaluation and operation improvement.",
+    "abstract_ko": "The purpose of this study intend to improve the Integrated National Spatial Data Infrastructure(i-NSDI) strategyfor public geospatial data, such as construction and economic infrastructure data based on the National Spatial DataInfrastructure(NSDI). It examines the spatial digital twin model and mobility environment applied domesticallyand abroad, and presents a national digital twin(NDTwin) concept model that can be applied to local governmentsand public institutions through digital twin data flow and structural analysis of construction infrastructure data.\nThis model can be implemented and managed by the local governments and public infrastructure's authorities touse the results for feasibility evaluation and operation improvement.",
+    "abstract_en": "The purpose of this study intend to improve the Integrated National Spatial Data Infrastructure(i-NSDI) strategyfor public geospatial data, such as construction and economic infrastructure data based on the National Spatial DataInfrastructure(NSDI). It examines the spatial digital twin model and mobility environment applied domesticallyand abroad, and presents a national digital twin(NDTwin) concept model that can be applied to local governmentsand public institutions through digital twin data flow and structural analysis of construction infrastructure data.\nThis model can be implemented and managed by the local governments and public infrastructure's authorities touse the results for feasibility evaluation and operation improvement.",
+    "fpage": "501",
+    "lpage": "512",
+    "doi": "http://dx.doi.org/10.7848/ksgpc.2022.40.6.501",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002919413",
+    "citation_count": "0",
+    "article_category": "토목공학",
+    "source": "kci",
+    "search_keyword": "digital twin infrastructure",
+    "category": "CIV"
+  }
+]
