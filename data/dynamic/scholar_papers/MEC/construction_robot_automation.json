@@ -1,0 +1,1130 @@
+[
+  {
+    "paper_id": "8f2e25ef499a716ce3f0e21b1cd67f370a918ba3",
+    "title": "Path Planning for Construction Robot Based on the Improved A* Algorithm and Building Information Modeling",
+    "authors": "Dejiang Wang, Bolong Liu, Haili Jiang, Panpan Liu",
+    "journal": "Buildings",
+    "publish_year": "2025",
+    "abstract": "Path planning is a key technology in the automation of construction robots, and its implementation mainly relies on navigation algorithms and the generation of environment maps. However, the original A* algorithm has issues such as not considering dimensional constraints, a high number of turning nodes, and unsmooth paths. Moreover, traditional environment map generation is time-consuming and energy-consuming. Therefore, this paper proposes a path-planning method for construction robots based on an improved A* algorithm and BIM. First, the A* algorithm is improved by incorporating dimensional constraints for both the building and the robot and by reasonably setting virtual obstacles to enhance the feasibility of robot movement. Additionally, B-spline curves are used to optimize the path, reduce turning points, and achieve a smoother trajectory. Second, Dynamo visual programming is used to process the building’s BIM model, enabling efficient generation of the environment map while preserving the rich semantic and geometric information of the building. Finally, the improved A* algorithm is employed to perform path planning within the environment map generated from the BIM model, resulting in the generation of the optimal path. Through experimental verification on the civil engineering building of a university, the results show that the improved A* algorithm can successfully navigate within the BIM-generated map. It not only ensures the safety and smoothness of path planning but also enables the fast and efficient generation of environment maps. This effectively advances the research and application of BIM technology in the field of robot navigation.",
+    "keywords": [],
+    "doi": "10.3390/buildings15050719",
+    "url": "https://www.semanticscholar.org/paper/8f2e25ef499a716ce3f0e21b1cd67f370a918ba3",
+    "citation_count": 9,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "8f2e25ef499a716ce3f0e21b1cd67f370a918ba3",
+      "externalIds": {
+        "DOI": "10.3390/buildings15050719",
+        "CorpusId": 276623458
+      },
+      "url": "https://www.semanticscholar.org/paper/8f2e25ef499a716ce3f0e21b1cd67f370a918ba3",
+      "title": "Path Planning for Construction Robot Based on the Improved A* Algorithm and Building Information Modeling",
+      "year": 2025,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings15050719?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings15050719, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "2283305180",
+          "name": "Dejiang Wang"
+        },
+        {
+          "authorId": "2375729598",
+          "name": "Bolong Liu"
+        },
+        {
+          "authorId": "2268724309",
+          "name": "Haili Jiang"
+        },
+        {
+          "authorId": "2209547529",
+          "name": "Panpan Liu"
+        }
+      ],
+      "abstract": "Path planning is a key technology in the automation of construction robots, and its implementation mainly relies on navigation algorithms and the generation of environment maps. However, the original A* algorithm has issues such as not considering dimensional constraints, a high number of turning nodes, and unsmooth paths. Moreover, traditional environment map generation is time-consuming and energy-consuming. Therefore, this paper proposes a path-planning method for construction robots based on an improved A* algorithm and BIM. First, the A* algorithm is improved by incorporating dimensional constraints for both the building and the robot and by reasonably setting virtual obstacles to enhance the feasibility of robot movement. Additionally, B-spline curves are used to optimize the path, reduce turning points, and achieve a smoother trajectory. Second, Dynamo visual programming is used to process the building’s BIM model, enabling efficient generation of the environment map while preserving the rich semantic and geometric information of the building. Finally, the improved A* algorithm is employed to perform path planning within the environment map generated from the BIM model, resulting in the generation of the optimal path. Through experimental verification on the civil engineering building of a university, the results show that the improved A* algorithm can successfully navigate within the BIM-generated map. It not only ensures the safety and smoothness of path planning but also enables the fast and efficient generation of environment maps. This effectively advances the research and application of BIM technology in the field of robot navigation."
+    }
+  },
+  {
+    "paper_id": "537a624bfa1b9a27f616cffef9d88209223dc372",
+    "title": "RoBétArmé Project: Human-robot collaborative construction system for shotcrete digitization and automation through advanced perception, cognition, mobility and additive manufacturing skills",
+    "authors": "I. Kostavelis, Lazaros Nalpantidis, R. Detry, H. Bruyninckx, A. Billard, Schlette Christian, Marc Bosch, Konstantinos Andronikidis, Henrik Lund-Nielsen, Pedram Yosefipor, U. Wajid, Rahul Tomar, Fernando LLano Martínez, Federica Fugaroli, Despoina Papargyriou, Nikolay Mehandjiev, G. Bhullar, Estefânia Gonçalves, Jonas Bentzen, Mads Essenbæk, Christian Crémona, M. Wong, Marcos Sanchez, Dimitrios Giakoumis, Dimitrios Tzovaras",
+    "journal": "Open Research Europe",
+    "publish_year": "2024",
+    "abstract": "The importance of construction automation has grown worldwide, aiming to deliver new machineries for the automation of roads, tunnels, bridges, buildings and earth-work construction. This need is mainly driven by (i) the shortage and rising costs of skilled workers, (ii) the tremendous increased needs for new infrastructures to serve the daily activities and (iii) the immense demand for maintenance of ageing infrastructure. Shotcrete (sprayed concrete) is increasingly becoming popular technology among contractors and builders, as its application is extremely economical and flexible as the growth in construction repairs in developed countries demand excessive automation of concrete placement. Even if shotcrete technology is heavily mechanized, the actual application is still performed manually at a large extend. RoBétArméEuropean project targets the Construction 4.0 transformation of the construction with shotcrete with the adoption of breakthrough technologies such as sensors, augmented reality systems, high-performance computing, additive manufacturing, advanced materials, autonomous robots and simulation systems, technologies that have already been studied and applied so far in Industry 4.0. The paper at hand showcases the development of a novel robotic system with advanced perception, cognition and digitization capabilities for the automation of all phases of shotcrete application. In particular, the challenges and barriers in shotcrete automation are presented and the RoBétArmésuggested solutions are outlined. We introduce a basic conceptual architecture of the system to be developed and we demonstrate the four application scenarios on which the system is designated to operate.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.12688/openreseurope.16601.1",
+    "url": "https://www.semanticscholar.org/paper/537a624bfa1b9a27f616cffef9d88209223dc372",
+    "citation_count": 13,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "537a624bfa1b9a27f616cffef9d88209223dc372",
+      "externalIds": {
+        "PubMedCentral": "10879757",
+        "DOI": "10.12688/openreseurope.16601.1",
+        "CorpusId": 266776856,
+        "PubMed": "38385118"
+      },
+      "url": "https://www.semanticscholar.org/paper/537a624bfa1b9a27f616cffef9d88209223dc372",
+      "title": "RoBétArmé Project: Human-robot collaborative construction system for shotcrete digitization and automation through advanced perception, cognition, mobility and additive manufacturing skills",
+      "year": 2024,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.12688/openreseurope.16601.1",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10879757, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Open Research Europe",
+        "volume": "4"
+      },
+      "authors": [
+        {
+          "authorId": "1758792",
+          "name": "I. Kostavelis"
+        },
+        {
+          "authorId": "2240851884",
+          "name": "Lazaros Nalpantidis"
+        },
+        {
+          "authorId": "40143841",
+          "name": "R. Detry"
+        },
+        {
+          "authorId": "145072634",
+          "name": "H. Bruyninckx"
+        },
+        {
+          "authorId": "1807928",
+          "name": "A. Billard"
+        },
+        {
+          "authorId": "2277948932",
+          "name": "Schlette Christian"
+        },
+        {
+          "authorId": "2351814230",
+          "name": "Marc Bosch"
+        },
+        {
+          "authorId": "2277949552",
+          "name": "Konstantinos Andronikidis"
+        },
+        {
+          "authorId": "2277949041",
+          "name": "Henrik Lund-Nielsen"
+        },
+        {
+          "authorId": "2277952845",
+          "name": "Pedram Yosefipor"
+        },
+        {
+          "authorId": "3280110",
+          "name": "U. Wajid"
+        },
+        {
+          "authorId": "2244699875",
+          "name": "Rahul Tomar"
+        },
+        {
+          "authorId": "2277992477",
+          "name": "Fernando LLano Martínez"
+        },
+        {
+          "authorId": "2277948981",
+          "name": "Federica Fugaroli"
+        },
+        {
+          "authorId": "2277944876",
+          "name": "Despoina Papargyriou"
+        },
+        {
+          "authorId": "2277953745",
+          "name": "Nikolay Mehandjiev"
+        },
+        {
+          "authorId": "75046101",
+          "name": "G. Bhullar"
+        },
+        {
+          "authorId": "2119286090",
+          "name": "Estefânia Gonçalves"
+        },
+        {
+          "authorId": "2277953732",
+          "name": "Jonas Bentzen"
+        },
+        {
+          "authorId": "2277948486",
+          "name": "Mads Essenbæk"
+        },
+        {
+          "authorId": "2283399197",
+          "name": "Christian Crémona"
+        },
+        {
+          "authorId": "119652237",
+          "name": "M. Wong"
+        },
+        {
+          "authorId": "2117081569",
+          "name": "Marcos Sanchez"
+        },
+        {
+          "authorId": "6104348",
+          "name": "Dimitrios Giakoumis"
+        },
+        {
+          "authorId": "2243306416",
+          "name": "Dimitrios Tzovaras"
+        }
+      ],
+      "abstract": "The importance of construction automation has grown worldwide, aiming to deliver new machineries for the automation of roads, tunnels, bridges, buildings and earth-work construction. This need is mainly driven by (i) the shortage and rising costs of skilled workers, (ii) the tremendous increased needs for new infrastructures to serve the daily activities and (iii) the immense demand for maintenance of ageing infrastructure. Shotcrete (sprayed concrete) is increasingly becoming popular technology among contractors and builders, as its application is extremely economical and flexible as the growth in construction repairs in developed countries demand excessive automation of concrete placement. Even if shotcrete technology is heavily mechanized, the actual application is still performed manually at a large extend. RoBétArméEuropean project targets the Construction 4.0 transformation of the construction with shotcrete with the adoption of breakthrough technologies such as sensors, augmented reality systems, high-performance computing, additive manufacturing, advanced materials, autonomous robots and simulation systems, technologies that have already been studied and applied so far in Industry 4.0. The paper at hand showcases the development of a novel robotic system with advanced perception, cognition and digitization capabilities for the automation of all phases of shotcrete application. In particular, the challenges and barriers in shotcrete automation are presented and the RoBétArmésuggested solutions are outlined. We introduce a basic conceptual architecture of the system to be developed and we demonstrate the four application scenarios on which the system is designated to operate."
+    }
+  },
+  {
+    "paper_id": "c0baec9a3e02f2cfaa91c8bcd39b0b8b700a1652",
+    "title": "Development of BIM-integrated construction robot task planning and simulation system",
+    "authors": "Sungjin Kim, M. Peavy, Pei-Chi Huang, Kyungki Kim",
+    "journal": "Automation in Construction",
+    "publish_year": "2021",
+    "abstract": "Abstract A major challenge toward construction robotization is a lack of a system that generates detailed behaviors of robots as part of the construction process based on information contained in building information modeling (BIM) and construction schedules. This study extends BIM to incorporate robot task planning and generate detailed motions conducting construction tasks. A prototype was built upon robot operating system (ROS), focusing on generating robot task plans for indoor wall painting. The prototype includes a converter that generates a ROS-compliant world file from industry foundation classes (IFC) file and sub-processes that conduct localization, navigation, and motion planning. A case study was conducted to demonstrate the system's capability to simulate behaviors of a painting robot and evaluate the performance within the context of the construction-related tasks. The case study demonstrates the proposed BIM-leveraged robot task planning can integrate construction and robotics domains to plan operations of autonomous robots in construction projects.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/J.AUTCON.2021.103720",
+    "url": "https://www.semanticscholar.org/paper/c0baec9a3e02f2cfaa91c8bcd39b0b8b700a1652",
+    "citation_count": 147,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "c0baec9a3e02f2cfaa91c8bcd39b0b8b700a1652",
+      "externalIds": {
+        "MAG": "3153745755",
+        "DOI": "10.1016/J.AUTCON.2021.103720",
+        "CorpusId": 234830216
+      },
+      "url": "https://www.semanticscholar.org/paper/c0baec9a3e02f2cfaa91c8bcd39b0b8b700a1652",
+      "title": "Development of BIM-integrated construction robot task planning and simulation system",
+      "year": 2021,
+      "citationCount": 147,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.AUTCON.2021.103720?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.AUTCON.2021.103720, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Automation in Construction"
+      },
+      "authors": [
+        {
+          "authorId": "2109658081",
+          "name": "Sungjin Kim"
+        },
+        {
+          "authorId": "96724568",
+          "name": "M. Peavy"
+        },
+        {
+          "authorId": "2849644",
+          "name": "Pei-Chi Huang"
+        },
+        {
+          "authorId": "1782984",
+          "name": "Kyungki Kim"
+        }
+      ],
+      "abstract": "Abstract A major challenge toward construction robotization is a lack of a system that generates detailed behaviors of robots as part of the construction process based on information contained in building information modeling (BIM) and construction schedules. This study extends BIM to incorporate robot task planning and generate detailed motions conducting construction tasks. A prototype was built upon robot operating system (ROS), focusing on generating robot task plans for indoor wall painting. The prototype includes a converter that generates a ROS-compliant world file from industry foundation classes (IFC) file and sub-processes that conduct localization, navigation, and motion planning. A case study was conducted to demonstrate the system's capability to simulate behaviors of a painting robot and evaluate the performance within the context of the construction-related tasks. The case study demonstrates the proposed BIM-leveraged robot task planning can integrate construction and robotics domains to plan operations of autonomous robots in construction projects."
+    }
+  },
+  {
+    "paper_id": "6909997928f27b30673dc341305a55c248dd5168",
+    "title": "Dual-Arm Construction Robot for Automatic Fixation of Structural Parts to Concrete Surfaces in Narrow Environments",
+    "authors": "André Yuji Yasutomi, Toshiaki Hatano, Kanta Hamasaki, M. Hattori, D. Matsuka",
+    "journal": "2023 IEEE/SICE International Symposium on System Integration (SII)",
+    "publish_year": "2023",
+    "abstract": "Fixation of structural parts to concrete is a repetitive, heavy-duty, and time-consuming task that requires automation due to the lack of skilled construction workers. Previously developed automation techniques have not achieved the complete fixation of structural parts and are difficult to implement in narrow construction environments. In this study, we propose a construction robot system that enables the complete installation of structural parts to concrete and can be easily introduced to unstructured and narrow construction environments. The system includes two arms that simultaneously position and fix the structural parts, and custom tools that reduce the reaction force applied to the robots so that smaller robots can be used with lower payloads. Due to the modular design of the proposed system, it can be transported in parts for easy introduction to the construction environment. We also propose a procedure for fixing structural parts. Experimental results demonstrate that the custom tools make it possible to use smaller robots without moment overload in the robot joints. Moreover, the results show that the proposed robot system and fixation procedure enable automatic fixation of a structural part to concrete.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/SII55687.2023.10039387",
+    "url": "https://www.semanticscholar.org/paper/6909997928f27b30673dc341305a55c248dd5168",
+    "citation_count": 4,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "6909997928f27b30673dc341305a55c248dd5168",
+      "externalIds": {
+        "ArXiv": "2403.19948",
+        "DBLP": "conf/sii/YasutomiHHHM23",
+        "DOI": "10.1109/SII55687.2023.10039387",
+        "CorpusId": 256877738
+      },
+      "url": "https://www.semanticscholar.org/paper/6909997928f27b30673dc341305a55c248dd5168",
+      "title": "Dual-Arm Construction Robot for Automatic Fixation of Structural Parts to Concrete Surfaces in Narrow Environments",
+      "year": 2023,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2403.19948, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "2023 IEEE/SICE International Symposium on System Integration (SII)",
+        "pages": "1-7"
+      },
+      "authors": [
+        {
+          "authorId": "66173701",
+          "name": "André Yuji Yasutomi"
+        },
+        {
+          "authorId": "49894302",
+          "name": "Toshiaki Hatano"
+        },
+        {
+          "authorId": "2205926562",
+          "name": "Kanta Hamasaki"
+        },
+        {
+          "authorId": "1820698",
+          "name": "M. Hattori"
+        },
+        {
+          "authorId": "2123361",
+          "name": "D. Matsuka"
+        }
+      ],
+      "abstract": "Fixation of structural parts to concrete is a repetitive, heavy-duty, and time-consuming task that requires automation due to the lack of skilled construction workers. Previously developed automation techniques have not achieved the complete fixation of structural parts and are difficult to implement in narrow construction environments. In this study, we propose a construction robot system that enables the complete installation of structural parts to concrete and can be easily introduced to unstructured and narrow construction environments. The system includes two arms that simultaneously position and fix the structural parts, and custom tools that reduce the reaction force applied to the robots so that smaller robots can be used with lower payloads. Due to the modular design of the proposed system, it can be transported in parts for easy introduction to the construction environment. We also propose a procedure for fixing structural parts. Experimental results demonstrate that the custom tools make it possible to use smaller robots without moment overload in the robot joints. Moreover, the results show that the proposed robot system and fixation procedure enable automatic fixation of a structural part to concrete."
+    }
+  },
+  {
+    "paper_id": "29129e23ba52e4ee621328c521b5d8624ab0215a",
+    "title": "Robot-Assisted Object Detection for Construction Automation: Data and Information-Driven Approach",
+    "authors": "Muhammad Ilyas, Hui Ying Khaw, Nithish Muthuchamy Selvaraj, Yuxin Jin, Xinge Zhao, C. Cheah",
+    "journal": "IEEE/ASME Transactions on Mechatronics",
+    "publish_year": "2021",
+    "abstract": "In construction automation, robotic solution is becoming an emerging technology with the advent of artificial intelligence and advancement in mechatronic systems. In construction buildings, regular inspections are carried out to ensure project completion as per approved plans and quality standards. Currently, expert human inspectors are deployed onsite to perform inspection tasks with the naked eye and conventional tools. This process is time-consuming, labor-intensive, dangerous, and repetitive and may yield subjective results. In this article, we propose a robotic system equipped with perception sensors and intelligent algorithms to help construction supervisors remotely identify the construction materials, detect component installations and defects, and generate report of their status and location information. The building information model (BIM) is used for mobile robot navigation and to retrieve building component’s location information. Unlike the current deep learning-based object detection, which depends heavily on training data, this article proposes a data and information-driven approach, which incorporates offline training data, sensor data, and BIM information to achieve BIM-based object coverage navigation, BIM-based false detection filtering, and a fine maneuver technique to improve on object detections during real-time automated task execution by robots. This allows the user to select building components to be inspected, and the mobile robot navigates autonomously to the target components using the BIM-generated navigation map. An object detector then detects the building components and materials and generates an inspection report. The proposed system is verified through laboratory and onsite experiments.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/tmech.2021.3100306",
+    "url": "https://www.semanticscholar.org/paper/29129e23ba52e4ee621328c521b5d8624ab0215a",
+    "citation_count": 51,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "29129e23ba52e4ee621328c521b5d8624ab0215a",
+      "externalIds": {
+        "MAG": "3184920661",
+        "DOI": "10.1109/tmech.2021.3100306",
+        "CorpusId": 237955870
+      },
+      "url": "https://www.semanticscholar.org/paper/29129e23ba52e4ee621328c521b5d8624ab0215a",
+      "title": "Robot-Assisted Object Detection for Construction Automation: Data and Information-Driven Approach",
+      "year": 2021,
+      "citationCount": 51,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/tmech.2021.3100306",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/tmech.2021.3100306?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/tmech.2021.3100306, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "IEEE/ASME Transactions on Mechatronics",
+        "pages": "2845-2856",
+        "volume": "26"
+      },
+      "authors": [
+        {
+          "authorId": "2150555009",
+          "name": "Muhammad Ilyas"
+        },
+        {
+          "authorId": "30712084",
+          "name": "Hui Ying Khaw"
+        },
+        {
+          "authorId": "2027008448",
+          "name": "Nithish Muthuchamy Selvaraj"
+        },
+        {
+          "authorId": "2198864827",
+          "name": "Yuxin Jin"
+        },
+        {
+          "authorId": "2149346101",
+          "name": "Xinge Zhao"
+        },
+        {
+          "authorId": "8526299",
+          "name": "C. Cheah"
+        }
+      ],
+      "abstract": "In construction automation, robotic solution is becoming an emerging technology with the advent of artificial intelligence and advancement in mechatronic systems. In construction buildings, regular inspections are carried out to ensure project completion as per approved plans and quality standards. Currently, expert human inspectors are deployed onsite to perform inspection tasks with the naked eye and conventional tools. This process is time-consuming, labor-intensive, dangerous, and repetitive and may yield subjective results. In this article, we propose a robotic system equipped with perception sensors and intelligent algorithms to help construction supervisors remotely identify the construction materials, detect component installations and defects, and generate report of their status and location information. The building information model (BIM) is used for mobile robot navigation and to retrieve building component’s location information. Unlike the current deep learning-based object detection, which depends heavily on training data, this article proposes a data and information-driven approach, which incorporates offline training data, sensor data, and BIM information to achieve BIM-based object coverage navigation, BIM-based false detection filtering, and a fine maneuver technique to improve on object detections during real-time automated task execution by robots. This allows the user to select building components to be inspected, and the mobile robot navigates autonomously to the target components using the BIM-generated navigation map. An object detector then detects the building components and materials and generates an inspection report. The proposed system is verified through laboratory and onsite experiments."
+    }
+  },
+  {
+    "paper_id": "f0d192376cdf98423807953fa28f91f341e639fd",
+    "title": "Integrating Web-Based Weather Data into Building Information Modeling Models through Robot Process Automation",
+    "authors": "E. Atencio, Fidel Lozano, Ignacio Alfaro, J. Lozano-Galant, F. Muñoz-La Rivera",
+    "journal": "Applied Sciences",
+    "publish_year": "2024",
+    "abstract": "The rapid evolution of digital technologies has revolutionized the architecture, engineering, and construction (AEC) industry, driving the wide-spread adoption of digital twins for structures. These virtual replicas, developed using Building Information Modeling (BIM) methodology, incorporate extensive information databases, proving indispensable for enhancing project management throughout a structure’s entire lifecycle and towards smart city development. As the impact of climate change continues to grow, hazardous weather alerts play a critical role as an early-warning system that notifies stakeholders of imminent threats, thereby influencing decision-making processes in construction projects. Surprisingly, despite its evident value, the integration of alert systems for hazardous weather conditions into BIM is often overlooked. To fill this gap, this paper proposes Robot Process Automation (RPA) protocols to automate the integration of real-time weather parameters into a structure’s BIM models. These very protocols are also used as alert systems, enabling the timely notification of stakeholders in the event of detected hazardous weather conditions. The effectiveness of the proposed methodology is demonstrated through its practical application in enhancing the safety of an actual building in Viña del Mar, Chile.",
+    "keywords": [],
+    "doi": "10.3390/app14199109",
+    "url": "https://www.semanticscholar.org/paper/f0d192376cdf98423807953fa28f91f341e639fd",
+    "citation_count": 9,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "f0d192376cdf98423807953fa28f91f341e639fd",
+      "externalIds": {
+        "DOI": "10.3390/app14199109",
+        "CorpusId": 273276384
+      },
+      "url": "https://www.semanticscholar.org/paper/f0d192376cdf98423807953fa28f91f341e639fd",
+      "title": "Integrating Web-Based Weather Data into Building Information Modeling Models through Robot Process Automation",
+      "year": 2024,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/app14199109",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app14199109?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app14199109, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Applied Sciences"
+      },
+      "authors": [
+        {
+          "authorId": "1580233994",
+          "name": "E. Atencio"
+        },
+        {
+          "authorId": "120167582",
+          "name": "Fidel Lozano"
+        },
+        {
+          "authorId": "2325446313",
+          "name": "Ignacio Alfaro"
+        },
+        {
+          "authorId": "1402718973",
+          "name": "J. Lozano-Galant"
+        },
+        {
+          "authorId": "1816702273",
+          "name": "F. Muñoz-La Rivera"
+        }
+      ],
+      "abstract": "The rapid evolution of digital technologies has revolutionized the architecture, engineering, and construction (AEC) industry, driving the wide-spread adoption of digital twins for structures. These virtual replicas, developed using Building Information Modeling (BIM) methodology, incorporate extensive information databases, proving indispensable for enhancing project management throughout a structure’s entire lifecycle and towards smart city development. As the impact of climate change continues to grow, hazardous weather alerts play a critical role as an early-warning system that notifies stakeholders of imminent threats, thereby influencing decision-making processes in construction projects. Surprisingly, despite its evident value, the integration of alert systems for hazardous weather conditions into BIM is often overlooked. To fill this gap, this paper proposes Robot Process Automation (RPA) protocols to automate the integration of real-time weather parameters into a structure’s BIM models. These very protocols are also used as alert systems, enabling the timely notification of stakeholders in the event of detected hazardous weather conditions. The effectiveness of the proposed methodology is demonstrated through its practical application in enhancing the safety of an actual building in Viña del Mar, Chile."
+    }
+  },
+  {
+    "paper_id": "629df2490f378847e94c835e6dcb61939cb7595e",
+    "title": "AI Enabled Automatic Mobile Robot Intelligent Navigation in Construction With Obstacle Awareness",
+    "authors": "Yinlong Zhang, Yuanhao Liu, Yunge Cui, Ziming Zeng, Wei Liang",
+    "journal": "IEEE Transactions on Automation Science and Engineering",
+    "publish_year": "2025",
+    "abstract": "In the construction industry, the integration of artificial intelligence (AI) and robotics has led to significant advancements in automating various tasks. One critical aspect is the intelligent navigation of automatic mobile robot (AMR) within construction sites, where dynamic environments pose challenges such as inaccurate robot state estimation, irregular and textureless obstacle detection. To solve these issues, this paper designs an AI enabled obstacle-aware AMR intelligent navigation approach while ensuring robot safety and efficiency. Specifically, the robot is equipped with the complementary RGB camera, inertial measurement unit (IMU) and wheel encoder to estimate the states (i.e., positions, orientations and velocities), which have been tightly fused in the optimization framework. Furthermore, the RGB-Depth images are jointly fed into the AI model. It combines of Mask-RCNN and multi-scale attention network, to detect and segment the obstacles, and estimate the corresponding relative depth. It should be noted that the system incorporates obstacle awareness mechanisms to dynamically switch the robot’s velocities in response to obstacles in the environment, ensuring smooth and collision-free movement. Experimental results demonstrate the effectiveness and robustness of the proposed AI-enabled navigation system in real-world construction scenarios, showcasing its potential to enhance productivity and safety in construction automation.Note to Practitioners —Motivated by the booming of AI and robotics, this paper aims to design an approach for AMR intelligent navigation with obstacle awareness in the scenarios of construction sites and buildings using the multimodal sensing units. The monocular camera, IMU and wheel encoder are jointly used to estimate the robot states in a tightly-coupled manner. Apart from that, we combine the advanced AI models, i.e., Mask-RCNN and multi-scale attention network, to discover the forward obstacles and calculate the corresponding depths. Eventually, the smooth control operation on vehicle velocity will be implemented while considering the robot running states and the obstacle relative depths, to ensure the robot safety on one hand and improve the productivity on the other hand, which is helpful in robot-assisted construction automation.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/TASE.2025.3558498",
+    "url": "https://www.semanticscholar.org/paper/629df2490f378847e94c835e6dcb61939cb7595e",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "629df2490f378847e94c835e6dcb61939cb7595e",
+      "externalIds": {
+        "DBLP": "journals/tase/ZhangLCZL25",
+        "DOI": "10.1109/TASE.2025.3558498",
+        "CorpusId": 277719664
+      },
+      "url": "https://www.semanticscholar.org/paper/629df2490f378847e94c835e6dcb61939cb7595e",
+      "title": "AI Enabled Automatic Mobile Robot Intelligent Navigation in Construction With Obstacle Awareness",
+      "year": 2025,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TASE.2025.3558498?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TASE.2025.3558498, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "IEEE Transactions on Automation Science and Engineering",
+        "pages": "22308-22323",
+        "volume": "22"
+      },
+      "authors": [
+        {
+          "authorId": "48380198",
+          "name": "Yinlong Zhang"
+        },
+        {
+          "authorId": "2260603680",
+          "name": "Yuanhao Liu"
+        },
+        {
+          "authorId": "2219648833",
+          "name": "Yunge Cui"
+        },
+        {
+          "authorId": "2237400362",
+          "name": "Ziming Zeng"
+        },
+        {
+          "authorId": "2274762608",
+          "name": "Wei Liang"
+        }
+      ],
+      "abstract": "In the construction industry, the integration of artificial intelligence (AI) and robotics has led to significant advancements in automating various tasks. One critical aspect is the intelligent navigation of automatic mobile robot (AMR) within construction sites, where dynamic environments pose challenges such as inaccurate robot state estimation, irregular and textureless obstacle detection. To solve these issues, this paper designs an AI enabled obstacle-aware AMR intelligent navigation approach while ensuring robot safety and efficiency. Specifically, the robot is equipped with the complementary RGB camera, inertial measurement unit (IMU) and wheel encoder to estimate the states (i.e., positions, orientations and velocities), which have been tightly fused in the optimization framework. Furthermore, the RGB-Depth images are jointly fed into the AI model. It combines of Mask-RCNN and multi-scale attention network, to detect and segment the obstacles, and estimate the corresponding relative depth. It should be noted that the system incorporates obstacle awareness mechanisms to dynamically switch the robot’s velocities in response to obstacles in the environment, ensuring smooth and collision-free movement. Experimental results demonstrate the effectiveness and robustness of the proposed AI-enabled navigation system in real-world construction scenarios, showcasing its potential to enhance productivity and safety in construction automation.Note to Practitioners —Motivated by the booming of AI and robotics, this paper aims to design an approach for AMR intelligent navigation with obstacle awareness in the scenarios of construction sites and buildings using the multimodal sensing units. The monocular camera, IMU and wheel encoder are jointly used to estimate the robot states in a tightly-coupled manner. Apart from that, we combine the advanced AI models, i.e., Mask-RCNN and multi-scale attention network, to discover the forward obstacles and calculate the corresponding depths. Eventually, the smooth control operation on vehicle velocity will be implemented while considering the robot running states and the obstacle relative depths, to ensure the robot safety on one hand and improve the productivity on the other hand, which is helpful in robot-assisted construction automation."
+    }
+  },
+  {
+    "paper_id": "09634ded0124f8f09a112c591f02b8342e427c44",
+    "title": "Competencies for human–robot collaboration in the construction industry: perspectives from academia and industry",
+    "authors": "Ebenezer Olukanni, A. Akanmu, Houtan Jebelli, Ashtarout Ammar, Akinwale Okunola",
+    "journal": "Construction Robotics",
+    "publish_year": "2025",
+    "abstract": "Abstract\n                  Robotic automation in construction has created the need for new competencies that will enable the workforce to engage with robots safely and effectively. However, differing perceptions between industry professionals and academia make aligning academic programs with industry needs challenging. This study evaluates these perceptions to guide the design of HRC training programs. A three-round Delphi study was conducted separately with panels of industry professionals and academic experts to assess their views on HRC competencies in construction. The findings revealed that both panels identified human–robot interfaces, HRC safety and standards, robot control systems, and construction robot applications as the top five HRC knowledge areas. Industry professionals also emphasized task planning knowledge, while academic experts focused on HRC ethics. Key HRC skills include effective communication, safety management, technical proficiency, and compliance with regulations and standards, with industry professionals prioritizing proficiency in task planning and academics emphasizing human–robot interface proficiency. Both expert panels prioritized teamwork, continuous learning, problem-solving, communication, and adaptability as top-rated HRC abilities. This study contributes to knowledge by defining key HRC competencies and identifying differences in priorities between industry and academia. These insights can guide the development of academic curricula that better align with industry needs, supporting the creation of training programs that equip the workforce with the competencies required for safe and effective robotic collaboration. The study also promotes collaboration between industry and academia, fostering innovation in HRC and robotics in construction. Future research directions are proposed to explore innovative training methods to equip the future workforce with HRC competencies.",
+    "keywords": [],
+    "doi": "10.1007/s41693-025-00156-y",
+    "url": "https://www.semanticscholar.org/paper/09634ded0124f8f09a112c591f02b8342e427c44",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "09634ded0124f8f09a112c591f02b8342e427c44",
+      "externalIds": {
+        "DOI": "10.1007/s41693-025-00156-y",
+        "CorpusId": 279562766
+      },
+      "url": "https://www.semanticscholar.org/paper/09634ded0124f8f09a112c591f02b8342e427c44",
+      "title": "Competencies for human–robot collaboration in the construction industry: perspectives from academia and industry",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s41693-025-00156-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s41693-025-00156-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Construction Robotics",
+        "volume": "9"
+      },
+      "authors": [
+        {
+          "authorId": "2322155427",
+          "name": "Ebenezer Olukanni"
+        },
+        {
+          "authorId": "7947455",
+          "name": "A. Akanmu"
+        },
+        {
+          "authorId": "35589906",
+          "name": "Houtan Jebelli"
+        },
+        {
+          "authorId": "153083151",
+          "name": "Ashtarout Ammar"
+        },
+        {
+          "authorId": "2267271738",
+          "name": "Akinwale Okunola"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "paper_id": "43e62592a6647bf975536c045ee3a43879f33fa0",
+    "title": "Transforming Building Renovation: A Holistic, Strategic Approach with Construction Robot Management",
+    "authors": "Badr Ghammad, R. Hu, T. Bock",
+    "journal": "International Journal of Architectural Engineering Technology",
+    "publish_year": "2022",
+    "abstract": "The purpose of this research is to investigate the topic of the efficient renovation of existing buildings through construction robotics management. The main questions addressed are: How can we increase labor working conditions around construction sites? Why has the productivity of the construction industry decreased? What construction tasks require automation most? What is needed to smoothly integrate single-task construction robots (STCRs) into the established workflows? How can we optimize processes? What management system is required for STCRs? To answer these questions, thorough research has been conducted, including all identifiable resources for the area or problem. In addition, the research has been strengthened by an expert survey to define the focus areas. Further, the analysis of current established solutions and processes resulted in the presentation of a centralized platform for managing STCRs, which has been developed as part of this research. In conclusion, the strategic implications of deploying STCRs through Visual User Experience (VUX), the low-code cloud-based platform, are discussed and reinforced with a business plan to bring the product idea to life.",
+    "keywords": [],
+    "doi": "10.15377/2409-9821.2022.09.5",
+    "url": "https://www.semanticscholar.org/paper/43e62592a6647bf975536c045ee3a43879f33fa0",
+    "citation_count": 4,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "43e62592a6647bf975536c045ee3a43879f33fa0",
+      "externalIds": {
+        "DOI": "10.15377/2409-9821.2022.09.5",
+        "CorpusId": 257128437
+      },
+      "url": "https://www.semanticscholar.org/paper/43e62592a6647bf975536c045ee3a43879f33fa0",
+      "title": "Transforming Building Renovation: A Holistic, Strategic Approach with Construction Robot Management",
+      "year": 2022,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://avantipublishers.com/index.php/ijaet/article/download/1319/899",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15377/2409-9821.2022.09.5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15377/2409-9821.2022.09.5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "International Journal of Architectural Engineering Technology"
+      },
+      "authors": [
+        {
+          "authorId": "2209537564",
+          "name": "Badr Ghammad"
+        },
+        {
+          "authorId": "72962432",
+          "name": "R. Hu"
+        },
+        {
+          "authorId": "144667796",
+          "name": "T. Bock"
+        }
+      ],
+      "abstract": "The purpose of this research is to investigate the topic of the efficient renovation of existing buildings through construction robotics management. The main questions addressed are: How can we increase labor working conditions around construction sites? Why has the productivity of the construction industry decreased? What construction tasks require automation most? What is needed to smoothly integrate single-task construction robots (STCRs) into the established workflows? How can we optimize processes? What management system is required for STCRs? To answer these questions, thorough research has been conducted, including all identifiable resources for the area or problem. In addition, the research has been strengthened by an expert survey to define the focus areas. Further, the analysis of current established solutions and processes resulted in the presentation of a centralized platform for managing STCRs, which has been developed as part of this research. In conclusion, the strategic implications of deploying STCRs through Visual User Experience (VUX), the low-code cloud-based platform, are discussed and reinforced with a business plan to bring the product idea to life."
+    }
+  },
+  {
+    "paper_id": "f84d73930be5c570a1d2cb8859d3356593967c55",
+    "title": "SatAOI: Delimitating Area of Interest for Swing-Arm Troweling Robot for Construction",
+    "authors": "Jia-Rui Lin, Shaojie Zhou, Peng Pan, Ruijia Cai, Gang Chen",
+    "journal": "ArXiv",
+    "publish_year": "2025",
+    "abstract": "In concrete troweling for building construction, robots can significantly reduce workload and improve automation level. However, as a primary task of coverage path planning (CPP) for troweling, delimitating area of interest (AOI) in complex scenes is still challenging, especially for swing-arm robots with more complex working modes. Thus, this research proposes an algorithm to delimitate AOI for swing-arm troweling robot (SatAOI algorithm). By analyzing characteristics of the robot and obstacle maps, mathematical models and collision principles are established. On this basis, SatAOI algorithm achieves AOI delimitation by global search and collision detection. Experiments on different obstacle maps indicate that AOI can be effectively delimitated in scenes under different complexity, and the algorithm can fully consider the connectivity of obstacle maps. This research serves as a foundation for CPP algorithm and full process simulation of swing-arm troweling robots.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.22260/ISARC2025/0052",
+    "url": "https://www.semanticscholar.org/paper/f84d73930be5c570a1d2cb8859d3356593967c55",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "f84d73930be5c570a1d2cb8859d3356593967c55",
+      "externalIds": {
+        "ArXiv": "2505.04871",
+        "DBLP": "journals/corr/abs-2505-04871",
+        "DOI": "10.22260/ISARC2025/0052",
+        "CorpusId": 278394257
+      },
+      "url": "https://www.semanticscholar.org/paper/f84d73930be5c570a1d2cb8859d3356593967c55",
+      "title": "SatAOI: Delimitating Area of Interest for Swing-Arm Troweling Robot for Construction",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2505.04871, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/2505.04871"
+      },
+      "authors": [
+        {
+          "authorId": "2330719779",
+          "name": "Jia-Rui Lin"
+        },
+        {
+          "authorId": "2337773970",
+          "name": "Shaojie Zhou"
+        },
+        {
+          "authorId": "2330590854",
+          "name": "Peng Pan"
+        },
+        {
+          "authorId": "2359631941",
+          "name": "Ruijia Cai"
+        },
+        {
+          "authorId": "2146661715",
+          "name": "Gang Chen"
+        }
+      ],
+      "abstract": "In concrete troweling for building construction, robots can significantly reduce workload and improve automation level. However, as a primary task of coverage path planning (CPP) for troweling, delimitating area of interest (AOI) in complex scenes is still challenging, especially for swing-arm robots with more complex working modes. Thus, this research proposes an algorithm to delimitate AOI for swing-arm troweling robot (SatAOI algorithm). By analyzing characteristics of the robot and obstacle maps, mathematical models and collision principles are established. On this basis, SatAOI algorithm achieves AOI delimitation by global search and collision detection. Experiments on different obstacle maps indicate that AOI can be effectively delimitated in scenes under different complexity, and the algorithm can fully consider the connectivity of obstacle maps. This research serves as a foundation for CPP algorithm and full process simulation of swing-arm troweling robots."
+    }
+  },
+  {
+    "paper_id": "bb252bad3c56e889bbe1523cc3bddd3109c9cea2",
+    "title": "Autonomous Mobile Robot Localization for Material Transport in Construction Prefabrication",
+    "authors": "Siddieq Mansour, Samed Ajdinovic, A. Lechler, A. Verl",
+    "journal": "2025 25th International Conference on Control, Automation and Systems (ICCAS)",
+    "publish_year": "2025",
+    "abstract": "Automation in the construction industry has the potential to improve productivity and speed of production. This entails the transport of modules and materials in different parts of the building process. This work proposes a concept for the use of a large-scale autonomous mobile robot (AMR) in construction prefabrication that requires only minor changes to existing infrastructure. The AMR is used to transport loads indoors to manufacturing platforms, as well as storage facilities. In addition, the concept includes outdoor navigation, so that loads can be delivered from and to a construction crane. To make this possible, a general navigation mode is defined, which focuses on favorable properties on trips to a target location using various sensor configurations. Furthermore, to achieve higher positioning and localization accuracy at target destinations, a second localization mode is defined. The validation is done in simulation, as well as on the timber prefabrication system of the cluster for Integrative Computational Design and Construction for Architecture.",
+    "keywords": [],
+    "doi": "10.23919/ICCAS66577.2025.11301087",
+    "url": "https://www.semanticscholar.org/paper/bb252bad3c56e889bbe1523cc3bddd3109c9cea2",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "bb252bad3c56e889bbe1523cc3bddd3109c9cea2",
+      "externalIds": {
+        "DOI": "10.23919/ICCAS66577.2025.11301087",
+        "CorpusId": 284356570
+      },
+      "url": "https://www.semanticscholar.org/paper/bb252bad3c56e889bbe1523cc3bddd3109c9cea2",
+      "title": "Autonomous Mobile Robot Localization for Material Transport in Construction Prefabrication",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23919/ICCAS66577.2025.11301087?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/ICCAS66577.2025.11301087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 25th International Conference on Control, Automation and Systems (ICCAS)",
+        "pages": "495-500"
+      },
+      "authors": [
+        {
+          "authorId": "2373862004",
+          "name": "Siddieq Mansour"
+        },
+        {
+          "authorId": "2219523642",
+          "name": "Samed Ajdinovic"
+        },
+        {
+          "authorId": "2114237",
+          "name": "A. Lechler"
+        },
+        {
+          "authorId": "2281807191",
+          "name": "A. Verl"
+        }
+      ],
+      "abstract": "Automation in the construction industry has the potential to improve productivity and speed of production. This entails the transport of modules and materials in different parts of the building process. This work proposes a concept for the use of a large-scale autonomous mobile robot (AMR) in construction prefabrication that requires only minor changes to existing infrastructure. The AMR is used to transport loads indoors to manufacturing platforms, as well as storage facilities. In addition, the concept includes outdoor navigation, so that loads can be delivered from and to a construction crane. To make this possible, a general navigation mode is defined, which focuses on favorable properties on trips to a target location using various sensor configurations. Furthermore, to achieve higher positioning and localization accuracy at target destinations, a second localization mode is defined. The validation is done in simulation, as well as on the timber prefabrication system of the cluster for Integrative Computational Design and Construction for Architecture."
+    }
+  },
+  {
+    "paper_id": "0ca788e4e7465b342c8a71cf2b13cf97734141e4",
+    "title": "A BIM-Driven Digital Twin Framework for Human–Robot Collaborative Construction with On-Site Scanning and Adaptive Path Planning",
+    "authors": "Mingyang Yuan, Hedi Mao, Wen Qin, Bentian Wang",
+    "journal": "2025 5th International Conference on Computer Vision, Application and Algorithm (CVAA)",
+    "publish_year": "2025",
+    "abstract": "As the Architecture 4.0 paradigm advances, integrating robotic systems into construction workflows has become vital to address labor shortages and enhance execution precision. However, conventional BIM-based automation struggles to cope with dynamic, cluttered on-site environments. This study presents a closed-loop digital twin framework that fuses 3D BIM modeling, real-time sensor-based site scanning, and human-robot interaction to enable adaptive collaboration in architectural construction. The system continuously updates its digital twin using LiDAR and RGB-D DATA to capture spatial deviations, unexpected obstacles, and environmental changes. Based on these inputs, the robot’s motion trajectories are recalculated through an online path replanning module. We validate the system using a wall panel dry-hanging case, involving a 6 degrees of freedom (6 DoF) ABB robotic arm and a Unity-VR interface for immersive human supervision. Across 24 experimental runs in cluttered environments, the adaptive system achieved a $92.4 \\%$ average placement accuracy, reducing positioning error by $47 \\%$ compared to static BIM-based workflows. Obstacle avoidance success rate reached $\\mathbf{9 5. 8 \\%}$, and average task completion time decreased by $18.6 \\%$ due to reduced manual intervention. These results demonstrate the framework’s potential to transition construction robotics from pre-scripted automation to intelligent, real-time collaboration.",
+    "keywords": [],
+    "doi": "10.1109/CVAA66438.2025.11193176",
+    "url": "https://www.semanticscholar.org/paper/0ca788e4e7465b342c8a71cf2b13cf97734141e4",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "0ca788e4e7465b342c8a71cf2b13cf97734141e4",
+      "externalIds": {
+        "DOI": "10.1109/CVAA66438.2025.11193176",
+        "CorpusId": 282105198
+      },
+      "url": "https://www.semanticscholar.org/paper/0ca788e4e7465b342c8a71cf2b13cf97734141e4",
+      "title": "A BIM-Driven Digital Twin Framework for Human–Robot Collaborative Construction with On-Site Scanning and Adaptive Path Planning",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CVAA66438.2025.11193176?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CVAA66438.2025.11193176, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 5th International Conference on Computer Vision, Application and Algorithm (CVAA)",
+        "pages": "346-350"
+      },
+      "authors": [
+        {
+          "authorId": "2387765949",
+          "name": "Mingyang Yuan"
+        },
+        {
+          "authorId": "2385795719",
+          "name": "Hedi Mao"
+        },
+        {
+          "authorId": "2386049905",
+          "name": "Wen Qin"
+        },
+        {
+          "authorId": "2386666054",
+          "name": "Bentian Wang"
+        }
+      ],
+      "abstract": "As the Architecture 4.0 paradigm advances, integrating robotic systems into construction workflows has become vital to address labor shortages and enhance execution precision. However, conventional BIM-based automation struggles to cope with dynamic, cluttered on-site environments. This study presents a closed-loop digital twin framework that fuses 3D BIM modeling, real-time sensor-based site scanning, and human-robot interaction to enable adaptive collaboration in architectural construction. The system continuously updates its digital twin using LiDAR and RGB-D DATA to capture spatial deviations, unexpected obstacles, and environmental changes. Based on these inputs, the robot’s motion trajectories are recalculated through an online path replanning module. We validate the system using a wall panel dry-hanging case, involving a 6 degrees of freedom (6 DoF) ABB robotic arm and a Unity-VR interface for immersive human supervision. Across 24 experimental runs in cluttered environments, the adaptive system achieved a $92.4 \\%$ average placement accuracy, reducing positioning error by $47 \\%$ compared to static BIM-based workflows. Obstacle avoidance success rate reached $\\mathbf{9 5. 8 \\%}$, and average task completion time decreased by $18.6 \\%$ due to reduced manual intervention. These results demonstrate the framework’s potential to transition construction robotics from pre-scripted automation to intelligent, real-time collaboration."
+    }
+  },
+  {
+    "paper_id": "806064548fe2381bcd1f51f23d56602e3fa92148",
+    "title": "Deep Reinforcement Learning for Real-Time Assembly Planning in Robot-Based Prefabricated Construction",
+    "authors": "Aiyu Zhu, Tianhong Dai, Gangyan Xu, P. Pauwels, B. de Vries, Meng Fang",
+    "journal": "IEEE Transactions on Automation Science and Engineering",
+    "publish_year": "2023",
+    "abstract": "The adoption of robotics is promising to improve the efficiency, quality, and safety of prefabricated construction. Besides technologies that improve the capability of a single robot, the automated assembly planning for robots at construction sites is vital for further improving the efficiency and promoting robots into practices. However, considering the highly dynamic and uncertain nature of a construction environment, and the varied scenarios in different construction sites, it is always challenging to make appropriate and up-to-date assembly plans. Therefore, this paper proposes a Deep Reinforcement Learning (DRL) based method for automated assembly planning in robot-based prefabricated construction. Specifically, a re-configurable simulator for assembly planning is developed based on a Building Information Model (BIM) and an open game engine, which could support the training and testing of various optimization methods. Furthermore, the assembly planning problem is modelled as a Markov Decision Process (MDP) and a set of DRL algorithms are developed and trained using the simulator. Finally, experimental case studies in four typical scenarios are conducted, and the performance of our proposed methods have been verified, which can also serve as benchmarks for future research works within the community of automated construction. Note to Practitioners— This paper is conducted based on the comprehensive analysis of real-life assembly planning processes in prefabricated construction, and the methods proposed could bring many benefits to practitioners. Firstly, the proposed simulator could be easily re-configured to simulate diverse scenarios, which can be used to evaluate and verify the operations’ optimization methods and new construction technologies. Secondly, the proposed DRL-based optimization methods can be directly adopted in various robot-based construction scenarios, and can also be tailored to support the assembly planning in traditional human-based or human-robot construction environments. Thirdly, the proposed DRL methods and their performance in the four typical scenarios can serve as benchmarks for proposing new advanced construction technologies and optimization methods in assembly planning.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/TASE.2023.3236805",
+    "url": "https://www.semanticscholar.org/paper/806064548fe2381bcd1f51f23d56602e3fa92148",
+    "citation_count": 47,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "806064548fe2381bcd1f51f23d56602e3fa92148",
+      "externalIds": {
+        "DBLP": "journals/tase/ZhuDXPVF23",
+        "DOI": "10.1109/TASE.2023.3236805",
+        "CorpusId": 256155550
+      },
+      "url": "https://www.semanticscholar.org/paper/806064548fe2381bcd1f51f23d56602e3fa92148",
+      "title": "Deep Reinforcement Learning for Real-Time Assembly Planning in Robot-Based Prefabricated Construction",
+      "year": 2023,
+      "citationCount": 47,
+      "openAccessPdf": {
+        "url": "https://pure.tue.nl/ws/files/303136640/Deep_Reinforcement_Learning_for_Real-Time_Assembly_Planning_in_Robot-Based_Prefabricated_Construction.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TASE.2023.3236805?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TASE.2023.3236805, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "IEEE Transactions on Automation Science and Engineering",
+        "pages": "1515-1526",
+        "volume": "20"
+      },
+      "authors": [
+        {
+          "authorId": "2144104336",
+          "name": "Aiyu Zhu"
+        },
+        {
+          "authorId": "46512864",
+          "name": "Tianhong Dai"
+        },
+        {
+          "authorId": "49560168",
+          "name": "Gangyan Xu"
+        },
+        {
+          "authorId": "2095311720",
+          "name": "P. Pauwels"
+        },
+        {
+          "authorId": "1403965739",
+          "name": "B. de Vries"
+        },
+        {
+          "authorId": "2202406237",
+          "name": "Meng Fang"
+        }
+      ],
+      "abstract": "The adoption of robotics is promising to improve the efficiency, quality, and safety of prefabricated construction. Besides technologies that improve the capability of a single robot, the automated assembly planning for robots at construction sites is vital for further improving the efficiency and promoting robots into practices. However, considering the highly dynamic and uncertain nature of a construction environment, and the varied scenarios in different construction sites, it is always challenging to make appropriate and up-to-date assembly plans. Therefore, this paper proposes a Deep Reinforcement Learning (DRL) based method for automated assembly planning in robot-based prefabricated construction. Specifically, a re-configurable simulator for assembly planning is developed based on a Building Information Model (BIM) and an open game engine, which could support the training and testing of various optimization methods. Furthermore, the assembly planning problem is modelled as a Markov Decision Process (MDP) and a set of DRL algorithms are developed and trained using the simulator. Finally, experimental case studies in four typical scenarios are conducted, and the performance of our proposed methods have been verified, which can also serve as benchmarks for future research works within the community of automated construction. Note to Practitioners— This paper is conducted based on the comprehensive analysis of real-life assembly planning processes in prefabricated construction, and the methods proposed could bring many benefits to practitioners. Firstly, the proposed simulator could be easily re-configured to simulate diverse scenarios, which can be used to evaluate and verify the operations’ optimization methods and new construction technologies. Secondly, the proposed DRL-based optimization methods can be directly adopted in various robot-based construction scenarios, and can also be tailored to support the assembly planning in traditional human-based or human-robot construction environments. Thirdly, the proposed DRL methods and their performance in the four typical scenarios can serve as benchmarks for proposing new advanced construction technologies and optimization methods in assembly planning."
+    }
+  },
+  {
+    "paper_id": "ab110bb00d5f95e109396e6f5baef4d1d964d27e",
+    "title": "Automation of the Construction Process by Using a Hinged Robot with Interchangeable Nozzles",
+    "authors": "E. Grigoryan, A. Babanina, K. Kulakov",
+    "journal": "International Scientific Conference Energy Management of Municipal Facilities and Sustainable Energy Technologies EMMFT 2019",
+    "publish_year": "2020",
+    "abstract": "The article describes a method of automating the construction process by using a hinged robot in construction. Some problems such as the mobility of the 3D printing device have been solved. With increasing mobility of the device there will be increased not only the speed of construction, but also the need for high-class concrete. The main purpose of the experience is to provide a method of feed solution in the terms of use articulated robot manipulator with possibility of timely dosages in difficult conditions so that replenishment of the solution could occur on the construction site or close to it. The main idea is to use nozzles that have certain capabilities for construction. The first nozzle is a system of capturing brick blocks fed by the conveyor, and their further movement to the desired point. The other nozzle is a mobile extruder. The system is able to create a concrete thread with great precision which can be used as a masonry mortar and as a solution for printing the frame of the building.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.matpr.2019.12.381",
+    "url": "https://www.semanticscholar.org/paper/ab110bb00d5f95e109396e6f5baef4d1d964d27e",
+    "citation_count": 9,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "ab110bb00d5f95e109396e6f5baef4d1d964d27e",
+      "externalIds": {
+        "MAG": "3008378331",
+        "DOI": "10.1016/j.matpr.2019.12.381",
+        "CorpusId": 238183198
+      },
+      "url": "https://www.semanticscholar.org/paper/ab110bb00d5f95e109396e6f5baef4d1d964d27e",
+      "title": "Automation of the Construction Process by Using a Hinged Robot with Interchangeable Nozzles",
+      "year": 2020,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.matpr.2019.12.381?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.matpr.2019.12.381, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "International Scientific Conference Energy Management of Municipal Facilities and Sustainable Energy Technologies EMMFT 2019"
+      },
+      "authors": [
+        {
+          "authorId": "2136182361",
+          "name": "E. Grigoryan"
+        },
+        {
+          "authorId": "102436255",
+          "name": "A. Babanina"
+        },
+        {
+          "authorId": "3414861",
+          "name": "K. Kulakov"
+        }
+      ],
+      "abstract": "The article describes a method of automating the construction process by using a hinged robot in construction. Some problems such as the mobility of the 3D printing device have been solved. With increasing mobility of the device there will be increased not only the speed of construction, but also the need for high-class concrete. The main purpose of the experience is to provide a method of feed solution in the terms of use articulated robot manipulator with possibility of timely dosages in difficult conditions so that replenishment of the solution could occur on the construction site or close to it. The main idea is to use nozzles that have certain capabilities for construction. The first nozzle is a system of capturing brick blocks fed by the conveyor, and their further movement to the desired point. The other nozzle is a mobile extruder. The system is able to create a concrete thread with great precision which can be used as a masonry mortar and as a solution for printing the frame of the building."
+    }
+  },
+  {
+    "paper_id": "4110bec18c515140d03673da870e4c353e487562",
+    "title": "A multidimensional taxonomy for human-robot interaction in construction",
+    "authors": "P. B. Rodrigues, Rashmi Singh, Mert Oytun, Pooya Adami, P. Woods, B. Becerik-Gerber, L. Soibelman, Yasemin Copur-Gencturk, Gale M. Lucas",
+    "journal": "Automation in Construction",
+    "publish_year": "2023",
+    "abstract": "17 Despite the increased interest in construction robotics both in academia and the industry, 18 insufficient attention has been given to aspects related to Human-Robot Interaction (HRI). 19 Characterizing HRI for construction tasks can help researchers organize knowledge in a structured 20 manner that allows for classifying construction robotics applications and comparing and 21 benchmarking different studies. This paper builds upon existing taxonomies and empirical studies 22 in HRI in various industries (e.g., construction, manufacturing, and military, among others) to 23 propose a multidimensional taxonomy to characterize HRI applications in the construction 24 industry. The taxonomy design followed a systematic literature review in which common themes 25 were identified and grouped into 16 categories. The proposed taxonomy can be used as a 26 foundation for systematic reviews and meta-analyses of HRI applications in construction and can 27 benefit the construction industry by informing the design of collaborative tasks performed by 28 human-robot teams.",
+    "keywords": [],
+    "doi": "10.1016/j.autcon.2023.104845",
+    "url": "https://www.semanticscholar.org/paper/4110bec18c515140d03673da870e4c353e487562",
+    "citation_count": 38,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "4110bec18c515140d03673da870e4c353e487562",
+      "externalIds": {
+        "DOI": "10.1016/j.autcon.2023.104845",
+        "CorpusId": 257822937
+      },
+      "url": "https://www.semanticscholar.org/paper/4110bec18c515140d03673da870e4c353e487562",
+      "title": "A multidimensional taxonomy for human-robot interaction in construction",
+      "year": 2023,
+      "citationCount": 38,
+      "openAccessPdf": {
+        "url": "https://www.sciencedirect.com/science/article/am/pii/S092658052300105X",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104845?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.autcon.2023.104845, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "Automation in Construction"
+      },
+      "authors": [
+        {
+          "authorId": "2069258029",
+          "name": "P. B. Rodrigues"
+        },
+        {
+          "authorId": "2115427157",
+          "name": "Rashmi Singh"
+        },
+        {
+          "authorId": "2187238591",
+          "name": "Mert Oytun"
+        },
+        {
+          "authorId": "2066895857",
+          "name": "Pooya Adami"
+        },
+        {
+          "authorId": "96965266",
+          "name": "P. Woods"
+        },
+        {
+          "authorId": "1403066874",
+          "name": "B. Becerik-Gerber"
+        },
+        {
+          "authorId": "3170605",
+          "name": "L. Soibelman"
+        },
+        {
+          "authorId": "2306001916",
+          "name": "Yasemin Copur-Gencturk"
+        },
+        {
+          "authorId": "2419453",
+          "name": "Gale M. Lucas"
+        }
+      ],
+      "abstract": "17 Despite the increased interest in construction robotics both in academia and the industry, 18 insufficient attention has been given to aspects related to Human-Robot Interaction (HRI). 19 Characterizing HRI for construction tasks can help researchers organize knowledge in a structured 20 manner that allows for classifying construction robotics applications and comparing and 21 benchmarking different studies. This paper builds upon existing taxonomies and empirical studies 22 in HRI in various industries (e.g., construction, manufacturing, and military, among others) to 23 propose a multidimensional taxonomy to characterize HRI applications in the construction 24 industry. The taxonomy design followed a systematic literature review in which common themes 25 were identified and grouped into 16 categories. The proposed taxonomy can be used as a 26 foundation for systematic reviews and meta-analyses of HRI applications in construction and can 27 benefit the construction industry by informing the design of collaborative tasks performed by 28 human-robot teams."
+    }
+  },
+  {
+    "paper_id": "e95ec68c928d066e486d35d836256f6ad1616dae",
+    "title": "Sociotechnical considerations on developing human robot teaming solutions for construction: a case study",
+    "authors": "Karyne Ang, Shankar Sankaran, Dikai Liu",
+    "journal": "Construction Robotics",
+    "publish_year": "2024",
+    "abstract": "This research advocates for a paradigm shift in the exploration of human–robot teaming solutions for construction automation, by focusing on an integrated view of sociotechnical systems (STS) that recognize the inter-dependencies among actors at various levels when tracing how innovative ideas about intelligent robotic technologies translate into practice in the construction sector. Through a qualitative case study, the paper examines industry and organizational considerations for developing and adopting robotic technologies, leadership vision, mediation, and change management to propose integrative strategies to enhance expectations, acceptance, and deployment of intelligent technologies in human–robot teams (HRTs). This study contributes to research in construction robotics at three organizational levels—macro, meso, and micro. The Integrated Human–Robot Teaming Framework and associated workplan schema offer guidance for navigating human–robot teaming complexities. The study recommends adopting STS principles in planning and deploying robotics applications for construction, emphasizing the integration of multiple elements across the lifecycle. Active leadership and mediation emerge as critical elements in navigating complex networks, ensuring successful outcomes in the dynamic construction environment.",
+    "keywords": [],
+    "doi": "10.1007/s41693-024-00140-y",
+    "url": "https://www.semanticscholar.org/paper/e95ec68c928d066e486d35d836256f6ad1616dae",
+    "citation_count": 6,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "e95ec68c928d066e486d35d836256f6ad1616dae",
+      "externalIds": {
+        "DOI": "10.1007/s41693-024-00140-y",
+        "CorpusId": 272618277
+      },
+      "url": "https://www.semanticscholar.org/paper/e95ec68c928d066e486d35d836256f6ad1616dae",
+      "title": "Sociotechnical considerations on developing human robot teaming solutions for construction: a case study",
+      "year": 2024,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/s41693-024-00140-y",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s41693-024-00140-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s41693-024-00140-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Construction Robotics",
+        "volume": "8"
+      },
+      "authors": [
+        {
+          "authorId": "2297898281",
+          "name": "Karyne Ang"
+        },
+        {
+          "authorId": "2237511070",
+          "name": "Shankar Sankaran"
+        },
+        {
+          "authorId": "2297996363",
+          "name": "Dikai Liu"
+        }
+      ],
+      "abstract": "This research advocates for a paradigm shift in the exploration of human–robot teaming solutions for construction automation, by focusing on an integrated view of sociotechnical systems (STS) that recognize the inter-dependencies among actors at various levels when tracing how innovative ideas about intelligent robotic technologies translate into practice in the construction sector. Through a qualitative case study, the paper examines industry and organizational considerations for developing and adopting robotic technologies, leadership vision, mediation, and change management to propose integrative strategies to enhance expectations, acceptance, and deployment of intelligent technologies in human–robot teams (HRTs). This study contributes to research in construction robotics at three organizational levels—macro, meso, and micro. The Integrated Human–Robot Teaming Framework and associated workplan schema offer guidance for navigating human–robot teaming complexities. The study recommends adopting STS principles in planning and deploying robotics applications for construction, emphasizing the integration of multiple elements across the lifecycle. Active leadership and mediation emerge as critical elements in navigating complex networks, ensuring successful outcomes in the dynamic construction environment."
+    }
+  },
+  {
+    "paper_id": "71b9332f188c878d9d15f0f57d73a5a40c5e59f0",
+    "title": "Component-based robot prefabricated construction simulation using IFC-based building information models",
+    "authors": "Aiyu Zhu, P. Pauwels, B. de Vries",
+    "journal": "Automation in Construction",
+    "publish_year": "2023",
+    "abstract": "Despite the widespread usage of Building Information Modeling (BIM) based simulation in the construction industry, robot construction simulation environments are built on particular modeling tools and can only be simulated with certain robot models. This not only limits construction robot development and also makes it difficult to directly share building information with robots, which impedes the study of robotic construction. To overcome this problem, we propose a new framework for robotic construction simulation which integrates open standard formats and tools to achieve a commonly used robot simulation environment. This provides a new approach to automatically convert IFC to simulation description format (SDF) and generate building components as smart components, which eliminates platform-specific limitations on robotic construction simulation, which further expands the utilization of BIM models.",
+    "keywords": [],
+    "doi": "10.1016/j.autcon.2023.104899",
+    "url": "https://www.semanticscholar.org/paper/71b9332f188c878d9d15f0f57d73a5a40c5e59f0",
+    "citation_count": 21,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "71b9332f188c878d9d15f0f57d73a5a40c5e59f0",
+      "externalIds": {
+        "DOI": "10.1016/j.autcon.2023.104899",
+        "CorpusId": 258545643
+      },
+      "url": "https://www.semanticscholar.org/paper/71b9332f188c878d9d15f0f57d73a5a40c5e59f0",
+      "title": "Component-based robot prefabricated construction simulation using IFC-based building information models",
+      "year": 2023,
+      "citationCount": 21,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.autcon.2023.104899",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104899?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.autcon.2023.104899, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Automation in Construction"
+      },
+      "authors": [
+        {
+          "authorId": "2144104336",
+          "name": "Aiyu Zhu"
+        },
+        {
+          "authorId": "39454836",
+          "name": "P. Pauwels"
+        },
+        {
+          "authorId": "1403965739",
+          "name": "B. de Vries"
+        }
+      ],
+      "abstract": "Despite the widespread usage of Building Information Modeling (BIM) based simulation in the construction industry, robot construction simulation environments are built on particular modeling tools and can only be simulated with certain robot models. This not only limits construction robot development and also makes it difficult to directly share building information with robots, which impedes the study of robotic construction. To overcome this problem, we propose a new framework for robotic construction simulation which integrates open standard formats and tools to achieve a commonly used robot simulation environment. This provides a new approach to automatically convert IFC to simulation description format (SDF) and generate building components as smart components, which eliminates platform-specific limitations on robotic construction simulation, which further expands the utilization of BIM models."
+    }
+  }
+]

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment
+.env
+
+# IDE / Tools
+.ruff_cache/
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Vector DB (rebuild with: py scripts/rebuild_vector_db.py)
+data/vector_db/
+
+# Large static files (evaluation manual PDF)
+data/static/evaluation_manual/*.pdf

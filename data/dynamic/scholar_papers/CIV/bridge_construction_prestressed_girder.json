@@ -1,0 +1,974 @@
+[
+  {
+    "paper_id": "47cde7e4464bcd2e4de27d6c7758d5f5f6fa5380",
+    "title": "Comparative Analysis of Prestressed Girder Beam Method and Box Culvert on Terms of Construction Costs for Kedungpeluk Bridge Design",
+    "authors": "Muchamad Lutfi, H. T. Tjendani, Esti Wulandari",
+    "journal": "Enrichment: Journal of Multidisciplinary Research and Development",
+    "publish_year": "2025",
+    "abstract": "The Kedungpeluk Bridge in Sidoarjo Regency collapsed in 2024 due to structural damage, prompting a need for efficient reconstruction methods. This study compared the cost efficiency and implementation time of two bridge designs—pre-stressed concrete beams and Box Culvert. The research used a quantitative approach to collect secondary data from project drawings, cost budget plans (RAB), and S-curves, alongside unstructured interviews with stakeholders. Findings revealed that the Box Culvert design was more cost-effective, requiring Rp. 1,440,254,544.83, compared to Rp. 1,912,436,195.15 for the pre-stressed concrete beams, resulting in a 24.69% cost savings. Moreover, construction with the Box Culvert design was completed in 10 weeks, 28.57% faster than the 14 weeks for the alternative design. These results highlight the Box Culvert as a superior choice for similar infrastructure projects, addressing urgent community needs for reliable transportation. The implications of this research extend to civil engineering practitioners and government agencies, providing a practical reference for future bridge designs that prioritize cost efficiency and timely implementation, thereby promoting enhanced connectivity and economic growth in the region. Further research is recommended to explore environmentally friendly designs and assess long-term performance in various contexts.",
+    "keywords": [],
+    "doi": "10.55324/enrichment.v3i1.336",
+    "url": "https://www.semanticscholar.org/paper/47cde7e4464bcd2e4de27d6c7758d5f5f6fa5380",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "47cde7e4464bcd2e4de27d6c7758d5f5f6fa5380",
+      "externalIds": {
+        "DOI": "10.55324/enrichment.v3i1.336",
+        "CorpusId": 278290585
+      },
+      "url": "https://www.semanticscholar.org/paper/47cde7e4464bcd2e4de27d6c7758d5f5f6fa5380",
+      "title": "Comparative Analysis of Prestressed Girder Beam Method and Box Culvert on Terms of Construction Costs for Kedungpeluk Bridge Design",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55324/enrichment.v3i1.336?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55324/enrichment.v3i1.336, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Enrichment: Journal of Multidisciplinary Research and Development"
+      },
+      "authors": [
+        {
+          "authorId": "2358889638",
+          "name": "Muchamad Lutfi"
+        },
+        {
+          "authorId": "101133426",
+          "name": "H. T. Tjendani"
+        },
+        {
+          "authorId": "2308914113",
+          "name": "Esti Wulandari"
+        }
+      ],
+      "abstract": "The Kedungpeluk Bridge in Sidoarjo Regency collapsed in 2024 due to structural damage, prompting a need for efficient reconstruction methods. This study compared the cost efficiency and implementation time of two bridge designs—pre-stressed concrete beams and Box Culvert. The research used a quantitative approach to collect secondary data from project drawings, cost budget plans (RAB), and S-curves, alongside unstructured interviews with stakeholders. Findings revealed that the Box Culvert design was more cost-effective, requiring Rp. 1,440,254,544.83, compared to Rp. 1,912,436,195.15 for the pre-stressed concrete beams, resulting in a 24.69% cost savings. Moreover, construction with the Box Culvert design was completed in 10 weeks, 28.57% faster than the 14 weeks for the alternative design. These results highlight the Box Culvert as a superior choice for similar infrastructure projects, addressing urgent community needs for reliable transportation. The implications of this research extend to civil engineering practitioners and government agencies, providing a practical reference for future bridge designs that prioritize cost efficiency and timely implementation, thereby promoting enhanced connectivity and economic growth in the region. Further research is recommended to explore environmentally friendly designs and assess long-term performance in various contexts."
+    }
+  },
+  {
+    "paper_id": "c90459427c12426d828441dd89e0da0d2cde6e4b",
+    "title": "Safety BIM intelligent modeling analysis of prestressed concrete continuous girder bridge construction scene",
+    "authors": "Tao Li, Bori Cong, M. Yan, Qingying Li, Xinyuan Zhu",
+    "journal": "Bridge Structures",
+    "publish_year": "2023",
+    "abstract": "BIM intelligent modeling is used to analyze the safety of the construction scene of prestressed concrete continuous girder bridge, so as to realize the safety management of the bridge construction scene and improve the construction efficiency. The construction safety analysis system is used to analyze the binding data of construction safety, and the data is combined with the self-applicable equilibrium control and the game equilibrium control to build the construction scene safety objective function model. On this basis, combined with the control constraints of the whole life cycle, the statistical analysis regression model is used to build the scene safety analysis model based on BIM. The whole life cycle safety intelligent analysis of the construction scene is realized, and the improved particle swarm optimization algorithm is used to solve the model by adaptive differential evolution, so as to shorten the calculation time of the model. The experimental results show that the safety management performance of the proposed method is high, and the safety management evaluation grade is 285. The identification accuracy of main beam stress change is high. Under the conditions of unbalanced load, combination of unbalanced load and prestress, combination of wind load and prestress and unbalanced load, the safety analysis of upper edge stress and lower edge stress of main beam can be effectively completed, and the construction safety of prestressed concrete continuous beam bridge can be realized.",
+    "keywords": [],
+    "doi": "10.3233/BRS-230203",
+    "url": "https://www.semanticscholar.org/paper/c90459427c12426d828441dd89e0da0d2cde6e4b",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "c90459427c12426d828441dd89e0da0d2cde6e4b",
+      "externalIds": {
+        "DOI": "10.3233/BRS-230203",
+        "CorpusId": 259909902
+      },
+      "url": "https://www.semanticscholar.org/paper/c90459427c12426d828441dd89e0da0d2cde6e4b",
+      "title": "Safety BIM intelligent modeling analysis of prestressed concrete continuous girder bridge construction scene",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3233/BRS-230203?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/BRS-230203, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Bridge Structures",
+        "pages": "31 - 39",
+        "volume": "19"
+      },
+      "authors": [
+        {
+          "authorId": "2218653402",
+          "name": "Tao Li"
+        },
+        {
+          "authorId": "2187626947",
+          "name": "Bori Cong"
+        },
+        {
+          "authorId": "134494789",
+          "name": "M. Yan"
+        },
+        {
+          "authorId": "2202806654",
+          "name": "Qingying Li"
+        },
+        {
+          "authorId": "2116314349",
+          "name": "Xinyuan Zhu"
+        }
+      ],
+      "abstract": "BIM intelligent modeling is used to analyze the safety of the construction scene of prestressed concrete continuous girder bridge, so as to realize the safety management of the bridge construction scene and improve the construction efficiency. The construction safety analysis system is used to analyze the binding data of construction safety, and the data is combined with the self-applicable equilibrium control and the game equilibrium control to build the construction scene safety objective function model. On this basis, combined with the control constraints of the whole life cycle, the statistical analysis regression model is used to build the scene safety analysis model based on BIM. The whole life cycle safety intelligent analysis of the construction scene is realized, and the improved particle swarm optimization algorithm is used to solve the model by adaptive differential evolution, so as to shorten the calculation time of the model. The experimental results show that the safety management performance of the proposed method is high, and the safety management evaluation grade is 285. The identification accuracy of main beam stress change is high. Under the conditions of unbalanced load, combination of unbalanced load and prestress, combination of wind load and prestress and unbalanced load, the safety analysis of upper edge stress and lower edge stress of main beam can be effectively completed, and the construction safety of prestressed concrete continuous beam bridge can be realized."
+    }
+  },
+  {
+    "paper_id": "8d127c1b10295f2bac2fb2c44a7af4aacd8c9392",
+    "title": "Fragility Assessment of a Long-Unit Prestressed Concrete Composite Continuous Girder Bridge with Corrugated Steel Webs Subjected to Near-Fault Pulse-like Ground Motions Considering Spatial Variability Effects",
+    "authors": "Mingcheng Han, Yidian Dong, Tong Wang, Mingqu Du, Q. Gao",
+    "journal": "Buildings",
+    "publish_year": "2024",
+    "abstract": "Prestressed concrete composite girder bridges with corrugated steel webs (PCCGBCSWs) are extensively employed in bridge construction because of their low dead weight, fast construction, and high prestressing efficiency. Moreover, PCCGBCSWs will experience deformation and failure of the corrugated steel webs, including steel fatigue and fracture, during earthquakes. These changes will introduce safety hazards, which can be addressed via bridge disaster prevention and mitigation. Because near-fault pulse-like ground motions (NFPLGMs) have high peak accelerations, these motions can easily cause damage to a bridge. Therefore, in this study, a seismic fragility assessment is performed for long-unit PCCGBCSWs subjected to NFPLGMs considering spatial variability effects, and a sensitivity evaluation of the seismic fragility is conducted considering girder type, bearing type, ground motion type, and apparent wave velocity to offer a point of reference for seismic design. The results show that PCCGBCSWs are less vulnerable than concrete bridges. The shock absorption effect of the friction pendulum bearing is better than that of the viscous damper. The impact of NFPLGMs on bridges is greater than that of near-fault non-pulse-like ground motions (NFNPLMs) and far-fault ground motions (FFGMs). The seismic fragility under nonuniform excitation conditions is greater than that under uniform excitation conditions, showing an increasing trend with decreasing apparent wave velocity.",
+    "keywords": [],
+    "doi": "10.3390/buildings14020330",
+    "url": "https://www.semanticscholar.org/paper/8d127c1b10295f2bac2fb2c44a7af4aacd8c9392",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "8d127c1b10295f2bac2fb2c44a7af4aacd8c9392",
+      "externalIds": {
+        "DOI": "10.3390/buildings14020330",
+        "CorpusId": 267250581
+      },
+      "url": "https://www.semanticscholar.org/paper/8d127c1b10295f2bac2fb2c44a7af4aacd8c9392",
+      "title": "Fragility Assessment of a Long-Unit Prestressed Concrete Composite Continuous Girder Bridge with Corrugated Steel Webs Subjected to Near-Fault Pulse-like Ground Motions Considering Spatial Variability Effects",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-5309/14/2/330/pdf?version=1706098103",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings14020330?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings14020330, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "46812907",
+          "name": "Mingcheng Han"
+        },
+        {
+          "authorId": "2281284109",
+          "name": "Yidian Dong"
+        },
+        {
+          "authorId": "2255800851",
+          "name": "Tong Wang"
+        },
+        {
+          "authorId": "2281096561",
+          "name": "Mingqu Du"
+        },
+        {
+          "authorId": "2117207874",
+          "name": "Q. Gao"
+        }
+      ],
+      "abstract": "Prestressed concrete composite girder bridges with corrugated steel webs (PCCGBCSWs) are extensively employed in bridge construction because of their low dead weight, fast construction, and high prestressing efficiency. Moreover, PCCGBCSWs will experience deformation and failure of the corrugated steel webs, including steel fatigue and fracture, during earthquakes. These changes will introduce safety hazards, which can be addressed via bridge disaster prevention and mitigation. Because near-fault pulse-like ground motions (NFPLGMs) have high peak accelerations, these motions can easily cause damage to a bridge. Therefore, in this study, a seismic fragility assessment is performed for long-unit PCCGBCSWs subjected to NFPLGMs considering spatial variability effects, and a sensitivity evaluation of the seismic fragility is conducted considering girder type, bearing type, ground motion type, and apparent wave velocity to offer a point of reference for seismic design. The results show that PCCGBCSWs are less vulnerable than concrete bridges. The shock absorption effect of the friction pendulum bearing is better than that of the viscous damper. The impact of NFPLGMs on bridges is greater than that of near-fault non-pulse-like ground motions (NFNPLMs) and far-fault ground motions (FFGMs). The seismic fragility under nonuniform excitation conditions is greater than that under uniform excitation conditions, showing an increasing trend with decreasing apparent wave velocity."
+    }
+  },
+  {
+    "paper_id": "1406c967211548d57c75e84942ada4bcbc0d703b",
+    "title": "Seismic Vulnerability Analysis of Long-Span Prestressed Concrete Composite Box Girder Bridge with Corrugated Steel Webs under Construction",
+    "authors": "Rubao Wang, Zhangliang Hu, Zhiming Hao, L. Chen, Guigang Shi, Ruini Hou, Rui Zuo",
+    "journal": "Buildings",
+    "publish_year": "2023",
+    "abstract": "In order to address the difficulty in determining the seismic damage probability of continuous girder bridges under construction, the seismic vulnerability analysis method of the construction state is proposed in this study. Firstly, taking a long-span prestressed concrete composite box girder bridge with corrugated steel webs (OSW) as an example, the finite element models (FEMs) of dynamic calculation in different phases of cantilever construction are simulated by OpenSEES. Secondly, by selecting reasonable seismic waves and seismic intensity measures, the non-linear time-history analysis is carried out, followed by the demand parameters and damage indexes suitable for the construction state proposed. Finally, the probabilistic seismic demand model (PSDA) of the continuous box girder bridge during the construction stage is constructed by using the “cloud method”, and the seismic vulnerability curves of the piers and temporary bearings are established to evaluate the seismic performance during the construction stage. The results indicate that the damage probability of piers and temporary bearings increases with the progress of construction. The initial formation of the cantilever structure and the sudden change in the size of the construction segmental girder correspond to a high probability of damage, and seismic protection measures should be strengthened during this construction state. Moreover, significantly higher damage probability of the components under construction compared to the completed bridge after it is built.",
+    "keywords": [],
+    "doi": "10.3390/buildings13071598",
+    "url": "https://www.semanticscholar.org/paper/1406c967211548d57c75e84942ada4bcbc0d703b",
+    "citation_count": 4,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "1406c967211548d57c75e84942ada4bcbc0d703b",
+      "externalIds": {
+        "DOI": "10.3390/buildings13071598",
+        "CorpusId": 259722525
+      },
+      "url": "https://www.semanticscholar.org/paper/1406c967211548d57c75e84942ada4bcbc0d703b",
+      "title": "Seismic Vulnerability Analysis of Long-Span Prestressed Concrete Composite Box Girder Bridge with Corrugated Steel Webs under Construction",
+      "year": 2023,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-5309/13/7/1598/pdf?version=1687600754",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings13071598?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings13071598, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "98064948",
+          "name": "Rubao Wang"
+        },
+        {
+          "authorId": "115312507",
+          "name": "Zhangliang Hu"
+        },
+        {
+          "authorId": "2222444221",
+          "name": "Zhiming Hao"
+        },
+        {
+          "authorId": "47818168",
+          "name": "L. Chen"
+        },
+        {
+          "authorId": "9323359",
+          "name": "Guigang Shi"
+        },
+        {
+          "authorId": "2222536738",
+          "name": "Ruini Hou"
+        },
+        {
+          "authorId": "2201084782",
+          "name": "Rui Zuo"
+        }
+      ],
+      "abstract": "In order to address the difficulty in determining the seismic damage probability of continuous girder bridges under construction, the seismic vulnerability analysis method of the construction state is proposed in this study. Firstly, taking a long-span prestressed concrete composite box girder bridge with corrugated steel webs (OSW) as an example, the finite element models (FEMs) of dynamic calculation in different phases of cantilever construction are simulated by OpenSEES. Secondly, by selecting reasonable seismic waves and seismic intensity measures, the non-linear time-history analysis is carried out, followed by the demand parameters and damage indexes suitable for the construction state proposed. Finally, the probabilistic seismic demand model (PSDA) of the continuous box girder bridge during the construction stage is constructed by using the “cloud method”, and the seismic vulnerability curves of the piers and temporary bearings are established to evaluate the seismic performance during the construction stage. The results indicate that the damage probability of piers and temporary bearings increases with the progress of construction. The initial formation of the cantilever structure and the sudden change in the size of the construction segmental girder correspond to a high probability of damage, and seismic protection measures should be strengthened during this construction state. Moreover, significantly higher damage probability of the components under construction compared to the completed bridge after it is built."
+    }
+  },
+  {
+    "paper_id": "f9b25708fd07b856d0c623934efc3fc60acacfbc",
+    "title": "Demolition of a 65‐year‐old box‐girder prestressed concrete bridge located in Northern Sweden",
+    "authors": "Cosmin Al Daescu, J. Gonzalez-Libreros, Chao-Min Wang, L. Elfgren, G. Sas",
+    "journal": "ce/papers",
+    "publish_year": "2023",
+    "abstract": "A new bridge was built in Kalix, northern Sweden, to replace an existing prestressed concrete box‐girder bridge that had been in service for over 60 years. The old bridge had a total length of 283.6 m divided into five spans: 43.9 m, 47.0 m, 94.0 m, 47.0 m, and 43.9 m. It was constructed using the balanced cantilever method with segments having lengths of around 3.0 m. The need for replacement arose from recommendations extracted from an assessment of the old bridge's state and capacity. In addition to the construction of the new bridge, its replacement necessitated the creation and evaluation of demolition procedure for the existing bridge. This procedure had to be carefully designed to avoid damaging the new bridge and stability‐related issues but also to prevent debris from falling into the Kalix River, which is part of a Natura 2000 protected area. This paper discusses various issues considered while developing the demolition strategy, including the use of bed‐rock anchored tendons, intermediate support fixing at specific locations, and proper evaluation of position of the demolition equipment supported by the bridge, among others. The problem of disposing of the demolished material is also discussed.",
+    "keywords": [],
+    "doi": "10.1002/cepa.2745",
+    "url": "https://www.semanticscholar.org/paper/f9b25708fd07b856d0c623934efc3fc60acacfbc",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "f9b25708fd07b856d0c623934efc3fc60acacfbc",
+      "externalIds": {
+        "DOI": "10.1002/cepa.2745",
+        "CorpusId": 262229141
+      },
+      "url": "https://www.semanticscholar.org/paper/f9b25708fd07b856d0c623934efc3fc60acacfbc",
+      "title": "Demolition of a 65‐year‐old box‐girder prestressed concrete bridge located in Northern Sweden",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2745",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/cepa.2745?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/cepa.2745, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "ce/papers",
+        "volume": "6"
+      },
+      "authors": [
+        {
+          "authorId": "2244730301",
+          "name": "Cosmin Al Daescu"
+        },
+        {
+          "authorId": "2299030981",
+          "name": "J. Gonzalez-Libreros"
+        },
+        {
+          "authorId": "8206654",
+          "name": "Chao-Min Wang"
+        },
+        {
+          "authorId": "69057977",
+          "name": "L. Elfgren"
+        },
+        {
+          "authorId": "74617166",
+          "name": "G. Sas"
+        }
+      ],
+      "abstract": "A new bridge was built in Kalix, northern Sweden, to replace an existing prestressed concrete box‐girder bridge that had been in service for over 60 years. The old bridge had a total length of 283.6 m divided into five spans: 43.9 m, 47.0 m, 94.0 m, 47.0 m, and 43.9 m. It was constructed using the balanced cantilever method with segments having lengths of around 3.0 m. The need for replacement arose from recommendations extracted from an assessment of the old bridge's state and capacity. In addition to the construction of the new bridge, its replacement necessitated the creation and evaluation of demolition procedure for the existing bridge. This procedure had to be carefully designed to avoid damaging the new bridge and stability‐related issues but also to prevent debris from falling into the Kalix River, which is part of a Natura 2000 protected area. This paper discusses various issues considered while developing the demolition strategy, including the use of bed‐rock anchored tendons, intermediate support fixing at specific locations, and proper evaluation of position of the demolition equipment supported by the bridge, among others. The problem of disposing of the demolished material is also discussed."
+    }
+  },
+  {
+    "paper_id": "538983fae4a19a77bed34421a98bd67cc0b76d64",
+    "title": "Research of construction monitoring technology of large-span variable cross-section prestressed concrete continuous box-girder bridge",
+    "authors": "",
+    "journal": "Academic Journal of Architecture and Geotechnical Engineering",
+    "publish_year": "2022",
+    "abstract": "<p>With the advancing development of structural performance and construction techniques, continuous concrete box girder bridges have been widely used due to their advantages including their broad applications, good appearance, and reliable structural safety. However, as the bridge span and its construction demands are increasing, the bridge construction process tends to be more complex. Especially, the construction methods and bridge installation sequences of cantilever bridges not only exert structural internal force on the bridge construction process but also affect the internal force and line shape of the bridge structure of finally constructed bridges. Hence, it is essential to realize bridge construction control. Only in the presence of the excellent construction control performance, can the structural safety in the bridge construction process can be ensured while meeting the designed requirements of bridge line shapes and internal forces of constructed bridges. In this research, by taking the Weihe grand bridge located at Shandong Province, China as construction background, the specific targets and methods of bridge construction control were introduced for the reference of bridge construction and research.</p>",
+    "keywords": [],
+    "doi": "10.25236/ajage.2022.040305",
+    "url": "https://www.semanticscholar.org/paper/538983fae4a19a77bed34421a98bd67cc0b76d64",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "538983fae4a19a77bed34421a98bd67cc0b76d64",
+      "externalIds": {
+        "DOI": "10.25236/ajage.2022.040305",
+        "CorpusId": 255822190
+      },
+      "url": "https://www.semanticscholar.org/paper/538983fae4a19a77bed34421a98bd67cc0b76d64",
+      "title": "Research of construction monitoring technology of large-span variable cross-section prestressed concrete continuous box-girder bridge",
+      "year": 2022,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "http://francis-press.com/uploads/papers/SGA7UsqmXzlJq1r5mKUsEfs5ogjfIgaf4XiyKpmU.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.25236/ajage.2022.040305?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25236/ajage.2022.040305, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Academic Journal of Architecture and Geotechnical Engineering"
+      },
+      "authors": [],
+      "abstract": null
+    },
+    "abstract_source": "doi_scrape"
+  },
+  {
+    "paper_id": "5a372f6da5db2178e81e7c525b7fa3b007c1dce3",
+    "title": "Analysis and Assessment of Prestressed Reactive Powder Concrete Box-girder Bridge with Corrugated Steel Webs",
+    "authors": "Deng Ao, Guoxi Hu, Qiang Xu",
+    "journal": "Journal of Physics: Conference Series",
+    "publish_year": "2023",
+    "abstract": "Prestressed concrete box girder bridge with corrugated steel webs is a new type of bridge which uses corrugated steel webs to replace the traditional concrete webs. Compared with the traditional box girder bridge, it has certain advantages and has been widely used in bridge engineering. Combined with the characteristics of prestressed concrete box girder bridge with corrugated steel webs and reactive powder concrete theory, this paper puts forward the concept of new prestressed corrugated steel webs reactive powder concrete box girder bridge. By improving the material properties, structural design and construction methods of prestressed concrete composite structure with corrugated steel webs, its bearing capacity can be improved, so as to improve its construction efficiency and economic benefits. The research shows that the prestressed reactive powder concrete box girder with corrugated steel webs has the advantages of light structure and convenient construction, and has superior mechanical properties and obvious economic benefits when it bears the equivalent external load of prestressed corrugated steel web concrete composite girder.",
+    "keywords": [
+      "Physics"
+    ],
+    "doi": "10.1088/1742-6596/2463/1/012016",
+    "url": "https://www.semanticscholar.org/paper/5a372f6da5db2178e81e7c525b7fa3b007c1dce3",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "5a372f6da5db2178e81e7c525b7fa3b007c1dce3",
+      "externalIds": {
+        "DOI": "10.1088/1742-6596/2463/1/012016",
+        "CorpusId": 258027463
+      },
+      "url": "https://www.semanticscholar.org/paper/5a372f6da5db2178e81e7c525b7fa3b007c1dce3",
+      "title": "Analysis and Assessment of Prestressed Reactive Powder Concrete Box-girder Bridge with Corrugated Steel Webs",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1742-6596/2463/1/012016",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/2463/1/012016?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/2463/1/012016, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "journal": {
+        "name": "Journal of Physics: Conference Series",
+        "volume": "2463"
+      },
+      "authors": [
+        {
+          "authorId": "2213948364",
+          "name": "Deng Ao"
+        },
+        {
+          "authorId": "2334463484",
+          "name": "Guoxi Hu"
+        },
+        {
+          "authorId": "2149106439",
+          "name": "Qiang Xu"
+        }
+      ],
+      "abstract": "Prestressed concrete box girder bridge with corrugated steel webs is a new type of bridge which uses corrugated steel webs to replace the traditional concrete webs. Compared with the traditional box girder bridge, it has certain advantages and has been widely used in bridge engineering. Combined with the characteristics of prestressed concrete box girder bridge with corrugated steel webs and reactive powder concrete theory, this paper puts forward the concept of new prestressed corrugated steel webs reactive powder concrete box girder bridge. By improving the material properties, structural design and construction methods of prestressed concrete composite structure with corrugated steel webs, its bearing capacity can be improved, so as to improve its construction efficiency and economic benefits. The research shows that the prestressed reactive powder concrete box girder with corrugated steel webs has the advantages of light structure and convenient construction, and has superior mechanical properties and obvious economic benefits when it bears the equivalent external load of prestressed corrugated steel web concrete composite girder."
+    }
+  },
+  {
+    "paper_id": "4570e27f2fce28e5e10011bd42c91e3ff3c47fef",
+    "title": "The New Storstrøm Bridge – Prestressed Box Girder Design",
+    "authors": "Luca Cargnino, E. Po",
+    "journal": "IABSE Symposium, Prague 2022: Challenges for Existing and Oncoming Structures",
+    "publish_year": "2022",
+    "abstract": "The New Storstrøm Bridge is a 3.8 km long combined rail and road bridge currently under construction. It will be Denmark’s third longest bridge. It comprises two approach viaducts with 44 spans, typically 80 m long, and a single-tower cable stayed bridge located centrally within the strait crossing, with two 160 m navigational spans. The 25 m wide deck is a prestressed concrete box girder with a unique asymmetric cross section and wide cantilevers. It carries a two-track, high speed railway and a carriageway comprising a two-lane road and a combined pedestrian-cycle. The tight construction schedule imposed to the Design & Build Contract requires the use of full prefabrication of the box girder. A span-by-span construction method based on the erection of typically 73 m-long precast segments is adopted. This paper presents the main challenges of the box girder design due to the construction method, the unusual cross-section and the heavily asymmetric traffic loading.",
+    "keywords": [],
+    "doi": "10.2749/prague.2022.0112",
+    "url": "https://www.semanticscholar.org/paper/4570e27f2fce28e5e10011bd42c91e3ff3c47fef",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "4570e27f2fce28e5e10011bd42c91e3ff3c47fef",
+      "externalIds": {
+        "DOI": "10.2749/prague.2022.0112",
+        "CorpusId": 249304644
+      },
+      "url": "https://www.semanticscholar.org/paper/4570e27f2fce28e5e10011bd42c91e3ff3c47fef",
+      "title": "The New Storstrøm Bridge – Prestressed Box Girder Design",
+      "year": 2022,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2749/prague.2022.0112?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2749/prague.2022.0112, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "IABSE Symposium, Prague 2022: Challenges for Existing and Oncoming Structures"
+      },
+      "authors": [
+        {
+          "authorId": "96703706",
+          "name": "Luca Cargnino"
+        },
+        {
+          "authorId": "82352979",
+          "name": "E. Po"
+        }
+      ],
+      "abstract": "The New Storstrøm Bridge is a 3.8 km long combined rail and road bridge currently under construction. It will be Denmark’s third longest bridge. It comprises two approach viaducts with 44 spans, typically 80 m long, and a single-tower cable stayed bridge located centrally within the strait crossing, with two 160 m navigational spans. The 25 m wide deck is a prestressed concrete box girder with a unique asymmetric cross section and wide cantilevers. It carries a two-track, high speed railway and a carriageway comprising a two-lane road and a combined pedestrian-cycle. The tight construction schedule imposed to the Design & Build Contract requires the use of full prefabrication of the box girder. A span-by-span construction method based on the erection of typically 73 m-long precast segments is adopted. This paper presents the main challenges of the box girder design due to the construction method, the unusual cross-section and the heavily asymmetric traffic loading."
+    }
+  },
+  {
+    "paper_id": "b4adeb0047f436ac3c3f5629d288b44468cf1eb6",
+    "title": "Study of Mountainous Long Span Prestressed Concrete Box-Girder Bridge Cantilever Construction Safety Monitoring System Based on Multi-Agent System",
+    "authors": "Qin Wang, Qiuxin Liu",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2019",
+    "abstract": "Mountainous long span prestressed concrete box-girder bridge cantilever construction has too many risk factors, and it is difficult to control the construction safety. To ensure the construction safety of Xi-jun bridge, a mountainous long span prestressed concrete box-girder bridge cantilever construction safety monitoring system based on Multi-Agent System is built in this paper. To make full use of cooperativity and interaction of Agent, there are six kinds of Agent in MAS construction safety monitoring system model framework. The monitoring system is built based on. NET Framework. The communication mechanisms of Agent are built based on WinSocket. Then the automatic updating of finite element analysis model is achieved, and the analysis and forecast of box-girder bridge cantilever construction safety state can be done in the system. The safe sate of Xi-jun bridge construction is always be in controlled by use of the system.",
+    "keywords": [
+      "Computer Science",
+      "Physics"
+    ],
+    "doi": "10.1088/1755-1315/283/1/012034",
+    "url": "https://www.semanticscholar.org/paper/b4adeb0047f436ac3c3f5629d288b44468cf1eb6",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "b4adeb0047f436ac3c3f5629d288b44468cf1eb6",
+      "externalIds": {
+        "MAG": "2949392934",
+        "DOI": "10.1088/1755-1315/283/1/012034",
+        "CorpusId": 196197909
+      },
+      "url": "https://www.semanticscholar.org/paper/b4adeb0047f436ac3c3f5629d288b44468cf1eb6",
+      "title": "Study of Mountainous Long Span Prestressed Concrete Box-Girder Bridge Cantilever Construction Safety Monitoring System Based on Multi-Agent System",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1755-1315/283/1/012034",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/283/1/012034?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/283/1/012034, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Physics"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "283"
+      },
+      "authors": [
+        {
+          "authorId": "2116761953",
+          "name": "Qin Wang"
+        },
+        {
+          "authorId": "47362339",
+          "name": "Qiuxin Liu"
+        }
+      ],
+      "abstract": "Mountainous long span prestressed concrete box-girder bridge cantilever construction has too many risk factors, and it is difficult to control the construction safety. To ensure the construction safety of Xi-jun bridge, a mountainous long span prestressed concrete box-girder bridge cantilever construction safety monitoring system based on Multi-Agent System is built in this paper. To make full use of cooperativity and interaction of Agent, there are six kinds of Agent in MAS construction safety monitoring system model framework. The monitoring system is built based on. NET Framework. The communication mechanisms of Agent are built based on WinSocket. Then the automatic updating of finite element analysis model is achieved, and the analysis and forecast of box-girder bridge cantilever construction safety state can be done in the system. The safe sate of Xi-jun bridge construction is always be in controlled by use of the system."
+    }
+  },
+  {
+    "paper_id": "6e3c6b1ae4731d08ca2ab227914dad9257f0b970",
+    "title": "Construction and Field Evaluation of Electrically Isolated Tendons in a Prestressed Concrete Spliced Girder Bridge",
+    "authors": "Clay J. Naito",
+    "journal": "Journal of Bridge Engineering",
+    "publish_year": "2020",
+    "abstract": "Abstract This paper describes the first application of Electrically Isolated Tendon (EIT) technology in the United States. These systems have been developed to provide a level of quality assurance ...",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1061/(asce)be.1943-5592.0001551",
+    "url": "https://www.semanticscholar.org/paper/6e3c6b1ae4731d08ca2ab227914dad9257f0b970",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "6e3c6b1ae4731d08ca2ab227914dad9257f0b970",
+      "externalIds": {
+        "MAG": "3016379091",
+        "DOI": "10.1061/(asce)be.1943-5592.0001551",
+        "CorpusId": 218796281
+      },
+      "url": "https://www.semanticscholar.org/paper/6e3c6b1ae4731d08ca2ab227914dad9257f0b970",
+      "title": "Construction and Field Evaluation of Electrically Isolated Tendons in a Prestressed Concrete Spliced Girder Bridge",
+      "year": 2020,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1061/(asce)be.1943-5592.0001551?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1061/(asce)be.1943-5592.0001551, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Bridge Engineering",
+        "pages": "05020001",
+        "volume": "25"
+      },
+      "authors": [
+        {
+          "authorId": "2838125",
+          "name": "Clay J. Naito"
+        }
+      ],
+      "abstract": "Abstract This paper describes the first application of Electrically Isolated Tendon (EIT) technology in the United States. These systems have been developed to provide a level of quality assurance ..."
+    }
+  },
+  {
+    "paper_id": "fa9a0669ab63c4f3bf84f4ce49cff215837e415c",
+    "title": "Evaluating prestress losses in a prestressed concrete girder railway bridge using distributed and discrete fibre optic sensors",
+    "authors": "C. Ye, Liam J. Butler, M. Elshafie, C. Middleton",
+    "journal": "Construction and Building Materials",
+    "publish_year": "2020",
+    "abstract": "Abstract This paper evaluates the data collected during a comprehensive monitoring campaign aimed at capturing the prestress loss behaviour of four 11.9 m prestressed concrete beams. These beams formed part of the superstructure of a newly-constructed railway bridge in Staffordshire, U.K. Two types of prestressed concrete beams were monitored, two TY7 internal beams and two TYE7 edge beams. Both distributed and discrete fibre optic sensor (FOS) systems were used to measure strain and temperature for the first two and a half years since the beams were cast. Prestress loss mechanisms were investigated in detail including immediate prestress losses due to elastic shortening of concrete and time-dependent prestress losses due to steel relaxation, concrete shrinkage and creep. Prestress loss predictions were calculated using both European and American standards, which were then compared with measured prestress losses. Both simplified and advanced time-step methods were used to provide more refined loss predictions by taking into account the interrelationships between various prestress loss mechanisms and the total prestress force at the time of interest. To provide better interpretation of the monitoring measurements, a sensitivity analysis was performed to evaluate the effects of various input parameter uncertainties on prestress loss predictions. It was found that (i) time-step methods produced prestress loss estimates that were lower compared with the simplified method; and (ii) code estimates of prestress losses using measured material properties gave reasonable agreement with the field measurements. As structurally-integrated FOS systems are becoming more commonplace and hold great potential, it is envisaged that they enable better understanding of field performance and thus facilitate data-informed asset management.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/j.conbuildmat.2020.118518",
+    "url": "https://www.semanticscholar.org/paper/fa9a0669ab63c4f3bf84f4ce49cff215837e415c",
+    "citation_count": 50,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "fa9a0669ab63c4f3bf84f4ce49cff215837e415c",
+      "externalIds": {
+        "MAG": "3008141463",
+        "DOI": "10.1016/j.conbuildmat.2020.118518",
+        "CorpusId": 214555038
+      },
+      "url": "https://www.semanticscholar.org/paper/fa9a0669ab63c4f3bf84f4ce49cff215837e415c",
+      "title": "Evaluating prestress losses in a prestressed concrete girder railway bridge using distributed and discrete fibre optic sensors",
+      "year": 2020,
+      "citationCount": 50,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.118518?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.conbuildmat.2020.118518, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Materials Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Construction and Building Materials"
+      },
+      "authors": [
+        {
+          "authorId": "2064450245",
+          "name": "C. Ye"
+        },
+        {
+          "authorId": "73497171",
+          "name": "Liam J. Butler"
+        },
+        {
+          "authorId": "40126446",
+          "name": "M. Elshafie"
+        },
+        {
+          "authorId": "89432571",
+          "name": "C. Middleton"
+        }
+      ],
+      "abstract": "Abstract This paper evaluates the data collected during a comprehensive monitoring campaign aimed at capturing the prestress loss behaviour of four 11.9 m prestressed concrete beams. These beams formed part of the superstructure of a newly-constructed railway bridge in Staffordshire, U.K. Two types of prestressed concrete beams were monitored, two TY7 internal beams and two TYE7 edge beams. Both distributed and discrete fibre optic sensor (FOS) systems were used to measure strain and temperature for the first two and a half years since the beams were cast. Prestress loss mechanisms were investigated in detail including immediate prestress losses due to elastic shortening of concrete and time-dependent prestress losses due to steel relaxation, concrete shrinkage and creep. Prestress loss predictions were calculated using both European and American standards, which were then compared with measured prestress losses. Both simplified and advanced time-step methods were used to provide more refined loss predictions by taking into account the interrelationships between various prestress loss mechanisms and the total prestress force at the time of interest. To provide better interpretation of the monitoring measurements, a sensitivity analysis was performed to evaluate the effects of various input parameter uncertainties on prestress loss predictions. It was found that (i) time-step methods produced prestress loss estimates that were lower compared with the simplified method; and (ii) code estimates of prestress losses using measured material properties gave reasonable agreement with the field measurements. As structurally-integrated FOS systems are becoming more commonplace and hold great potential, it is envisaged that they enable better understanding of field performance and thus facilitate data-informed asset management."
+    }
+  },
+  {
+    "paper_id": "4007fece11da982583852c583df9d30a18c4b37d",
+    "title": "Simulation and Design Considerations on Transverse Connection of Prestressed Concrete T-girder Bridge",
+    "authors": "Chen Chen, C. Yang, Yong Pan, Honglei Zhang, H. De Backer",
+    "journal": "International Journal of Steel Structures",
+    "publish_year": "2021",
+    "abstract": "In this paper, the structural performance of the prestressed concrete T-girder bridge with a newly proposed diaphragm transverse connections (DTCs) have be",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1007/s13296-021-00495-w",
+    "url": "https://www.semanticscholar.org/paper/4007fece11da982583852c583df9d30a18c4b37d",
+    "citation_count": 9,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "4007fece11da982583852c583df9d30a18c4b37d",
+      "externalIds": {
+        "MAG": "3172386580",
+        "DOI": "10.1007/s13296-021-00495-w",
+        "CorpusId": 236225508
+      },
+      "url": "https://www.semanticscholar.org/paper/4007fece11da982583852c583df9d30a18c4b37d",
+      "title": "Simulation and Design Considerations on Transverse Connection of Prestressed Concrete T-girder Bridge",
+      "year": 2021,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13296-021-00495-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13296-021-00495-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "International Journal of Steel Structures",
+        "pages": "1182 - 1196",
+        "volume": "21"
+      },
+      "authors": [
+        {
+          "authorId": "2127380767",
+          "name": "Chen Chen"
+        },
+        {
+          "authorId": "152727329",
+          "name": "C. Yang"
+        },
+        {
+          "authorId": "144581738",
+          "name": "Yong Pan"
+        },
+        {
+          "authorId": "2108598567",
+          "name": "Honglei Zhang"
+        },
+        {
+          "authorId": "1523839911",
+          "name": "H. De Backer"
+        }
+      ],
+      "abstract": null
+    },
+    "abstract_source": "doi_scrape"
+  },
+  {
+    "paper_id": "c5b58a5645d3a26b40f4085e5c722348b8627fd6",
+    "title": "Experimental Study and Numerical Analysis of Hydration Heat Effect on Precast Prestressed Concrete Box Girder",
+    "authors": "Tianyu Wang, Jinbiao Cai, Qian Feng, Weizhong Jia, Yongchao He",
+    "journal": "Buildings",
+    "publish_year": "2025",
+    "abstract": "Large-span precast prestressed concrete box girders have been widely used in bridge construction near or across the sea. However, this would easily lead to a hydration heat problem, including large initial tensile stress and concrete cracks during the stage of concrete pouring. A 5 m long segment of the prestressed concrete box girder for the Hangzhou Bay Cross-Sea Railway Bridge was continuously monitored to investigate the hydration heat effect on the long-span concrete box girder during the pouring stage of construction. The initial temperature variation and stress distribution of the concrete in the segment were analyzed through finite element analysis based on the experimental data and temperature monitoring results. A suitable concrete pouring and maintenance plan for the box girder was proposed after the comparison of several construction schemes. The results indicate that the primary cause of initial tensile stress is the temperature difference between the inner and outer surfaces of the long-span precast concrete box girder. By adding some ventilation inside the box girder with suitable maintenance measures, the initial tensile stress in the concrete can be effectively reduced, thus mitigating the risk of early cracking.",
+    "keywords": [],
+    "doi": "10.3390/buildings15060859",
+    "url": "https://www.semanticscholar.org/paper/c5b58a5645d3a26b40f4085e5c722348b8627fd6",
+    "citation_count": 4,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "c5b58a5645d3a26b40f4085e5c722348b8627fd6",
+      "externalIds": {
+        "DOI": "10.3390/buildings15060859",
+        "CorpusId": 276914173
+      },
+      "url": "https://www.semanticscholar.org/paper/c5b58a5645d3a26b40f4085e5c722348b8627fd6",
+      "title": "Experimental Study and Numerical Analysis of Hydration Heat Effect on Precast Prestressed Concrete Box Girder",
+      "year": 2025,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/buildings15060859",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings15060859?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings15060859, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "2350009624",
+          "name": "Tianyu Wang"
+        },
+        {
+          "authorId": "7466642",
+          "name": "Jinbiao Cai"
+        },
+        {
+          "authorId": "2345338270",
+          "name": "Qian Feng"
+        },
+        {
+          "authorId": "2351570073",
+          "name": "Weizhong Jia"
+        },
+        {
+          "authorId": "2257129527",
+          "name": "Yongchao He"
+        }
+      ],
+      "abstract": "Large-span precast prestressed concrete box girders have been widely used in bridge construction near or across the sea. However, this would easily lead to a hydration heat problem, including large initial tensile stress and concrete cracks during the stage of concrete pouring. A 5 m long segment of the prestressed concrete box girder for the Hangzhou Bay Cross-Sea Railway Bridge was continuously monitored to investigate the hydration heat effect on the long-span concrete box girder during the pouring stage of construction. The initial temperature variation and stress distribution of the concrete in the segment were analyzed through finite element analysis based on the experimental data and temperature monitoring results. A suitable concrete pouring and maintenance plan for the box girder was proposed after the comparison of several construction schemes. The results indicate that the primary cause of initial tensile stress is the temperature difference between the inner and outer surfaces of the long-span precast concrete box girder. By adding some ventilation inside the box girder with suitable maintenance measures, the initial tensile stress in the concrete can be effectively reduced, thus mitigating the risk of early cracking."
+    }
+  },
+  {
+    "paper_id": "eda2a397127aab28bb011a5af41c5b00489cf9d7",
+    "title": "Prediction analysis of deflection in the construction of composite box-girder bridge with corrugated steel webs based on MEC-BP neural networks",
+    "authors": "Xudong Wang, C. Miao, Xiaoming Wang",
+    "journal": "Structures",
+    "publish_year": "2021",
+    "abstract": "Abstract This paper presents an efficient computational framework addressing the deflection prediction problem for prestressed concrete (PC) rigid frame bridge with corrugated steel webs (CSWs) erected by the balanced cantilever method. The framework consists of three stages of analysis: (1) obtain the datasets for establishing the prediction model, in which the input samples and output response are generated by the Latin hypercube sampling (LHS) technique and high-fidelity three-dimensional (3D) finite element (FE) model, respectively; (2) based on the datasets, an optimized neural network model that integrates with mind evolutionary computation (MEC) algorithm and back-propagation (BP) algorithm is established, then the model performance is evaluated by the statistical criteria; and (3) the well-trained MEC-BP model is used to predict the deflection for CSWs-PC bridge construction. The applicability and efficiency of the framework are demonstrated with a real CSWs-PC bridge. Results show that the proposed method achieves much better prediction performance than the conventional BP model, and can deliver an efficient prediction tendency for the deflection control of a CSWs-PC bridge during the complex construction process.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/J.ISTRUC.2021.03.011",
+    "url": "https://www.semanticscholar.org/paper/eda2a397127aab28bb011a5af41c5b00489cf9d7",
+    "citation_count": 35,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "eda2a397127aab28bb011a5af41c5b00489cf9d7",
+      "externalIds": {
+        "MAG": "3152262307",
+        "DOI": "10.1016/J.ISTRUC.2021.03.011",
+        "CorpusId": 233583951
+      },
+      "url": "https://www.semanticscholar.org/paper/eda2a397127aab28bb011a5af41c5b00489cf9d7",
+      "title": "Prediction analysis of deflection in the construction of composite box-girder bridge with corrugated steel webs based on MEC-BP neural networks",
+      "year": 2021,
+      "citationCount": 35,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.ISTRUC.2021.03.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.ISTRUC.2021.03.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Structures",
+        "pages": "691-700",
+        "volume": "32"
+      },
+      "authors": [
+        {
+          "authorId": "2144671610",
+          "name": "Xudong Wang"
+        },
+        {
+          "authorId": "46412214",
+          "name": "C. Miao"
+        },
+        {
+          "authorId": "2049637126",
+          "name": "Xiaoming Wang"
+        }
+      ],
+      "abstract": "Abstract This paper presents an efficient computational framework addressing the deflection prediction problem for prestressed concrete (PC) rigid frame bridge with corrugated steel webs (CSWs) erected by the balanced cantilever method. The framework consists of three stages of analysis: (1) obtain the datasets for establishing the prediction model, in which the input samples and output response are generated by the Latin hypercube sampling (LHS) technique and high-fidelity three-dimensional (3D) finite element (FE) model, respectively; (2) based on the datasets, an optimized neural network model that integrates with mind evolutionary computation (MEC) algorithm and back-propagation (BP) algorithm is established, then the model performance is evaluated by the statistical criteria; and (3) the well-trained MEC-BP model is used to predict the deflection for CSWs-PC bridge construction. The applicability and efficiency of the framework are demonstrated with a real CSWs-PC bridge. Results show that the proposed method achieves much better prediction performance than the conventional BP model, and can deliver an efficient prediction tendency for the deflection control of a CSWs-PC bridge during the complex construction process."
+    }
+  },
+  {
+    "paper_id": "cd8c64b674cd657f3019ef69b5fee94b7be9f07d",
+    "title": "Assessing the Aged Prestress Concrete Girder’s Quality in Al‐Rayhanna Bridge Using NDT",
+    "authors": "Mohammed O. Hussein, Akram S. Mahmoud",
+    "journal": "Journal of Engineering",
+    "publish_year": "2025",
+    "abstract": "Many of the Iraqi highway bridges (especially in Anbar Province) are in poor condition even after they have been checked and determined to satisfy acceptable standards due to the effect of many risk factors. These risks are related to factors such as the age of the reinforced concrete (RC) structure, the type of construction, the deterioration of the materials, attacks by the environment, high traffic volume, wars, auto accidents, and inadequate capacity. Bridges’ service lives decrease due to these conditions, which also contribute to structural degradation. This study demonstrates that the assessment method of bridges can help transportation agencies make more quantitative and clear decisions for bridge repair by using concrete compressive strength estimation of prestressed concrete bridge girders as an indicator for service life prediction. Nondestructive testing (NDT) was used to determine the concrete’s compressive strength by testing the prestress girders using an ultrasonic pulse velocity (UPV) test and a Schmidt hammer rebound number (RN) test. An accurate estimation was produced by combining the results of each test into a formula. The current paper is aimed at verifying the validity of girder assessment for concrete bridges. Bridge deficiencies can be reduced in two strategies with the use of NDT techniques. According to the results, the compressive strength range for new girders was 29.7–33.96 MPa, while the range for old girders was 20.47–26.36 MPa. This study indicated that compressive strength decreases with time, emphasizing the importance of precise measurement for the lifetime of structures. The modulus of elasticity calculation revealed a severe deterioration over time, affecting the concrete’s resistance to deformation. In order to understand the strength and deformation of concrete properties, stress–strain relationships were investigated. Although emphasizing the requirement for precise and reliable findings, the NDT cost research acknowledged the expenses associated with NDT equipment and testing procedures. To estimate if using NDT techniques to analyze concrete is cost‐effective, the study team had conversations with engineers and consulting businesses. Precision, affordability, and flexibility were among the characteristics considered in the weighted evaluations used to compare various NDT procedures. The results of this study show that using UPV is preferable than using the rebound hammer technique.",
+    "keywords": [],
+    "doi": "10.1155/je/1096697",
+    "url": "https://www.semanticscholar.org/paper/cd8c64b674cd657f3019ef69b5fee94b7be9f07d",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "cd8c64b674cd657f3019ef69b5fee94b7be9f07d",
+      "externalIds": {
+        "DOI": "10.1155/je/1096697",
+        "CorpusId": 276915335
+      },
+      "url": "https://www.semanticscholar.org/paper/cd8c64b674cd657f3019ef69b5fee94b7be9f07d",
+      "title": "Assessing the Aged Prestress Concrete Girder’s Quality in Al‐Rayhanna Bridge Using NDT",
+      "year": 2025,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1155/je/1096697",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/je/1096697?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/je/1096697, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Journal of Engineering",
+        "volume": "2025"
+      },
+      "authors": [
+        {
+          "authorId": "2349448646",
+          "name": "Mohammed O. Hussein"
+        },
+        {
+          "authorId": "2277975091",
+          "name": "Akram S. Mahmoud"
+        }
+      ],
+      "abstract": "Many of the Iraqi highway bridges (especially in Anbar Province) are in poor condition even after they have been checked and determined to satisfy acceptable standards due to the effect of many risk factors. These risks are related to factors such as the age of the reinforced concrete (RC) structure, the type of construction, the deterioration of the materials, attacks by the environment, high traffic volume, wars, auto accidents, and inadequate capacity. Bridges’ service lives decrease due to these conditions, which also contribute to structural degradation. This study demonstrates that the assessment method of bridges can help transportation agencies make more quantitative and clear decisions for bridge repair by using concrete compressive strength estimation of prestressed concrete bridge girders as an indicator for service life prediction. Nondestructive testing (NDT) was used to determine the concrete’s compressive strength by testing the prestress girders using an ultrasonic pulse velocity (UPV) test and a Schmidt hammer rebound number (RN) test. An accurate estimation was produced by combining the results of each test into a formula. The current paper is aimed at verifying the validity of girder assessment for concrete bridges. Bridge deficiencies can be reduced in two strategies with the use of NDT techniques. According to the results, the compressive strength range for new girders was 29.7–33.96 MPa, while the range for old girders was 20.47–26.36 MPa. This study indicated that compressive strength decreases with time, emphasizing the importance of precise measurement for the lifetime of structures. The modulus of elasticity calculation revealed a severe deterioration over time, affecting the concrete’s resistance to deformation. In order to understand the strength and deformation of concrete properties, stress–strain relationships were investigated. Although emphasizing the requirement for precise and reliable findings, the NDT cost research acknowledged the expenses associated with NDT equipment and testing procedures. To estimate if using NDT techniques to analyze concrete is cost‐effective, the study team had conversations with engineers and consulting businesses. Precision, affordability, and flexibility were among the characteristics considered in the weighted evaluations used to compare various NDT procedures. The results of this study show that using UPV is preferable than using the rebound hammer technique."
+    }
+  },
+  {
+    "paper_id": "f5b9c1983b42748c844481a55c3a9c9129b42d77",
+    "title": "A novel asynchronous-pouring-construction technology for prestressed concrete box girder bridges with corrugated steel webs",
+    "authors": "Jun He, Xiang Li, Chuanxi Li, J. Correia, H. Xin, Man Zhou",
+    "journal": "Structures",
+    "publish_year": "2020",
+    "abstract": "Owing to the superior mechanical performance and material efficiency, the combination of prestressed concrete (PC) slabs and corrugated steel webs (CSW) as PC girder with CSWs (PCGCSW) is extensively applied to railway and highway bridges. To overcome the shortcomings of traditional balanced cantilever construction (TBCC) of PCGCSW, reduce environmental impact, and promote sustainable construction, a novel asynchronous-pouring-construction (APC) technology is introduced in this paper. This improved method makes full use of the excellent shear capacity of the corrugated steel webs (CSWs) to support the hanging basket, increases the construction platforms to accelerate the construction speed. Based on a practical project of a long-span composite box girder bridge with CSWs in China, the construction process of the APC method is systematically introduced, and the structural safety and environmental sustainability of such bridge using APC technology are evaluated and compared with that using TBCC. The comparison results indicate that APC method can reduce the compressive stress of top concrete slab, but slightly increase the shear stress and deflection during the cantilever construction stage because the hanging basket is directly supported by CSWs. Besides, the weight of the improved handing basket in APC technology is reduced up to half in comparison that in TBCC. Accordingly, the APC technology saves a lot of energy consumption, reduces huge CO2 emissions for construction equipment, and shorts construction period. Therefore, the utilization of APRC technology can ensure the bridge's safety and reliability, effectively accelerate construction speed, reduce the construction load, decrease the environmental pollution, and save the engineering cost, which can be regarded as a sustainable and environmental-friendly construction method for composite bridges with CSWs.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.istruc.2020.07.077",
+    "url": "https://www.semanticscholar.org/paper/f5b9c1983b42748c844481a55c3a9c9129b42d77",
+    "citation_count": 34,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "f5b9c1983b42748c844481a55c3a9c9129b42d77",
+      "externalIds": {
+        "MAG": "3049733544",
+        "DOI": "10.1016/j.istruc.2020.07.077",
+        "CorpusId": 224914351
+      },
+      "url": "https://www.semanticscholar.org/paper/f5b9c1983b42748c844481a55c3a9c9129b42d77",
+      "title": "A novel asynchronous-pouring-construction technology for prestressed concrete box girder bridges with corrugated steel webs",
+      "year": 2020,
+      "citationCount": 34,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.istruc.2020.07.077",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.istruc.2020.07.077?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.istruc.2020.07.077, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Structures"
+      },
+      "authors": [
+        {
+          "authorId": "122001006",
+          "name": "Jun He"
+        },
+        {
+          "authorId": "47057383",
+          "name": "Xiang Li"
+        },
+        {
+          "authorId": "1904261",
+          "name": "Chuanxi Li"
+        },
+        {
+          "authorId": "39191489",
+          "name": "J. Correia"
+        },
+        {
+          "authorId": "98000964",
+          "name": "H. Xin"
+        },
+        {
+          "authorId": "102137715",
+          "name": "Man Zhou"
+        }
+      ],
+      "abstract": "Owing to the superior mechanical performance and material efficiency, the combination of prestressed concrete (PC) slabs and corrugated steel webs (CSW) as PC girder with CSWs (PCGCSW) is extensively applied to railway and highway bridges. To overcome the shortcomings of traditional balanced cantilever construction (TBCC) of PCGCSW, reduce environmental impact, and promote sustainable construction, a novel asynchronous-pouring-construction (APC) technology is introduced in this paper. This improved method makes full use of the excellent shear capacity of the corrugated steel webs (CSWs) to support the hanging basket, increases the construction platforms to accelerate the construction speed. Based on a practical project of a long-span composite box girder bridge with CSWs in China, the construction process of the APC method is systematically introduced, and the structural safety and environmental sustainability of such bridge using APC technology are evaluated and compared with that using TBCC. The comparison results indicate that APC method can reduce the compressive stress of top concrete slab, but slightly increase the shear stress and deflection during the cantilever construction stage because the hanging basket is directly supported by CSWs. Besides, the weight of the improved handing basket in APC technology is reduced up to half in comparison that in TBCC. Accordingly, the APC technology saves a lot of energy consumption, reduces huge CO2 emissions for construction equipment, and shorts construction period. Therefore, the utilization of APRC technology can ensure the bridge's safety and reliability, effectively accelerate construction speed, reduce the construction load, decrease the environmental pollution, and save the engineering cost, which can be regarded as a sustainable and environmental-friendly construction method for composite bridges with CSWs."
+    }
+  },
+  {
+    "paper_id": "6c22b454478b52df6742dce17ae911858a13d25f",
+    "title": "Experimental Study on the Flexural Performance of the Corrosion-Affected Simply Supported Prestressed Concrete Box Girder in a High-Speed Railway",
+    "authors": "Hai Li, Yuanguang Qiu, Zhicheng Pan, Yiming Yang, Huang Tang, Fanjun Ma",
+    "journal": "Buildings",
+    "publish_year": "2024",
+    "abstract": "Prestressed concrete box girders are commonly employed in the development of high-speed railway bridge constructions. The prestressed strands in the girder may corrode due to long-term chloride erosion, leading to the degradation of its flexural performance. To examine the flexural performance of corrosion-affected simply supported prestressed concrete box girders, eight T-shaped mock-up beams related to the girders used in the construction of high-speed railway bridges were manufactured utilizing similarity theory. Seven of the beams underwent electrochemical accelerated corrosion, and then each beam was subjected to failure under the four-point load test method. Measurements recorded and analyzed in detail during the loading process included the following: crack propagation, crack width at various loads, crack load, ultimate load, deflection, and concrete strain of the mid-span section. The results demonstrate that a corrosion rate of just 8.31% has a considerable impact on the structural integrity of the beams, as evidenced by a pronounced reduction in flexural cracks and a tendency towards reduced reinforcement failure. Furthermore, the corrosive process has a detrimental effect on mid-span deflection, ductility, and ultimate flexural bearing capacity, which could have significant implications for bridge safety. This study provides valuable insights for the assessment of flexural performance and the development of appropriate maintenance strategies for corroded simply supported box girders in high-speed railways.",
+    "keywords": [],
+    "doi": "10.3390/buildings14103322",
+    "url": "https://www.semanticscholar.org/paper/6c22b454478b52df6742dce17ae911858a13d25f",
+    "citation_count": 4,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "6c22b454478b52df6742dce17ae911858a13d25f",
+      "externalIds": {
+        "DOI": "10.3390/buildings14103322",
+        "CorpusId": 273526740
+      },
+      "url": "https://www.semanticscholar.org/paper/6c22b454478b52df6742dce17ae911858a13d25f",
+      "title": "Experimental Study on the Flexural Performance of the Corrosion-Affected Simply Supported Prestressed Concrete Box Girder in a High-Speed Railway",
+      "year": 2024,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/buildings14103322",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings14103322?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings14103322, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "2265924513",
+          "name": "Hai Li"
+        },
+        {
+          "authorId": "2153278165",
+          "name": "Yuanguang Qiu"
+        },
+        {
+          "authorId": "2277241477",
+          "name": "Zhicheng Pan"
+        },
+        {
+          "authorId": "2396711462",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "2266147087",
+          "name": "Huang Tang"
+        },
+        {
+          "authorId": "2291339162",
+          "name": "Fanjun Ma"
+        }
+      ],
+      "abstract": "Prestressed concrete box girders are commonly employed in the development of high-speed railway bridge constructions. The prestressed strands in the girder may corrode due to long-term chloride erosion, leading to the degradation of its flexural performance. To examine the flexural performance of corrosion-affected simply supported prestressed concrete box girders, eight T-shaped mock-up beams related to the girders used in the construction of high-speed railway bridges were manufactured utilizing similarity theory. Seven of the beams underwent electrochemical accelerated corrosion, and then each beam was subjected to failure under the four-point load test method. Measurements recorded and analyzed in detail during the loading process included the following: crack propagation, crack width at various loads, crack load, ultimate load, deflection, and concrete strain of the mid-span section. The results demonstrate that a corrosion rate of just 8.31% has a considerable impact on the structural integrity of the beams, as evidenced by a pronounced reduction in flexural cracks and a tendency towards reduced reinforcement failure. Furthermore, the corrosive process has a detrimental effect on mid-span deflection, ductility, and ultimate flexural bearing capacity, which could have significant implications for bridge safety. This study provides valuable insights for the assessment of flexural performance and the development of appropriate maintenance strategies for corroded simply supported box girders in high-speed railways."
+    }
+  }
+]

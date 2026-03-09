@@ -1,0 +1,728 @@
+[
+  {
+    "paper_id": "e81fa76e11ca280565608e948087fe83fe6d04bd",
+    "title": "Life cycle assessment of SBS modified bitumen waterproofing membrane",
+    "authors": "Tao Chen, Yan Zheng, Yu Liu, Xiaoqing Li, Xianzheng Gong",
+    "journal": "Journal of Physics: Conference Series",
+    "publish_year": "2023",
+    "abstract": "Building waterproofing membranes constitute essential components of construction materials. This study utilizes the life cycle assessment (LCA) methodology to develop a comprehensive life cycle inventory and conduct an environmental impact assessment of typical styrene-butadiene-styrene (SBS) modified bitumen waterproofing membrane products. The main research objective of this paper is to identify the key factors influencing the environmental impact of products and to provide data for the selection of green materials in the construction industry. The results reveal that the production of raw materials for SBS-modified bitumen waterproofing membranes contributes the most to all environmental impact categories, followed by the transportation and energy production stages, while the production stage of the membranes exhibits a relatively smaller contribution. Within the raw material production stage, the bitumen production process exhibits the highest contribution to fossil fuel depletion (FFP) environmental impact, surpassing 50%. The production process of polyester tire cloth demonstrates the greatest influence on human toxicity potential (HTPc), global warming potential (GWP), freshwater eutrophication (FEP), marine eutrophication potential (MEP), and mineral resource scarcity potential (SOP), accounting for 54.63%, 32.86%, 68.55%, 72.41%, and 61.69%, respectively. Additionally, the production process of base oil exhibits the most significant contribution to fine particulate matter formation (PMFP) and terrestrial acidification potential (AP) among the environmental impact indicators. Variations in the quantities of polyester tire cloth and base oil exhibit the most notable influence on the environmental indicators of the product. Specifically, the sensitivity analysis reveals that polyester tire cloth has the greatest impact on mineral resource scarcity potential (SOP); base oil exhibits the highest sensitivity to fossil fuel depletion (FFP).",
+    "keywords": [
+      "Physics"
+    ],
+    "doi": "10.1088/1742-6596/2639/1/012007",
+    "url": "https://www.semanticscholar.org/paper/e81fa76e11ca280565608e948087fe83fe6d04bd",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "e81fa76e11ca280565608e948087fe83fe6d04bd",
+      "externalIds": {
+        "DOI": "10.1088/1742-6596/2639/1/012007",
+        "CorpusId": 265410963
+      },
+      "url": "https://www.semanticscholar.org/paper/e81fa76e11ca280565608e948087fe83fe6d04bd",
+      "title": "Life cycle assessment of SBS modified bitumen waterproofing membrane",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://iopscience.iop.org/article/10.1088/1742-6596/2639/1/012007/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/2639/1/012007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/2639/1/012007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "journal": {
+        "name": "Journal of Physics: Conference Series",
+        "volume": "2639"
+      },
+      "authors": [
+        {
+          "authorId": "2267702896",
+          "name": "Tao Chen"
+        },
+        {
+          "authorId": "2268253791",
+          "name": "Yan Zheng"
+        },
+        {
+          "authorId": "2268102578",
+          "name": "Yu Liu"
+        },
+        {
+          "authorId": "2268185454",
+          "name": "Xiaoqing Li"
+        },
+        {
+          "authorId": "2268303162",
+          "name": "Xianzheng Gong"
+        }
+      ],
+      "abstract": "Building waterproofing membranes constitute essential components of construction materials. This study utilizes the life cycle assessment (LCA) methodology to develop a comprehensive life cycle inventory and conduct an environmental impact assessment of typical styrene-butadiene-styrene (SBS) modified bitumen waterproofing membrane products. The main research objective of this paper is to identify the key factors influencing the environmental impact of products and to provide data for the selection of green materials in the construction industry. The results reveal that the production of raw materials for SBS-modified bitumen waterproofing membranes contributes the most to all environmental impact categories, followed by the transportation and energy production stages, while the production stage of the membranes exhibits a relatively smaller contribution. Within the raw material production stage, the bitumen production process exhibits the highest contribution to fossil fuel depletion (FFP) environmental impact, surpassing 50%. The production process of polyester tire cloth demonstrates the greatest influence on human toxicity potential (HTPc), global warming potential (GWP), freshwater eutrophication (FEP), marine eutrophication potential (MEP), and mineral resource scarcity potential (SOP), accounting for 54.63%, 32.86%, 68.55%, 72.41%, and 61.69%, respectively. Additionally, the production process of base oil exhibits the most significant contribution to fine particulate matter formation (PMFP) and terrestrial acidification potential (AP) among the environmental impact indicators. Variations in the quantities of polyester tire cloth and base oil exhibit the most notable influence on the environmental indicators of the product. Specifically, the sensitivity analysis reveals that polyester tire cloth has the greatest impact on mineral resource scarcity potential (SOP); base oil exhibits the highest sensitivity to fossil fuel depletion (FFP)."
+    }
+  },
+  {
+    "paper_id": "7c59ec144ae4d255a6258b7b8e1ac0cc7f7931ea",
+    "title": "Research on a new adaptive roof waterproofing membrane to improve water resistance of traditional Chinese timber buildings",
+    "authors": "Qing Chun, Hui Jin, Yiwei Hua, Wenjie Zang, Xu Lin, Jiheng Jiang",
+    "journal": "Journal of Asian Architecture and Building Engineering",
+    "publish_year": "2021",
+    "abstract": "ABSTRACT The roof configurations of traditional Chinese timber buildings are unique and noticeably different from those of modern buildings, and their roof waterproofing performance is typically very poor. To improve their waterproofing performance, a new adaptive waterproofing membrane was developed and examined. First, typical roof configurations of traditional Chinese timber buildings were investigated and categorized. Then, finite element models of four typical roofs were established in ANSYS, and the stress distributions at the interfaces between the waterproofing membrane layer and adjacent roof layers were studied. Finally, a new adaptive roof waterproofing membrane for traditional Chinese timber buildings was developed, and relevant experiments on its material properties and mechanical performance were carried out. The properties of the new membrane were compared with those of ethylene propylene diene monomer, styrene-butadiene-styrene and atactic polypropylene waterproofing membranes. The results showed that the new waterproofing membrane has very good material properties and can meet the structural safety requirements for the roofs of traditional Chinese timber buildings. This membrane may also provide an adaptive conservation solution for such buildings and can substantially improve the waterproofing performance and durability. Graphical Abstract",
+    "keywords": [],
+    "doi": "10.1080/13467581.2021.2007107",
+    "url": "https://www.semanticscholar.org/paper/7c59ec144ae4d255a6258b7b8e1ac0cc7f7931ea",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "7c59ec144ae4d255a6258b7b8e1ac0cc7f7931ea",
+      "externalIds": {
+        "DOI": "10.1080/13467581.2021.2007107",
+        "CorpusId": 244741757
+      },
+      "url": "https://www.semanticscholar.org/paper/7c59ec144ae4d255a6258b7b8e1ac0cc7f7931ea",
+      "title": "Research on a new adaptive roof waterproofing membrane to improve water resistance of traditional Chinese timber buildings",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1080/13467581.2021.2007107",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/13467581.2021.2007107?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/13467581.2021.2007107, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Asian Architecture and Building Engineering",
+        "pages": "2444 - 2465",
+        "volume": "21"
+      },
+      "authors": [
+        {
+          "authorId": "15894978",
+          "name": "Qing Chun"
+        },
+        {
+          "authorId": "145509914",
+          "name": "Hui Jin"
+        },
+        {
+          "authorId": "145053945",
+          "name": "Yiwei Hua"
+        },
+        {
+          "authorId": "2142600562",
+          "name": "Wenjie Zang"
+        },
+        {
+          "authorId": "2118199891",
+          "name": "Xu Lin"
+        },
+        {
+          "authorId": "30845212",
+          "name": "Jiheng Jiang"
+        }
+      ],
+      "abstract": "ABSTRACT The roof configurations of traditional Chinese timber buildings are unique and noticeably different from those of modern buildings, and their roof waterproofing performance is typically very poor. To improve their waterproofing performance, a new adaptive waterproofing membrane was developed and examined. First, typical roof configurations of traditional Chinese timber buildings were investigated and categorized. Then, finite element models of four typical roofs were established in ANSYS, and the stress distributions at the interfaces between the waterproofing membrane layer and adjacent roof layers were studied. Finally, a new adaptive roof waterproofing membrane for traditional Chinese timber buildings was developed, and relevant experiments on its material properties and mechanical performance were carried out. The properties of the new membrane were compared with those of ethylene propylene diene monomer, styrene-butadiene-styrene and atactic polypropylene waterproofing membranes. The results showed that the new waterproofing membrane has very good material properties and can meet the structural safety requirements for the roofs of traditional Chinese timber buildings. This membrane may also provide an adaptive conservation solution for such buildings and can substantially improve the waterproofing performance and durability. Graphical Abstract"
+    }
+  },
+  {
+    "paper_id": "cb3d0521f2dcb5aa079447e3c527834652a01563",
+    "title": "Degradation of PVC Waterproofing Membrane containing Plasticizers",
+    "authors": "M. Novotný",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "publish_year": "2020",
+    "abstract": "Durability and repairability are one of the basic conditions for the economically efficient use of building materials. The actual lifetime of PVC waterproofing membrane is not only affected by the ageing of the materials, but also by the ageing of the joints. Thus, a significant phenomenon in the evaluation of the lifetime of roof cladding is its realisation - welding. Plasticizers are used for the production of PVC waterproofing membrane. The migration of the plasticizers and the quantity of non-combustible residues (fillers) influence the service life (durability) and the possibility of subsequent repair. Methods used to determine the quantity of non-combustible residues and quantity of plasticizers are described in the paper. Samples were taken from roofs with degrading roofing layer. Based on the results, the lifetime of the PVC waterproofing membrane was determined in dependence on the plasticizers.",
+    "keywords": [
+      "Physics",
+      "Materials Science"
+    ],
+    "doi": "10.1088/1757-899X/728/1/012008",
+    "url": "https://www.semanticscholar.org/paper/cb3d0521f2dcb5aa079447e3c527834652a01563",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "cb3d0521f2dcb5aa079447e3c527834652a01563",
+      "externalIds": {
+        "MAG": "3006951616",
+        "DOI": "10.1088/1757-899X/728/1/012008",
+        "CorpusId": 214116357
+      },
+      "url": "https://www.semanticscholar.org/paper/cb3d0521f2dcb5aa079447e3c527834652a01563",
+      "title": "Degradation of PVC Waterproofing Membrane containing Plasticizers",
+      "year": 2020,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1757-899x/728/1/012008",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/728/1/012008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/728/1/012008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Materials Science"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "IOP Conference Series: Materials Science and Engineering",
+        "volume": "728"
+      },
+      "authors": [
+        {
+          "authorId": "50270002",
+          "name": "M. Novotný"
+        }
+      ],
+      "abstract": "Durability and repairability are one of the basic conditions for the economically efficient use of building materials. The actual lifetime of PVC waterproofing membrane is not only affected by the ageing of the materials, but also by the ageing of the joints. Thus, a significant phenomenon in the evaluation of the lifetime of roof cladding is its realisation - welding. Plasticizers are used for the production of PVC waterproofing membrane. The migration of the plasticizers and the quantity of non-combustible residues (fillers) influence the service life (durability) and the possibility of subsequent repair. Methods used to determine the quantity of non-combustible residues and quantity of plasticizers are described in the paper. Samples were taken from roofs with degrading roofing layer. Based on the results, the lifetime of the PVC waterproofing membrane was determined in dependence on the plasticizers."
+    }
+  },
+  {
+    "paper_id": "8d0bc945995836d924c299e3d0e1ce8820bbdf8f",
+    "title": "Study on the superiority of a high polymer (HDPE) self-adhered waterproofing membrane in construction",
+    "authors": "Yudian Li, Na Li, Yanjun Shi, Zhijun Jia",
+    "journal": "E3S Web of Conferences",
+    "publish_year": "2020",
+    "abstract": "With the rapid development of urbanization in China, people’s requirements for the quality of life and environment are constantly improving. However, the shortage of resources and the deterioration of environment are becoming more and more serious. Environmental protection has become the only way for the sustainable development of society. Therefore, the application of more and more new green building materials has become the key to the sustainable development of the construction industry. In the face of the rapid development of modern construction industry, engineering quality and functional requirements have become the basic requirements, the green environmental protection has become a higher requirement. The application of green environmental protection building materials in engineering construction is the main development direction of the transformation of modern construction industry. At the same time, it conforms to the policy of environmentally sustainable development of all sectors of society, and promotes the construction industry to meet the higher requirements of green environmental protection living environment. This paper studied the performance and waterproof mechanism of a kind of high polymer (HDPE) self-adhered waterproofing membrane and its application in construction. Compared with the traditional waterproofing membrane, the high polymer self-adhered waterproofing membrane can give full play to the advantages of environmental protection on the premise of meeting the building quality.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1051/e3sconf/202019405014",
+    "url": "https://www.semanticscholar.org/paper/8d0bc945995836d924c299e3d0e1ce8820bbdf8f",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "8d0bc945995836d924c299e3d0e1ce8820bbdf8f",
+      "externalIds": {
+        "MAG": "3160417693",
+        "DOI": "10.1051/e3sconf/202019405014",
+        "CorpusId": 249209300
+      },
+      "url": "https://www.semanticscholar.org/paper/8d0bc945995836d924c299e3d0e1ce8820bbdf8f",
+      "title": "Study on the superiority of a high polymer (HDPE) self-adhered waterproofing membrane in construction",
+      "year": 2020,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1051/e3sconf/202019405014",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/e3sconf/202019405014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/e3sconf/202019405014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Materials Science"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "E3S Web of Conferences"
+      },
+      "authors": [
+        {
+          "authorId": "2111162813",
+          "name": "Yudian Li"
+        },
+        {
+          "authorId": "2249757764",
+          "name": "Na Li"
+        },
+        {
+          "authorId": "2119036828",
+          "name": "Yanjun Shi"
+        },
+        {
+          "authorId": "2276753920",
+          "name": "Zhijun Jia"
+        }
+      ],
+      "abstract": "With the rapid development of urbanization in China, people’s requirements for the quality of life and environment are constantly improving. However, the shortage of resources and the deterioration of environment are becoming more and more serious. Environmental protection has become the only way for the sustainable development of society. Therefore, the application of more and more new green building materials has become the key to the sustainable development of the construction industry. In the face of the rapid development of modern construction industry, engineering quality and functional requirements have become the basic requirements, the green environmental protection has become a higher requirement. The application of green environmental protection building materials in engineering construction is the main development direction of the transformation of modern construction industry. At the same time, it conforms to the policy of environmentally sustainable development of all sectors of society, and promotes the construction industry to meet the higher requirements of green environmental protection living environment. This paper studied the performance and waterproof mechanism of a kind of high polymer (HDPE) self-adhered waterproofing membrane and its application in construction. Compared with the traditional waterproofing membrane, the high polymer self-adhered waterproofing membrane can give full play to the advantages of environmental protection on the premise of meeting the building quality."
+    }
+  },
+  {
+    "paper_id": "0715ec25016b05b0c5bf8492add846f9ee6476d4",
+    "title": "DISCUSSION ON OPTIMIZED SHAPE AND SIZE OF AREA FOR APPLYING POLYURETHANE WATERPROOFING MEMBRANE",
+    "authors": "Yuji Hosshin, Hiroshi Nachi, Saori Ishihara, K. Nakano, Kyoji Tanaka",
+    "journal": "Journal of Structural and Construction Engineering (Transactions of AIJ)",
+    "publish_year": "2019",
+    "abstract": "Some experiments of polyurethane waterproofing membranes application were carried in various areas on an actual building and in a laboratory. It was revealed that the application work consists of the two processes, pouring polyurethane materials on substrate and spreading it and the shape and size of an area influences both thickness of a membrane and working hours. It was concluded that the shape and size as well asworkinghoursshouldbe takeninto consideration to decide optimizedareaon-site inanactual building. A polyurethane waterproofing membrane is made through the process of applying liquid polyurethane on substrate and then being cured on site. Therefore, the control of thickness of a membrane is the most important matter of concern in construction management. As a membrane was made by the work of a workman using tools such as a trowel or a squeegee, the shape and size of application area of roof floor par a worker is considered to affect the thickness of a membrane. This study is composed of the two works as follows, the experiment to know the effect of division of area before application and the one to make clear the suitable shape and size of area for a workman. In the first experiment, polyurethane material was applied on the exactly controlled area (4.0m×2.0m in size) and the not controlled area in a roof floor of an actual building. An observation during the work and a measurement of thickness of the membranes after cured revealed that the application work is consisted of the two steps of work such as pouring material on the substrate and then spreading it and indicating the shape and size of an area strictly before application is quite effective to make a membrane of enough thickness. In the second experiment, the effect of the shape and size of application area was furthermore discussed. As for pouring work, polyurethane material was flowed down from a small container in the areas of three levels of length such as 9.0m,5.15m and 3.6m (0.8m, 1.4m and 2.0m long respectively) and then the weights of the material, cut into 10 pieces in length, were measured after completely curing. It was made clear the dispersion of weight was increased according to the increase of the length of an area. As for spreading work, the area of three levels of width such as 0.8m, 1.4m and 2.0m (9.0m, 5.15m and 3.6m wide respectively) were prepared and the polyurethane material placed in the areas was spread by two kinds of tools, a trowel and a squeegee. And then distribution of thickness of cured membranes and working hours through the work were measured. According as the application width became wider, the dispersion of thickness of membranes noticeably increased but working hours slightly decreased for trowel application. For squeegee application, not so much change was observed in dispersion but working hours was increased. By the above studies, the following results were obtained.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.3130/aijs.84.1145",
+    "url": "https://www.semanticscholar.org/paper/0715ec25016b05b0c5bf8492add846f9ee6476d4",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "0715ec25016b05b0c5bf8492add846f9ee6476d4",
+      "externalIds": {
+        "MAG": "2977986845",
+        "DOI": "10.3130/aijs.84.1145",
+        "CorpusId": 210520590
+      },
+      "url": "https://www.semanticscholar.org/paper/0715ec25016b05b0c5bf8492add846f9ee6476d4",
+      "title": "DISCUSSION ON OPTIMIZED SHAPE AND SIZE OF AREA FOR APPLYING POLYURETHANE WATERPROOFING MEMBRANE",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://www.jstage.jst.go.jp/article/aijs/84/763/84_1145/_pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3130/aijs.84.1145?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3130/aijs.84.1145, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Materials Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Structural and Construction Engineering (Transactions of AIJ)"
+      },
+      "authors": [
+        {
+          "authorId": "98006845",
+          "name": "Yuji Hosshin"
+        },
+        {
+          "authorId": "98597529",
+          "name": "Hiroshi Nachi"
+        },
+        {
+          "authorId": "98176696",
+          "name": "Saori Ishihara"
+        },
+        {
+          "authorId": "51454917",
+          "name": "K. Nakano"
+        },
+        {
+          "authorId": "32782252",
+          "name": "Kyoji Tanaka"
+        }
+      ],
+      "abstract": "Some experiments of polyurethane waterproofing membranes application were carried in various areas on an actual building and in a laboratory. It was revealed that the application work consists of the two processes, pouring polyurethane materials on substrate and spreading it and the shape and size of an area influences both thickness of a membrane and working hours. It was concluded that the shape and size as well asworkinghoursshouldbe takeninto consideration to decide optimizedareaon-site inanactual building. A polyurethane waterproofing membrane is made through the process of applying liquid polyurethane on substrate and then being cured on site. Therefore, the control of thickness of a membrane is the most important matter of concern in construction management. As a membrane was made by the work of a workman using tools such as a trowel or a squeegee, the shape and size of application area of roof floor par a worker is considered to affect the thickness of a membrane. This study is composed of the two works as follows, the experiment to know the effect of division of area before application and the one to make clear the suitable shape and size of area for a workman. In the first experiment, polyurethane material was applied on the exactly controlled area (4.0m×2.0m in size) and the not controlled area in a roof floor of an actual building. An observation during the work and a measurement of thickness of the membranes after cured revealed that the application work is consisted of the two steps of work such as pouring material on the substrate and then spreading it and indicating the shape and size of an area strictly before application is quite effective to make a membrane of enough thickness. In the second experiment, the effect of the shape and size of application area was furthermore discussed. As for pouring work, polyurethane material was flowed down from a small container in the areas of three levels of length such as 9.0m,5.15m and 3.6m (0.8m, 1.4m and 2.0m long respectively) and then the weights of the material, cut into 10 pieces in length, were measured after completely curing. It was made clear the dispersion of weight was increased according to the increase of the length of an area. As for spreading work, the area of three levels of width such as 0.8m, 1.4m and 2.0m (9.0m, 5.15m and 3.6m wide respectively) were prepared and the polyurethane material placed in the areas was spread by two kinds of tools, a trowel and a squeegee. And then distribution of thickness of cured membranes and working hours through the work were measured. According as the application width became wider, the dispersion of thickness of membranes noticeably increased but working hours slightly decreased for trowel application. For squeegee application, not so much change was observed in dispersion but working hours was increased. By the above studies, the following results were obtained."
+    }
+  },
+  {
+    "paper_id": "2d75fd98974f747ef3b5b3666c24ef1be46c9ff3",
+    "title": "Study on the improvement of freeze resistance of historical architectural bricks by organo silicon waterproofing agent",
+    "authors": "Tingting Yue, Xizhi Zhang, Jianwei Yue, Jiangbo Yuan, Jingwen Yue",
+    "journal": "Scientific Reports",
+    "publish_year": "2025",
+    "abstract": "In the long-term natural environment, the durability of historical building bricks is reduced due to the influence of acid and alkali erosion. In this paper, the silicone waterproofing agent of 0%, 1%, 2% and 3% concentration was infiltrated into the old brick by vacuum preloading, and the influence of different concentrations of waterproofing agent on the acid and alkali resistance of the brick was studied. The durability of improved brick was analyzed by acid-alkali erosion test water absorption test and compressive strength test and its microstructure was observed by scanning electron microscope. The results show that silicone waterproofing agent can change the internal microstructure of bricks, reduce internal pores, increase the compactness between skeleton particles, and the formed waterproofing membrane can improve the hydrophobic characteristics of surface tension, thus effectively improving the water resistance, mechanical properties and durability of bricks. 3% silicone waterproofing agent can effectively resist capillary water and acid and alkali damage. The research results provide a new idea for the restoration of ancient buildings in Central Plains.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1038/s41598-025-08263-0",
+    "url": "https://www.semanticscholar.org/paper/2d75fd98974f747ef3b5b3666c24ef1be46c9ff3",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "2d75fd98974f747ef3b5b3666c24ef1be46c9ff3",
+      "externalIds": {
+        "PubMedCentral": "12215047",
+        "DOI": "10.1038/s41598-025-08263-0",
+        "CorpusId": 279793368,
+        "PubMed": "40593195"
+      },
+      "url": "https://www.semanticscholar.org/paper/2d75fd98974f747ef3b5b3666c24ef1be46c9ff3",
+      "title": "Study on the improvement of freeze resistance of historical architectural bricks by organo silicon waterproofing agent",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12215047, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Scientific Reports",
+        "volume": "15"
+      },
+      "authors": [
+        {
+          "authorId": "2160342455",
+          "name": "Tingting Yue"
+        },
+        {
+          "authorId": "2346289343",
+          "name": "Xizhi Zhang"
+        },
+        {
+          "authorId": "2346134114",
+          "name": "Jianwei Yue"
+        },
+        {
+          "authorId": "2283258690",
+          "name": "Jiangbo Yuan"
+        },
+        {
+          "authorId": "2369910233",
+          "name": "Jingwen Yue"
+        }
+      ],
+      "abstract": "In the long-term natural environment, the durability of historical building bricks is reduced due to the influence of acid and alkali erosion. In this paper, the silicone waterproofing agent of 0%, 1%, 2% and 3% concentration was infiltrated into the old brick by vacuum preloading, and the influence of different concentrations of waterproofing agent on the acid and alkali resistance of the brick was studied. The durability of improved brick was analyzed by acid-alkali erosion test water absorption test and compressive strength test and its microstructure was observed by scanning electron microscope. The results show that silicone waterproofing agent can change the internal microstructure of bricks, reduce internal pores, increase the compactness between skeleton particles, and the formed waterproofing membrane can improve the hydrophobic characteristics of surface tension, thus effectively improving the water resistance, mechanical properties and durability of bricks. 3% silicone waterproofing agent can effectively resist capillary water and acid and alkali damage. The research results provide a new idea for the restoration of ancient buildings in Central Plains."
+    }
+  },
+  {
+    "paper_id": "b7471144463416b41e9ce3ba655b9e932f40ba1a",
+    "title": "Waterproofing practices in Australia for building construction",
+    "authors": "R. Sriravindrarajah, E. Tran",
+    "journal": "",
+    "publish_year": "2018",
+    "abstract": "Waterproofing is an essential component in building construction to maintain the integrity of buildings with reduced maintenance cost. A comprehensive waterproofing system is an integrated combination of factors, and includes product selection, membrane detail, substrate preparation, design, installation and maintenance. It is designed to work under different environmental conditions, substrates and applications. Proper understanding of the issues related to waterproofing membrane systems is important to minimise the waterproofing failures in both commercial and residential buildings. This paper aims to discuss Standards and Codes; membrane systems and performance, waterproofing practices, design and installation techniques, inspection and testing and quality assurance adopted by the waterproofing industry in Australia.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1051/MATECCONF/201819501002",
+    "url": "https://www.semanticscholar.org/paper/b7471144463416b41e9ce3ba655b9e932f40ba1a",
+    "citation_count": 5,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "b7471144463416b41e9ce3ba655b9e932f40ba1a",
+      "externalIds": {
+        "MAG": "2888474534",
+        "DOI": "10.1051/MATECCONF/201819501002",
+        "CorpusId": 117152718
+      },
+      "url": "https://www.semanticscholar.org/paper/b7471144463416b41e9ce3ba655b9e932f40ba1a",
+      "title": "Waterproofing practices in Australia for building construction",
+      "year": 2018,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2018/54/matecconf_icrmce2018_01002.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/MATECCONF/201819501002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/MATECCONF/201819501002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "",
+        "pages": "01002",
+        "volume": "195"
+      },
+      "authors": [
+        {
+          "authorId": "91969358",
+          "name": "R. Sriravindrarajah"
+        },
+        {
+          "authorId": "2299399421",
+          "name": "E. Tran"
+        }
+      ],
+      "abstract": "Waterproofing is an essential component in building construction to maintain the integrity of buildings with reduced maintenance cost. A comprehensive waterproofing system is an integrated combination of factors, and includes product selection, membrane detail, substrate preparation, design, installation and maintenance. It is designed to work under different environmental conditions, substrates and applications. Proper understanding of the issues related to waterproofing membrane systems is important to minimise the waterproofing failures in both commercial and residential buildings. This paper aims to discuss Standards and Codes; membrane systems and performance, waterproofing practices, design and installation techniques, inspection and testing and quality assurance adopted by the waterproofing industry in Australia."
+    }
+  },
+  {
+    "paper_id": "e685cbc4aa8dfe266265d44531f70d432551fb05",
+    "title": "An Investigation of the Effects of Thermo-Oxidative Aging and the Freeze–Thaw Cycle on the Performance of Polyester-Based, Self-Adhesive Asphalt Waterproofing Membranes",
+    "authors": "Jun Tan, Chao Zhang, Guojun Sun, Xingpeng Ma, Hongwei Du",
+    "journal": "Applied Sciences",
+    "publish_year": "2024",
+    "abstract": "Polyester-based, self-adhesive asphalt waterproofing membranes have garnered significant attention due to their extensive use in building-waterproofing projects, with their resistance to aging in complex environments being particularly crucial. This study evaluates the performance changes of these membranes under thermo-oxidative aging and freeze–thaw cycling conditions. The thermo-oxidative aging process was simulated using a thin-film oven and combined with freeze–thaw cycle tests to assess membrane performance at various aging stages. Changes in functional groups were analyzed via Fourier Transform Infrared Spectroscopy (FTIR), and tests for low-temperature flexibility, tensile properties, and peel strength were conducted. The results demonstrated that aging significantly reduced the membrane’s low-temperature flexibility and peel strength, accompanied by oxidative reactions and a loss of lightweight components. This study provides essential data on the aging behavior of the membrane and offers a theoretical foundation for its long-term application in practical engineering.",
+    "keywords": [],
+    "doi": "10.3390/app14188237",
+    "url": "https://www.semanticscholar.org/paper/e685cbc4aa8dfe266265d44531f70d432551fb05",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "e685cbc4aa8dfe266265d44531f70d432551fb05",
+      "externalIds": {
+        "DOI": "10.3390/app14188237",
+        "CorpusId": 272611125
+      },
+      "url": "https://www.semanticscholar.org/paper/e685cbc4aa8dfe266265d44531f70d432551fb05",
+      "title": "An Investigation of the Effects of Thermo-Oxidative Aging and the Freeze–Thaw Cycle on the Performance of Polyester-Based, Self-Adhesive Asphalt Waterproofing Membranes",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/app14188237",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app14188237?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app14188237, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Applied Sciences"
+      },
+      "authors": [
+        {
+          "authorId": "2321150261",
+          "name": "Jun Tan"
+        },
+        {
+          "authorId": "2321067471",
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": "2321110537",
+          "name": "Guojun Sun"
+        },
+        {
+          "authorId": "2284530809",
+          "name": "Xingpeng Ma"
+        },
+        {
+          "authorId": "2321152279",
+          "name": "Hongwei Du"
+        }
+      ],
+      "abstract": "Polyester-based, self-adhesive asphalt waterproofing membranes have garnered significant attention due to their extensive use in building-waterproofing projects, with their resistance to aging in complex environments being particularly crucial. This study evaluates the performance changes of these membranes under thermo-oxidative aging and freeze–thaw cycling conditions. The thermo-oxidative aging process was simulated using a thin-film oven and combined with freeze–thaw cycle tests to assess membrane performance at various aging stages. Changes in functional groups were analyzed via Fourier Transform Infrared Spectroscopy (FTIR), and tests for low-temperature flexibility, tensile properties, and peel strength were conducted. The results demonstrated that aging significantly reduced the membrane’s low-temperature flexibility and peel strength, accompanied by oxidative reactions and a loss of lightweight components. This study provides essential data on the aging behavior of the membrane and offers a theoretical foundation for its long-term application in practical engineering."
+    }
+  },
+  {
+    "paper_id": "2d8790c25f892fabd1ca78ea90c29801ea7a2b2b",
+    "title": "RESEARCH ON CHARACTERISTICS AND RELIABILITY OF VARIOUS METHODS FOR MEASURING THICKNESS OF POLYURETHANE WATERPROOFING MEMBRANE",
+    "authors": "Yuji Hosshin, Saori Ishihara, Hikaru Watanabe, Hiroshi Nachi, Y. Takemoto, K. Kumagai, Yumiko Nakajima, Kyoji Tanaka",
+    "journal": "Aij Journal of Technology and Design",
+    "publish_year": "2015",
+    "abstract": "Field measurements of thickness of a polyurethane membrane applied on an actual building by four kinds ofmeasuringmethods such as ultrasonic wave measuring, eddy current measuring, needle penetration and direct measuring of cut-out specimens were first carried out, and the advantages and disadvantages of each method were discussed. As for the technique to collect a cut-out piece from a membrane, a new one of capable of reliably collecting using a punch of 10mm in diameter was developed. The specimens of various compositions and wide rage of thickness were prepared and their thickness measured carefully in a laboratory, and the accuracy of thickness by each measuring method was discussed. Finally the suitable combination between various thickness measuring methods and polyurethane membranes of different thicknesses and compositions was proposed.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.3130/AIJT.21.23",
+    "url": "https://www.semanticscholar.org/paper/2d8790c25f892fabd1ca78ea90c29801ea7a2b2b",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "2d8790c25f892fabd1ca78ea90c29801ea7a2b2b",
+      "externalIds": {
+        "MAG": "2333561893",
+        "DOI": "10.3130/AIJT.21.23",
+        "CorpusId": 111933916
+      },
+      "url": "https://www.semanticscholar.org/paper/2d8790c25f892fabd1ca78ea90c29801ea7a2b2b",
+      "title": "RESEARCH ON CHARACTERISTICS AND RELIABILITY OF VARIOUS METHODS FOR MEASURING THICKNESS OF POLYURETHANE WATERPROOFING MEMBRANE",
+      "year": 2015,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://www.jstage.jst.go.jp/article/aijt/21/47/21_23/_pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3130/AIJT.21.23?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3130/AIJT.21.23, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Aij Journal of Technology and Design",
+        "pages": "23-27",
+        "volume": "21"
+      },
+      "authors": [
+        {
+          "authorId": "98006845",
+          "name": "Yuji Hosshin"
+        },
+        {
+          "authorId": "98176696",
+          "name": "Saori Ishihara"
+        },
+        {
+          "authorId": "2111048177",
+          "name": "Hikaru Watanabe"
+        },
+        {
+          "authorId": "98597529",
+          "name": "Hiroshi Nachi"
+        },
+        {
+          "authorId": "48251845",
+          "name": "Y. Takemoto"
+        },
+        {
+          "authorId": "2052374579",
+          "name": "K. Kumagai"
+        },
+        {
+          "authorId": "2057140032",
+          "name": "Yumiko Nakajima"
+        },
+        {
+          "authorId": "32782252",
+          "name": "Kyoji Tanaka"
+        }
+      ],
+      "abstract": "Field measurements of thickness of a polyurethane membrane applied on an actual building by four kinds ofmeasuringmethods such as ultrasonic wave measuring, eddy current measuring, needle penetration and direct measuring of cut-out specimens were first carried out, and the advantages and disadvantages of each method were discussed. As for the technique to collect a cut-out piece from a membrane, a new one of capable of reliably collecting using a punch of 10mm in diameter was developed. The specimens of various compositions and wide rage of thickness were prepared and their thickness measured carefully in a laboratory, and the accuracy of thickness by each measuring method was discussed. Finally the suitable combination between various thickness measuring methods and polyurethane membranes of different thicknesses and compositions was proposed."
+    }
+  },
+  {
+    "paper_id": "8a7685c8f8f3e3bdc345456f13281c0b83804b0d",
+    "title": "Research Progress on Waterproofing Materials for Construction in China",
+    "authors": "之容 沈",
+    "journal": "Hans Journal of Civil Engineering",
+    "publish_year": "2024",
+    "abstract": "Waterproofing work is one of the essential guarantees for building functions. In China, the research on waterproofing materials started late, it had developed rapidly in recent years. Various of new materials have emerged recently, with fast research and development speed, wide variety of product kinds and diverse application scenarios. In this paper, the development history and research achievements of waterproofing materials in China since the 1970s were elaborated, covering four categories: rigid waterproofing material, waterproof membrane, waterproof coating and sealant material. The future research prospects of waterproofing materials are outlined.",
+    "keywords": [],
+    "doi": "10.12677/hjce.2024.139188",
+    "url": "https://www.semanticscholar.org/paper/8a7685c8f8f3e3bdc345456f13281c0b83804b0d",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "8a7685c8f8f3e3bdc345456f13281c0b83804b0d",
+      "externalIds": {
+        "DOI": "10.12677/hjce.2024.139188",
+        "CorpusId": 272795877
+      },
+      "url": "https://www.semanticscholar.org/paper/8a7685c8f8f3e3bdc345456f13281c0b83804b0d",
+      "title": "Research Progress on Waterproofing Materials for Construction in China",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12677/hjce.2024.139188?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12677/hjce.2024.139188, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Hans Journal of Civil Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "2322255724",
+          "name": "之容 沈"
+        }
+      ],
+      "abstract": "Waterproofing work is one of the essential guarantees for building functions. In China, the research on waterproofing materials started late, it had developed rapidly in recent years. Various of new materials have emerged recently, with fast research and development speed, wide variety of product kinds and diverse application scenarios. In this paper, the development history and research achievements of waterproofing materials in China since the 1970s were elaborated, covering four categories: rigid waterproofing material, waterproof membrane, waterproof coating and sealant material. The future research prospects of waterproofing materials are outlined."
+    }
+  },
+  {
+    "paper_id": "601833210017b82b962621a6e3c6e7e13607b017",
+    "title": "Experimental Study on Thermal Oxidative Aging Effects on the Performance and Compatibility of Different Types of Waterproofing Membranes",
+    "authors": "Shaochun Li, Yang Du, Wenbin Geng, Ruiyun Zhang, Guojun Sun, Xingpeng Ma",
+    "journal": "Polymers",
+    "publish_year": "2026",
+    "abstract": "As urbanization and extreme weather conditions intensify, the comprehensive performance requirements for building waterproofing systems are becoming more demanding. Single-layer waterproof membranes often struggle to meet usage requirements in complex environments, leading to the gradual rise of composite waterproof systems. This paper selects three different types of waterproof membranes, ultra-thin reinforced self-adhesive polymer-modified bitumen waterproof membrane, polymer self-adhesive waterproof membrane, and polymer-modified bitumen root penetration-resistant waterproof membrane, and conducts a systematic study on their compatibility and durability. Through tensile performance, low-temperature flexibility, and peel compatibility tests, combined with thermal oxidative aging experiments at different aging times, the mechanical behavior, low-temperature adaptability, and interfacial bonding characteristics of the membranes were analyzed. The results show that the three membranes differ significantly in tensile performance. The root penetration-resistant membrane has the highest strength but is more brittle, the polymer self-adhesive membrane has lower strength but better stability, and the ultra-thin reinforced membrane performs better initially but lacks durability. In terms of low-temperature flexibility, the root penetration-resistant membrane demonstrates superior crack resistance and aging resistance. These divergent aging responses are closely related to differences in reinforcement structure, polymer modification, and the thermal–oxidative sensitivity of the bituminous adhesive layers. Peel compatibility tests show that the peel strength of the composite membranes of the ultra-thin reinforced and polymer self-adhesive membranes is significantly improved, indicating a good synergistic effect and compatibility. Overall, different waterproof membranes exhibit distinct compatibility mechanisms and aging patterns in composite applications, providing a scientific basis for the design and optimization of composite waterproof systems.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/polym18020162",
+    "url": "https://www.semanticscholar.org/paper/601833210017b82b962621a6e3c6e7e13607b017",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "601833210017b82b962621a6e3c6e7e13607b017",
+      "externalIds": {
+        "PubMedCentral": "12845218",
+        "DOI": "10.3390/polym18020162",
+        "CorpusId": 284616405,
+        "PubMed": "41599460"
+      },
+      "url": "https://www.semanticscholar.org/paper/601833210017b82b962621a6e3c6e7e13607b017",
+      "title": "Experimental Study on Thermal Oxidative Aging Effects on the Performance and Compatibility of Different Types of Waterproofing Membranes",
+      "year": 2026,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12845218, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Polymers",
+        "volume": "18"
+      },
+      "authors": [
+        {
+          "authorId": "2397450097",
+          "name": "Shaochun Li"
+        },
+        {
+          "authorId": "2404473914",
+          "name": "Yang Du"
+        },
+        {
+          "authorId": "2215304315",
+          "name": "Wenbin Geng"
+        },
+        {
+          "authorId": "1410336603",
+          "name": "Ruiyun Zhang"
+        },
+        {
+          "authorId": "2321110537",
+          "name": "Guojun Sun"
+        },
+        {
+          "authorId": "2284530809",
+          "name": "Xingpeng Ma"
+        }
+      ],
+      "abstract": "As urbanization and extreme weather conditions intensify, the comprehensive performance requirements for building waterproofing systems are becoming more demanding. Single-layer waterproof membranes often struggle to meet usage requirements in complex environments, leading to the gradual rise of composite waterproof systems. This paper selects three different types of waterproof membranes, ultra-thin reinforced self-adhesive polymer-modified bitumen waterproof membrane, polymer self-adhesive waterproof membrane, and polymer-modified bitumen root penetration-resistant waterproof membrane, and conducts a systematic study on their compatibility and durability. Through tensile performance, low-temperature flexibility, and peel compatibility tests, combined with thermal oxidative aging experiments at different aging times, the mechanical behavior, low-temperature adaptability, and interfacial bonding characteristics of the membranes were analyzed. The results show that the three membranes differ significantly in tensile performance. The root penetration-resistant membrane has the highest strength but is more brittle, the polymer self-adhesive membrane has lower strength but better stability, and the ultra-thin reinforced membrane performs better initially but lacks durability. In terms of low-temperature flexibility, the root penetration-resistant membrane demonstrates superior crack resistance and aging resistance. These divergent aging responses are closely related to differences in reinforcement structure, polymer modification, and the thermal–oxidative sensitivity of the bituminous adhesive layers. Peel compatibility tests show that the peel strength of the composite membranes of the ultra-thin reinforced and polymer self-adhesive membranes is significantly improved, indicating a good synergistic effect and compatibility. Overall, different waterproof membranes exhibit distinct compatibility mechanisms and aging patterns in composite applications, providing a scientific basis for the design and optimization of composite waterproof systems."
+    }
+  },
+  {
+    "paper_id": "0ea53970bc0099f5b20dc161afad7c8633ab1f40",
+    "title": "A Study on Verification of Waterproofing Method Properties for Performance Grading in Apartment Houses-Upper Slab of the Underground Structure",
+    "authors": "Ki-won An, Byoung-il Kim",
+    "journal": "Buildings",
+    "publish_year": "2023",
+    "abstract": "This study evaluates waterproofing methods for underground structures in multi-unit residential buildings. The objective is to select effective methods and establish performance ratings. Experimental assessments are conducted and scores are assigned for ranking. In this regard, waterproofing methods used in the upper slab of the top floor of multi-unit residential building underground structures were investigated, and they were categorized as composite waterproofing, sheet waterproofing, and membrane waterproofing methods. For performance evaluation purposes, experiments were conducted on qualified materials and scores were assigned to each test specimen, with a total score of 100 points. Based on the test results, scores for disqualified materials were deducted and, ultimately, the rankings of waterproofing materials and methods for the upper slab of the top floor of underground structures were determined based on the total aggregated scores. Subsequently, through proximity performance evaluation, the applied waterproofing methods were experimentally verified for defect issues based on the presence or absence of a proximity layer. This led to the ranking and performance grading of a total of 12 materials. The results confirmed the necessity of a proximity layer-dependent waterproofing method and highlighted the superiority of the composite waterproofing method with a proximity layer. Additionally, differences in installation methods and material properties between sheet and membrane waterproofing methods were identified, resulting in variations in performance grading.",
+    "keywords": [],
+    "doi": "10.3390/buildings13092164",
+    "url": "https://www.semanticscholar.org/paper/0ea53970bc0099f5b20dc161afad7c8633ab1f40",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "0ea53970bc0099f5b20dc161afad7c8633ab1f40",
+      "externalIds": {
+        "DOI": "10.3390/buildings13092164",
+        "CorpusId": 261327330
+      },
+      "url": "https://www.semanticscholar.org/paper/0ea53970bc0099f5b20dc161afad7c8633ab1f40",
+      "title": "A Study on Verification of Waterproofing Method Properties for Performance Grading in Apartment Houses-Upper Slab of the Underground Structure",
+      "year": 2023,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-5309/13/9/2164/pdf?version=1693212277",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings13092164?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings13092164, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "98805082",
+          "name": "Ki-won An"
+        },
+        {
+          "authorId": "3316316",
+          "name": "Byoung-il Kim"
+        }
+      ],
+      "abstract": "This study evaluates waterproofing methods for underground structures in multi-unit residential buildings. The objective is to select effective methods and establish performance ratings. Experimental assessments are conducted and scores are assigned for ranking. In this regard, waterproofing methods used in the upper slab of the top floor of multi-unit residential building underground structures were investigated, and they were categorized as composite waterproofing, sheet waterproofing, and membrane waterproofing methods. For performance evaluation purposes, experiments were conducted on qualified materials and scores were assigned to each test specimen, with a total score of 100 points. Based on the test results, scores for disqualified materials were deducted and, ultimately, the rankings of waterproofing materials and methods for the upper slab of the top floor of underground structures were determined based on the total aggregated scores. Subsequently, through proximity performance evaluation, the applied waterproofing methods were experimentally verified for defect issues based on the presence or absence of a proximity layer. This led to the ranking and performance grading of a total of 12 materials. The results confirmed the necessity of a proximity layer-dependent waterproofing method and highlighted the superiority of the composite waterproofing method with a proximity layer. Additionally, differences in installation methods and material properties between sheet and membrane waterproofing methods were identified, resulting in variations in performance grading."
+    }
+  }
+]

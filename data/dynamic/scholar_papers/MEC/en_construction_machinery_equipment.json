@@ -1,0 +1,224 @@
+[
+  {
+    "paper_id": "a6ecedd4aebd7d36a3e4f243d03d2d6d04793cf5",
+    "title": "A Scheduling Method Based on an Improved Niche Genetic Algorithm for Engineering Machinery and Equipment Considering Construction Processes",
+    "authors": "P. Shen, Zhongsheng Yang, Hanming Zhou, Weilong Xue",
+    "journal": "2024 7th International Conference on Advanced Algorithms and Control Engineering (ICAACE)",
+    "publish_year": "2024",
+    "abstract": "The coordination of multiple processes in roadbed construction can achieve corresponding engineering goals, and the reasonable scheduling of process combination equipment is conducive to the reduction of overall engineering costs and the improvement of overall construction efficiency. Based on genetic algorithm, this paper uses genetic algorithm with penalty function to optimize the selection of mechanical equipment for different processes of several objectives in highway construction. By establishing an optimization model with the goal of reducing construction costs and construction power, and using the construction requirements of each equipment as constraint conditions, multi-objective optimization is carried out using genetic algorithm settings to find the optimal mechanical equipment process scheduling plan. Case analysis shows that using genetic algorithm for mechanical equipment optimization can output the optimal results of minimum cost and minimum energy consumption while considering the completion of the project. Compared with genetic algorithm, the improved niche genetic algorithm with penalty function can achieve optimal scheduling and reduce the overall number of iterations.",
+    "keywords": [],
+    "doi": "10.1109/ICAACE61206.2024.10548370",
+    "url": "https://www.semanticscholar.org/paper/a6ecedd4aebd7d36a3e4f243d03d2d6d04793cf5",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "6ccd0263fd5047e07194a8d6a33ad316d457b007",
+    "title": "MOOC Construction of General Machinery Equipment Maintenance",
+    "authors": "Qingcai Liu, Xuechun Wan",
+    "journal": "Open Journal of Social Sciences",
+    "publish_year": "2021",
+    "abstract": "This paper took the MOOC construction of general mechanical equipment \nmaintenance as an example to study its construction. Aspects on course construction \nfoundation, construction objectives, knowledge reconstruction, construction \ncontent, implementation effect, existing \nproblems and improvement measures were \nstudied so as to provide reference for the construction of MOOC in higher vocational colleges.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.4236/JSS.2021.93009",
+    "url": "https://www.semanticscholar.org/paper/6ccd0263fd5047e07194a8d6a33ad316d457b007",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "1a90796c933397cbce2761c78602590b684aa8e4",
+    "title": "Equipment data-based activity recognition of construction machinery",
+    "authors": "A. Fischer, Alexandre Beiderwellen Bedrikow, S. Kessler, J. Fottner",
+    "journal": "2021 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)",
+    "publish_year": "2021",
+    "abstract": "Heavy equipment plays an essential role in construction projects. However, to optimize the allocation of that resource (e.g., via discrete-event simulation), the correct monitoring of the current usage of the equipment is imperative. Machine learning methods are usually based on the mounting of additional sensors such as accelerometers or gyroscopes on the equipment. However, many kinds of equipment already transmit production data to a proprietary platform. This paper explores the possibilities of performing activity recognition based on already available equipment data transmitted by the equipment, without the need for additional sensors. The proposed approach is based on hybrid models consisting of convolutional neural networks (CNN) and recurrent neural networks (RNN). Additionally, the influence of the use of bidirectional RNN is investigated. The hybrid models are compared with other baseline models. Both hybrid models demonstrate good results compared to the baseline models. Furthermore, the influence of the sample size is examined.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/ice/itmc52061.2021.9570272",
+    "url": "https://www.semanticscholar.org/paper/1a90796c933397cbce2761c78602590b684aa8e4",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f5f65378a4f62c337511fbcfd90f5384bfbf60ce",
+    "title": "Application of new automatic welding equipment and welding technology in the future construction machinery field",
+    "authors": "Zhang Yan, Zhang Fei",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "publish_year": "2019",
+    "abstract": "The production efficiency of machinery manufacturing industry is affected by the automatic welding equipments and technologies directly. Through introducing the working principle and applicable working conditions of new automatic welding equipments and welding technologies, the writer uses laser tracking equipment and welding deformation technology to analyze the possibility of application of automatic welding technology in the field of construction machinery, so as to provide useful reference for improving the quality of mechanical welding, reducing production costs and strengthening brand effect.",
+    "keywords": [
+      "Physics",
+      "Engineering"
+    ],
+    "doi": "10.1088/1757-899X/637/1/012011",
+    "url": "https://www.semanticscholar.org/paper/f5f65378a4f62c337511fbcfd90f5384bfbf60ce",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "b48b844c80e92fd197dd2a74a581ebcefb10081e",
+    "title": "Research on Real Time Condition Monitoring and Fault Warning System for Construction Machinery under Multi Source Heterogeneous Data Fusion",
+    "authors": "Jinshuo Zhang",
+    "journal": "Journal of Engineering Mechanics and Machinery",
+    "publish_year": "2024",
+    "abstract": ": This study focuses on the application of multi-source heterogeneous data fusion in real-time status monitoring and fault warning systems for construction machinery, and conducts in-depth analysis of the latest developments in status monitoring and fault diagnosis technology for construction machinery. A monitoring scheme combining data-driven and machine learning is proposed to address the problem of frequent failures in construction machinery in complex operating environments. This solution utilizes efficient data collection and processing from multiple sensors, and applies deep learning models to achieve fault prediction and diagnosis. It can effectively identify potential faults, prevent risks in advance, and improve equipment reliability and operational safety. This article starts with the overall design architecture and core technologies, and provides a detailed introduction to the construction process of data preprocessing, feature extraction, and fault diagnosis models. It also explores the challenges of outdoor operating conditions in monitoring the status of construction machinery. Research has shown that the application of automated state monitoring and early warning systems can significantly reduce the incidence of failures, minimize economic losses, and improve operational efficiency and safety.",
+    "keywords": [],
+    "doi": "10.23977/jemm.2024.090217",
+    "url": "https://www.semanticscholar.org/paper/b48b844c80e92fd197dd2a74a581ebcefb10081e",
+    "citation_count": 8,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "6255592a618bf67c3039352fc3d2ed68e8004665",
+    "title": "Talking about New Technology and Equipment of Automatic Welding Application of Construction Machinery in the Future",
+    "authors": "Min Hu",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "publish_year": "2019",
+    "abstract": "This paper introduces the working principle and application of new automatic welding technology and welding equipment, analyzes the possibility of its application in construction machinery field, and expects to provide beneficial reference for improving the welding quality of XCMG machinery, reducing production cost and strengthening brand effect.",
+    "keywords": [
+      "Physics",
+      "Engineering"
+    ],
+    "doi": "10.1088/1757-899X/626/1/012012",
+    "url": "https://www.semanticscholar.org/paper/6255592a618bf67c3039352fc3d2ed68e8004665",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "1421e5749bed6fd2298c81e060ddbbc558f1006a",
+    "title": "Research on Fault Prediction and Health Management System of Railway Tunnel Drilling and Blasting Construction Machinery Based on Machine Learning",
+    "authors": "Jinshuo Zhang",
+    "journal": "International Journal of New Developments in Engineering and Society",
+    "publish_year": "2024",
+    "abstract": ": During the construction of railway tunnel by drilling and blasting method, the machinery and equipment run in the harsh environment of high load, high dust and high humidity for a long time, and the equipment fails frequently, which seriously affects the construction progress and safety. Traditional methods of periodic maintenance and passive fault repair have been difficult to meet the needs of modern tunnel engineering. This paper presents a machine learning method to predict and manage the fault of railway tunnel construction machinery and equipment by drilling and blasting method. The system collects equipment operation data in real time through sensors, preprocesses it by means of data cleaning, feature extraction, etc., and performs fault prediction and health status assessment through decision tree and other machine learning algorithms. This paper describes the system architecture design, data processing flow, model selection and training methods. The system can predict potential mechanical failures in advance, reduce unplanned downtime, and improve equipment reliability and overall efficiency of tunnel construction. The fault prediction system aided by machine learning can not only reduce the failure rate of equipment, but also provide accurate health assessment and early warning mechanism, which has a wide range of engineering applications.",
+    "keywords": [],
+    "doi": "10.25236/ijndes.2024.080511",
+    "url": "https://www.semanticscholar.org/paper/1421e5749bed6fd2298c81e060ddbbc558f1006a",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2e3e867040dec70b0f28c2ea93c4967c6809c2eb",
+    "title": "Noise exposure assessment of workers inspecting construction machinery vehicles in the Republic of Korea.",
+    "authors": "Yeon-Hee Jeong, Seong-Mo Jeong, Woo-Je Lee, Ki-Youn Kim",
+    "journal": "Annals of work exposures and health",
+    "publish_year": "2024",
+    "abstract": "Previous studies have investigated the health hazards caused by exposure to the noise of heavy equipment used at construction sites. Korea's Ministry of Land, Infrastructure, and Transport operates a registration system for construction machinery, and regular safety inspections are mandatory. Although workers inspecting construction machinery vehicles are exposed to unwanted noise, no noise exposure assessment has been made regarding these workers in Korea. The time-weighted average (TWA) daily average noise exposure level among construction machinery inspectors at 18 inspection centers was 75.3 dB(A). Among the inspection steps, the exhaust gas inspection step was found to exhibit the highest noise exposure level, up to 100 dB(A). In Korea, if the noise level of a workplace exceeds 85 dB(A) as a TWA, workers are required to undergo special medical examinations. This study found that special medical examinations were required for two of the 18 target inspection centers (approximately 115 workers) as the 8-hour TWA noise level exceeded 85 dB(A). Therefore, regular noise exposure assessment and special medical examinations for noise are required to prevent inspectors from developing hearing disorders due to noise exposure.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1093/annweh/wxae037",
+    "url": "https://www.semanticscholar.org/paper/2e3e867040dec70b0f28c2ea93c4967c6809c2eb",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "8d32316fead1840be195e4630b8d2fc792124046",
+    "title": "Efficiency of VR-Based Safety Training for Construction Equipment: Hazard Recognition in Heavy Machinery Operations",
+    "authors": "Ankit Shringi, M. Arashpour, E. Golafshani, A. Rajabifard, T. Dwyer, Heng Li",
+    "journal": "Buildings",
+    "publish_year": "2022",
+    "abstract": "Machinery operations on construction sites result in many serious injuries and fatalities. Practical training in a virtual environment is the key to improving the safety performance of machinery operators on construction sites. However, there is limited research focusing on factors responsible for the efficiency of virtual training in increasing hazard identification ability among novice trainees. This study analyzes the efficiency of virtual safety training with head-mounted VR displays against flat screen displays among novice operators. A cohort of tower crane operation trainees was subjected to multiple simulations in a virtual towards this aim. During the simulations, feedback was collected using a joystick to record the accuracy of hazard identification while a post-simulation questionnaire was used to collect responses regarding factors responsible for effective virtual training. Questionnaire responses were analyzed using interval type-2 fuzzy analytical hierarchical process to interpret the effect of display types on training efficiency while joystick response times were statistically analyzed to understand the effect of display types on the accuracy of identification across different types of safety hazards. It was observed that VR headsets increase the efficiency of virtual safety training by providing greater immersion, realism and depth perception while increasing the accuracy of hazard identification for critical hazards such as electric cables.",
+    "keywords": [],
+    "doi": "10.3390/buildings12122084",
+    "url": "https://www.semanticscholar.org/paper/8d32316fead1840be195e4630b8d2fc792124046",
+    "citation_count": 31,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "83fbe2e32971db5d39f5b52d627981b94496b635",
+    "title": "STAE‐YOLO: Intelligent detection algorithm for risk management of construction machinery intrusion on transmission lines based on visual perception",
+    "authors": "Chao Ji, Fan Zhang, Xinbo Huang, Zhiwei Song, Wei Hou, Boya Wang, Guoyan Chen",
+    "journal": "IET Generation, Transmission &amp; Distribution",
+    "publish_year": "2023",
+    "abstract": "\n The distribution of transmission lines is complex, influenced by terrain and topography, making their maintenance and management challenging. With the advancement of global mechanization, various types of construction machinery and large‐scale mechanical equipment are continually increasing. Accidental contact of construction machinery near transmission lines poses a serious threat to the stability of the power system. Traditional drones and inspection robots face difficulties in achieving real‐time monitoring of construction machinery and equipment around transmission lines, quickly identifying potential risks. Conventional image processing techniques and convolutional neural networks struggle with effective handling of small targets and densely packed detection tasks involving multiple targets. To address these challenges, this paper proposes an intelligent detection algorithm Swin Transformer attention efficient algorithm‐you only look once (YOLO) (STAE‐YOLO). It is based on the Swin Transformer global self‐attention mechanism, cross‐channel fusion attention mechanism, enhanced small object detection framework, and a focused and efficient regression loss function. The experimental results show that the STAE‐YOLO algorithm model improved by 6.3% in mean average precision, 3.7% in precision, and 3.1% in recall compared to the baseline model. Meanwhile, deploying the window multi‐head self‐attention global self‐attention mechanism in the model can strengthen the global multi‐scale semantic information in detection.",
+    "keywords": [],
+    "doi": "10.1049/gtd2.13093",
+    "url": "https://www.semanticscholar.org/paper/83fbe2e32971db5d39f5b52d627981b94496b635",
+    "citation_count": 13,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "e81f0980a1dd07a921458efd891a2b97658eba2f",
+    "title": "Variational Mode Feature Construction-Based Improved Kernel Extreme Learning Machine for Rotating Machinery Intelligent Diagnosis",
+    "authors": "Quangchang Li, Xia Zhang, Haibo Liang, Aiguo Li, Xiaoxi Ding, Wenbing Huang, Chris M. Mechefske",
+    "journal": "IEEE Sensors Journal",
+    "publish_year": "2025",
+    "abstract": "The complex operational environment brings challenges to vibration signal-based rotating mechanical equipment fault identification. On the one hand, the fault features under heavy background noise reveal weakness and nonstationary characteristics, which makes traditional spectral-based methods impuissant to extract effective features. On the other hand, the rotating equipment is served in normal condition for most of life, resulting in collected samples appearing small quantity and class imbalance. To deal with these issues, this article proposes a variational mode feature construction-based improved kernel extreme learning machine (VMF-IKELM) for bearing and gear fault identification. The methodology involves the following three steps. First, an adaptive variational mode decomposition (AVMD) is introduced to extract the nonstationary intrinsic features (IFs) from raw signals. Then, the typical indicators of IFs are calculated and reshaped to construct the variational mode samples to reflect the nonstationary characteristics from multiple aspects. Finally, the representative samples are input into VMF-IKELM optimized with particle swarm optimization (PSO) for rotating machinery intelligent diagnosis. Experimental study verified that this architecture can extract effective IFs and accomplish further high-precision intelligent fault diagnosis.",
+    "keywords": [],
+    "doi": "10.1109/JSEN.2025.3532798",
+    "url": "https://www.semanticscholar.org/paper/e81f0980a1dd07a921458efd891a2b97658eba2f",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "12c0732aec2d7075c1ff654ad760fef2373b4d93",
+    "title": "Study on Heavy Machinery Utilizing the Most Recent Technologies for Excavation of Road Construction and Mining",
+    "authors": "Namrata Saravade, Chetankumar Sedani, Kamalkishor Maniyar, D. Nandkishore, Swapnil Deshmukh, Shobha V. Rupanar, Bhagwat Gidhad, Swagata Surase",
+    "journal": "Journal of Mines, Metals and Fuels",
+    "publish_year": "2024",
+    "abstract": "An essential component of the nation's overall development is its infrastructure development. India is regarded as the centre of the service sector, where infrastructure development is crucial. The main issue is what contractors usually have when choosing the best equipment. Given the circumstances, a contractor's inquiry would likely focus heavily on machinery and plants' upkeep and operating costs. Due to the substantial capital required for the purchase, rental, lease, and operation of the plant and equipment, it must be managed to maximize return on investment, and productivity, and minimize operating, maintenance, and repair costs. Therefore, careful planning and selection are necessary to ensure that the project is completed successfully. The kind of apparatus chosen typically relies on the properties of the material to be worked with. Using tracks or wheeled equipment; power or dragline excavator use a shovel, among other common inquiries that should be responded to by the construction equipment planner.",
+    "keywords": [],
+    "doi": "10.18311/jmmf/2024/45327",
+    "url": "https://www.semanticscholar.org/paper/12c0732aec2d7075c1ff654ad760fef2373b4d93",
+    "citation_count": 12,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "0f4cb01523dcff84d837ed0f91bc934d45bd8358",
+    "title": "Research on Holographic Visualization Verification Platform for Construction Machinery Based on Mixed Reality Technology",
+    "authors": "M. Dai, Liang Li, Yilin Lu, Liwei Xiao, Xuemei Zong, Chenglong Tu, Fanjian Meng, Yong Tang, Dongliang Guo",
+    "journal": "Applied Sciences",
+    "publish_year": "2023",
+    "abstract": "As “Industry 4.0” progresses, construction machinery is evolving toward large-scale, automation, and integration, resulting in the equipment becoming increasingly sophisticated, and the designs more difficult. Labor costs, transportation, and time will be huge challenges for construction machinery, and mixed reality technology is one of several possible ways to solve this challenge. The research presented in this paper develops a holographic visual verification platform for a digital prototype of construction machinery based on virtual terminal equipment, through investigating the synchronous remote collaboration of multiple terminal devices in a mixed reality scenario. These included semi-physical virtual-real fusion assembly, multi-person real-time voice communication, dynamic loading of MR model based on a cloud server, virtual imitation control, interface design, and human-computer interaction. The effectiveness of this paper’s method is demonstrated through remote collaborative design cases. These included a double drum roller, loader, and milling planer welding production line, as well as tractor modeling review and virtual simulation manipulation of an aerial work platform. The experimental results show that this visual verification platform is a feasible, low-cost and scalable solution, which brings a qualitative breakthrough to the design, research and development, production and other stages in the field of construction machinery.",
+    "keywords": [],
+    "doi": "10.3390/app13063692",
+    "url": "https://www.semanticscholar.org/paper/0f4cb01523dcff84d837ed0f91bc934d45bd8358",
+    "citation_count": 6,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "90dd818c818cfb81458c18cce5731bc8887ecd16",
+    "title": "A novel HI construction method based on healthy-state data training for rotating machinery components",
+    "authors": "Hongliang Song, Yi Sun, Hongli Gao, Liang Guo, Tingting Wu",
+    "journal": "Structural Health Monitoring",
+    "publish_year": "2024",
+    "abstract": "In predictive maintenance for rotating machinery components, constructing health indicators is crucial for improving operational efficiency and extending the equipment lifespan. However, traditional processes of building health indicators face two significant challenges: the high cost of collecting full lifecycle data and the requirement for the operating conditions of the equipment to remain consistent with those under which the indicators were developed. These limitations make health indicators expensive and time-consuming to construct and use. This article proposed a health indicator developed based on the Joint Principal Component Cumulative Empirical Distribution Model (JPCCED-HI) to overcome these challenges. This innovative method utilizes only healthy state data, combining principal component analysis with the empirical cumulative distribution function to construct a health indicator that ranges from 0 to 1, thereby eliminating the reliance on complete lifecycle data and relaxing the requirements for specific operating conditions. The effectiveness and practical benefits of JPCCED-HI are illustrated through two detailed case studies. In the first case study, we explore the impact of different parameter settings on model performance and evaluate its anti-interference capabilities in high-noise environments based on a gearbox dataset. This study demonstrates the model’s robustness in maintaining accurate health assessments despite external noise. The second case study employs a publicly available bearing dataset to compare the JPCCED-HI method against other models trained on health-stage data. This analysis reveals the superior performance of JPCCED-HI in trendability and scale similarity, affirming its effectiveness in various operational conditions. These case studies not only prove the adaptability and robustness of JPCCED-HI but also highlight its potential as a scalable solution for real-time health monitoring and predictive maintenance in industrial applications.",
+    "keywords": [],
+    "doi": "10.1177/14759217241279784",
+    "url": "https://www.semanticscholar.org/paper/90dd818c818cfb81458c18cce5731bc8887ecd16",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "23b108f0b37c47e176d3a74c47b377f7f77ebd6b",
+    "title": "Construction of multi-features comprehensive indicator for machinery health state assessment",
+    "authors": "Lansa Ding, Xiaoyi Wei, Dezheng Wang, Congyan Chen",
+    "journal": "Measurement Science and Technology",
+    "publish_year": "2024",
+    "abstract": "Health state assessment is critical for mechanical equipment’s smooth and healthy operation. This paper proposes a novel approach for health state assessment based on acoustic signals during the process of machinery running. It consists of multi-domain feature (MF) extraction and comprehensive health indicator (CHI) construction. MF is extracted from various acoustic features, including time and frequency (TF) features, mel-frequency cepstral coefficients, and gammatone frequency cepstral coefficients. The stacked long short-term memory (LSTM) is used to extract the high-level features of the MF, which are then input to the downstream PCA to obtain the LSTM-PCA health indicator (LP-HI). Parallelly, the MF is fed into the self-organizing mapping (SOM) model to calculate the minimum quantization error (MQE) as SOM-MQE health indicator (SM-HI). These two indicators are fused using weighted fusion and nonlinear mapping to calculate CHI. The experimental results on air compressor dataset show a 25.8% reduction in evaluation error compared with SOTA results in this paper. The proposed nonlinear mapping function furthermore reduces fitting error on HI by 38.9%. These demonstrate the effectiveness and superiority of the proposed method in machinery health state assessment.",
+    "keywords": [
+      "Physics"
+    ],
+    "doi": "10.1088/1361-6501/ad2bcb",
+    "url": "https://www.semanticscholar.org/paper/23b108f0b37c47e176d3a74c47b377f7f77ebd6b",
+    "citation_count": 5,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "41525cd299c25079ff23383f13b73660ecd1c5de",
+    "title": "A Health Indicator Construction Method for Coal Mine Rotating Machinery Based on Transformer Autoencoder and Exponential Function Constraint",
+    "authors": "Man Li, T. Wei, Shuai Zhou, Yong Duan, Nannan Pan, Xiangang Cao",
+    "journal": "IEEE Sensors Journal",
+    "publish_year": "2024",
+    "abstract": "Health status assessment and health indicator (HI) construction for coal mine rotary machinery are pivotal in realizing failure prediction and preventive maintenance for such equipment. Traditional HI construction methods rely heavily on manual feature extraction and struggle with the poor nonlinear expression of degraded features, making it challenging to detect early degradation points. In view of this, this article proposes a novel HI construction method, Transformer denoising convolutional autoencoder (2-D TDCAE). This method leverages Transformer (TF) autoencoder (AE) and exponential function constraints. It constructs 2-D input samples from multipoint vibration monitoring signals to improve the sample quality and the model’s feature learning ability. A denoising convolutional AE (DCAE) integrated with a TF network is proposed to effectively extract spatial and temporal features, thereby automating the HI construction. An exponential function, based on the fit Root mean square (RMS), is used to constrain the DCAE output, and a new loss term is introduced to enforce the HI-shaped constraint and elevate the overall HI performance. The validity and reliability of the 2-D TDCAE model are verified by the XJTU-SY bearing dataset. The results show that the proposed method improves the comprehensive score by an average of 0.1894 compared with other methods. Further experimental validation on a mining reducer-accelerated degradation dataset evidenced an average comprehensive score improvement of 0.2620 over different models, with the constructed HI detecting early degradation points more promptly.",
+    "keywords": [],
+    "doi": "10.1109/JSEN.2024.3409904",
+    "url": "https://www.semanticscholar.org/paper/41525cd299c25079ff23383f13b73660ecd1c5de",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  }
+]

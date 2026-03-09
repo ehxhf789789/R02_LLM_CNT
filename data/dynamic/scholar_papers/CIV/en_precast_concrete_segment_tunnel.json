@@ -1,0 +1,157 @@
+[
+  {
+    "paper_id": "c78f6898110eef52e65629296b8fc103df97433d",
+    "title": "STUDY ON THE INFLUENCE OF MECHANICAL PROPERTIES OF FIBER REINFORCED CONCRETE ON PERFORMANCE OF PRECAST TUNNEL SEGMENTS",
+    "authors": "Fan Zhang, W. De Corte, Xian Liu, Yihai Bao, Luc Taerwe",
+    "journal": "Proceedings",
+    "publish_year": "2025",
+    "abstract": "Reinforced concrete (RC) segments rebars partially replaced by fibers have attempted to prove superior performance in some studies, but the research on how the mechanical parameters of fiber reinforced concrete (FRC) (fR1 and fR3 according to the fib Model Code) and remaining rebars affect the segment properties is still limited. Moreover, when considering both the serviceability and ultimate states of the segments, multiple factors need to be studied to ensure that the FRC segments with rebars (RC-FRC segments) can be truly superior to the RC segments. For this purpose, based on numerical models verified by four-point bending tests on RC-FRC segments, this paper uses numerical simulations to explore the influence of FRC mechanical parameters and the amount of reinforcement on various segment properties such as stiffness, crack width, yield load, ultimate load, ductility, and safety reserve. A total of 92 simulations were conducted, combining different parameters: two RC segments with rebar areas 1.006 mm2 and 2.454 mm2, and ninety RC-FRC segments with rebars partially replaced by FRC (3MPa, 5MPa, 7MPa of fR1, and 0,5, 0,9, 1,3 of fR3/fR1, combining with five levels of remained rebar areas for each RC segment). Additionally, a modified FRC constitutive model was used to make the simulation more accurate when the crack width is small. The simulation results indicate that, the more of the rebars remained, the larger are the segment stiffness, yield load and ultimate load, but in all cases the ductility and safety reserve are negligibly influenced. As for FRC, the larger of the fR1, the larger are the segment stiffness, yield load, ultimate load and safety reserve, and the smaller the crack width, but it has a negligible effect on the ductility. The larger of the fR3/fR1 ratio, especially when it is larger than 0.9, the larger are the ultimate load, safety reserve and ductility, but it does not affect the stiffness and yield load of the segment. The study indicates that to ensure the performance of RC-FRC segments, the mechanical properties of the FRC and the replaced rebars should be carefully determined. Furthermore, it is recommended to replace the rebars with FRC that has a high fR1 value and a fR3/fR1 ratio larger than 0.9, to enhance the toughness of the segment.",
+    "keywords": [],
+    "doi": "10.46793/acuus2025.2.1.109",
+    "url": "https://www.semanticscholar.org/paper/c78f6898110eef52e65629296b8fc103df97433d",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "7493ccb7c36f00efc743a8ef501ed5db7a53586a",
+    "title": "Design and construction of FRC tunnel precast segment with fibre enabled",
+    "authors": "R. De",
+    "journal": "Proceedings of the Southeastern Europe Tunnelling Conference (SETC-2025), 1 - 3 October 2025, Belgrade, Serbia - zbornik radova",
+    "publish_year": "2025",
+    "abstract": "The construction industry is a major producer of CO 2 emissions. The significant impact of the construction industry largely arises from the embodied carbon in the primary construction materials, cement and steel. In a tunnelling project, it is generally considered that 60% to 70% of embodied carbon is contained in the concrete linings of the shafts and tunnels. It is paramount, therefore that the tunnelling industry should pro-mote sustainable design. Fiber reinforcement plays a vital role in reinforcing concrete linings in underground structures and tunnels. This paper will explain how High-performance steel fiber reinforcement over rebar, combined with structural design optimization and the utilization of Supplementary Cementitious Materials (SCM) concrete mixture, the embodied carbon in the segmental lining and permanent spray concrete lining can be reduced by nearly 50%. Over the past years the use of Fiber Reinforced Concrete (FRC) for finagling has increased dramatically. One aspect allows the boosting the use of FRC was the publication of guideline for FRC design: in 2012, the international Federation for structural concrete (fib) presented Model Code 2010 which include specification section on FRC. the Mode code 2020 just published has led to a successful and now widespread use of FRC in the final lining tunnelling with considerable benefits to owners, designers, and contractors. This paper will describe design principle and detail carbon counting from recent project around the world in Europe, Australia, North America and Middle East.",
+    "keywords": [],
+    "doi": "10.5937/setc25008r",
+    "url": "https://www.semanticscholar.org/paper/7493ccb7c36f00efc743a8ef501ed5db7a53586a",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "757d8ef13e0d761b288a3288e9e628825b7c90d0",
+    "title": "Robotic Deployment of Embedded Strain Sensors in Precast Tunnel Segments",
+    "authors": "Tresor Tshimbombo, M. Perry, Hamish Dow, J. McAlorum, Christopher E. Hoy, Chrysoula Litina",
+    "journal": "IEEE Sensors Journal",
+    "publish_year": "2025",
+    "abstract": "This article demonstrates the robotic deployment of sensor nodes into precast concrete tunnel segments during manufacturing. Magnetic embeddable sensor nodes based on vibrating wire strain gauges (VWSGs) were deployed on a steel precast segment mold using a six-axis collaborative robot at the lab scale. Robotic sensor deployment proved to be significantly more accurate and consistent than manual sensor deployment methods. On average, positional and angular errors in sensor placement were reduced by 85% when using robotic deployment. The strain transfer coefficients for robotically embedded sensors were evaluated using mechanical bending tests and a finite element model (FEM). Strain transfers across a population of ten segments were found to be $0.93~\\pm ~0.012$ in the longitudinal direction, and $0.567~\\pm ~0.011$ in the transversal direction. The repeatability of strain measurements within these segments was also confirmed, with low coefficient of variation values of 1% for longitudinal strains and 1.9% for transversal strains. The work presented in this article underscores the measurement performance enhancements that can result from using robotics for sensor deployment in precast manufacturing environments. This could translate to a lower uncertainty and risk for civil asset managers and structural health monitoring (SHM) practitioners.",
+    "keywords": [],
+    "doi": "10.1109/JSEN.2025.3559405",
+    "url": "https://www.semanticscholar.org/paper/757d8ef13e0d761b288a3288e9e628825b7c90d0",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "1ed4bcb08a7c845d26cb79de5554bf88aa5d5ca6",
+    "title": "New ACI 533 guide on general design and construction aspects of precast concrete tunnel segments",
+    "authors": "M. Bakhshi, V. Nasri",
+    "journal": "Geomechanics and Tunnelling",
+    "publish_year": "2019",
+    "abstract": "American Concrete Institute (ACI) is aiming to publish its first guide (ACI 533.2R) on general aspects of precast tunnel segments. This paper presents salient features of the guide including the most recent developments on major aspects of design, manufacturing and construction. This document is drafted based on the knowledge and the experience gained on projects in Asia, Europe, and North America, and available national and international recommendations. Procedures to perform structural design during production, transportation, construction and final service stages are explained. Details of segmental ring geometry and systems, concrete strength, curing, and reinforcement detailing are discussed. Gasket design, segment connection devices, anchorage systems, tolerances, measurement and dimensional control, and repair of defects are among other topics that are covered. This document also addresses durability and degradation mechanisms of tunnel linings and their mitigation methods. While some parts of this guide may only consider the procedures adopted by ACI, they can be extended to other national and international codes and used worldwide.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1002/geot.201900024",
+    "url": "https://www.semanticscholar.org/paper/1ed4bcb08a7c845d26cb79de5554bf88aa5d5ca6",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f99ee85ea320ded16fcaf8ad0f93a35b80a75771",
+    "title": "Flexural Behavior of Ultra-High Performance Fiber Reinforced Concrete Scale Tunnel Segment",
+    "authors": "Kun Ni, F. Zhang, Y. Shi, Y. Zhang, J. Shi",
+    "journal": "",
+    "publish_year": "2018",
+    "abstract": "To reduce the weight of precast tunnel segment, ultra-high performance fiber reinforced concrete (UHPFRC) was studied to cast the segment. The flexural performance of UHPFRC scale tunnel segments were tested in this work. The weight of the UHPFRC thinner scale tunnel segment was only 80% of reinforced concrete (RC) segment. The segments were loaded as per CJJ/T 164-2011, and the four-point bending system was used. The results showed that the cracking load increased 50%, and 0.2 mm crack width load increased 22%, and the yield load increased 11%, and the ultimate load only decreased 1%. The stiffness of elastic stage of UHPFRC segment looked the same compared to RC segment. In a word, the UHPFRC thinner segments showed excellent flexural performance beyond the traditional RC segment.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1051/E3SCONF/20183803037",
+    "url": "https://www.semanticscholar.org/paper/f99ee85ea320ded16fcaf8ad0f93a35b80a75771",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "bdb02940003b79ecea112901f4dfc571256ea41c",
+    "title": "Resource efficient reinforcement concept for precast tunnel segments",
+    "authors": "Clemens Proksch‐Weilguni, J. Kollegger",
+    "journal": "IABSE Symposium, Prague 2022: Challenges for Existing and Oncoming Structures",
+    "publish_year": "2022",
+    "abstract": "The global increase in world population and the growing demand of mobility leads to new huge infrastructure projects all over the world. Due to the circumstance, that every infrastructure project is unique and dependent on local conditions the optimization of single structural elements is not that common in the field of reinforced concrete structures. When it comes to building tunnel structures using a tunnel boring machine (TBM), a lot of almost identical tunnel segments called tubbings are needed. Already a reduction of a few centimeters of the tunnel segment thickness, leads to a significant saving of concrete when it comes to tunnel structures with a length of a few kilometers. The thickness of the tunnel segments mostly depends on the design of the radial joints of the individual tunnel segments. That is why the Institute of Structural Engineering of the TU Wien developed a new reinforcement concept for tunnel segments which increases the load bearing capacity of the radial joints significantly. With a patent application submitted, tunnel segments with the new reinforcement concept were manufactured, tested and it was shown that the TU Wien proposal significantly improves the load bearing capacity of tunnel segments.Due to a presented design approach for determining the load bearing capacity of the segments and a first simplified quantification of the resource saving potential it can be said that the newly developed joint design is a great possibility for constructing tunnels with thinner tunnel segments.",
+    "keywords": [],
+    "doi": "10.2749/prague.2022.1352",
+    "url": "https://www.semanticscholar.org/paper/bdb02940003b79ecea112901f4dfc571256ea41c",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "608412106384086dde4a01e0198288a9f37c0de3",
+    "title": "A parametric numerical study on the behavior of large precast tunnel segments during TBM thrust phase",
+    "authors": "I. Trabucchi, G. Tiberti, G. Plizzari",
+    "journal": "Engineering Structures",
+    "publish_year": "2021",
+    "abstract": "Abstract During the last two decades, Fiber Reinforced Concrete (FRC) was adopted in several segmental tunnel linings. The benefits related to the inclusion of fiber reinforcement in cementitious composites are mainly related to the increase of post-cracking tensile residual properties. FRC allows to reduce or avoid conventional reinforcement leading to a more efficient segment production process. The application of Tunnel Boring Machine (TBM) thrust jack forces during the lining construction stage is one of the most demanding loading conditions, since high-concentrated forces are introduced in last installed segments, especially for large diameter lining. Hence, special attention should be devoted to this phase by considering parameters which may affect segment structural response. To this aim, the behavior of a lining having large diameter during TBM operations was investigated by means of a broad parametric numerical study concerning segment configuration, irregularities and lining slenderness. The following reinforcement solutions were also considered: traditional steel rebars only, steel fibers reinforcement only and a combination of them (hybrid solution). The study clearly proved that segment configurations as well as irregularities strongly affect the structural behavior of segments. The hybrid reinforcement or FRC only solution having high post-cracking performance may guarantee the same response of RC solution.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.ENGSTRUCT.2021.112253",
+    "url": "https://www.semanticscholar.org/paper/608412106384086dde4a01e0198288a9f37c0de3",
+    "citation_count": 18,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "03940c747c1dc285163557ca6a118a32c31955f9",
+    "title": "Tolerances for TBM thrust load based on crack opening performance of fiber-reinforced precast tunnel segments",
+    "authors": "P. Krahl, Ingrid Rocio Irreño Palomo, Saulo José de Castro Almeida, G. Siqueira, Newton de Oliveira Pinto Junior, L. C. M. Junior",
+    "journal": "Tunnelling and Underground Space Technology",
+    "publish_year": "2021",
+    "abstract": "Abstract In the past twenty years, several precast tunnels were constructed using Fiber-Reinforced Concrete (FRC). Also, it has been reported that concrete segments experience damage during TBM operations due to factors as load eccentricity and uneven supports. Simulating in a laboratory such conditions together with interactions between elements, as in a field, is challenging. So numerical models can provide essential guidance for the design. Therefore, the current research presents a broad investigation considering three usual tunnel diameters, different number of TBM shoes by segments, shoe dimensions, and configurations (German and French). Also, FRC classes, determined according to the fib Model Code, are tested. It was found that the French distributions of shoes presented the best performance for all studied cases when compared to the German one. Tunnels with an internal diameter of Di = 6 m were the only ones sensitive to the increase from two to three shoes by segment. In the case of four pads, all tunnel diameters increased the load capacity. The FRC class change from 1.5a to 3a significantly enhanced the load capacity relative to the crack opening of tunnels with Di of 6 m and 10 m. For changing class from 1.5a to 4a, all tunnels had enhanced performance. For Di = 10 m, the increases in load capacity were 2.23, 2.18, and 2.60 for segments with 2, 3, and 4 shoes, respectively. Also, the best aspect ratios found for the shoes’ geometry are reported in the paper.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/J.TUST.2021.103847",
+    "url": "https://www.semanticscholar.org/paper/03940c747c1dc285163557ca6a118a32c31955f9",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "c9460107cec552f3405a984ee2c0e1891aceea75",
+    "title": "Precast tunnel segments for metro tunnel lining: A hybrid reinforcement solution using macro-synthetic fibers",
+    "authors": "A. Conforti, I. Trabucchi, G. Tiberti, G. Plizzari, Angelo Caratelli, A. Meda",
+    "journal": "Engineering Structures",
+    "publish_year": "2019",
+    "abstract": "Abstract The addition of fibers has been proven successful to simplify reinforcement in precast tunnel segments, allowing as a function of both segment typology and fiber reinforced concrete (FRC) toughness a total or partial replacement of the conventional reinforcement. Results from an experimental research aimed at comparing the structural behavior of segments made with conventional (only rebars, RC) or hybrid (rebars + fibers) reinforcement are presented. The experimental program consisted of flexural and point load tests (which reproduces the jack actions during TBM operations) carried out on four large-scale precast tunnel segments representative of a metro tunnel lining characterized by an internal diameter of 5.80 m and a thickness of 0.30 m. The main goal of the experimental program was to evaluate the possibility of using macro-synthetic polypropylene fibers (Polypropylene Fiber Reinforced Concrete, PFRC) in combination with a lower amount of conventional rebars (optimized reinforcement, RCO) for guaranteeing the required segment performance. Experimental results indicate that macro-synthetic fibers may be very effective in combination with conventional rebars to withstand the main stresses that arise in a segment both at initial and final phases, proving that the adoption of hybrid reinforcement solution using macro-synthetic fiber is possible for metro tunnel lining.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/j.engstruct.2019.109628",
+    "url": "https://www.semanticscholar.org/paper/c9460107cec552f3405a984ee2c0e1891aceea75",
+    "citation_count": 58,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "58166306593af5d4a376e13997a08e495fa393d9",
+    "title": "Preliminary Design for Segmental Joint of Precast Tunnel Liner",
+    "authors": "Sirichai Pethrung, S. Teachavorasinskun, S. Keawsawasvong",
+    "journal": "Civil and Environmental Engineering",
+    "publish_year": "2021",
+    "abstract": "Abstract Responses of the segmental tunnel liner to external forces are primarily dependent on complicated interactions among construction process, soil structural interactions, segmental (longitudinal) joint characteristic etc. However, most proposed liner’s design procedures and recommendations are basically empirical and experience based, especially when the roles of tunnel joint are concerned. In the present study, a preliminary design calculation for the segmental joint with consideration of three practical conditions was proposed. The method adopts two main assumptions; the stiffness reduction factor and simplified pre-stressed concrete blocks, so that the flexural capacity of the segmental joint and its interactions to the main reinforced concrete segment body can be designated. Calculation examples are given for three most probable cases, namely, 1) the unbolted joint without joint opening, 2) the bolted joint without joint opening and 3) the unbolted segmental joint with allowing joint opening. Based on these calculations, the required compressive strength of concrete, thickness of liner, steel reinforcement, bolts and number of segments of the liner could be specified. The proposed method could well provide an engineer a tool to determine the initial joint configuration and its interaction to the overall tunnel lining.",
+    "keywords": [],
+    "doi": "10.2478/cee-2021-0010",
+    "url": "https://www.semanticscholar.org/paper/58166306593af5d4a376e13997a08e495fa393d9",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "17d62f60591af882fd8ad3c5a5c0044d5a6e1f9f",
+    "title": "A parametric study on friction-loss in water conveyance tunnels considering misalignment of precast concrete segments",
+    "authors": "Mostafa Nabipour, S. Rezapour, S. H. Mohajeri",
+    "journal": "Tunnelling and Underground Space Technology",
+    "publish_year": "2020",
+    "abstract": "Abstract In many tunneling projects, it is common that the lining concrete segments misaligned during Tunnel Boring Machine (TBM) operation or after excavation process. Misalignment of concrete segment, especially in water conveyance tunnels, can affect fluid transfer capacity and causes local head-loss. Present study is composed of a series of Three Dimensional (3D) numerical simulations which explores the effects of the steps occurrence the tunnels created by segment off-sets in subcritical free surface flow. Results show that recirculating flows occur after the steps. This strong vortical motion after the steps causes considerable head-losses especially for higher steps which should not be neglected in the estimation of total head-loss. The results of simulations also show that the effects of the wall roughness and segment length on the head-loss could be ignored for practical estimations. Moreover, it is found that for a specified high expansion ratio, local head-loss coefficient of the bottom step is less than coefficient of the side step. Exploring presence of a sequence of misaligned concrete segments shows that the head-loss coefficient of sequenced steps is less than summation of independent coefficients of the same steps.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/j.tust.2019.103221",
+    "url": "https://www.semanticscholar.org/paper/17d62f60591af882fd8ad3c5a5c0044d5a6e1f9f",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  }
+]

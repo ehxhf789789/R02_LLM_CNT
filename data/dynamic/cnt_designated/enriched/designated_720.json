@@ -1,0 +1,20 @@
+{
+  "tech_number": "720",
+  "tech_name": "이중몰딩·단위모듈형 지중수평변위 측정용 센서를 이용한 흙막이 벽체의 실시간 무선원격 계측관리시스템",
+  "tech_field": "토목 > 토질 및 기초 > 지반환경 조사 및 측정",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=33&apntNo=720&frMenu=list&newtecId=21217",
+  "patents": [
+    {
+      "title": "흙막이 가시설의 기울기 원격 계측관리시스템 및 이의 설치방법",
+      "type": "",
+      "register_number": "10-1015092"
+    },
+    {
+      "title": "구조물의 원격 계측관리시스템",
+      "type": "",
+      "register_number": "10-1079751"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 5
+}

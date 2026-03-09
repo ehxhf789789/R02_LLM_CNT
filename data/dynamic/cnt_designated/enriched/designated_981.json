@@ -1,0 +1,32 @@
+{
+  "tech_number": "981",
+  "tech_name": "내부양생효과를 증진한 고흡수성수지(SAP) 콘크리트와 철근배근 일체식 자동화 페이버를 이용한 박층연속철근 콘크리트 덧씌우기 포장 공법 (UT-CRCP)",
+  "tech_field": "토목 > 도로 > 콘크리트 포장 및 유지보수",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=7&apntNo=981&frMenu=list&newtecId=28945",
+  "patents": [
+    {
+      "title": "도로 보수를 위한 연속철근 콘크리트 포장공법 및 이를 위한 철근 유도 장치",
+      "type": "특허등록",
+      "register_number": "102028643"
+    },
+    {
+      "title": "프리웻(Pre-Wet) 고흡수성 수지를 포함하는 덧씌우기 포장용 콘크리트 조성물의 제조방법 및 그에 사용되는 혼화제",
+      "type": "특허등록",
+      "register_number": "102378557"
+    },
+    {
+      "title": "콘크리트 포장장치 ",
+      "type": "특허등록",
+      "register_number": "102343558"
+    },
+    {
+      "title": "콘크리트 포장장치 ",
+      "type": "특허등록",
+      "register_number": "102343559"
+    }
+  ],
+  "extracted_texts": {
+    "intro": "건설신기술제981호\n2023. 12. \n\n\n2\n1.  신기술의개요\n이\n\n\n3\n2.  신기술의특징\nDry 상태\nWet 상태\n\n\n4\n2.  신기술의특징\nSpreader\nFeeder\nAuger\nMould\nRoller\nSuper Smoother\n\n\n5\n2.  신기술의특징\nSpreader\n\n\n6\n3.  신기술의시공순서\nSpreader\n\n\n7\n4.   신기술의경제성\nSpreader\n구분\nCase 2\nUT-CRCP\n(DG X)\nPSMA\nUT-CRCP\n(DG O)\nPSMA\nInitial Cost\n5.76\n11.91\n6.32\n11.91\nUser Cost\n2.47\n2.09\n3.56\n2.09\nTotal Cost\n8.23\n14.00\n9.88\n14.00\n\n\n8\n5.   신기술의시장성\nSpreader텍사스\n텍사스주\n주US \nUS 287 \n287 고속도로\n고속도로10 cm \n10 cm Bonded CRCP \nBonded CRCP 덧씌우기\n덧씌우기(2012\n(2012년)\n)텍사스\n텍사스Paris \nParis Loop\nLoop-286\n28613 cm \n13 cm Bonded CRCP \nBonded CRCP 덧씌우기\n덧씌우기(2023\n(2023년)\n)국도\n국도37\n37호선\n호선10 cm \n10 cm Bonded \nBonded CRCP \nCRCP 덧씌우기\n덧씌우기(2021\n(2021년)\n)국도\n국도19\n19호선\n호선10 cm \n10 cm Bonded \nBonded CRCP\nCRCP덧씌우기\n덧씌우기(2022\n(2022년)\n)"
+  },
+  "file_count": 10
+}

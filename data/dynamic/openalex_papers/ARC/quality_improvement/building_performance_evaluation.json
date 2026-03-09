@@ -1,0 +1,76 @@
+[
+  {
+    "openalex_id": "https://openalex.org/W4213142960",
+    "title": "BIM-Based Green Hospital Building Performance Pre-Evaluation: A Case Study",
+    "authors": "Zhaoxi Zhan, W. Xu, Lin Xu, Xinyue Qi, Wenjie Song, Wang Chen, Ziye Huang",
+    "journal": "Sustainability",
+    "publish_year": "2022",
+    "abstract": "With ecological problems and energy crises intensifying today, greening is essential to sustainable development. Compared with other types of buildings, hospital buildings account for a relatively larger proportion of building energy consumption. In order to realize the rapid cycle optimization of a green hospital project in the design stage and improve the green grade of the building, a pre-evaluation Building Information Model (BIM) of green hospital building performance was established in this study. Firstly, the literature review and expert consultation established the building performance pre-evaluation index system for green hospitals. Then, BIM technology is taken to extract data needed for building a performance pre-evaluation system, and the Cloud Model and the Matter–Element Extension Theory are used to build models. The final green grade calculation is realized in MATLAB. Finally, the Maluan Bay Hospital is taken as an example to test the applicability and effectiveness of the proposed model. The results show that the green hospital building performance pre-evaluation model has advantages of simulation, cyclic optimization and fuzzy quantification, which can effectively guide the design and construction of a green hospital.",
+    "keywords": [
+      "Green building",
+      "Building information modeling",
+      "Sustainable development",
+      "Fuzzy logic",
+      "Computer science",
+      "Systems engineering",
+      "Engineering"
+    ],
+    "doi": "10.3390/su14042066",
+    "url": "https://openalex.org/W4213142960",
+    "citation_count": 37,
+    "oa_url": "https://www.mdpi.com/2071-1050/14/4/2066/pdf?version=1644897193",
+    "source": "openalex",
+    "eval_dimension": "quality_improvement"
+  },
+  {
+    "openalex_id": "https://openalex.org/W2793807685",
+    "title": "Towards a framework to evaluate the ‘total’ performance of buildings",
+    "authors": "Jonathon Taylor, Yanchen Liu, Borong Lin, Esfand Burman, Sung Min Hong, Juan Yu, Zhe Wang, Dejan Mumovic, Clive Shrubsole, Daan Vermeer",
+    "journal": "Building Services Engineering Research and Technology",
+    "publish_year": "2018",
+    "abstract": "Internationally, buildings are a major contributor to carbon emissions. Despite significant advances in the technology and construction of energy-efficient buildings, in many cases a performance gap between designed and actual performance exists. While much research has investigated the drivers of the building energy performance gap – both static and transient– there has been considerably less research into the total performance gap, defined here as performance gaps in building energy use, occupant satisfaction and Indoor Environmental Quality parameters such as thermal comfort and air quality which may impact on occupant health and wellbeing. This paper presents a meta-analysis of building performance data from buildings in the UK and China – selected due to their contrasting development environments – which illustrate the presence of and complexities of evaluating total performance gaps in both countries. The data demonstrate the need for (1) high end-use, spatial granularity and temporal resolution data for both energy and Indoor Environmental Quality, and (2) developing methodologies that allow meaningful comparisons between buildings internationally to facilitate learning from successful building design, construction methodologies and policy environments internationally. Using performance data from a UK building, a potential forward path is illustrated with the objective of developing a framework to evaluate total building performance. Practical application: While much research has examined building energy performance gaps, Indoor Environmental Quality and occupant satisfaction gaps are rarely included despite their relationship to energy. We use a meta-analysis of energy, indoor environmental quality, and occupant satisfaction data from buildings in the UK and China to illustrating the presence of and complexities of evaluating total performance gaps for buildings in the two countries, and the need for high resolution dynamic buildings data and novel methodologies for comparison between buildings across different contexts. Illustrative case studies are used to demonstrate potential future directions for evaluating ‘total’ building performance.",
+    "keywords": [
+      "Built environment",
+      "Architectural engineering",
+      "Environmental quality",
+      "Efficient energy use",
+      "Energy performance",
+      "Building design",
+      "Thermal comfort",
+      "Indoor air quality",
+      "Quality (philosophy)",
+      "Post-occupancy evaluation"
+    ],
+    "doi": "10.1177/0143624418762662",
+    "url": "https://openalex.org/W2793807685",
+    "citation_count": 26,
+    "oa_url": null,
+    "source": "openalex",
+    "eval_dimension": "quality_improvement"
+  },
+  {
+    "openalex_id": "https://openalex.org/W4389194496",
+    "title": "A revised morphing algorithm for creating future weather for building performance evaluation",
+    "authors": "Matthew Eames, Hailun Xie, Anastasia Mylona, Ruth Shilston, Jake Hacker",
+    "journal": "Building Services Engineering Research and Technology",
+    "publish_year": "2023",
+    "abstract": "Climate change is one of the greatest challenges the building industry faces. Engineers and architects require representative future weather data if they would like to see how their buildings and designs will fare under a changing climate. The most common method used to create future weather involves manipulating observations commonly known as morphing, but the most used algorithms can create implausible weather conditions due to their unbounded nature. Here, bounded morphing algorithms will be described and their effectiveness proved mathematically. The improved bounded method applies two additional conditions on the morphed distribution to the maximum and minimum values, in addition to the mean values. The benefits over the standard approach will also be illustrated considering the changes in the distribution of temperature and solar irradiation due to climate change. The improved algorithms outperform the standard morphing procedures in terms of preserving the underlying climate signal while not creating unrealistic or implausible weather conditions. This method should give engineers confidence that the generated future weather series are more robust and representative of potential future weather. Practical application: The use of future weather to inform building design is now commonplace within the industry. Reliable weather files are crucial to support and deliver strategies for decarbonisation and adaptation to climate change in the built environment and the wider industry. This article provides support for the use of revised morphing algorithms which result in improved future weather time series which can be used in building simulation. For example, when applied to the temperature, it can be used to produce more accurate representations of future temperature profiles due to climate change, and for building performance assessment, such as energy consumption and overheating. It plays an important role in producing reliable and realistic weather data for future-proof building design.",
+    "keywords": [
+      "Morphing",
+      "Computer science",
+      "Climate change",
+      "Algorithm",
+      "Extreme weather",
+      "Industrial engineering",
+      "Adaptation (eye)",
+      "Architectural engineering",
+      "Operations research"
+    ],
+    "doi": "10.1177/01436244231218861",
+    "url": "https://openalex.org/W4389194496",
+    "citation_count": 3,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/01436244231218861",
+    "source": "openalex",
+    "eval_dimension": "quality_improvement"
+  }
+]

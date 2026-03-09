@@ -1,0 +1,59 @@
+[
+  {
+    "paper_id": "6e9adc5f4f98d1fff3383b22be902f158d79e7c3",
+    "title": "센서 네트워크 기반 실시간 교량 안전관리를 위한 지능형 구조 건전성 모니터링시스템 개발",
+    "authors": "조병완, 김헌, 이윤성, 김도근",
+    "journal": "The Journal of the Korea Contents Association",
+    "publish_year": "2016",
+    "abstract": "최근 교량의 장수명화와 이용자의 안전을 보장하기 위한 첨단IT기술을 이용한 유지관리 기법이 세계적으로 각광을 받고 있다. 이에 본 논문에서는 무선계측센서를 이용하여 교량의 정적·동적 데이터를 취득 및 분석하여 교량의 거동상태를 실시간으로 모니터링 할 수 있는 지능형 교량 구조 건전성 모니터링시스템을 개발하였다. 본 논문에서 개발한 모니터링 시스템은 교량의 주요 부재의 거동을 계측하기 위한 센서 및 계측데이터 전송을 위한 무선송수신시스템, 전체 시스템 관리를 위한 운영프로그램 및 데이터베이스로 구성되어 있다. 개발한 무선계측센서 기반의 모니터링 시스템의 성능검증을 위해 올림픽대교에 5종의 무선계측센서를 설치하였으며, 센서의 전원은 태양광 발전장치를 설치하여 자가 전원공급이 가능하도록 하였다. 성능검증을 위한 데이터는 시스템 구축완료 후 일주일간의 데이터를 활용하여, 유선시스템으로부터 취득된 데이터와 비교 분석하였으며, 이를 통행 지능형 구조 건전성 모니터링 시스템의 성능 및 실 교량 적용성을 검증하였다.",
+    "keywords": [],
+    "doi": "10.5392/JKCA.2016.16.02.221",
+    "url": "https://www.semanticscholar.org/paper/6e9adc5f4f98d1fff3383b22be902f158d79e7c3",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "6e9adc5f4f98d1fff3383b22be902f158d79e7c3",
+      "externalIds": {
+        "MAG": "2344820583",
+        "DOI": "10.5392/JKCA.2016.16.02.221",
+        "CorpusId": 147721807
+      },
+      "url": "https://www.semanticscholar.org/paper/6e9adc5f4f98d1fff3383b22be902f158d79e7c3",
+      "title": "센서 네트워크 기반 실시간 교량 안전관리를 위한 지능형 구조 건전성 모니터링시스템 개발",
+      "year": 2016,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "http://society.kisti.re.kr/sv/SV_svpsbs03V.do?method=download&cn1=JAKO201608450942069",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5392/JKCA.2016.16.02.221?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5392/JKCA.2016.16.02.221, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "The Journal of the Korea Contents Association",
+        "pages": "221-230",
+        "volume": "16"
+      },
+      "authors": [
+        {
+          "authorId": "52404858",
+          "name": "조병완"
+        },
+        {
+          "authorId": "52041674",
+          "name": "김헌"
+        },
+        {
+          "authorId": "69858976",
+          "name": "이윤성"
+        },
+        {
+          "authorId": "70427393",
+          "name": "김도근"
+        }
+      ],
+      "abstract": "최근 교량의 장수명화와 이용자의 안전을 보장하기 위한 첨단IT기술을 이용한 유지관리 기법이 세계적으로 각광을 받고 있다. 이에 본 논문에서는 무선계측센서를 이용하여 교량의 정적·동적 데이터를 취득 및 분석하여 교량의 거동상태를 실시간으로 모니터링 할 수 있는 지능형 교량 구조 건전성 모니터링시스템을 개발하였다. 본 논문에서 개발한 모니터링 시스템은 교량의 주요 부재의 거동을 계측하기 위한 센서 및 계측데이터 전송을 위한 무선송수신시스템, 전체 시스템 관리를 위한 운영프로그램 및 데이터베이스로 구성되어 있다. 개발한 무선계측센서 기반의 모니터링 시스템의 성능검증을 위해 올림픽대교에 5종의 무선계측센서를 설치하였으며, 센서의 전원은 태양광 발전장치를 설치하여 자가 전원공급이 가능하도록 하였다. 성능검증을 위한 데이터는 시스템 구축완료 후 일주일간의 데이터를 활용하여, 유선시스템으로부터 취득된 데이터와 비교 분석하였으며, 이를 통행 지능형 구조 건전성 모니터링 시스템의 성능 및 실 교량 적용성을 검증하였다."
+    }
+  }
+]

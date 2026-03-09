@@ -1,0 +1,409 @@
+[
+  {
+    "paper_id": "441c3640cd990bf1cb1da208896b78c15d8cb63a",
+    "title": "Evaluation of soft soil foundation reinforcement effect of prefabricated building based on BP neural network",
+    "authors": "Mei Cheng",
+    "journal": "Journal of Computational Methods in Science and Engineering",
+    "publish_year": "2023",
+    "abstract": "The use of traditional reinforcement methods in construction sites often causes problems such as pore water pressure, which can not effectively form a solid foundation. Aiming at this problem, the evaluation model of soft soil foundation reinforcement effect of prefabricated buildings is established based on BP neural network, combined with the geological characteristics of soft soil and the elements of foundation reinforcement; The L-M algorithm is used to optimize the slow convergence problem of BP neural network, and finally its evaluation effect is verified through practical application. The results show that the strengthening effect of 1550 kN ⋅ m/m 2 is better than that of 2000 kN ⋅ m/m 2 with the more times of tamping for marine and river facies, and there is a positive correlation between the times of strengthening and the effect. At the same time, similar qualitative conditions also show that the greater the burial depth, the worse the reinforcement effect. When the overlying soil layer is soft, the shallow buried soil layer can be reinforced by laying a cushion to improve the overall reinforcement effect. The laws reflected in the final model output data are the same as those reflected in the construction, and the accuracy of the proposed model is up to 87%, indicating that the model has superior performance in the reinforcement effect evaluation.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3233/JCM-226808",
+    "url": "https://www.semanticscholar.org/paper/441c3640cd990bf1cb1da208896b78c15d8cb63a",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "441c3640cd990bf1cb1da208896b78c15d8cb63a",
+      "externalIds": {
+        "DBLP": "journals/jcmse/Cheng23",
+        "DOI": "10.3233/JCM-226808",
+        "CorpusId": 259799716
+      },
+      "url": "https://www.semanticscholar.org/paper/441c3640cd990bf1cb1da208896b78c15d8cb63a",
+      "title": "Evaluation of soft soil foundation reinforcement effect of prefabricated building based on BP neural network",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3233/JCM-226808?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/JCM-226808, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Journal of Computational Methods in Science and Engineering",
+        "pages": "1787 - 1800",
+        "volume": "23"
+      },
+      "authors": [
+        {
+          "authorId": "2117811235",
+          "name": "Mei Cheng"
+        }
+      ],
+      "abstract": "The use of traditional reinforcement methods in construction sites often causes problems such as pore water pressure, which can not effectively form a solid foundation. Aiming at this problem, the evaluation model of soft soil foundation reinforcement effect of prefabricated buildings is established based on BP neural network, combined with the geological characteristics of soft soil and the elements of foundation reinforcement; The L-M algorithm is used to optimize the slow convergence problem of BP neural network, and finally its evaluation effect is verified through practical application. The results show that the strengthening effect of 1550 kN ⋅ m/m 2 is better than that of 2000 kN ⋅ m/m 2 with the more times of tamping for marine and river facies, and there is a positive correlation between the times of strengthening and the effect. At the same time, similar qualitative conditions also show that the greater the burial depth, the worse the reinforcement effect. When the overlying soil layer is soft, the shallow buried soil layer can be reinforced by laying a cushion to improve the overall reinforcement effect. The laws reflected in the final model output data are the same as those reflected in the construction, and the accuracy of the proposed model is up to 87%, indicating that the model has superior performance in the reinforcement effect evaluation."
+    }
+  },
+  {
+    "paper_id": "045bafad610a17cf71f9bf37a27b8438b943d628",
+    "title": "Research on Numerical Simulation of Soft Soil Foundation Reinforcement during the Process of Under-Crossing Subway Shield Tunnel",
+    "authors": "Gao Wenjie, Yang Yu, Xiang Lingzhi",
+    "journal": "Journal of Physics: Conference Series",
+    "publish_year": "2021",
+    "abstract": "The disturbance of shield construction in coastal soft soil area poses a threat to the use and even safety of adjacent municipal transportation facilities. In order to study the influence of under-crossing shield construction on municipal transportation facilities in soft soil area, taking a practical project as an example, the author adopted numerical analysis method to conduct a comparative study of the influence of foundation reinforcement on under-crossing shield open-cut tunnels and bridges. The results show that for open-cut tunnels and bridges, foundation reinforcement can greatly reduce the deformation and internal force of the structure after under-crossing shield. At the same time, different reinforcement depths and methods will also lead to different results. The full reinforcement of 2 meters is obviously deeper than that of 3 meters, and strip-shaped reinforcement with 6-meter spacing has worse performance. Determining a reasonable reinforcement depth is of great significance for saving costs.",
+    "keywords": [
+      "Physics"
+    ],
+    "doi": "10.1088/1742-6596/2012/1/012021",
+    "url": "https://www.semanticscholar.org/paper/045bafad610a17cf71f9bf37a27b8438b943d628",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "045bafad610a17cf71f9bf37a27b8438b943d628",
+      "externalIds": {
+        "DOI": "10.1088/1742-6596/2012/1/012021",
+        "CorpusId": 237449236
+      },
+      "url": "https://www.semanticscholar.org/paper/045bafad610a17cf71f9bf37a27b8438b943d628",
+      "title": "Research on Numerical Simulation of Soft Soil Foundation Reinforcement during the Process of Under-Crossing Subway Shield Tunnel",
+      "year": 2021,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://iopscience.iop.org/article/10.1088/1742-6596/2012/1/012021/pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/2012/1/012021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/2012/1/012021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "Journal of Physics: Conference Series",
+        "volume": "2012"
+      },
+      "authors": [
+        {
+          "authorId": "2047941952",
+          "name": "Gao Wenjie"
+        },
+        {
+          "authorId": "2152848600",
+          "name": "Yang Yu"
+        },
+        {
+          "authorId": "2090057958",
+          "name": "Xiang Lingzhi"
+        }
+      ],
+      "abstract": "The disturbance of shield construction in coastal soft soil area poses a threat to the use and even safety of adjacent municipal transportation facilities. In order to study the influence of under-crossing shield construction on municipal transportation facilities in soft soil area, taking a practical project as an example, the author adopted numerical analysis method to conduct a comparative study of the influence of foundation reinforcement on under-crossing shield open-cut tunnels and bridges. The results show that for open-cut tunnels and bridges, foundation reinforcement can greatly reduce the deformation and internal force of the structure after under-crossing shield. At the same time, different reinforcement depths and methods will also lead to different results. The full reinforcement of 2 meters is obviously deeper than that of 3 meters, and strip-shaped reinforcement with 6-meter spacing has worse performance. Determining a reasonable reinforcement depth is of great significance for saving costs."
+    }
+  },
+  {
+    "paper_id": "9f50a1b2c070dd469463ce306663db0a0bfc49b1",
+    "title": "Application of construction waste in the reinforcement of soft soil foundation in coastal cities",
+    "authors": "Chuanhai Zhao, Da-jun Zhao",
+    "journal": "Environmental Technology and Innovation",
+    "publish_year": "2020",
+    "abstract": "Abstract In this paper, the application of construction waste in soft soil foundation reinforcement is proposed. This paper analyzes the basic engineering characteristics of soft soil foundation, calculates the basic values of bearing capacity and compression modulus of soft soil foundation, and estimates the characteristic value of vertical bearing capacity of single rammed expanded pile, so as to determine the soil parameters and the two parameters of three blow penetration. According to the classification and treatment of the composite foundation of granular material pile, the structure of rammed expanded pile with composite carrier is designed, and the order of rammed expanded pile is determined. Then according to the function of the composite foundation of granular material pile, the reinforcement technology is designed, and the specific application content is studied. The results show that the change rate of the lateral displacement of the foundation is basically stable, and the minimum displacement is 2.0 m, which shows good stability. This study can find a reasonable utilization way for construction waste to a certain extent.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/j.eti.2020.101195",
+    "url": "https://www.semanticscholar.org/paper/9f50a1b2c070dd469463ce306663db0a0bfc49b1",
+    "citation_count": 42,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "9f50a1b2c070dd469463ce306663db0a0bfc49b1",
+      "externalIds": {
+        "MAG": "3092579781",
+        "DOI": "10.1016/j.eti.2020.101195",
+        "CorpusId": 225146937
+      },
+      "url": "https://www.semanticscholar.org/paper/9f50a1b2c070dd469463ce306663db0a0bfc49b1",
+      "title": "Application of construction waste in the reinforcement of soft soil foundation in coastal cities",
+      "year": 2020,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.eti.2020.101195?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.eti.2020.101195, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Geology"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Environmental Technology and Innovation",
+        "pages": "101195",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2004404840",
+          "name": "Chuanhai Zhao"
+        },
+        {
+          "authorId": "46272676",
+          "name": "Da-jun Zhao"
+        }
+      ],
+      "abstract": "Abstract In this paper, the application of construction waste in soft soil foundation reinforcement is proposed. This paper analyzes the basic engineering characteristics of soft soil foundation, calculates the basic values of bearing capacity and compression modulus of soft soil foundation, and estimates the characteristic value of vertical bearing capacity of single rammed expanded pile, so as to determine the soil parameters and the two parameters of three blow penetration. According to the classification and treatment of the composite foundation of granular material pile, the structure of rammed expanded pile with composite carrier is designed, and the order of rammed expanded pile is determined. Then according to the function of the composite foundation of granular material pile, the reinforcement technology is designed, and the specific application content is studied. The results show that the change rate of the lateral displacement of the foundation is basically stable, and the minimum displacement is 2.0 m, which shows good stability. This study can find a reasonable utilization way for construction waste to a certain extent."
+    }
+  },
+  {
+    "paper_id": "236b59745ff7b36e4d24b83d30f045c07e47a912",
+    "title": "Study on the Effect of Pile Foundation Reinforcement of Embankment on Slope of Soft Soil",
+    "authors": "Feifei Wang, J. Shao, Wenkai Li, Yafei Wang, Longfei Wang, Honglin Liu",
+    "journal": "Sustainability",
+    "publish_year": "2022",
+    "abstract": "In order to study the working mechanisms of pile foundations applied to embankment engineering on weak slope foundations, a finite element model of embankment on weak slope foundation reinforced by a pile foundation is established. The influence of the position and the length of the pile foundation on the stability of the embankment is studied, and the mechanical response of the pile foundations are also studied. The results show that the different positions of the pile foundation have great influence on the safety factor and deformation of the embankment. The safety factor varies greatly from one reinforcement location to another. The maximum vertical deformation of the embankment reinforced by the 3 m pile is 27 times that of the 7 m. With different pile lengths, the horizontal displacement of the pile foundation can be significantly reduced by approximately 83.3% at most. The research results may provide more scientific help for the design of embankments on soft soil slopes reinforced by pile foundations.",
+    "keywords": [],
+    "doi": "10.3390/su142114359",
+    "url": "https://www.semanticscholar.org/paper/236b59745ff7b36e4d24b83d30f045c07e47a912",
+    "citation_count": 14,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "236b59745ff7b36e4d24b83d30f045c07e47a912",
+      "externalIds": {
+        "DOI": "10.3390/su142114359",
+        "CorpusId": 253322100
+      },
+      "url": "https://www.semanticscholar.org/paper/236b59745ff7b36e4d24b83d30f045c07e47a912",
+      "title": "Study on the Effect of Pile Foundation Reinforcement of Embankment on Slope of Soft Soil",
+      "year": 2022,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2071-1050/14/21/14359/pdf?version=1667888131",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su142114359?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su142114359, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Sustainability"
+      },
+      "authors": [
+        {
+          "authorId": "2148956824",
+          "name": "Feifei Wang"
+        },
+        {
+          "authorId": "2100481570",
+          "name": "J. Shao"
+        },
+        {
+          "authorId": "2379891787",
+          "name": "Wenkai Li"
+        },
+        {
+          "authorId": "2143472709",
+          "name": "Yafei Wang"
+        },
+        {
+          "authorId": "1941199286",
+          "name": "Longfei Wang"
+        },
+        {
+          "authorId": "2144331416",
+          "name": "Honglin Liu"
+        }
+      ],
+      "abstract": "In order to study the working mechanisms of pile foundations applied to embankment engineering on weak slope foundations, a finite element model of embankment on weak slope foundation reinforced by a pile foundation is established. The influence of the position and the length of the pile foundation on the stability of the embankment is studied, and the mechanical response of the pile foundations are also studied. The results show that the different positions of the pile foundation have great influence on the safety factor and deformation of the embankment. The safety factor varies greatly from one reinforcement location to another. The maximum vertical deformation of the embankment reinforced by the 3 m pile is 27 times that of the 7 m. With different pile lengths, the horizontal displacement of the pile foundation can be significantly reduced by approximately 83.3% at most. The research results may provide more scientific help for the design of embankments on soft soil slopes reinforced by pile foundations."
+    }
+  },
+  {
+    "paper_id": "336fdf11706c226136a77f41a4abebc7c6e78d14",
+    "title": "Investigation on the Bearing Performance of a Single Pile in Shallow Reinforced Soft Soil Foundation under Horizontal Load",
+    "authors": "Guanglin Bai, Hong Zhang, Bo Wang, Feng Chen, Jiahao Zhao, Qianjin Shu",
+    "journal": "Buildings",
+    "publish_year": "2024",
+    "abstract": "The overall reinforcement of soft soil foundation has the disadvantages of large engineering quantity and high cost. When the pile foundation bears horizontal loads in the soil, the mechanical properties of the soil near the surface have a greater impact on it compared to the deep soil. Therefore, studying the influence of shallow soil reinforcement on the horizontal bearing capacity of pile foundations has important engineering significance. Studying the influence of shallow soft soil reinforcement around piles on the horizontal bearing performance of piles is of great significance for improving the economic efficiency of pile foundation reinforcement technology in soft soil areas. In this paper, seven pile-soil finite element models are established based on ABAQUS 2022 software to study the influence of shallow reinforcement on the horizontal bearing capacity of single pile. The models were established on the basis of a field test and its validity was verified. The influence of different reinforcement degrees on the horizontal bearing capacity of piles is analyzed by taking the reinforcement width and reinforcement depth as variables. The results indicate that shallow ground improvement significantly enhances the horizontal bearing capacity of the pile. The horizontal bearing capacity of the pile is increased by 83.0%, 104.3%, and 224.4%, respectively, corresponding to a reinforcement width of 2 times, 3 times, and 4 times the diameter of the pile, respectively. With the increase of the reinforcement width, the bending moment and deformation of the pile under the same horizontal load decrease significantly, while it has no significant effect on the location of the maximum bending moment of the pile. The bearing capacity of the pile foundation gradually increases with the increase of the reinforcement depth. Compared with the unreinforced situation, the horizontal bearing capacity of the pile body is increased by 224.4%, 361.3%, and 456.8%, respectively, corresponding to a reinforcement depth of 0.1 times, 0.2 times, and 0.3 times the pile length. As the reinforcement depth increases, the corresponding increase in bearing capacity does not increase linearly, but gradually decreases. This indicates that blindly carrying out deep soil reinforcement without comprehensive evaluation is not advisable.",
+    "keywords": [],
+    "doi": "10.3390/buildings14103166",
+    "url": "https://www.semanticscholar.org/paper/336fdf11706c226136a77f41a4abebc7c6e78d14",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "336fdf11706c226136a77f41a4abebc7c6e78d14",
+      "externalIds": {
+        "DOI": "10.3390/buildings14103166",
+        "CorpusId": 273219047
+      },
+      "url": "https://www.semanticscholar.org/paper/336fdf11706c226136a77f41a4abebc7c6e78d14",
+      "title": "Investigation on the Bearing Performance of a Single Pile in Shallow Reinforced Soft Soil Foundation under Horizontal Load",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/buildings14103166",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings14103166?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings14103166, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "2325059926",
+          "name": "Guanglin Bai"
+        },
+        {
+          "authorId": "2325206757",
+          "name": "Hong Zhang"
+        },
+        {
+          "authorId": "2325102548",
+          "name": "Bo Wang"
+        },
+        {
+          "authorId": "2325281560",
+          "name": "Feng Chen"
+        },
+        {
+          "authorId": "2273908876",
+          "name": "Jiahao Zhao"
+        },
+        {
+          "authorId": "2305208051",
+          "name": "Qianjin Shu"
+        }
+      ],
+      "abstract": "The overall reinforcement of soft soil foundation has the disadvantages of large engineering quantity and high cost. When the pile foundation bears horizontal loads in the soil, the mechanical properties of the soil near the surface have a greater impact on it compared to the deep soil. Therefore, studying the influence of shallow soil reinforcement on the horizontal bearing capacity of pile foundations has important engineering significance. Studying the influence of shallow soft soil reinforcement around piles on the horizontal bearing performance of piles is of great significance for improving the economic efficiency of pile foundation reinforcement technology in soft soil areas. In this paper, seven pile-soil finite element models are established based on ABAQUS 2022 software to study the influence of shallow reinforcement on the horizontal bearing capacity of single pile. The models were established on the basis of a field test and its validity was verified. The influence of different reinforcement degrees on the horizontal bearing capacity of piles is analyzed by taking the reinforcement width and reinforcement depth as variables. The results indicate that shallow ground improvement significantly enhances the horizontal bearing capacity of the pile. The horizontal bearing capacity of the pile is increased by 83.0%, 104.3%, and 224.4%, respectively, corresponding to a reinforcement width of 2 times, 3 times, and 4 times the diameter of the pile, respectively. With the increase of the reinforcement width, the bending moment and deformation of the pile under the same horizontal load decrease significantly, while it has no significant effect on the location of the maximum bending moment of the pile. The bearing capacity of the pile foundation gradually increases with the increase of the reinforcement depth. Compared with the unreinforced situation, the horizontal bearing capacity of the pile body is increased by 224.4%, 361.3%, and 456.8%, respectively, corresponding to a reinforcement depth of 0.1 times, 0.2 times, and 0.3 times the pile length. As the reinforcement depth increases, the corresponding increase in bearing capacity does not increase linearly, but gradually decreases. This indicates that blindly carrying out deep soil reinforcement without comprehensive evaluation is not advisable."
+    }
+  },
+  {
+    "paper_id": "9f0114b402058ff1be8e4b92728cd0693cc8979a",
+    "title": "Utilization of cement deep mixing pile for soft soil foundation: a malaysian case study",
+    "authors": "Zhiguo Xue, Wenfeng Zhang, Xiaobo Zhao, Fanjie Meng, Fang Qin, Guliang Xiao, Zhenyu Nie, Jiantao Chen",
+    "journal": "Frontiers in Materials",
+    "publish_year": "2024",
+    "abstract": "Cement deep mixing piles, as representatives of deep mixing technology, are mature and widely applied. However, effective application cases of cement deep mixing piles are relatively scarce in countries like Malaysia in Southeast Asia. In this paper, the application of cement deep mixing pile reinforcement in Malaysia is presented. Solidifying material was selected for deep mixing piles based on the soil conditions using unconfined compressive strength (UCS) tests. The relationship between the strength of deep mixing piles on-site and soil properties (type, organic matter content, and ion content) was analyzed. And a quality evaluation of the deep mixing piles in the project is conducted based on Kolmogorov-Smirnov (K-S) tests and relevant standards. Results show that fly ash cement is suitable as a solidifying agent for acidic soil layers containing organic matter in the local area. The strength of piles is significantly related to the soil condition. The UCS of cement mixing piles in silty clay and peat soils is smaller than clay. The overall correlation between organic matter content in the soil and UCS is negative, particularly when the organic matter content ranges from 10% to 14%, resulting in a significant drop in UCS. The bilateral significance probability is greater than 0.05 in K-S test, indicating that the UCS results in the projectconform to a normal distribution. Additionally, the evaluation of the overall quality of the mixing piles aligns with the requirements in the Japanese standard “Manual of Deep Mixing Construction Technology for Harbors and Airports” and the Chinese standard “Technical Code for Building Foundation Detection”.",
+    "keywords": [],
+    "doi": "10.3389/fmats.2024.1484228",
+    "url": "https://www.semanticscholar.org/paper/9f0114b402058ff1be8e4b92728cd0693cc8979a",
+    "citation_count": 4,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "9f0114b402058ff1be8e4b92728cd0693cc8979a",
+      "externalIds": {
+        "DOI": "10.3389/fmats.2024.1484228",
+        "CorpusId": 274102707
+      },
+      "url": "https://www.semanticscholar.org/paper/9f0114b402058ff1be8e4b92728cd0693cc8979a",
+      "title": "Utilization of cement deep mixing pile for soft soil foundation: a malaysian case study",
+      "year": 2024,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3389/fmats.2024.1484228",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fmats.2024.1484228?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fmats.2024.1484228, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Frontiers in Materials"
+      },
+      "authors": [
+        {
+          "authorId": "14598449",
+          "name": "Zhiguo Xue"
+        },
+        {
+          "authorId": "2118086469",
+          "name": "Wenfeng Zhang"
+        },
+        {
+          "authorId": "2131681851",
+          "name": "Xiaobo Zhao"
+        },
+        {
+          "authorId": "2348195571",
+          "name": "Fanjie Meng"
+        },
+        {
+          "authorId": "2083944863",
+          "name": "Fang Qin"
+        },
+        {
+          "authorId": "2331084330",
+          "name": "Guliang Xiao"
+        },
+        {
+          "authorId": "2323186467",
+          "name": "Zhenyu Nie"
+        },
+        {
+          "authorId": "2108110383",
+          "name": "Jiantao Chen"
+        }
+      ],
+      "abstract": "Cement deep mixing piles, as representatives of deep mixing technology, are mature and widely applied. However, effective application cases of cement deep mixing piles are relatively scarce in countries like Malaysia in Southeast Asia. In this paper, the application of cement deep mixing pile reinforcement in Malaysia is presented. Solidifying material was selected for deep mixing piles based on the soil conditions using unconfined compressive strength (UCS) tests. The relationship between the strength of deep mixing piles on-site and soil properties (type, organic matter content, and ion content) was analyzed. And a quality evaluation of the deep mixing piles in the project is conducted based on Kolmogorov-Smirnov (K-S) tests and relevant standards. Results show that fly ash cement is suitable as a solidifying agent for acidic soil layers containing organic matter in the local area. The strength of piles is significantly related to the soil condition. The UCS of cement mixing piles in silty clay and peat soils is smaller than clay. The overall correlation between organic matter content in the soil and UCS is negative, particularly when the organic matter content ranges from 10% to 14%, resulting in a significant drop in UCS. The bilateral significance probability is greater than 0.05 in K-S test, indicating that the UCS results in the projectconform to a normal distribution. Additionally, the evaluation of the overall quality of the mixing piles aligns with the requirements in the Japanese standard “Manual of Deep Mixing Construction Technology for Harbors and Airports” and the Chinese standard “Technical Code for Building Foundation Detection”."
+    }
+  },
+  {
+    "paper_id": "de5c4424de86bc24ee55ce2d31eaeea5ab5862bc",
+    "title": "Application of FEM and Artificial Intelligence Techniques (LRM, RFM & ANN) in Predicting the Ultimate Bearing Capacity of Reinforced Soil Foundation",
+    "authors": "Pandi Anandhi Jeyaseelan, Muttharam Madhavan",
+    "journal": "Buildings",
+    "publish_year": "2024",
+    "abstract": "In this research paper, the behavior of shallow footing with square and rectangular shapes over geosynthetic reinforced soil was studied. A novel geogrid called “3D tube-geogrid” was utilized for this work. The impact of various reinforcement parameters, including the depth of the final layer (z), length (l), inclination (α), filler material used inside the geogrid tube, relative soil density, and the tensile stiffness of the geogrid (EA), were analyzed by running numerical simulations using PLAXIS 3D V20 software. The simulated data were used to quantify the relationship between the ultimate bearing capacity of the soil and the reinforcement parameters. Several artificial intelligence (AI) techniques, such as linear regression analysis, a random forest model, and an artificial neural network (ANN), were employed on the generated dataset. To evaluate the preciseness of these techniques, various statistical indicators, such as the squared correlation coefficient (R2), mean absolute percentage error (MAPE), mean squared error (MSE), and root-mean-square error (RMSE), were calculated, and error percentages of 20.98%, 12.5%, and 6.4% were obtained for the linear regression, random forest, and ANN, respectively. The numerical study determined the optimal values of the reinforcement parameters length, z/B, inclination, and filling material to be 4B, 3, 0°, and aggregate, respectively.",
+    "keywords": [],
+    "doi": "10.3390/buildings14082273",
+    "url": "https://www.semanticscholar.org/paper/de5c4424de86bc24ee55ce2d31eaeea5ab5862bc",
+    "citation_count": 5,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "de5c4424de86bc24ee55ce2d31eaeea5ab5862bc",
+      "externalIds": {
+        "DOI": "10.3390/buildings14082273",
+        "CorpusId": 271417986
+      },
+      "url": "https://www.semanticscholar.org/paper/de5c4424de86bc24ee55ce2d31eaeea5ab5862bc",
+      "title": "Application of FEM and Artificial Intelligence Techniques (LRM, RFM & ANN) in Predicting the Ultimate Bearing Capacity of Reinforced Soil Foundation",
+      "year": 2024,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/buildings14082273",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings14082273?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings14082273, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "2312823532",
+          "name": "Pandi Anandhi Jeyaseelan"
+        },
+        {
+          "authorId": "2114861147",
+          "name": "Muttharam Madhavan"
+        }
+      ],
+      "abstract": "In this research paper, the behavior of shallow footing with square and rectangular shapes over geosynthetic reinforced soil was studied. A novel geogrid called “3D tube-geogrid” was utilized for this work. The impact of various reinforcement parameters, including the depth of the final layer (z), length (l), inclination (α), filler material used inside the geogrid tube, relative soil density, and the tensile stiffness of the geogrid (EA), were analyzed by running numerical simulations using PLAXIS 3D V20 software. The simulated data were used to quantify the relationship between the ultimate bearing capacity of the soil and the reinforcement parameters. Several artificial intelligence (AI) techniques, such as linear regression analysis, a random forest model, and an artificial neural network (ANN), were employed on the generated dataset. To evaluate the preciseness of these techniques, various statistical indicators, such as the squared correlation coefficient (R2), mean absolute percentage error (MAPE), mean squared error (MSE), and root-mean-square error (RMSE), were calculated, and error percentages of 20.98%, 12.5%, and 6.4% were obtained for the linear regression, random forest, and ANN, respectively. The numerical study determined the optimal values of the reinforcement parameters length, z/B, inclination, and filling material to be 4B, 3, 0°, and aggregate, respectively."
+    }
+  }
+]

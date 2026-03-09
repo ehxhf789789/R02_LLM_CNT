@@ -1,0 +1,571 @@
+[
+  {
+    "paper_id": "4dc473b0c6a1faee61d8e878d38d8c490adb654f",
+    "title": "Precast Concrete Construction Technology",
+    "authors": "Prof.Eshwaraj, Dr. Vinod B R, Dr. Ananthayya M B, Prof. Gowtham B",
+    "journal": "International Research Journal on Advanced Science Hub",
+    "publish_year": "2025",
+    "abstract": "Multi-storey building would be the greater part influenced by quake constrains to seismic prone areas. The major concern in the design of the multi-Storey building is the structure to have enough lateral stability to resist lateral forces buckling to control lateral drift and displacement of the building. The application of the shear wall system in Reinforcement concrete (RC) building has been widely used to minimize seismic consequences. Besides, the building with concentrated steel bracing system is used for the building. Both of the system has significance of the structural performance. Although both systems are used for same reason, their effect shows unequal variation and behaviours against seismic load. In the Project, G+10 storey building, along with shear wall and bracing are being considered for the analysis. The performance of building will be evaluated on the basis of following parameters Story displacement, Storey drift. In this work, the shear wall and bracing are provided at different locations with the overall analysis to be carried out using STAAD PRO Reinforced concrete structures are in greater demands in construction because the construction becomes quite convenient and economical in nature. RCC construction is best suited for low rise building but in High rise building construction are composite is a better option among the RCC and steel Structure.",
+    "keywords": [],
+    "doi": "10.47392/irjash.2025.009",
+    "url": "https://www.semanticscholar.org/paper/4dc473b0c6a1faee61d8e878d38d8c490adb654f",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "4dc473b0c6a1faee61d8e878d38d8c490adb654f",
+      "externalIds": {
+        "DOI": "10.47392/irjash.2025.009",
+        "CorpusId": 276563617
+      },
+      "url": "https://www.semanticscholar.org/paper/4dc473b0c6a1faee61d8e878d38d8c490adb654f",
+      "title": "Precast Concrete Construction Technology",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.47392/irjash.2025.009",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47392/irjash.2025.009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47392/irjash.2025.009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "International Research Journal on Advanced Science Hub"
+      },
+      "authors": [
+        {
+          "authorId": "2346868099",
+          "name": "Prof.Eshwaraj"
+        },
+        {
+          "authorId": "2346866719",
+          "name": "Dr. Vinod B R"
+        },
+        {
+          "authorId": "2346871979",
+          "name": "Dr. Ananthayya M B"
+        },
+        {
+          "authorId": "2346866845",
+          "name": "Prof. Gowtham B"
+        }
+      ],
+      "abstract": "Multi-storey building would be the greater part influenced by quake constrains to seismic prone areas. The major concern in the design of the multi-Storey building is the structure to have enough lateral stability to resist lateral forces buckling to control lateral drift and displacement of the building. The application of the shear wall system in Reinforcement concrete (RC) building has been widely used to minimize seismic consequences. Besides, the building with concentrated steel bracing system is used for the building. Both of the system has significance of the structural performance. Although both systems are used for same reason, their effect shows unequal variation and behaviours against seismic load. In the Project, G+10 storey building, along with shear wall and bracing are being considered for the analysis. The performance of building will be evaluated on the basis of following parameters Story displacement, Storey drift. In this work, the shear wall and bracing are provided at different locations with the overall analysis to be carried out using STAAD PRO Reinforced concrete structures are in greater demands in construction because the construction becomes quite convenient and economical in nature. RCC construction is best suited for low rise building but in High rise building construction are composite is a better option among the RCC and steel Structure."
+    }
+  },
+  {
+    "paper_id": "c59db43b3a96aced54e53298ec4a7487c71e9925",
+    "title": "Dynamic production scheduling model under due date uncertainty in precast concrete construction",
+    "authors": "Taehoon Kim, Yong-woo Kim, Hunhee Cho",
+    "journal": "Journal of Cleaner Production",
+    "publish_year": "2020",
+    "abstract": "Abstract Precast concrete structures (PCs) are widely used in the construction industry to reduce project delivery times and improve quality. On-time delivery of PCs is critical for successful project completion because the processes involving precast concrete are the critical paths in most cases. However, existing models for scheduling PC production are not adequate for use in dynamic environments where construction projects have uncertain construction schedules because of various reasons such as poor labor productivity, inadequate equipment, and poor weather. This research proposes a dynamic model for PC production scheduling by adopting a discrete-time simulation method to respond to due date changes in real time and by using a new dispatching rule that considers the uncertainty of the due dates to minimize tardiness. The model is validated by simulation experiments based on various scenarios with different levels of tightness and due date uncertainty. The results of this research will contribute to construction project productivity with a reliable and economic precast concrete supply chain.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.jclepro.2020.120527",
+    "url": "https://www.semanticscholar.org/paper/c59db43b3a96aced54e53298ec4a7487c71e9925",
+    "citation_count": 108,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "c59db43b3a96aced54e53298ec4a7487c71e9925",
+      "externalIds": {
+        "MAG": "3005991643",
+        "DOI": "10.1016/j.jclepro.2020.120527",
+        "CorpusId": 214511164
+      },
+      "url": "https://www.semanticscholar.org/paper/c59db43b3a96aced54e53298ec4a7487c71e9925",
+      "title": "Dynamic production scheduling model under due date uncertainty in precast concrete construction",
+      "year": 2020,
+      "citationCount": 108,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jclepro.2020.120527?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jclepro.2020.120527, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Cleaner Production"
+      },
+      "authors": [
+        {
+          "authorId": "40040383",
+          "name": "Taehoon Kim"
+        },
+        {
+          "authorId": "50682334",
+          "name": "Yong-woo Kim"
+        },
+        {
+          "authorId": "2110631343",
+          "name": "Hunhee Cho"
+        }
+      ],
+      "abstract": "Abstract Precast concrete structures (PCs) are widely used in the construction industry to reduce project delivery times and improve quality. On-time delivery of PCs is critical for successful project completion because the processes involving precast concrete are the critical paths in most cases. However, existing models for scheduling PC production are not adequate for use in dynamic environments where construction projects have uncertain construction schedules because of various reasons such as poor labor productivity, inadequate equipment, and poor weather. This research proposes a dynamic model for PC production scheduling by adopting a discrete-time simulation method to respond to due date changes in real time and by using a new dispatching rule that considers the uncertainty of the due dates to minimize tardiness. The model is validated by simulation experiments based on various scenarios with different levels of tightness and due date uncertainty. The results of this research will contribute to construction project productivity with a reliable and economic precast concrete supply chain."
+    }
+  },
+  {
+    "paper_id": "7f9c96594898f7aa0b835cb6219e6b290f6a2159",
+    "title": "Schedule Delay Leading Indicators in Precast Concrete Construction Projects: Qualitative Comparative Analysis of Korean Cases",
+    "authors": "Kyeongwoon Cho, Seungjun Ahn, K. Park, Tae Wan Kim",
+    "journal": "Journal of Management in Engineering",
+    "publish_year": "2021",
+    "abstract": "AbstractThis paper analyzed 19 precast concrete (PC) construction project cases from Korea using fuzzy-set qualitative comparative analysis to explore the relationship between the conditions of PC ...",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1061/(ASCE)ME.1943-5479.0000915",
+    "url": "https://www.semanticscholar.org/paper/7f9c96594898f7aa0b835cb6219e6b290f6a2159",
+    "citation_count": 23,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "7f9c96594898f7aa0b835cb6219e6b290f6a2159",
+      "externalIds": {
+        "MAG": "3145762584",
+        "DOI": "10.1061/(ASCE)ME.1943-5479.0000915",
+        "CorpusId": 233549514
+      },
+      "url": "https://www.semanticscholar.org/paper/7f9c96594898f7aa0b835cb6219e6b290f6a2159",
+      "title": "Schedule Delay Leading Indicators in Precast Concrete Construction Projects: Qualitative Comparative Analysis of Korean Cases",
+      "year": 2021,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1061/(ASCE)ME.1943-5479.0000915?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1061/(ASCE)ME.1943-5479.0000915, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Management in Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "2035600639",
+          "name": "Kyeongwoon Cho"
+        },
+        {
+          "authorId": "2150461",
+          "name": "Seungjun Ahn"
+        },
+        {
+          "authorId": "2152042184",
+          "name": "K. Park"
+        },
+        {
+          "authorId": "2155052830",
+          "name": "Tae Wan Kim"
+        }
+      ],
+      "abstract": "AbstractThis paper analyzed 19 precast concrete (PC) construction project cases from Korea using fuzzy-set qualitative comparative analysis to explore the relationship between the conditions of PC ..."
+    }
+  },
+  {
+    "paper_id": "d0b7fcfe743341ae001622281f8bd180ded770cd",
+    "title": "ULTIMATE SHEAR CAPACITY AND FAILURE OF SHEAR KEY CONNECTION IN PRECAST CONCRETE CONSTRUCTION",
+    "authors": "I. S. Ibrahim, K. H. Padil, Hamid Mansoor Ali Bady, Abdul Aziz Saim, N. N. Sarbini",
+    "journal": "Malaysian Journal of Civil Engineering",
+    "publish_year": "2018",
+    "abstract": "This paper presents the experimental results on the strength of shear key connection in precast concrete construction. The use of shear key is to connect two separate precast components to increase the shear resistivity of the joint surfaces. The proposed shear key shape in this study comprises of triangular, composite rectangular, semi-circle and trapezoidal. In addition, the trapezoidal shape is made up with 3 different keyâ€™s angles. All specimens are tested using the â€œpush-offâ€ method to obtain the ultimate shear capacity of which is due to the failure of the connection. From the analysis, stiffness, elastic and plastic behaviour, and the mode of failure is discussed to determine the most effective shape of the proposed shear key. From the findings, semi-circle shear key produced the highest shear capacity at 62.9 kN compared to that of the other shapes. Meanwhile, the trapezoidal shape at an angle of 45ï‚° produced the highest shear capacity at 44.1 kN. Together in the aspect of stiffness, the 45ï‚° trapezoidal shapes produced the highest resistance towards slip at 166.7 kN/mm. Failure mode are mostly due to shear, sliding and diagonal tension crack. Large slip of 7.35 mm is recorded from the triangular shape. The large slip is maybe due to sliding since the angle of the key faces to the shear plane is 45Â° which indicates to less interlocking compared with the other shapes they form an angle of 90Â° with the shear plane.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.11113/MJCE.V26N3.350",
+    "url": "https://www.semanticscholar.org/paper/d0b7fcfe743341ae001622281f8bd180ded770cd",
+    "citation_count": 17,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "d0b7fcfe743341ae001622281f8bd180ded770cd",
+      "externalIds": {
+        "MAG": "2549244122",
+        "DOI": "10.11113/MJCE.V26N3.350",
+        "CorpusId": 113996000
+      },
+      "url": "https://www.semanticscholar.org/paper/d0b7fcfe743341ae001622281f8bd180ded770cd",
+      "title": "ULTIMATE SHEAR CAPACITY AND FAILURE OF SHEAR KEY CONNECTION IN PRECAST CONCRETE CONSTRUCTION",
+      "year": 2018,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11113/MJCE.V26N3.350?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11113/MJCE.V26N3.350, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Malaysian Journal of Civil Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "92767467",
+          "name": "I. S. Ibrahim"
+        },
+        {
+          "authorId": "72715556",
+          "name": "K. H. Padil"
+        },
+        {
+          "authorId": "2314263343",
+          "name": "Hamid Mansoor Ali Bady"
+        },
+        {
+          "authorId": "2314262342",
+          "name": "Abdul Aziz Saim"
+        },
+        {
+          "authorId": "95368211",
+          "name": "N. N. Sarbini"
+        }
+      ],
+      "abstract": "This paper presents the experimental results on the strength of shear key connection in precast concrete construction. The use of shear key is to connect two separate precast components to increase the shear resistivity of the joint surfaces. The proposed shear key shape in this study comprises of triangular, composite rectangular, semi-circle and trapezoidal. In addition, the trapezoidal shape is made up with 3 different keyâ€™s angles. All specimens are tested using the â€œpush-offâ€ method to obtain the ultimate shear capacity of which is due to the failure of the connection. From the analysis, stiffness, elastic and plastic behaviour, and the mode of failure is discussed to determine the most effective shape of the proposed shear key. From the findings, semi-circle shear key produced the highest shear capacity at 62.9 kN compared to that of the other shapes. Meanwhile, the trapezoidal shape at an angle of 45ï‚° produced the highest shear capacity at 44.1 kN. Together in the aspect of stiffness, the 45ï‚° trapezoidal shapes produced the highest resistance towards slip at 166.7 kN/mm. Failure mode are mostly due to shear, sliding and diagonal tension crack. Large slip of 7.35 mm is recorded from the triangular shape. The large slip is maybe due to sliding since the angle of the key faces to the shear plane is 45Â° which indicates to less interlocking compared with the other shapes they form an angle of 90Â° with the shear plane."
+    }
+  },
+  {
+    "paper_id": "51e8ff81a6a5b82ae8dd4fdcdb8de172b0f68685",
+    "title": "Reuse of Powders and Recycled Aggregates from Mixed Construction and Demolition Waste in Alkali-Activated Materials and Precast Concrete Units",
+    "authors": "R. Robayo-Salazar, W. Valencia-Saavedra, R. Mejía de Gutiérrez",
+    "journal": "Sustainability",
+    "publish_year": "2022",
+    "abstract": "This article describes the recycling of coarse and fine fractions and powder from construction and demolition waste (CDW) using alkaline activation technology (geopolymerization). The CDW sample used corresponds to a mixture (mixed waste) of concrete (Co), ceramics (Ce) and masonry (M). Co, Ce and M (CDW-Mixed) powders were used as geopolymer precursors. As an alkaline activator, a mixture of sodium hydroxide (NaOH) and sodium silicate (Na2SiO3) was used. From CDW-Mixed, a hybrid cement added with 10% ordinary Portland cement (OPC) was synthesized to promote curing at room temperature (25 °C). From the alkali-activated hybrid cement and the incorporation of mixed recycled aggregates (gravel and sand), applications of mortars, concretes, fiber-reinforced materials and prefabricated units, such as solid blocks, perforated (hollow) blocks and pavers, were produced. The results of the physical–mechanical characterization validate the application potential of these CDW-based materials in the construction sector. Compressive strengths of up to 40.5 MPa for mortar and 36.9 MPa for concrete were obtained after 90 days of curing at room temperature ≈ 25 °C. Similarly, a life cycle analysis (LCA) associated with raw materials demonstrated the environmental sustainability (44% lower carbon footprint) of mixed alkali-activated CDWs compared to conventional materials based on OPC.",
+    "keywords": [],
+    "doi": "10.3390/su14159685",
+    "url": "https://www.semanticscholar.org/paper/51e8ff81a6a5b82ae8dd4fdcdb8de172b0f68685",
+    "citation_count": 35,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "51e8ff81a6a5b82ae8dd4fdcdb8de172b0f68685",
+      "externalIds": {
+        "DOI": "10.3390/su14159685",
+        "CorpusId": 251512977
+      },
+      "url": "https://www.semanticscholar.org/paper/51e8ff81a6a5b82ae8dd4fdcdb8de172b0f68685",
+      "title": "Reuse of Powders and Recycled Aggregates from Mixed Construction and Demolition Waste in Alkali-Activated Materials and Precast Concrete Units",
+      "year": 2022,
+      "citationCount": 35,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2071-1050/14/15/9685/pdf?version=1660205874",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su14159685?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su14159685, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Sustainability"
+      },
+      "authors": [
+        {
+          "authorId": "1405195806",
+          "name": "R. Robayo-Salazar"
+        },
+        {
+          "authorId": "1404843297",
+          "name": "W. Valencia-Saavedra"
+        },
+        {
+          "authorId": "147937830",
+          "name": "R. Mejía de Gutiérrez"
+        }
+      ],
+      "abstract": "This article describes the recycling of coarse and fine fractions and powder from construction and demolition waste (CDW) using alkaline activation technology (geopolymerization). The CDW sample used corresponds to a mixture (mixed waste) of concrete (Co), ceramics (Ce) and masonry (M). Co, Ce and M (CDW-Mixed) powders were used as geopolymer precursors. As an alkaline activator, a mixture of sodium hydroxide (NaOH) and sodium silicate (Na2SiO3) was used. From CDW-Mixed, a hybrid cement added with 10% ordinary Portland cement (OPC) was synthesized to promote curing at room temperature (25 °C). From the alkali-activated hybrid cement and the incorporation of mixed recycled aggregates (gravel and sand), applications of mortars, concretes, fiber-reinforced materials and prefabricated units, such as solid blocks, perforated (hollow) blocks and pavers, were produced. The results of the physical–mechanical characterization validate the application potential of these CDW-based materials in the construction sector. Compressive strengths of up to 40.5 MPa for mortar and 36.9 MPa for concrete were obtained after 90 days of curing at room temperature ≈ 25 °C. Similarly, a life cycle analysis (LCA) associated with raw materials demonstrated the environmental sustainability (44% lower carbon footprint) of mixed alkali-activated CDWs compared to conventional materials based on OPC."
+    }
+  },
+  {
+    "paper_id": "190e757d5f2b3ef17b3877bae0c840e6ffd14642",
+    "title": "A New Steel-Joint Precast Concrete Frame Structure: The Design, Key Construction Techniques, and Building Energy Efficiency",
+    "authors": "Xiaona Shi, Xian Rong, Lin Nan, Lida Wang, Jianxin Zhang",
+    "journal": "Buildings",
+    "publish_year": "2022",
+    "abstract": "Assembled methods play a critical role in the construction of precast concrete structures. However, conventional dry-connections-like sleeve grouting joints in precast concrete structures lagged at a low construction and management efficiency with poor quality control. In this study, a novel steel joint for precast reinforced concrete beam-column components is proposed to improve constructability. New joints transform the assembled method from reinforced concrete members into a steel structure by setting a pre-embedded steel connector at both ends of reinforced concrete beams and columns, showing outstanding economic, durability, and fire resistance capabilities. The construction process, construction efficiency, economy, and energy consumption were discussed based on the material, structure, and construction hybrid characteristics. Numerical simulation and structural health monitoring methods are used to monitor and evaluate the deformation and stress state of the proposed system in the whole construction process, so as to optimize the construction scheme and ensure safe and orderly construction. The results reveal that the FEA-simulated values of key building components during construction are in good agreement with the actual monitoring values, which verifies the feasibility of the FEM models and provides a guarantee for construction safety; the construction period of the proposed assemble system is reduced by approximately 56% and 40%, compared with the conventional reinforced concrete frame structure and cast-in-place joints in the precast concrete frame structure, respectively. Meanwhile, the energy consumption of buildings decreases by 20%. This research provides a theoretical basis for the design, calculation, and application of assembled precast structural systems.",
+    "keywords": [],
+    "doi": "10.3390/buildings12111974",
+    "url": "https://www.semanticscholar.org/paper/190e757d5f2b3ef17b3877bae0c840e6ffd14642",
+    "citation_count": 8,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "190e757d5f2b3ef17b3877bae0c840e6ffd14642",
+      "externalIds": {
+        "DOI": "10.3390/buildings12111974",
+        "CorpusId": 253558833
+      },
+      "url": "https://www.semanticscholar.org/paper/190e757d5f2b3ef17b3877bae0c840e6ffd14642",
+      "title": "A New Steel-Joint Precast Concrete Frame Structure: The Design, Key Construction Techniques, and Building Energy Efficiency",
+      "year": 2022,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-5309/12/11/1974/pdf?version=1668420384",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings12111974?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings12111974, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "8714282",
+          "name": "Xiaona Shi"
+        },
+        {
+          "authorId": "40225048",
+          "name": "Xian Rong"
+        },
+        {
+          "authorId": "2190988162",
+          "name": "Lin Nan"
+        },
+        {
+          "authorId": "2164730530",
+          "name": "Lida Wang"
+        },
+        {
+          "authorId": "2144175092",
+          "name": "Jianxin Zhang"
+        }
+      ],
+      "abstract": "Assembled methods play a critical role in the construction of precast concrete structures. However, conventional dry-connections-like sleeve grouting joints in precast concrete structures lagged at a low construction and management efficiency with poor quality control. In this study, a novel steel joint for precast reinforced concrete beam-column components is proposed to improve constructability. New joints transform the assembled method from reinforced concrete members into a steel structure by setting a pre-embedded steel connector at both ends of reinforced concrete beams and columns, showing outstanding economic, durability, and fire resistance capabilities. The construction process, construction efficiency, economy, and energy consumption were discussed based on the material, structure, and construction hybrid characteristics. Numerical simulation and structural health monitoring methods are used to monitor and evaluate the deformation and stress state of the proposed system in the whole construction process, so as to optimize the construction scheme and ensure safe and orderly construction. The results reveal that the FEA-simulated values of key building components during construction are in good agreement with the actual monitoring values, which verifies the feasibility of the FEM models and provides a guarantee for construction safety; the construction period of the proposed assemble system is reduced by approximately 56% and 40%, compared with the conventional reinforced concrete frame structure and cast-in-place joints in the precast concrete frame structure, respectively. Meanwhile, the energy consumption of buildings decreases by 20%. This research provides a theoretical basis for the design, calculation, and application of assembled precast structural systems."
+    }
+  },
+  {
+    "paper_id": "44e4588008a8856836e061b03d1dd898aa52a6fd",
+    "title": "Using LCA to research carbon footprint for precast concrete piles during the building construction stage: A China study",
+    "authors": "Xiao-Juan Li, Yan Zheng",
+    "journal": "Journal of Cleaner Production",
+    "publish_year": "2020",
+    "abstract": "Abstract Due to the rapid development of the construction industry, large construction projects consume a significant amount of energy, and emit large amounts of carbon dioxide into the atmosphere, which has received extensive attention from the society. According to statistics, 30% of the energy losses and 40% of the solid wastes of the construction industry are generated during the construction phase. In addition, 40% of the solid waste generated by the construction industry is generated during the construction phase. Therefore, it is an important large potential research value in the construction stage emission reduction. As a result, this study aims to investigate precast concrete pile products and their carbon footprint at the construction stage based on the life cycle assessment (LCA) method. Based on the Intergovernmental Panel on Climate Change (IPCC), the Chinese Life Cycle Database (CLCD) databases, a database of mechanical equipment carbon emission factors was compiled. The carbon footprint of precast concrete piles was divided into three sources: material transportation, construction equipment, and office area. The carbon footprint calculation model of precast concrete pile during the construction stage was established. Lastly, a detailed case study was conducted to verify the empirical findings. Pile foundation area, pile foundation cost, and pile foundation number were analyzed as independent variables, through SPSS(Statistical Product and Service Solutions) software for regression analysis. Based on research result, the carbon emissions of construction machinery reached 73% of the total carbon emissions during the construction of precast concrete piles, and the carbon emissions of pile drivers are more than half of the carbon emissions of construction machinery. And there is a strong linear relationship between the area of pile foundation, the cost of pile foundation and the number of pile foundation and the total carbon emission during the construction of precast concrete piles. This study contributes to the body of knowledge by providing the carbon footprint calculation and establishing the trend of carbon emissions for precast concrete pile construction. In addition to that, the findings of this study can be used to improve construction management plans and select energy-saving technologies. The results can also provide a theoretical support for the formulation of regulations and emission reduction policies based on building energy conservation and carbon emission reduction.",
+    "keywords": [
+      "Environmental Science"
+    ],
+    "doi": "10.1016/j.jclepro.2019.118754",
+    "url": "https://www.semanticscholar.org/paper/44e4588008a8856836e061b03d1dd898aa52a6fd",
+    "citation_count": 88,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "44e4588008a8856836e061b03d1dd898aa52a6fd",
+      "externalIds": {
+        "MAG": "2981371555",
+        "DOI": "10.1016/j.jclepro.2019.118754",
+        "CorpusId": 211445809
+      },
+      "url": "https://www.semanticscholar.org/paper/44e4588008a8856836e061b03d1dd898aa52a6fd",
+      "title": "Using LCA to research carbon footprint for precast concrete piles during the building construction stage: A China study",
+      "year": 2020,
+      "citationCount": 88,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jclepro.2019.118754?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jclepro.2019.118754, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Environmental Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Cleaner Production",
+        "pages": "118754",
+        "volume": "245"
+      },
+      "authors": [
+        {
+          "authorId": "2116338727",
+          "name": "Xiao-Juan Li"
+        },
+        {
+          "authorId": "2111093434",
+          "name": "Yan Zheng"
+        }
+      ],
+      "abstract": "Abstract Due to the rapid development of the construction industry, large construction projects consume a significant amount of energy, and emit large amounts of carbon dioxide into the atmosphere, which has received extensive attention from the society. According to statistics, 30% of the energy losses and 40% of the solid wastes of the construction industry are generated during the construction phase. In addition, 40% of the solid waste generated by the construction industry is generated during the construction phase. Therefore, it is an important large potential research value in the construction stage emission reduction. As a result, this study aims to investigate precast concrete pile products and their carbon footprint at the construction stage based on the life cycle assessment (LCA) method. Based on the Intergovernmental Panel on Climate Change (IPCC), the Chinese Life Cycle Database (CLCD) databases, a database of mechanical equipment carbon emission factors was compiled. The carbon footprint of precast concrete piles was divided into three sources: material transportation, construction equipment, and office area. The carbon footprint calculation model of precast concrete pile during the construction stage was established. Lastly, a detailed case study was conducted to verify the empirical findings. Pile foundation area, pile foundation cost, and pile foundation number were analyzed as independent variables, through SPSS(Statistical Product and Service Solutions) software for regression analysis. Based on research result, the carbon emissions of construction machinery reached 73% of the total carbon emissions during the construction of precast concrete piles, and the carbon emissions of pile drivers are more than half of the carbon emissions of construction machinery. And there is a strong linear relationship between the area of pile foundation, the cost of pile foundation and the number of pile foundation and the total carbon emission during the construction of precast concrete piles. This study contributes to the body of knowledge by providing the carbon footprint calculation and establishing the trend of carbon emissions for precast concrete pile construction. In addition to that, the findings of this study can be used to improve construction management plans and select energy-saving technologies. The results can also provide a theoretical support for the formulation of regulations and emission reduction policies based on building energy conservation and carbon emission reduction."
+    }
+  },
+  {
+    "paper_id": "a996a90873f75bf400f8595b3723529e2e1f2aca",
+    "title": "Construction stage analysis of a precast concrete buried arch bridge with steel outriggers from full-scale field test",
+    "authors": "S. Jeon, H. Moon, Chungwook Sim, J. Ahn",
+    "journal": "Structures",
+    "publish_year": "2021",
+    "abstract": "Abstract A new type of Precast Concrete buried Arch bridge with Steel Outriggers (PCASO) was developed to maximize the structural efficiency and improve the constructability of a precast concrete arch system buried underground. In this study, a full-scale field test of Precast Concrete buried Arch bridge with Steel Outriggers (PCASO) was conducted to evaluate the strain and stress state and deformation observed on the concrete panels and steel outriggers during the various construction stages, namely, when the panels were being lifted, and when backfill was being placed on the arch in three stages. The field specimen spanned 6 m and was 2 m high. Displacements were observed in both the vertical and horizontal directions during the backfill construction. However, the final position of the arch was achieved when topsoil was placed on the precast panels. The compressive strains observed on the precast panels increased as the soil was being placed. After the backfill was completed and the topsoil was emplaced, the maximum compressive strains measured on the precast panels were approximately 19% of the compressive strength (which was 8 MPa). During the construction stage, the steel outriggers experienced maximum tensile stresses of approximately 300 MPa, which is close to the service stress level of steel (whose yield strength is 413 MPa). Considering that the outriggers were constructed with thin steel plates and there was little stress change during different construction stages, the nominal stress of the thin plate was checked. The calculated nominal stress based on the measured compressive and tensile stresses ranged between positive and negative 25 MPa. A finite element analysis was conducted following the construction stages of the field test using the field parameters. The analytical study demonstrates that the changes in stress and displacement for each construction stage are comparable between the field measurements and the numerical calculations. Overall, this study validated the structural behaviors of the new type of PCASO through field demonstrations and finite element analyses.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/J.ISTRUC.2020.12.050",
+    "url": "https://www.semanticscholar.org/paper/a996a90873f75bf400f8595b3723529e2e1f2aca",
+    "citation_count": 15,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "a996a90873f75bf400f8595b3723529e2e1f2aca",
+      "externalIds": {
+        "MAG": "3120312032",
+        "DOI": "10.1016/J.ISTRUC.2020.12.050",
+        "CorpusId": 234039844
+      },
+      "url": "https://www.semanticscholar.org/paper/a996a90873f75bf400f8595b3723529e2e1f2aca",
+      "title": "Construction stage analysis of a precast concrete buried arch bridge with steel outriggers from full-scale field test",
+      "year": 2021,
+      "citationCount": 15,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.ISTRUC.2020.12.050?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.ISTRUC.2020.12.050, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Geology"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Structures",
+        "pages": "1671-1689",
+        "volume": "29"
+      },
+      "authors": [
+        {
+          "authorId": "103422762",
+          "name": "S. Jeon"
+        },
+        {
+          "authorId": "101473272",
+          "name": "H. Moon"
+        },
+        {
+          "authorId": "41079215",
+          "name": "Chungwook Sim"
+        },
+        {
+          "authorId": "144975138",
+          "name": "J. Ahn"
+        }
+      ],
+      "abstract": "Abstract A new type of Precast Concrete buried Arch bridge with Steel Outriggers (PCASO) was developed to maximize the structural efficiency and improve the constructability of a precast concrete arch system buried underground. In this study, a full-scale field test of Precast Concrete buried Arch bridge with Steel Outriggers (PCASO) was conducted to evaluate the strain and stress state and deformation observed on the concrete panels and steel outriggers during the various construction stages, namely, when the panels were being lifted, and when backfill was being placed on the arch in three stages. The field specimen spanned 6 m and was 2 m high. Displacements were observed in both the vertical and horizontal directions during the backfill construction. However, the final position of the arch was achieved when topsoil was placed on the precast panels. The compressive strains observed on the precast panels increased as the soil was being placed. After the backfill was completed and the topsoil was emplaced, the maximum compressive strains measured on the precast panels were approximately 19% of the compressive strength (which was 8 MPa). During the construction stage, the steel outriggers experienced maximum tensile stresses of approximately 300 MPa, which is close to the service stress level of steel (whose yield strength is 413 MPa). Considering that the outriggers were constructed with thin steel plates and there was little stress change during different construction stages, the nominal stress of the thin plate was checked. The calculated nominal stress based on the measured compressive and tensile stresses ranged between positive and negative 25 MPa. A finite element analysis was conducted following the construction stages of the field test using the field parameters. The analytical study demonstrates that the changes in stress and displacement for each construction stage are comparable between the field measurements and the numerical calculations. Overall, this study validated the structural behaviors of the new type of PCASO through field demonstrations and finite element analyses."
+    }
+  },
+  {
+    "paper_id": "23975fdee41e70ff38b3bacd9355f68dd9c9b128",
+    "title": "Development of Safety Plan Based on Work Breakdown Structure to Determine Safety Cost for Precast Concrete Bridge Construction Projects. Case Study: Girder Erection with Launching Gantry Method",
+    "authors": "P. D. Saputra, Y. Latief",
+    "journal": "Civil Engineering and Architecture",
+    "publish_year": "2020",
+    "abstract": "In Indonesia, there have been many accidents happening in the precast bridges projects. Separate budgets are not specifically provided in implementing OSHMS or Occupational Safety and Health Management Systems. The main purpose of the study is developing safety plan based on work breakdown structure to determine safety cost for precast concrete bridge construction projects. This research is using a survey research method. The respondents are construction safety experts. Descriptive analysis is selected to analyse the variables. The results of the study are safety plan to each hazards and activity, finding the safety costs components based on WBS in order to improve the OHSMS and reduce the rate of accidents. The safety plan is developed based on WBS and can be adapted to determine safety cost components and it can be easier in calculating the real safety costs.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.13189/cea.2020.080313",
+    "url": "https://www.semanticscholar.org/paper/23975fdee41e70ff38b3bacd9355f68dd9c9b128",
+    "citation_count": 16,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "23975fdee41e70ff38b3bacd9355f68dd9c9b128",
+      "externalIds": {
+        "MAG": "3034666913",
+        "DOI": "10.13189/cea.2020.080313",
+        "CorpusId": 225814359
+      },
+      "url": "https://www.semanticscholar.org/paper/23975fdee41e70ff38b3bacd9355f68dd9c9b128",
+      "title": "Development of Safety Plan Based on Work Breakdown Structure to Determine Safety Cost for Precast Concrete Bridge Construction Projects. Case Study: Girder Erection with Launching Gantry Method",
+      "year": 2020,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.13189/cea.2020.080313",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.13189/cea.2020.080313?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.13189/cea.2020.080313, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "Civil Engineering and Architecture"
+      },
+      "authors": [
+        {
+          "authorId": "2380789891",
+          "name": "P. D. Saputra"
+        },
+        {
+          "authorId": "51936073",
+          "name": "Y. Latief"
+        }
+      ],
+      "abstract": "In Indonesia, there have been many accidents happening in the precast bridges projects. Separate budgets are not specifically provided in implementing OSHMS or Occupational Safety and Health Management Systems. The main purpose of the study is developing safety plan based on work breakdown structure to determine safety cost for precast concrete bridge construction projects. This research is using a survey research method. The respondents are construction safety experts. Descriptive analysis is selected to analyse the variables. The results of the study are safety plan to each hazards and activity, finding the safety costs components based on WBS in order to improve the OHSMS and reduce the rate of accidents. The safety plan is developed based on WBS and can be adapted to determine safety cost components and it can be easier in calculating the real safety costs."
+    }
+  },
+  {
+    "paper_id": "2315d656028e3ef2ebff06bb56a37b6dcd79ab7c",
+    "title": "Development and Application of Precast Concrete Double Wall System to Improve Productivity of Retaining Wall Construction",
+    "authors": "SeungHoy Kim, Dong-Eun Lee, Yonggu Kim, Sangyong Kim",
+    "journal": "Sustainability",
+    "publish_year": "2020",
+    "abstract": "The construction of most apartment underground parking lots utilizes reinforced concrete (RC) structures composed mainly of rebar work and formwork. RC structures lower construction efficiency and significantly delay the construction because they require a large number of temporary materials and wooden formwork. In this study, a precast concrete double wall (PCDW) system was developed to address the existing problems of RC structures and to improve the productivity of retaining wall construction. PCDW is a precast concrete (PC) wall in which two thin concrete panels are connected parallel to each other with truss-shaped reinforcement between them. PCDW can contribute to securing integrity, reducing the delay in construction, and improving quality. An overall process for the member design and construction stage of the PCDW system was proposed, and its improvement effects were examined regarding various aspects in comparison to the RC method.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3390/su12083454",
+    "url": "https://www.semanticscholar.org/paper/2315d656028e3ef2ebff06bb56a37b6dcd79ab7c",
+    "citation_count": 17,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "2315d656028e3ef2ebff06bb56a37b6dcd79ab7c",
+      "externalIds": {
+        "MAG": "3019504509",
+        "DOI": "10.3390/su12083454",
+        "CorpusId": 218995163
+      },
+      "url": "https://www.semanticscholar.org/paper/2315d656028e3ef2ebff06bb56a37b6dcd79ab7c",
+      "title": "Development and Application of Precast Concrete Double Wall System to Improve Productivity of Retaining Wall Construction",
+      "year": 2020,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2071-1050/12/8/3454/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su12083454?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su12083454, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Sustainability"
+      },
+      "authors": [
+        {
+          "authorId": "121333639",
+          "name": "SeungHoy Kim"
+        },
+        {
+          "authorId": "2154636952",
+          "name": "Dong-Eun Lee"
+        },
+        {
+          "authorId": "2116018657",
+          "name": "Yonggu Kim"
+        },
+        {
+          "authorId": "2143087373",
+          "name": "Sangyong Kim"
+        }
+      ],
+      "abstract": "The construction of most apartment underground parking lots utilizes reinforced concrete (RC) structures composed mainly of rebar work and formwork. RC structures lower construction efficiency and significantly delay the construction because they require a large number of temporary materials and wooden formwork. In this study, a precast concrete double wall (PCDW) system was developed to address the existing problems of RC structures and to improve the productivity of retaining wall construction. PCDW is a precast concrete (PC) wall in which two thin concrete panels are connected parallel to each other with truss-shaped reinforcement between them. PCDW can contribute to securing integrity, reducing the delay in construction, and improving quality. An overall process for the member design and construction stage of the PCDW system was proposed, and its improvement effects were examined regarding various aspects in comparison to the RC method."
+    }
+  }
+]

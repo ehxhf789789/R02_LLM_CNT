@@ -1,0 +1,35 @@
+{
+  "tech_number": "979",
+  "tech_name": "해상입도조정골재다짐말뚝 공법",
+  "tech_field": "토목 > 토질 및 기초 > 지반 개량 및 보강",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=7&apntNo=979&frMenu=list&newtecId=29264",
+  "patents": [
+    {
+      "title": "볼타입 케이싱을 사용하는 그래블 컴팩션 파일장치 및 이를 이용한 그래블 컴팩션 파일공법",
+      "type": "특허출원",
+      "register_number": "1020200107430"
+    },
+    {
+      "title": "입도조정골재를 이용한 해상 연약지반 개량공법에 사용되는 실시간 데이터 스마트 자동기록시스템",
+      "type": "특허출원",
+      "register_number": "1020210018052"
+    },
+    {
+      "title": "볼타입케이싱 및 자동공기조절장치와 입도조정골재를 이용한 해상 연약지반 개량공법",
+      "type": "특허출원",
+      "register_number": "1020210006371"
+    },
+    {
+      "title": "입도조정골재를 사용하는 뉴팩드레인 공법",
+      "type": "특허출원",
+      "register_number": "1020210056198"
+    },
+    {
+      "title": "볼타입케이싱 및 입도조정골재를 이용한 육상 연약지반 개량공법",
+      "type": "특허출원",
+      "register_number": "1020210035163"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 6
+}

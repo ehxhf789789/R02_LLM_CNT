@@ -1,0 +1,357 @@
+[
+  {
+    "paper_id": "9e74484a4657742ce13726c8a8527c8f8d04876a",
+    "title": "Tile vaults as integrated formwork for reinforced concrete: Construction, experimental testing and a method for the design and analysis of two-dimensional structures",
+    "authors": "David López López, P. Roca, A. Liew, Tom Van Mele, P. Block",
+    "journal": "Engineering Structures",
+    "publish_year": "2019",
+    "abstract": "Abstract Tile vaults are traditional, unreinforced masonry structures made of thin bricks (tiles), mortar and fast-setting cement or gypsum. They can be constructed without the need for a formwork, except at the boundaries, making them inherently economic. Tile vaults have historically provided a solution for the efficient construction of vaulted structures. Today, they can be used as permanent formwork for concrete shells, allowing for a significant reduction of the construction cost and waste produced, due to the possibility of reducing or even eliminating the need for traditional formwork. The concrete can be poured directly onto a tile-vaulted formwork to form a composite structure. This paper presents a technique for the construction of single-curvature shells consisting of a composite structure combining tile vaulting and reinforced concrete. A method for the design of these composite vaults and the assessment of their strength and stability against external loading is also presented. This method is based on limit analysis but takes into account the reinforcement’s contribution to the composite cross-section’s bending capacity. The equilibrium method is implemented computationally to provide fast results for the user. It provides graphical and intuitive results and opens the possibility for the future extension to fully three-dimensional problems. The design and structural analysis method is called Extended Limit Analysis for Reinforced Masonry (ELARM). Both the proposed construction technique and the computational method have been validated through experimental research. The feasibility of the building technique has been validated by the construction of two full-scale prototypes. In addition, the prototypes have been load-tested to failure to compare the results with those predicted by ELARM.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/J.ENGSTRUCT.2019.03.034",
+    "url": "https://www.semanticscholar.org/paper/9e74484a4657742ce13726c8a8527c8f8d04876a",
+    "citation_count": 15,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3ff0c6502e15d478e557ebbf45971b1deb6751d1",
+    "title": "Analysis of the construction of a reinforced-concrete free-form roof formwork and the development of a unit-construction method",
+    "authors": "S. Hayashi, Tomoyuki Gondo",
+    "journal": "Journal of building engineering",
+    "publish_year": "2020",
+    "abstract": "Abstract Since the advent of the modernist movement in architecture, organic shapes have attracted designers. Digital fabrication technology and three-dimensional computer-aided design have made the architectural design of free-form shapes much easier. However, the construction of these shapes still has many risks in terms of cost and time management. This study aims to develop a new unit construction method by integrating digital fabrication with the conventional wooden construction technique on a large architectural scale and compare its productivity throughout the construction process to the conventional method. This paper first illustrates the current situation of free-form shape production by surveying a reinforced-concrete roof-construction project using a conventional construction method in Japan. We then develop a new construction method in which curved surfaces are divided into portable units in order to reduce on-site labor and ensure a high degree of accuracy. Finally, we analyze its productivity by conducting some assembly experiments. The new method reduces on-site labor costs by 93% compared with the conventional method.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.jobe.2020.101924",
+    "url": "https://www.semanticscholar.org/paper/3ff0c6502e15d478e557ebbf45971b1deb6751d1",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "038f8e9c6eb0d60763444ff8c3d360508c0a99e1",
+    "title": "Coir fibre-reinforced concrete for enhanced compressive strength and sustainability in construction applications",
+    "authors": "Krishna Prasad Guruswamy, Senthilkumar Thambiannan, Arputharaj Anthonysamy, K. Jalgaonkar, A. Dukare, R. Pandiselvam, N. Jha",
+    "journal": "Heliyon",
+    "publish_year": "2024",
+    "abstract": "This research explores the potential of coir fibre as a sustainable and effective reinforcement material to enhance the compressive strength (CS) of concrete. The influence of the fibre volume fraction (FVF) and fibre length (FL) on the CS of the coir fibre reinforced concrete was studied using the response surface method (RSM). The selected range for the FVF was from 4 % to 12 %, and the FL varied from 0.4 cm to 1.2 cm, as per the experimental design. The research determined that the coir fibre with an FVF of 4 % and an FL of 10 mm yielded the maximum CS for the reinforced concrete cubes, measuring 34 N/mm2. Furthermore, an increase in fibre content was observed to lead to a decrease in the workability of coir fibre-reinforced concrete. Furthermore, Fourier transform infrared spectroscopy (FTIR) and X-ray diffraction (XRD) analyses of the control and coir fibres extracted from the concrete cubes after a period of 1 year indicated no significant changes in the functional properties, thermal properties and crystallinity of the fibres.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1016/j.heliyon.2024.e39773",
+    "url": "https://www.semanticscholar.org/paper/038f8e9c6eb0d60763444ff8c3d360508c0a99e1",
+    "citation_count": 13,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "ffc2e4d1f74d7ca5c4ac32c7def056243c5e0178",
+    "title": "Knowledge‐enhanced graph neural networks for construction material quantity estimation of reinforced concrete buildings",
+    "authors": "Yifan Fei, Wenjie Liao, Xinzheng Lu, Hong Guan",
+    "journal": "Computer‐Aided Civil and Infrastructure Engineering",
+    "publish_year": "2023",
+    "abstract": "The construction material quantity (CMQ) is widely concerned in the structural design of reinforced concrete buildings and is often included among the objective functions of computer‐aided optimization design techniques. To minimize construction cost and carbon emissions, an accurate and efficient CMQ estimation method is timely required. In this study, a novel graph neural network (GNN) is proposed, whose architecture and loss function are specifically designed for CMQ estimation. With a heterogeneous feature fusion mechanism, the GNN can automatically extract features from all CMQ‐related information, in contrast to the existing data‐driven methods that rely heavily on manually selected features. By further incorporating a prior knowledge inclusion strategy, the GNN can avoid fundamental errors that might be encountered by purely data‐driven methods. To enrich the diversity of the CMQ dataset, a data augmentation method is proposed incorporating generative adversarial networks and parametric modeling. Numerical experiments and case studies show that the proposed CMQ estimation method is superior to the existing data‐driven methods in terms of accuracy and is 500 times faster than typical commercial structural design software. This study is anticipated to benefit the objective evaluation of computer‐aided design, thereby facilitating the promotion of low‐cost and low‐carbon‐emission building designs.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1111/mice.13094",
+    "url": "https://www.semanticscholar.org/paper/ffc2e4d1f74d7ca5c4ac32c7def056243c5e0178",
+    "citation_count": 27,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "9799a3c338a68262832d46f5e7dea5b9a5b092aa",
+    "title": "Automatic Recognition of Common Structural Elements from Point Clouds for Automated Progress Monitoring and Dimensional Quality Control in Reinforced Concrete Construction",
+    "authors": "Reza Maalek, D. Lichti, J. Ruwanpura",
+    "journal": "Remote. Sens.",
+    "publish_year": "2019",
+    "abstract": "This manuscript provides a robust framework for the extraction of common structural components, such as columns, from terrestrial laser scanning point clouds acquired at regular rectangular concrete construction projects. The proposed framework utilizes geometric primitive as well as relationship-based reasoning between objects to semantically label point clouds. The framework then compares the extracted objects to the planned building information model (BIM) to automatically identify the as-built schedule and dimensional discrepancies. A novel method was also developed to remove redundant points of a newly acquired scan to detect changes between consecutive scans independent of the planned BIM. Five sets of point cloud data were acquired from the same construction site at different time intervals to assess the effectiveness of the proposed framework. In all datasets, the framework successfully extracted 132 out of 133 columns and achieved an accuracy of 98.79% for removing redundant surfaces. The framework successfully determined the progress of concrete work at each epoch in both activity and project levels through earned value analysis. It was also shown that the dimensions of 127 out of the 132 columns and all the slabs complied with those in the planned BIM.",
+    "keywords": [
+      "Geology",
+      "Computer Science"
+    ],
+    "doi": "10.3390/RS11091102",
+    "url": "https://www.semanticscholar.org/paper/9799a3c338a68262832d46f5e7dea5b9a5b092aa",
+    "citation_count": 105,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "fbf1843e3edde6be7d16839ac8e245b36f57afa7",
+    "title": "Optimization Based on Toughness and Splitting Tensile Strength of Steel-Fiber-Reinforced Concrete Incorporating Silica Fume Using Response Surface Method",
+    "authors": "F. Köksal, A. Beycioğlu, Magdalena Dobiszewska",
+    "journal": "Materials",
+    "publish_year": "2022",
+    "abstract": "The greatest weakness of concrete as a construction material is its brittleness and low fracture energy absorption capacity until failure occurs. In order to improve concrete strength and durability, silica fume SF is introduced into the mixture, which at the same time leads to an increase in the brittleness of concrete. To improve the ductility and toughness of concrete, short steel fibers have been incorporated into concrete. Steel fibers and silica fume are jointly preferred for concrete design in order to obtain concrete with high strength and ductility. It is well-known that silica fume content and fiber properties, such as aspect ratio and volume ratio, directly affect the properties of SFRCs. The mixture design of steel-fiber-reinforced concrete (SFRC) with SF addition is a very important issue in terms of economy and performance. In this study, an experimental design was used to study the toughness and splitting tensile strength of SFRC with the response surface method (RSM). The models established by the RSM were used to optimize the design of SFRC in terms of the usage of optimal silica fume content, and optimal steel fiber volume and aspect ratio. Optimum silica fume content and fiber volume ratio values were determined using the D-optimal design method so that the steel fiber volume ratio was at the minimum and the bending toughness and splitting tensile strength were at the maximum. The amount of silica fume used as a cement replacement, aspect ratio, and volume fraction of steel fiber were chosen as independent variables in the experiment. Experimentally obtained mechanical properties of SFRC such as compression, bending, splitting, modulus of elasticity, toughness, and the toughness index were the dependent variables. A good correlation was observed between the dependent and independent variables included in the model. As a result of the optimization, optimum steel fiber volume was determined as 0.70% and silica fume content was determined as 15% for both aspect ratios.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma15186218",
+    "url": "https://www.semanticscholar.org/paper/fbf1843e3edde6be7d16839ac8e245b36f57afa7",
+    "citation_count": 20,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f9ca61664bda7446c7c4c5a67be109cfc629b334",
+    "title": "Corrosion control of reinforced concrete structures in construction industry: A review",
+    "authors": "E. K. Arya, B S Dhanya",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "publish_year": "2021",
+    "abstract": "Corrosion of steel reinforcement is one of the main deterioration phenomena which affect the durability of reinforced concrete structures. Together with the structural damages, corrosion will also increase the cost associated with it. Therefore, protection of reinforcing steel in concrete structures from corrosion is an inevitable need. Various protection techniques are in practice to mitigate corrosion of reinforcing steel in the concrete structure such as use of patch repairing, protective coating, impressed current method, and sacrificial anodes. Among these, electrochemical protection technique using sacrificial anodes can be suggested as a very effective tool for corrosion mitigation. Sacrificial anode cathodic protection system is a less popular corrosion control technique because of lack of awareness about the benefits of this method and the wide usage of other corrosion control practices. This paper provides a critical review on the common techniques in construction sites used for corrosion control of reinforced concrete structures. An overview of the benefits of sacrificial anode cathodic protection system, its working and installation is also provided in this paper.",
+    "keywords": [
+      "Physics",
+      "Engineering"
+    ],
+    "doi": "10.1088/1757-899X/1114/1/012006",
+    "url": "https://www.semanticscholar.org/paper/f9ca61664bda7446c7c4c5a67be109cfc629b334",
+    "citation_count": 13,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "18b24fb88fd96db5f0fdf6fad65f16447cd8a6f4",
+    "title": "Experimental study on micro-damage identification in reinforced concrete beam with wavelet packet and DIC method",
+    "authors": "Binna Zhao, Dong Lei, Jianjun Fu, Liqun Yang, Wenxiang Xu",
+    "journal": "Construction and Building Materials",
+    "publish_year": "2019",
+    "abstract": "Abstract Structural damage identification has become a research hotspot in the field of science and engineering. Previous predominant lines of research on structural damage identification methods focused on macroscopic damage, which is visible to naked eyes, but there are few studies on structural micro-damage identification. Towards this end, this paper proposes a combination of digital image correlation (DIC) technique and wavelet packet analysis for micro-damage identification and to achieve real-time early warning of micro-damage initiation in concrete structures. This work implements a four-point bending test of reinforced concrete beams, as well as adopts the step loading and unloading method, following which, the beam acceleration response signal and the damage strain field are collected. Subsequently, the collected response and excitation are processed to obtain the excitation response function, reflecting the dynamic structural state. The wavelet packet is used to process the excitation response function and image under each load level to obtain the corresponding energy spectrum. In this way, the respective micro-damage identification indices are calculated for comparison. The experimental results show that the proposed methodology can properly characterize the damage state of structures under various stages of stress, provide a warning for the initiation of micro-damage, and even accurately determine the location and degree of micro-damage, based on the damage strain field.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/J.CONBUILDMAT.2019.03.175",
+    "url": "https://www.semanticscholar.org/paper/18b24fb88fd96db5f0fdf6fad65f16447cd8a6f4",
+    "citation_count": 50,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "fba7c181dfa160119d880e75a25b8d25df129769",
+    "title": "Influence of Steel Slag as a Partial Replacement of Aggregate on Performance of Reinforced Concrete Beam",
+    "authors": "Tadese Birlie Mekonen, T. Alene, Yared Aklilu Alem, Wallelign Mulugeta Nebiyu",
+    "journal": "International Journal of Concrete Structures and Materials",
+    "publish_year": "2024",
+    "abstract": "Amidst the global pursuit of sustainable alternatives in concrete production, this study explores the viability of incorporating by-products or waste materials as aggregates to support the concrete construction industry, with a specific emphasis on steel slag. The objective of this study is to evaluate the effectiveness of steel slag as a partial replacement for fine and coarse aggregates in concrete production. The experiment involved casting 30 cubes and 10 beams, replacing fine aggregate from 0 to 60%. Flexural and compressive strength tests at 7 and 28 days followed the ACI method. Results revealed that a 30% replacement of fine aggregate with steel slag led to higher compressive strength at both 7 and 28 days, while a 45% replacement showed superior flexural strength at 28 days. Further chemical analysis and optimization are recommended for deeper insights. The study concludes with marginal improvements in compressive and flexural strength with steel slag partial replacement, identifying 30% for fine aggregate and 45% for coarse aggregate as optimal replacements. In addition, the mineral composition of steel slag exhibits significant variability, with compounds, including silicon dioxide (SiO2), iron oxide (Fe2O3), manganese oxide (MnO), aluminum oxide (Al2O3), and calcium oxide (CaO). Chemical analysis indicates high silicate content and minimal alkali content, contributing to enhanced strength during concreting. Higher steel slag replacement reduces workability, confirmed by slump tests. However, all mixes maintain a true slump, and unit weight increases with steel slag aggregate replacement. Compressive strength improves incrementally with higher steel slag content, echoing prior research. In addition, flexural strength rises with steel slag replacing both coarse and fine aggregates, suggesting enhanced performance in reinforced concrete structures. These findings highlight steel slag’s potential as a sustainable alternative in concrete production, aiming to advance its application in the construction industry, promoting environmental sustainability and economic viability.",
+    "keywords": [],
+    "doi": "10.1186/s40069-024-00698-5",
+    "url": "https://www.semanticscholar.org/paper/fba7c181dfa160119d880e75a25b8d25df129769",
+    "citation_count": 16,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "82c4070a372eb90f9093f8a763faa9cb09575270",
+    "title": "Automated crack detection and crack depth prediction for reinforced concrete structures using deep learning",
+    "authors": "K. Laxman, N. Tabassum, Li Ai, C. Cole, P. Ziehl",
+    "journal": "Construction and Building Materials",
+    "publish_year": "2023",
+    "abstract": "Automatic inspection for crack detection and estimation of the crack depth is critical in assessing the damage and determining the appropriate method of repair in concrete structures. Most of the studies which have employed deep learning models for automatic inspection are limited to the detection and estimation of the width, length, area, and direction of cracks. The innovation of this study lies in developing a comprehensive automated crack detection and crack depth evaluation framework for concrete structures using images taken from portable devices. Firstly, a binary-class Convolutional Neural Network (CNN) model was developed to automatically detect the cracks on a concrete surface. Secondly, an integrated CNN model combining the convolutional feature extraction layers and regression models (RF and XGBoost) was developed to automatically predict the depth of the cracks. The proposed framework has been validated on a reinforced concrete (RC) slab. Results indicate the models are accurate and reliable for automated inspection of the cracks which could help in evaluating the condition of a concrete structure and choosing suitable repair methods.",
+    "keywords": [],
+    "doi": "10.1016/j.conbuildmat.2023.130709",
+    "url": "https://www.semanticscholar.org/paper/82c4070a372eb90f9093f8a763faa9cb09575270",
+    "citation_count": 135,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "ed1a0f27ba7a5cc5445749ad8f18ff3b737a5475",
+    "title": "Identification of the structural damage mechanism of BFRP bars reinforced concrete beams using smart transducers based on time reversal method",
+    "authors": "Lingzhu Zhou, Yu Zheng, G. Song, Dongdong Chen, Yuxiao Ye",
+    "journal": "Construction and Building Materials",
+    "publish_year": "2019",
+    "abstract": "Abstract Fiber reinforced polymer (FRP) bars, as alternatives of steel bars, are encouraged to be utilized in concrete construction due to the properties of both corrosion resistance and high tensile strength. In this paper, smart aggregate (SA) transducers, which can be used as both actuator and sensor, are employed to identify the structural damage mechanism of basalt-FRP (BFRP) bars reinforced concrete beams. Time reversal method is adopted for increasing the signal-to-noise ratio (SNR), which is aimed at obtaining clear amplitude of focused signal. Those methodologies are applied to conduct a further study of the structural mechanism of BFRP reinforced concrete flexural components. The experimental results reveal that the cracking and failure position of the concrete beam reinforced with BFRP bars can be located and the corresponding loads can be identified according to signal change when different crack appears. The stiffness degradation of BFRP bars reinforced concrete beams can be effectively expressed and the deflection can be accurately predicted by acquiring amplitude of focused signals in the overall zone. Additionally, it has been recognized that the damage process and mechanism of BFRP reinforced concrete beams can be accurately evaluated using those SA transducers and the status of those structural components also can be monitored effectively.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.CONBUILDMAT.2019.06.056",
+    "url": "https://www.semanticscholar.org/paper/ed1a0f27ba7a5cc5445749ad8f18ff3b737a5475",
+    "citation_count": 58,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "aafb5e8501732dc8e139ec6e62ebf0b3d805f40e",
+    "title": "The Influence of Three-Dimensionally Printed Polymer Materials as Trusses and Shell Structures on the Mechanical Properties and Load-Bearing Capacity of Reinforced Concrete",
+    "authors": "M. Hematibahar, Ali Hasanzadeh, M. Kharun, A. Beskopylny, S. Stel’makh, E. Shcherban’",
+    "journal": "Materials",
+    "publish_year": "2024",
+    "abstract": "Three-dimensional printing technology (3D printing) is becoming a more and more popular technology for aerospace, biology, medicine, mechanics, civil and other engineering fields. In civil engineering, researchers and engineers attempt to print construction materials such as concrete using 3D-printing technology. This study aims to investigate the reinforcement of concrete beams with 3D printing. To achieve this, fused deposition modeling (FDM) technology as a printing method and polylactic acid (PLA) as a material were selected. Two types of geometries were chosen to find the optimal mechanical behavior of concrete: high-performance concrete (HPC) reinforced with four types of trusses (Pratt, Howe, Warren, and Warren with vertical) and ultra-high-performance concrete (UHPC) reinforced with a hyperboloid shell structure. The compressive and tensile strengths of reinforced UHPC were examined by a three-point bending test, and reinforced HPC was examined by a four-point bending test. The results of the experiments show that hyperboloid shell structures can absorb energy, although the strength of reinforced UHPC is reduced. For example, there was a decrease of over 20% in the compressive strength and 41% in the flexural strength, but the ductility was raised. Adding the hyperboloid shell structure improved the deformability of the UHPC. When Warren and Howe trusses were added to the HPC as reinforcements, the flexural strength improved by over 26% and 4.3%, respectively. The overall results of this study show that the concrete reinforced with 3D-printed trusses was better than that with a hyperboloid shell structure.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma17143413",
+    "url": "https://www.semanticscholar.org/paper/aafb5e8501732dc8e139ec6e62ebf0b3d805f40e",
+    "citation_count": 17,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "e27f55f30f979055eaa80459a762f2af84f916d4",
+    "title": "Investigation on chloride threshold for reinforced concrete by a test method combining ANDT and ACMT",
+    "authors": "Yuan-zhan Wang, Chenxi Liu, Yuchi Wang, Qingmei Li, Zhen Liu",
+    "journal": "Construction and Building Materials",
+    "publish_year": "2019",
+    "abstract": "Abstract Chloride threshold (Cth) of reinforced concrete structures in tidal zone of marine environment has been experimentally investigated. A new test method combining artificial-natural diffusion test (ANDT) and accelerated chloride migration test (ACMT) was proposed to simulate the marine environment and accelerate the chloride diffusion. Different definitions and expressions of Cth were discussed and Cth was defined as the chloride content required for activating the depassivation of steel bar and maintaining the aggressive pitting corrosion in present work. The effects of concrete cover thickness and steel type were then investigated. The results show that Cth decreases as concrete cover thickness increases and then remains steady. Moreover, ribbed bars can survive in a higher chloride concentration than plain ones. In view of the design parameters of reinforced concrete structures in tidal zone, Cth for hooping bar (plain bar) and longitudinal tensile bar (ribbed bar) is suggested to be 0.2% and 0.3% (total chloride content by weight of concrete), respectively. Also, a concept of critical pH was mentioned and a value of 11.0 may indicate a high risk of steel bar corrosion. Compared to the results in other field studies, this test method can be expected to be convincing and time-saving.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.CONBUILDMAT.2019.04.108",
+    "url": "https://www.semanticscholar.org/paper/e27f55f30f979055eaa80459a762f2af84f916d4",
+    "citation_count": 26,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "dedd93e8be10f4a331cbf707eba33cd35858f2d8",
+    "title": "Progressive collapse assessment of precast prestressed reinforced concrete beams using applied element method",
+    "authors": "M. Alanani, M. Ehab, H. Salem",
+    "journal": "Case Studies in Construction Materials",
+    "publish_year": "2020",
+    "abstract": "Abstract Due to the repetitive progressive collapse events, it became necessity to form theories of designs against those cases of loadings. Prestressed reinforced concrete elements become widely used in construction field due to various properties that contribute to enhancing the overall structural stiffness, increasing the loading capacity, and elevating the crack resistance threshold compared to the non-prestressed elements. However, few researches in prestressing members and its capacity towards progressive collapse is covered. According to the Unified Facilities Criteria (UFC) and the General Services Administrations (GSA) guidelines, the pre-stressed precast structure’s assessment under progressive collapse are taken into consideration using approximate solutions for analysis. The UFC stated the types of the structure under progressive collapse assessment regardless of the structural system used. This is a great challenge needs a lot of experimental and numerical testing and validation. In this research, a numerical analysis is carried out for a typical five-story framed prestressed precast reinforced concrete structure subjected to column loss (corner column, edge column and internal column near to the structure’s edge), and designed according to Precast/Prestressed Concrete Institute (PCI) and (ACI 318- 14). Non-linear dynamic analysis for the structure was carried out using Extreme Loading for Structures (ELS) software depending on the AEM. The investigation was done on two levels. Total collapse took place in case 1. As a result, the necessity of extending the research to include case (2) is essential for having an overview assessment of this type of structures. Case 2 showed high capability to resist progressive collapse against all column removal scenarios. The results are indicated in terms of; prestressed beam behavior, prestressing cable contribution, and flexure and axial loads’ changes with respect to time. Beam and column rotations are calculated and compared to the UFC limitations to assess its safety towards progressive collapse.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/j.cscm.2020.e00457",
+    "url": "https://www.semanticscholar.org/paper/dedd93e8be10f4a331cbf707eba33cd35858f2d8",
+    "citation_count": 25,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2f569452ef1539a3c6809eedb34cdb9f961c74bd",
+    "title": "Image analysis method for crack distribution and width estimation for reinforced concrete structures",
+    "authors": "Yuan-Sen Yang, Chiun-Lin Wu, T. Hsu, Hsuan-Chih Yang, Hu-Jhong Lu, Chang-Ching Chang",
+    "journal": "Automation in Construction",
+    "publish_year": "2018",
+    "abstract": "Abstract Crack observation is important for evaluating the structural performance and safety of reinforced concrete (RC) structures. Most of the existing image-based crack detection methods are based on edge detection algorithms, which detect cracks that are wide enough to present dark areas in the obtained images. Cracks initiate as thin cracks, generally having width less than the width of a pixel in images; such cracks are generally undetectable by edge detection-based methods. An image analysis method is proposed to observe the development and distribution of thin cracks on RC surfaces; it also allows estimation of crack widths. Image matching based on optical flow and subpixel is employed to analyze slight concrete surface displacements. Camera calibration is included to eliminate perspective effects and lens distortion. Geometric transformation is adopted so that cameras do not need to be perpendicular to the observed surface or specified positions. Formulas are proposed to estimate the width of shear crack opening. The proposed method was then applied to a cyclic test of an RC structure. The crack widths and their development analyzed by the image analysis were verified with human inspection in the test. In addition, concrete surface cracks that appeared at a very early stage of the test could be observed by the proposed method before they could be detected by the naked eye. The results thus demonstrate that the proposed image analysis method offers an efficient way applicable not only for structural tests but also for crack-based structural-health-monitoring applications.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.AUTCON.2018.03.012",
+    "url": "https://www.semanticscholar.org/paper/2f569452ef1539a3c6809eedb34cdb9f961c74bd",
+    "citation_count": 56,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "e1f7d25eed15b57c9b75365a403dca1dde405de4",
+    "title": "Examining the Distribution of Strength across the Thickness of Reinforced Concrete Elements Subject to Sulphate Corrosion Using the Ultrasonic Method",
+    "authors": "B. Stawiski, T. Kania",
+    "journal": "Materials",
+    "publish_year": "2019",
+    "abstract": "Sulphate corrosion of concrete is a complex chemical and physical process that leads to the destruction of construction elements. Degradation of concrete results from the transportation of sulphate compounds through the pores of exposed elements and their chemical reactions with cementitious material. Sulphate corrosion can develop in all kind of structures exposed to the corrosive environment. The mechanism of the chemical reactions of sulphate ions with concrete compounds is well known and described. Furthermore, the dependence of the compressive strength of standard cubic samples on the duration of their exposure in the sulphate corrosion environment has been described. However, strength tests on standard samples presented in the scientific literature do not provide an answer to the question regarding the measurement methodology and actual distribution of compressive strength in cross-section of reinforced concrete structures exposed to sulphate ions. Since it is difficult to find any description of this type of test in the literature, the authors undertook to conduct them. The ultrasonic method using exponential heads with spot surface of contact with the material was chosen for the measurements of concrete strength in close cross-sections parallel to the corroded surface. The test was performed on samples taken from compartments of a reinforced concrete tank after five years of operation in a corrosive environment. Test measurements showed heterogeneity of strength across the entire thickness of the tested elements. It was determined that the strength of the elements in internal cross-sections of the structure was up to 80% higher than the initial strength. A drop in the mechanical properties of concrete was observed only in the close zone near the exposed surface.",
+    "keywords": [
+      "Medicine",
+      "Materials Science"
+    ],
+    "doi": "10.3390/ma12162519",
+    "url": "https://www.semanticscholar.org/paper/e1f7d25eed15b57c9b75365a403dca1dde405de4",
+    "citation_count": 28,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "cd9d93d2aa7f67826e56358047774a9e1b841d3c",
+    "title": "Progressive collapse assessment of precast reinforced concrete beams using applied element method",
+    "authors": "Mohammed El-desoqi, M. Ehab, H. Salem",
+    "journal": "Case Studies in Construction Materials",
+    "publish_year": "2020",
+    "abstract": "Abstract Progressive collapse is defined as either partial or overall failure of the structure due to losing one of the main structural elements. In order to control this chain reaction, it is important to study the main structural elements behavior under column removal. Precast concrete structures become widely used recently due to the quality control assurance, economical aspects and time saving construction. Due to this many researchers studied the precast concrete structures behavior under earthquake loading, observing the failure patterns, weak points, and how to overcome all those parameters, however, regarding progressive collapse, Precast concrete structures need intensive researches to cover all the parameters that will affect the structure's behavior due to accidental loading. One of the main parameters that still ambiguous is the Precast beam span lengths and its behavior on the overall structure When subjected to progressive collapse. In this paper, the influence of different span length of precast beams is studied under different column removal scenarios. A precast concrete structure case study is adopted and designed according to Precast/Prestressed Concrete Institute and ACI 318-14 and a multiple 3D models, for different span lengths, are modeled in Extreme Loading of Structures software based on the Applied Element Method. Non-linear dynamic time dependent analysis is conducted on two case studies ; bare frame structure without any slab contribution (Case1), and full structure with slab contribution (Case2). Column removal scenarios are applied according to the UFC regulations, partial collapse took place in case1 while case 2 showed high resistance to progressive collapse. Observations are reported in terms of failure cause for case 1 and the resisting mechanism that took place in case 2. Rotational ductility redistributed applied loads for beams and columns are obtained for case 2. A comparison took place between the rotations obtained in the case study and the rotation limits specified by the UFC and found that the system is satisfying the UFC limits, and no additional consideration need to be done in resisting progressive collapse.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/j.cscm.2020.e00456",
+    "url": "https://www.semanticscholar.org/paper/cd9d93d2aa7f67826e56358047774a9e1b841d3c",
+    "citation_count": 18,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "c05722de438759174d8992892a6cebdac769f818",
+    "title": "Improvement of a Truss-Reinforced, Half-Concrete Slab Floor System for Construction Sustainability",
+    "authors": "Jiarui Qi, H. Yang",
+    "journal": "Sustainability",
+    "publish_year": "2021",
+    "abstract": "The truss-reinforced half-concrete slab has been widely used in prefabricated construction all over the world. It has become the most widely used prefabricated component form in China. However, its construction cost is higher than using the conventional construction method. To improve the half slab floor system, it is essential to have a comprehensive understanding of the truss-reinforced half slab’s structural performance over its complete loading history. Six experimental tests on such slabs were carried out. Three of them were reinforced with a steel bar truss (SBT) and the other three with a steel tube/bar truss (STBT). The steel tube in an STBT was grouted. The results show that when the specimen is damaged, the grouted steel tube does not undergo out-of-plane or in-plane buckling, and its force performance is good when compared to the steel bar in SBT. Compared with the SBT-reinforced slab specimens, the load characteristic values of the STBT-reinforced slabs were significantly improved, and the slabs had greater initial stiffness and resistance to deformation. Due to the fact that good structural performance of the steel tube was observed, after having studied the half slab component design, a dry, prefabricated, STBT-reinforced half slab system that can reduce the volume of concrete and amount of steel used in the present slab system is proposed. The proposed system has the advantages of allowing easier construction, cost reduction, and reuse of the components afterward to make the prefabrication construction more sustainable.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.3390/SU13073731",
+    "url": "https://www.semanticscholar.org/paper/c05722de438759174d8992892a6cebdac769f818",
+    "citation_count": 16,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "783e0557fc729046dc021475c0cc3157fe2dcd84",
+    "title": "Construction cost estimation of reinforced and prestressed concrete bridges using machine learning",
+    "authors": "Miljan Kovačević, Nenad Ivanišević, P. Petronijević, V. Despotović",
+    "journal": "Journal of the Croatian Association of Civil Engineers",
+    "publish_year": "2021",
+    "abstract": "Seven state-of-the-art machine learning techniques for estimation of construction costs of reinforced-concrete and prestressed concrete bridges are investigated in this paper, including artificial neural networks (ANN) and ensembles of ANNs, regression tree ensembles (random forests, boosted and bagged regression trees), support vector regression (SVR) method, and Gaussian process regression (GPR). A database of construction costs and design characteristics for 181 reinforced-concrete and prestressed-concrete bridges is created for model training and evaluation.",
+    "keywords": [],
+    "doi": "10.14256/JCE.2738.2019",
+    "url": "https://www.semanticscholar.org/paper/783e0557fc729046dc021475c0cc3157fe2dcd84",
+    "citation_count": 18,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "b70a2ef1f34bb6b4b872529b9bd44dca6cd528aa",
+    "title": "A method for assessing the stress-strain state of reinforced concrete structures",
+    "authors": "Andrew Varlamov, V. Rimshin, S. Tverskoi",
+    "journal": "E3S Web of Conferences",
+    "publish_year": "2019",
+    "abstract": "The article analyses the modern methods of estimation of stress-strain state of reinforced concrete structures. The result of the analysis is a new method for estimating the stress-strain state of reinforced concrete structures. The method is based on extracting a small sample of concrete from the array. The article describes the method of execution of works, the method of calculating the stresses. Previously, the method was investigated under laboratory conditions. The results are presented in graphs and tables. The research was conducted to assess the stress state of existing concrete structures. As the objects of research, two industrial buildings of 1933 and 1941 construction years were taken. An assessment of a stress state of a panel residential building was held. The measurement results were analyzed. The method for determining the stresses in reinforced concrete buildings and structures is recommended.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1051/E3SCONF/20199102046",
+    "url": "https://www.semanticscholar.org/paper/b70a2ef1f34bb6b4b872529b9bd44dca6cd528aa",
+    "citation_count": 20,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "ae2546946f190d0c4b94298bfcc05c032a5472f8",
+    "title": "The construction features of the deformation and force model of concrete and reinforced concrete resistance",
+    "authors": "V. Romashko, O. Romashko",
+    "journal": "",
+    "publish_year": "2017",
+    "abstract": "The main features of the deformation and force model of deformation of reinforced concrete elements and structures based on generalized diagrams of their state are considered in the article. Particular attention is focused on the basic methodological problems and shortcomings of modern \"deformation\" models. It is shown that in the most cases these problems can be solved by the generalized diagrams of reinforced concrete elements and structures real state. Thanks to these diagrams, the developed method: provides a single methodological approach to the calculation of reinforced concrete elements and structures normal sections for limit states; allows to reveal the internal static indeterminacy of heterogeneously deformable elements and structures in their ultimate limit state calculation; justifies the application of the basic and derived criteria of reinforced concrete elements and structures bearing capacity exhaustion; retains the essence of the physical processes of concrete and reinforced concrete structures deformation. The defining positions of the generalized (universal) methodology for calculating reinforced concrete elements and structures are stated.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1051/MATECCONF/201711602028",
+    "url": "https://www.semanticscholar.org/paper/ae2546946f190d0c4b94298bfcc05c032a5472f8",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "406dea3df8a9e61e70580dd2488e26537646f4c5",
+    "title": "Mechanical Properties of Ultra-High Performance Concrete (UHPC) and Ultra-High Performance Fiber-Reinforced Concrete (UHPFRC) with Recycled Sand",
+    "authors": "Donguk Choi, Kyungchan Hong, Munkhtuvshin Ochirbud, Didar Meiramov, Piti Sukontaskuul",
+    "journal": "International Journal of Concrete Structures and Materials",
+    "publish_year": "2023",
+    "abstract": "Use of high-cost raw materials such as quartz sand can limit wider application of ultra-high performance concrete in concrete construction. In this experimental study, recycled sand was used to fabricate ultra-high performance concrete (UHPC) and ultra-high performance fiber-reinforced concrete (UHPFRC). Green UHPC with ordinary Portland cement and industrial by-products such as silica fume, fly ash, as well as recycled sand was first developed through two-step packing density tests to optimize the mix design. UHPFRC was then developed based on the UHPC mix designs and by using 1%, 2%, or 3% 13-mm straight steel fibers (SSF). The compressive strength, elastic modulus, and flexural tensile strength was 128 MPa, 46.9 GPa, and 11.9 MPa, respectively, after 28 days at water-to-binder ratio of 0.17 and with 2% SSFs. All high-performance concretes in this work utilized 100% commercially available recycled sand that was produced by wet processing method. Mechanical characteristics such as strength, elastic modulus, and density, absorption, and voids of the UHPC/UHPFRC were investigated. Development of autogenous shrinkage of UHPC/UHPFRC with recycled sand was monitored for 12 weeks, while mercury intrusion porosimetry test and scanning electron microscopy were performed for microstructural investigation. Finally, the environmental impacts and economical aspects of the green UHPC were evaluated by life cycle assessment (LCA) and cost analysis.",
+    "keywords": [],
+    "doi": "10.1186/s40069-023-00631-2",
+    "url": "https://www.semanticscholar.org/paper/406dea3df8a9e61e70580dd2488e26537646f4c5",
+    "citation_count": 22,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "e1b92d81698d958e7ee3a279ab89fd7df29e51b0",
+    "title": "Analytical method for derivation of stress block parameters for flexural design of FRP reinforced concrete members",
+    "authors": "F. Yuan, Yufei Wu",
+    "journal": "Composite Structures",
+    "publish_year": "2019",
+    "abstract": "Abstract This work derives stress block parameters for fibre-reinforced polymer (FRP) reinforced concrete (RC) members by applying the newly developed RC flexural theorems without doing structural tests. The equivalent rectangular stress block method is widely used for flexural design of RC members. Conventionally, stress block parameters are obtained from extensive flexural tests of RC members. Parameters of the stress block are closely related to material properties. Therefore, new stress block parameters are required when new materials, such as FRP, are used in construction. Structural testing is expensive, and test data is often insufficient for derivation of stress block parameters when a new material is applied in practice. The derived stress block parameters from this work and relevant RC flexural strength are compared with experimental results as well as those recommended by ACI 440.1R-15 and CSA-S806-12. More accurate results are obtained using the proposed parameters compared with those calculated from existing design codes. The method can also result in significant savings in FRP material due to more accurate calculation. The proposed approach facilitates more accurate yet convenient design for flexural strength of FRP-reinforced concrete members by engineers using the conventional stress block approach.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.compstruct.2019.111459",
+    "url": "https://www.semanticscholar.org/paper/e1b92d81698d958e7ee3a279ab89fd7df29e51b0",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "51283f33a8a374e2e3403b8bb058e6d844c1207e",
+    "title": "Analysis the effects of lightweight concrete in the middle layer of multi-layered reinforced concrete structures on the stress-strain state using the finite element method",
+    "authors": "E. Korol, Vu Dinh Tho, N. Hoang",
+    "journal": "",
+    "publish_year": "2018",
+    "abstract": "The development of methods for the calculating reinforced concrete structures covers a wide range of issues, including the expansion of the application of new innovative materials such as concrete and reinforcement. For usage in the practice of modern construction of multilayer structures made of concrete with different physic-mechanical characteristics, it is compulsory to conduct numerical studies of the stressstrain state of these structures under different types of loading. This article presents an analysis of the influence of the relations between the initial elastic modulus of the outer and middle layers for the stress-strain state and the deflection of three-layer reinforced concrete structures using the finite element method in the program ANSYS Mechanical. Numerical modeling allows comparing the obtained results and building theoretical dependences in a wide range of specified parameters for the construction of sections of multilayer reinforced concrete elements. The obtained scientific results enable to determine rational parameters for modeling various structural solutions of multilayer reinforced concrete structures. This would limit the number of actual test samples, increasing the efficiency of the experiment.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1051/MATECCONF/201819602022",
+    "url": "https://www.semanticscholar.org/paper/51283f33a8a374e2e3403b8bb058e6d844c1207e",
+    "citation_count": 10,
+    "source": "semantic_scholar"
+  }
+]

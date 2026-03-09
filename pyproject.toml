@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "cnt-knowledge-base"
+version = "0.2.0"
+description = "건설신기술 평가 프레임워크를 위한 지식베이스 구축 및 LLM 평가 시스템"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=5.0.0",
+    "pydantic>=2.5.0",
+    "pydantic-settings>=2.1.0",
+    "python-dotenv>=1.0.0",
+    "PyPDF2>=3.0.0",
+    "pdfplumber>=0.10.0",
+    "tqdm>=4.66.0",
+    # AWS Bedrock
+    "boto3>=1.34.0",
+    # Vector DB
+    "lancedb>=0.6.0",
+    "pyarrow>=15.0.0",
+    # FastAPI
+    "fastapi>=0.110.0",
+    "uvicorn[standard]>=0.27.0",
+    # Analysis
+    "numpy>=1.26.0",
+    "pandas>=2.2.0",
+    "matplotlib>=3.8.0",
+    "scipy>=1.12.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "ruff>=0.1.0",
+]

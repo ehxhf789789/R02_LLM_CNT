@@ -1,0 +1,144 @@
+[
+  {
+    "paper_id": "eb8c84417a2d548dd4f5a39a6eb0f5c7b56d37c5",
+    "title": "Development of a Multi-Robot System for Pier Construction",
+    "authors": "Hyogon Kim, Ji-Hyun Park, Jong-Chan Kim, Jeonghwan Hwang, J. Park, Inmyoung Park, Hyojun Lee, Kyoungseok Noh, Youngho Choi, Jinho Suh",
+    "journal": "Machines",
+    "publish_year": "2024",
+    "abstract": "The construction industry is a challenging field for the application of robots. In particular, bridge construction, which involves many tasks at great heights, makes it difficult to implement robots. To construct a bridge, it is necessary to build numerous piers that can support the bridge deck. Pier construction involves a series of tasks including rebar connection, formwork installation, concrete pouring, formwork dismantling, and formwork reinstallation. These activities require working at heights, presenting a significant risk of falls. If bridge construction could be performed remotely using robots instead of relying on human labor, it would greatly contribute to the safety of bridge construction. This paper proposes a multi-robot system capable of remote operation and automation for rebar structure connection, concrete pouring, and concrete vibrating tasks in pier construction. The proposed multi-robot system for pier construction is composed of three robot systems. Each robot system consists of a robot arm mounted on a mobile robot that can move along rails. And to apply the proposed system to a construction site, it is essential to implement a compliance control algorithm that adapts to external forces. In this paper, we propose an admittance control that takes into account the weight of the tool for the compliance control of the proposed robot, which performs tasks by switching between various construction tools of different weights. Furthermore, we propose a synchronization control method for the multi-robot system to connect reinforcing structures. We validated the proposed algorithm through simulation. Furthermore, we developed a prototype of the proposed system to verify the feasibility of the suggested hardware design and control.",
+    "keywords": [],
+    "doi": "10.3390/machines12060385",
+    "url": "https://www.semanticscholar.org/paper/eb8c84417a2d548dd4f5a39a6eb0f5c7b56d37c5",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "ac682241e3dfce33c68b9faa01897d9984a4af21",
+    "title": "Data-Based Reachability Analysis and Optimized Robot Positioning for Co-Design of Construction Processes",
+    "authors": "A. Gienger, Charlotte Stein, A. Lauer, O. Sawodny, C. Tarín",
+    "journal": "2024 IEEE/SICE International Symposium on System Integration (SII)",
+    "publish_year": "2024",
+    "abstract": "Growing demand for new buildings and infrastructure, combined with stagnating productivity, is making new innovations and automation in the construction sector crucial. Already during the design and planning phase the feasibility of the construction process has to be analyzed in order to avoid problems during the construction phase. This includes the reachability of building elements and the positioning of construction robots. However, computing the reachability of target poses using inverse kinematics (IK) is time-consuming and does not allow for an immediate feedback. For this reason, a Random Forest classifier is trained to replace the calculation of IK. This decreases the computation time by a factor of more than 104 and allows for immediate feedback on reachability. It achieves a high accuracy of around 97 %, which is shown for two exemplary robots. Due to the reduced computational effort, the classifier is used to optimize the robot base positions. The number of different base positions is minimized such that each target pose is reachable from at least one position. The optimization is successfully applied to a realistic pavilion with an accuracy of more than 99.99 %. This contribution shows the immense advantage of using the proposed method to speed up planning of construction processes and enable co-design to improve and guarantee the feasibility of the construction process for a specific building design.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/SII58957.2024.10417196",
+    "url": "https://www.semanticscholar.org/paper/ac682241e3dfce33c68b9faa01897d9984a4af21",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "fcdcf99775bd4bf36889b262b8476965314dc827",
+    "title": "Exploring the Use of Immersive VR for Human-Robot Collaboration in Construction: An Interview Study With Industry Experts and University Faculty",
+    "authors": "Ruby Yeeun Kim, Jiacheng Cai, S. M. Chandran, Jieru Liu, Aoran Peng, Scarlett R. Miller",
+    "journal": "Volume 2A: 44th Computers and Information in Engineering Conference (CIE)",
+    "publish_year": "2024",
+    "abstract": "\n The construction industry is increasing its adaptation of automation technologies such as robots to improve productivity and efficiency. However, human-robot collaboration requires new skills and knowledge from both workers and engineers. However, training for these new skills might be difficult due to the high-risk nature of construction environments, the complexity of the tasks involved, and the need for precise and safe coordination between humans and robots. This research proposes an immersive virtual reality-based learning environment that provides a safe and engaging space for learning and practicing human-robot collaboration skills. The learning environment aims to simulate realistic construction site scenarios where human-robot teams collaborate. The research explores the effectiveness of the virtual learning environment in terms of learning outcomes, usability, and user satisfaction. To do so, eight interviews were conducted with industry experts and university faculty. The results of the interviews showed that there is a significant potential for the immersive virtual reality-based learning environment to improve workers’ skills, increase their confidence, and promote collaboration in the construction industry. Experts emphasized the importance of realistic simulations that closely mimic actual construction scenarios to enhance the learning experience. The interview results were then used to develop a medium-fidelity prototype. Usability testing of the prototype with undergraduate Construction Engineering and Management (CEM) students revealed that the students found the virtual environment engaging and beneficial for understanding the dynamics of human-robot collaboration. They reported an increased awareness of safety protocols and improved their ability to anticipate and coordinate with robot actions. However, some students noted challenges with the interface, suggesting areas for improvement in the system’s intuitiveness and user guidance. The findings of this research have implications for the development of immersive virtual reality-based learning environments and can contribute to the improvement of human-robot collaboration in the construction industry. Further, the technology’s immediate advantages, such as enhancing the safety and effectiveness of human-robot collaboration in construction, make it an important tool for companies in this sector trying to streamline their procedures and develop their staff. This research suggests that immersive VR training can be a valuable component of a broader strategy to integrate automation technologies into the construction industry, ensuring that workers are equipped with the necessary skills and confidence to work effectively alongside robots.",
+    "keywords": [],
+    "doi": "10.1115/detc2024-146368",
+    "url": "https://www.semanticscholar.org/paper/fcdcf99775bd4bf36889b262b8476965314dc827",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2928f5ecb701bac9eb33cd0afe4f2195ac26e2b3",
+    "title": "Mapping Essential Competencies for Human-Robot Collaboration in Construction: A Sociotechnical Systems Perspective",
+    "authors": "Ebenezer Olukanni, A. Akanmu, Adedeji Afolabi, Houtan Jebelli",
+    "journal": "2024 IEEE Frontiers in Education Conference (FIE)",
+    "publish_year": "2024",
+    "abstract": "This research-to-practice full paper identifies the essential competencies for human-robot collaboration in the construction industry through a sociotechnical systems theory perspective. The construction industry grapples with significant challenges, including a shortage of skilled workers, low productivity, efficiency, and safety issues that impede its progress and growth. The integration of robots into the construction industry presents a promising solution to address these issues, thereby necessitating collaboration between humans and robots in executing construction tasks. Despite the advantages and roles played by robotic automation, there have been scarce efforts to identify essential competencies required to prepare the current and future workforce for effective collaboration with robots in construction. This study fills this gap by identifying essential competencies in the form of knowledge, skills, and abilities necessary for successful human-robot collaboration in construction. Using the sociotechnical systems theory as a framework, a qualitative literature review was conducted to establish and correlate the constructs of sociotechnical systems theory and elements of human-robot collaboration. Content analysis was employed to identify the elements of sociotechnical systems theory, human-robot collaboration, and robot task applications in construction, leading to the identification of key competencies. The study reveals a set of competencies for effective human-robot collaboration, including twenty knowledge, ten skills, and twelve abilities essential for implementing human-robot collaboration in the construction industry. These findings offer valuable insights for designing training programs and developing guidelines to facilitate successful human-robot collaboration in the construction industry. The competency model unveiled in the study could be incorporated into construction engineering and management curricula, providing a foundation for developing training initiatives targeting the current workforce and preparing the future workforce for collaborative engagements with robots in the construction industry. Recognizing the specific knowledge, skills, and abilities needed for human-robot collaboration in construction is pivotal for enhancing the efficiency and success of robotics implementation in the industry. Integrating these competencies into educational curricula and professional development programs equips the workforce to adapt to technological advancements and positions the industry for sustainable growth and improved project outcomes.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/FIE61694.2024.10893071",
+    "url": "https://www.semanticscholar.org/paper/2928f5ecb701bac9eb33cd0afe4f2195ac26e2b3",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "728ec86d0f2640a905f7673df9b15f6e0d8ee3bd",
+    "title": "Construction inspection & monitoring with quadruped robots in future human-robot teaming: A preliminary study",
+    "authors": "Srijeet Halder, K. Afsari, Erin K. Chiou, Rafael N C Patrick, K. Hamed",
+    "journal": "Journal of Building Engineering",
+    "publish_year": "2023",
+    "abstract": "Construction inspection and monitoring are key activities in construction projects. Automation of inspection tasks can address existing limitations and inefficiencies of the manual process to enable systematic and consistent construction inspection. However, there is a lack of an in-depth understanding of the process of construction inspection and monitoring and the tasks and sequences involved to provide the basis for task delegation in a human-technology partnership. The purpose of this research is to study the conventional process of inspection and monitoring of construction work currently implemented in construction projects and to develop an alternative process using a quadruped robot as an inspector assistant to overcome the limitations of the conventional process. This paper explores the use of quadruped robots for construction inspection and monitoring with an emphasis on a human-robot teaming approach. Technical development and testing of the robotic technology are not in the scope of this study. The results indicate how inspector assistant quadruped robots can enable a human-technology partnership in future construction inspection and monitoring tasks. The research was conducted through on-site experiments and observations of inspectors during construction inspection and monitoring followed by a semi-structured interview to develop a process map of the conventional construction inspection and monitoring process. The study also includes on-site robot training and experiments with the inspectors to develop an alternative process map to depict future construction inspection and monitoring work with the use of an inspector assistant quadruped robot. Both the conventional and alternative process maps were validated through interview surveys with industry experts against four criteria including, completeness, accuracy, generalizability, and comprehensibility. The findings suggest that the developed process maps reflect existing and future construction inspection and monitoring work.",
+    "keywords": [],
+    "doi": "10.1016/j.jobe.2022.105814",
+    "url": "https://www.semanticscholar.org/paper/728ec86d0f2640a905f7673df9b15f6e0d8ee3bd",
+    "citation_count": 84,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "50b738e123ed27dbfe809c210ae5f3ab03e5802f",
+    "title": "Automated Localization of a Mobile Construction Robot with an External Measurement Device",
+    "authors": "Selen A. Ercan, S. Meier, F. Gramazio, M. Kohler",
+    "journal": "Proceedings of the 36th International Symposium on Automation and Robotics in Construction (ISARC)",
+    "publish_year": "2019",
+    "abstract": "The localization of a robot is a crucial part of any task that involves the mobile manipulation of objects. The precise repositioning of a mobile robot within the workspace is particularly important for on-site construction in situations where the operating area is much larger than the reach of the robot arm. This research presents a localization method utilizing a generic surveying and measurement device – a robotic total station. The localization of the mobile robot in reference to the total station is investigated through the positioning of a reflector prism, mounted on the robot’s end-effector, at different known locations in robot’s coordinate frame. Through this localization method, the opportunity to remove the reliance on fixed reference points is tested in a largescale outdoor experiment, which would alleviate the need for a full enclosure around the mobile robot to help constrain its pose.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3929/ETHZ-B-000328442",
+    "url": "https://www.semanticscholar.org/paper/50b738e123ed27dbfe809c210ae5f3ab03e5802f",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "d52b05510dad15eb815a6cb5fae61bef280c98e1",
+    "title": "Augmented reality-enabled human-robot collaboration to balance construction waste sorting efficiency and occupational safety and health.",
+    "authors": "Junjie Chen, Yong Fu, Weisheng Lu, Yipeng Pan",
+    "journal": "Journal of environmental management",
+    "publish_year": "2023",
+    "abstract": "Construction waste sorting (CWS) is highly recommended as a key step for construction waste management. However, current CWS involves humans' manual hand-picking, which poses significant threats to their occupational safety and health (OSH). Robotic sorting promises to change the situation by adopting modern artificial intelligence and automation technologies. However, in practice, it is usually challenging for robots to do an efficient job (e.g., measured by quickness and accuracy) owing to the difficulties in precisely recognizing compositions of the mixed and heterogeneous waste stream. Leveraging augmented reality (AR) as a communication interface, this research aims to develop a human-robot collaboration (HRC) approach to address the dilemmatic balance between CWS efficiency and OSH. Firstly, a model for human-robot collaborative sorting using AR is established. Then, a prototype for the AR-enable collaborative sorting system is developed and evaluated. The experimental results demonstrate that the proposed AR-enabled HRC method can improve the accuracy rate of CWS by 10% and 15% for sorting isolated waste and obscured waste, respectively, when compared to the method without human involvement. Interview results indicate a significant improvement in OSH, especially the reduction of contamination risks and machinery risks. The research lays out a human-robot collaborative paradigm for productive and safe CWS via an immersive and interactive interface like AR.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1016/j.jenvman.2023.119341",
+    "url": "https://www.semanticscholar.org/paper/d52b05510dad15eb815a6cb5fae61bef280c98e1",
+    "citation_count": 46,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "32b8be5a4b05a3d57e46f4aab5f08fec6dc5c0ea",
+    "title": "Wearable Sensors-Based Hand Gesture Recognition for Human–Robot Collaboration in Construction",
+    "authors": "Xin Wang, D. Veeramani, Zhenhua Zhu",
+    "journal": "IEEE Sensors Journal",
+    "publish_year": "2023",
+    "abstract": "The development of robotic machines has shown the potential to promote automation in construction. One of the critical enablers of human–robot collaboration is a user-friendly interface to support their interactions. Compared with other interfaces, hand gesture is an effective communication channel on construction sites. This article proposes a system for recognition of construction workers’ hand gestures using wearable sensors on fingers. The system starts with synchronizing, normalizing, and smoothing finger motions. Then, the motion data are extracted through a sliding window and fed into an enhanced fully convolutional neural network (FCN) for the hand gesture recognition. The system was tested through a system validation test and achieved the precision and recall of 85.7% and 93.8%, respectively. A pilot study demonstrated the use of the proposed system to interact with a robotic dump truck. The system was further compared with vision-based recognition methods to quantitatively and qualitatively assess their relative benefits and limitations.",
+    "keywords": [],
+    "doi": "10.1109/JSEN.2022.3222801",
+    "url": "https://www.semanticscholar.org/paper/32b8be5a4b05a3d57e46f4aab5f08fec6dc5c0ea",
+    "citation_count": 32,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "66ee98f971fd074e7fe25e35a4a15281386ae701",
+    "title": "Automated construction for human–robot interaction in wooden buildings: Integrated robotic construction and digital design of iSMART wooden arches",
+    "authors": "Yifang Leng, Xinyu Shi, Hiroatsu Fukuda, Alexander Kalachev, Da Wan",
+    "journal": "Journal of Field Robotics",
+    "publish_year": "2023",
+    "abstract": "Robotic construction is a powerful means of addressing labor shortages, low productivity, and low sustainability in the construction industry. Even though construction robots have attracted attention in research and practice, in a market condition where the technology and industry scale of the construction industry is yet unable to meet the scale of full automation, human–robot interaction (HRI) is a more adaptable working model. It is crucial to change the level of automation to the level of cooperation. This paper proposes an HRI construction method that aims to provide a new idea for existing robotic construction research, which combines the advantages of manual construction and automated robotic construction. This construction method allows an inexperienced layman to quickly complete the construction of complex timber structures with the assistance of a robot. Furthermore, this automated construction method's advantages, limitations, and potential pitfalls and the environmental, economic, and social sustainability aspects of design, production, and construction are also considered, providing a technical reference for the sustainable development of China's construction industry.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1002/rob.22154",
+    "url": "https://www.semanticscholar.org/paper/66ee98f971fd074e7fe25e35a4a15281386ae701",
+    "citation_count": 22,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3522c70aad75eee814b95551476c75d5f1b2b358",
+    "title": "Holistic Construction Automation With Modular Robots: From High-Level Task Specification to Execution",
+    "authors": "Jonathan Külz, Michael Terzer, Marco Magri, Andrea Giusti, Matthias Althoff",
+    "journal": "IEEE Transactions on Automation Science and Engineering",
+    "publish_year": "2024",
+    "abstract": "In situ robotic automation in construction is challenging due to constantly changing environments, a shortage of robotic experts, and a lack of standardized frameworks bridging robotics and construction practices. This work proposes a holistic framework for construction task specification, optimization of robot morphology, and mission execution using a mobile modular reconfigurable robot. Users can specify and monitor the desired robot behavior through a graphical interface. In contrast to existing, monolithic solutions, we automatically identify a new task-tailored robot for every task by integrating Building Information Modeling (BIM). Our framework leverages modular robot components that enable the fast adaption of robot hardware to the specific demands of the construction task. Other than previous works on modular robot optimization, we consider multiple competing objectives, which allow us to explicitly model the challenges of real-world transfer, such as calibration errors. We demonstrate our framework in simulation by optimizing robots for drilling and spray painting. Finally, experimental validation demonstrates that our approach robustly enables the autonomous execution of robotic drilling. Note to Practitioners—Construction sites are unpredictable and constantly changing, making automation difficult. To tackle this, we propose a modular robotic system that can adapt to specific tasks. In this work, we address the challenge of automating robotic drilling and introduce a general framework that also supports other construction tasks. We use Building Information Modelling (BIM) data to automatically determine the best robot configuration by optimizing factors such as setup time and robustness to positioning errors. Through an intuitive interface, workers can specify tasks, after which they assemble the robot following the provided instructions. The result of this work is a robotic system that can be deployed on diverse construction sites while requiring only readily available BIM data and minimal user inputs. Our approach enables the same hardware to be deployed across various scenarios while accounting for site-specific challenges. A core innovation lies in combining modular robotics with automated optimization, task planning, and motion planning to minimize the need for user intervention while delivering robots specifically tailored to each task. To achieve this, we extend methods for modular robot design to account for multiple conflicting objectives in the optimization process. Experimental results demonstrate the ability of the system to perform autonomous drilling with high precision. Beyond drilling, this framework has the potential to support a wide range of applications, and we show its applicability to spray painting in simulation. Overall, it offers a practical and adaptable solution for diverse construction tasks and sites.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/TASE.2025.3579720",
+    "url": "https://www.semanticscholar.org/paper/3522c70aad75eee814b95551476c75d5f1b2b358",
+    "citation_count": 7,
+    "source": "semantic_scholar"
+  }
+]

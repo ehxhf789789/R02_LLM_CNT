@@ -1,0 +1,883 @@
+[
+  {
+    "paper_id": "d07705e8bbd01c0bfb987a525d5504b377573636",
+    "title": "Modeling and probabilistic evaluation of repair strategies in the initiation phase of chloride‐induced corrosion of the reinforcement of concrete structures",
+    "authors": "Karel Van Den Hende, Stef Helderweirt, W. Botte, S. Matthys, G. Lombaert, R. Caspeele",
+    "journal": "Structural Concrete",
+    "publish_year": "2024",
+    "abstract": "Chloride ingress is a common issue in concrete structures that can result in reinforcement corrosion. In order to extend the lifetime of a structure, several preventive repair methodologies are available, which reduce the ingress of chlorides. In this work, the computational efficiency of the analytical model for a two‐material diffusion problem has been improved to model the effect of a mortar overlay or partial cover replacement, and is further implemented to model the influence of a coating. This enables the assessment of each repair method in a probabilistic framework using Latin hypercube samples within an acceptable timeframe. A parameter study executed in both a deterministic and probabilistic framework demonstrated the model efficiency and the importance of the timing and quality of the intervention for successful repair when applying a repair intervention in the initiation phase.",
+    "keywords": [],
+    "doi": "10.1002/suco.202300784",
+    "url": "https://www.semanticscholar.org/paper/d07705e8bbd01c0bfb987a525d5504b377573636",
+    "citation_count": 4,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "d07705e8bbd01c0bfb987a525d5504b377573636",
+      "externalIds": {
+        "DOI": "10.1002/suco.202300784",
+        "CorpusId": 267172054
+      },
+      "url": "https://www.semanticscholar.org/paper/d07705e8bbd01c0bfb987a525d5504b377573636",
+      "title": "Modeling and probabilistic evaluation of repair strategies in the initiation phase of chloride‐induced corrosion of the reinforcement of concrete structures",
+      "year": 2024,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://biblio.ugent.be/publication/01HVR69152773G6PFE1G5T5NTG/file/01HXR8RE8TR5K4R4BJ75K9AF43.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/suco.202300784?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/suco.202300784, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Structural Concrete",
+        "pages": "1257 - 1274",
+        "volume": "25"
+      },
+      "authors": [
+        {
+          "authorId": "2207590347",
+          "name": "Karel Van Den Hende"
+        },
+        {
+          "authorId": "2280771936",
+          "name": "Stef Helderweirt"
+        },
+        {
+          "authorId": "98320829",
+          "name": "W. Botte"
+        },
+        {
+          "authorId": "2264636376",
+          "name": "S. Matthys"
+        },
+        {
+          "authorId": "144968249",
+          "name": "G. Lombaert"
+        },
+        {
+          "authorId": "72619809",
+          "name": "R. Caspeele"
+        }
+      ],
+      "abstract": "Chloride ingress is a common issue in concrete structures that can result in reinforcement corrosion. In order to extend the lifetime of a structure, several preventive repair methodologies are available, which reduce the ingress of chlorides. In this work, the computational efficiency of the analytical model for a two‐material diffusion problem has been improved to model the effect of a mortar overlay or partial cover replacement, and is further implemented to model the influence of a coating. This enables the assessment of each repair method in a probabilistic framework using Latin hypercube samples within an acceptable timeframe. A parameter study executed in both a deterministic and probabilistic framework demonstrated the model efficiency and the importance of the timing and quality of the intervention for successful repair when applying a repair intervention in the initiation phase."
+    }
+  },
+  {
+    "paper_id": "aac8606822f2c772bc0026e7faecd3b7362fa0d3",
+    "title": "Bond of steel reinforcement with microwave cured concrete repair mortars",
+    "authors": "P. Mangat, S. Abubakri, Konstantinos Grigoriadis",
+    "journal": "Materials and Structures",
+    "publish_year": "2017",
+    "abstract": "This paper investigates the effect of microwave curing on the bond strength of steel reinforcement in concrete repair. Pull-out tests on plain mild steel reinforcement bars embedded in four repair materials in 100 mm cube specimens were performed to determine the interfacial bond strength. The porosity and pore structure of the matrix at the steel interface, which influence the bond strength, were also determined. Test results show that microwave curing significantly reduces the bond strength of plain steel reinforcement. The reduction relative to normally cured (20 °C, 60% RH) specimens is between 21 and 40% with low density repair materials and about 10% for normal density cementitious mortars. The corresponding compressive strength of the matrix also recorded similar reduction and microwave curing resulted in increased porosity at the interface transition zone of the steel reinforcement. A unique relationship exists between bond strength and both compressive strength and porosity of all matrix materials. Microwave curing reduced shrinkage but despite the wide variation in the shrinkage of the repair mortars, its effect on the bond strength was small. The paper provides clear correlations between the three parameters (compressive strength, bond strength and porosity), which are common to both the microwave and conventionally cured mortars. Therefore, bond-compressive strength relationships used in the design of reinforced concrete structures will be also valid for microwave cured elements.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1617/s11527-017-1115-6",
+    "url": "https://www.semanticscholar.org/paper/aac8606822f2c772bc0026e7faecd3b7362fa0d3",
+    "citation_count": 8,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "aac8606822f2c772bc0026e7faecd3b7362fa0d3",
+      "externalIds": {
+        "MAG": "2768865579",
+        "DOI": "10.1617/s11527-017-1115-6",
+        "CorpusId": 113398630
+      },
+      "url": "https://www.semanticscholar.org/paper/aac8606822f2c772bc0026e7faecd3b7362fa0d3",
+      "title": "Bond of steel reinforcement with microwave cured concrete repair mortars",
+      "year": 2017,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1617/s11527-017-1115-6.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1617/s11527-017-1115-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1617/s11527-017-1115-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Materials Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Materials and Structures",
+        "volume": "50"
+      },
+      "authors": [
+        {
+          "authorId": "145574854",
+          "name": "P. Mangat"
+        },
+        {
+          "authorId": "113621854",
+          "name": "S. Abubakri"
+        },
+        {
+          "authorId": null,
+          "name": "Konstantinos Grigoriadis"
+        }
+      ],
+      "abstract": "This paper investigates the effect of microwave curing on the bond strength of steel reinforcement in concrete repair. Pull-out tests on plain mild steel reinforcement bars embedded in four repair materials in 100 mm cube specimens were performed to determine the interfacial bond strength. The porosity and pore structure of the matrix at the steel interface, which influence the bond strength, were also determined. Test results show that microwave curing significantly reduces the bond strength of plain steel reinforcement. The reduction relative to normally cured (20 °C, 60% RH) specimens is between 21 and 40% with low density repair materials and about 10% for normal density cementitious mortars. The corresponding compressive strength of the matrix also recorded similar reduction and microwave curing resulted in increased porosity at the interface transition zone of the steel reinforcement. A unique relationship exists between bond strength and both compressive strength and porosity of all matrix materials. Microwave curing reduced shrinkage but despite the wide variation in the shrinkage of the repair mortars, its effect on the bond strength was small. The paper provides clear correlations between the three parameters (compressive strength, bond strength and porosity), which are common to both the microwave and conventionally cured mortars. Therefore, bond-compressive strength relationships used in the design of reinforced concrete structures will be also valid for microwave cured elements."
+    }
+  },
+  {
+    "paper_id": "c05795c7dbe16a8332b5d7028ed879f54a063aa3",
+    "title": "The Impact of Climate Change on the Reinforcement Durability of Concrete Bridge Structures",
+    "authors": "Riyadh Alsultani, Qahtan Adnan Saber, A. A. Al-Saadi, Omran I. Mohammed, Sabah Mohammed Abed, R. A. Naser, Alaa Hussein, Fatima Muslim, Haneen Fadhil, I. Karim, S. Khassaf",
+    "journal": "The Open Civil Engineering Journal",
+    "publish_year": "2024",
+    "abstract": "\n \n Climate change poses significant challenges to the durability of concrete bridge structures, particularly regarding the corrosion of reinforcement. Iraq, due to its geographical location, is particularly vulnerable to greenhouse gas emissions, with carbon dioxide (CO2) being the most prominent. The country's heavy reliance on energy resources like coal, gas, and oil exacerbates air pollution, further compounding environmental concerns. Corrosion of reinforcement in concrete infrastructure, including bridges, is primarily driven by the presence of atmospheric CO2. The risk of corrosion increases with rising CO2 levels associated with global warming, leading to potentially catastrophic damage that is costly to repair.\n \n \n \n This study employs a probabilistic technique to predict the damage potential of concrete infrastructure exposed to carbonation resulting from elevated temperatures and CO2 concentrations.\n \n \n \n The findings reveal a significant increase in the risk of damage from carbonation in certain regions of Iraq, with potential rises exceeding 400% by 2100. Additionally, rising temperatures elevate the likelihood of chloride impact by up to 15% over the same period. However, these assessments do not consider changes in ocean acidity in marine exposure, which could further exacerbate the effects of climate change on concrete infrastructure.\n \n \n \n The results underscore the urgent need for proactive measures to mitigate the impact of rising atmospheric CO2 levels on the durability of bridge structures in the face of climate change.\n",
+    "keywords": [],
+    "doi": "10.2174/0118741495337012240812105905",
+    "url": "https://www.semanticscholar.org/paper/c05795c7dbe16a8332b5d7028ed879f54a063aa3",
+    "citation_count": 15,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "c05795c7dbe16a8332b5d7028ed879f54a063aa3",
+      "externalIds": {
+        "DOI": "10.2174/0118741495337012240812105905",
+        "CorpusId": 275408521
+      },
+      "url": "https://www.semanticscholar.org/paper/c05795c7dbe16a8332b5d7028ed879f54a063aa3",
+      "title": "The Impact of Climate Change on the Reinforcement Durability of Concrete Bridge Structures",
+      "year": 2024,
+      "citationCount": 15,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.2174/0118741495337012240812105905",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2174/0118741495337012240812105905?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2174/0118741495337012240812105905, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "The Open Civil Engineering Journal"
+      },
+      "authors": [
+        {
+          "authorId": "118029243",
+          "name": "Riyadh Alsultani"
+        },
+        {
+          "authorId": "2339288203",
+          "name": "Qahtan Adnan Saber"
+        },
+        {
+          "authorId": "2213116957",
+          "name": "A. A. Al-Saadi"
+        },
+        {
+          "authorId": "2339289033",
+          "name": "Omran I. Mohammed"
+        },
+        {
+          "authorId": "2339288192",
+          "name": "Sabah Mohammed Abed"
+        },
+        {
+          "authorId": "2295432413",
+          "name": "R. A. Naser"
+        },
+        {
+          "authorId": "2339727358",
+          "name": "Alaa Hussein"
+        },
+        {
+          "authorId": "2339287952",
+          "name": "Fatima Muslim"
+        },
+        {
+          "authorId": "2339289442",
+          "name": "Haneen Fadhil"
+        },
+        {
+          "authorId": "90331746",
+          "name": "I. Karim"
+        },
+        {
+          "authorId": "152246709",
+          "name": "S. Khassaf"
+        }
+      ],
+      "abstract": "\n \n Climate change poses significant challenges to the durability of concrete bridge structures, particularly regarding the corrosion of reinforcement. Iraq, due to its geographical location, is particularly vulnerable to greenhouse gas emissions, with carbon dioxide (CO2) being the most prominent. The country's heavy reliance on energy resources like coal, gas, and oil exacerbates air pollution, further compounding environmental concerns. Corrosion of reinforcement in concrete infrastructure, including bridges, is primarily driven by the presence of atmospheric CO2. The risk of corrosion increases with rising CO2 levels associated with global warming, leading to potentially catastrophic damage that is costly to repair.\n \n \n \n This study employs a probabilistic technique to predict the damage potential of concrete infrastructure exposed to carbonation resulting from elevated temperatures and CO2 concentrations.\n \n \n \n The findings reveal a significant increase in the risk of damage from carbonation in certain regions of Iraq, with potential rises exceeding 400% by 2100. Additionally, rising temperatures elevate the likelihood of chloride impact by up to 15% over the same period. However, these assessments do not consider changes in ocean acidity in marine exposure, which could further exacerbate the effects of climate change on concrete infrastructure.\n \n \n \n The results underscore the urgent need for proactive measures to mitigate the impact of rising atmospheric CO2 levels on the durability of bridge structures in the face of climate change.\n"
+    }
+  },
+  {
+    "paper_id": "871cda557c8e5ee8d7488cf8d598fd1b7fdc5f3a",
+    "title": "Reinforcement of concrete beams using waste carbon-nanoclay-fiberglass laminate pieces",
+    "authors": "Zinnur Çelik, Emrah Turan, M. Oltulu, Gülşah Öner",
+    "journal": "Challenge Journal of Concrete Research Letters",
+    "publish_year": "2024",
+    "abstract": "In the last few decades, strengthening of structures in need of repair with fiber reinforced polymer (FRP) composite materials produced with different fiber types has gained great importance. Within the scope of this experimental study, the usability of hybrid glass and carbon composite laminates produced for different purposes and later cut into waste was investigated for concrete reinforcement. Hybrid composite laminates were produced in the form of glass-carbon-glass and carbon-glass-carbon, and the effect was investigated in two different sequences in the study. In addition, there are 3 different rates of nanoclay (0.50%, 0.75% and 1.25%) in the production of composite materials, and the effect of nanoclay ratio was investigated. In the study, two different numbers of composite laminates were adhered to the concrete samples produced in 70x70x280 mm dimensions and subjected to flexural strength test. In the Carbon-Glass-Carbon series using triple waste laminate pieces, the highest flexural strength was reported in the CGC-0.75-3 series, which achieved an increase of approximately 55% and 42% compared to the Control and Control-E series. It was determined that the effectiveness of the reinforcement technique of concrete with laminates in flexure did not change significantly depending on the number of laminate pieces. The main mode of failure in the experimental work was due to concrete fracture.",
+    "keywords": [],
+    "doi": "10.20528/cjcrl.2024.01.001",
+    "url": "https://www.semanticscholar.org/paper/871cda557c8e5ee8d7488cf8d598fd1b7fdc5f3a",
+    "citation_count": 6,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "871cda557c8e5ee8d7488cf8d598fd1b7fdc5f3a",
+      "externalIds": {
+        "DOI": "10.20528/cjcrl.2024.01.001",
+        "CorpusId": 268446649
+      },
+      "url": "https://www.semanticscholar.org/paper/871cda557c8e5ee8d7488cf8d598fd1b7fdc5f3a",
+      "title": "Reinforcement of concrete beams using waste carbon-nanoclay-fiberglass laminate pieces",
+      "year": 2024,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.20528/cjcrl.2024.01.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.20528/cjcrl.2024.01.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Challenge Journal of Concrete Research Letters"
+      },
+      "authors": [
+        {
+          "authorId": "2238721391",
+          "name": "Zinnur Çelik"
+        },
+        {
+          "authorId": "46276759",
+          "name": "Emrah Turan"
+        },
+        {
+          "authorId": "98101003",
+          "name": "M. Oltulu"
+        },
+        {
+          "authorId": "97504694",
+          "name": "Gülşah Öner"
+        }
+      ],
+      "abstract": "In the last few decades, strengthening of structures in need of repair with fiber reinforced polymer (FRP) composite materials produced with different fiber types has gained great importance. Within the scope of this experimental study, the usability of hybrid glass and carbon composite laminates produced for different purposes and later cut into waste was investigated for concrete reinforcement. Hybrid composite laminates were produced in the form of glass-carbon-glass and carbon-glass-carbon, and the effect was investigated in two different sequences in the study. In addition, there are 3 different rates of nanoclay (0.50%, 0.75% and 1.25%) in the production of composite materials, and the effect of nanoclay ratio was investigated. In the study, two different numbers of composite laminates were adhered to the concrete samples produced in 70x70x280 mm dimensions and subjected to flexural strength test. In the Carbon-Glass-Carbon series using triple waste laminate pieces, the highest flexural strength was reported in the CGC-0.75-3 series, which achieved an increase of approximately 55% and 42% compared to the Control and Control-E series. It was determined that the effectiveness of the reinforcement technique of concrete with laminates in flexure did not change significantly depending on the number of laminate pieces. The main mode of failure in the experimental work was due to concrete fracture."
+    }
+  },
+  {
+    "paper_id": "2c3af6ab312a16aebc16994fd9f8b2f2383c9e10",
+    "title": "Flexural Behavior of Repaired Reinforced Concrete Beams Due to Corrosion of Steel Reinforcement Using Grouting and FRP Sheet Strengthening",
+    "authors": "R. Djamaluddin, R. Irmawaty, .. Fakhruddin, Kohei Yamaguchi",
+    "journal": "Civil Engineering Journal",
+    "publish_year": "2024",
+    "abstract": "One of the common causes of damage to the concrete structures close to the sea line is corrosion on the steel reinforcement in the concrete, which may cause spalling on the concrete cover. This paper presents the results of the simulation of the corroded reinforced concrete beams, which were repaired using the grouting method and FRP strengthening. The concrete cover of the beam specimens on the tensile side was filled with grouted concrete instead of filled with normal concrete to simulate the repair of concrete spalling. Three types of beam specimens were prepared and tested under a monotonic loading. BG and BPF were the specimens for beams with grouting only and beams with grouting and flexural strengthening using FRP sheets, respectively. Flexural strengthening using FRP sheets was carried out to restore the flexural capacity. As a comparison, control beams were also prepared in the form of normal reinforced concrete (BN). The results showed that the BG beam had a capacity of only about 50% compared to the control beam (BN). However, applying flexural strengthening using FRP sheet as on the type BGF beams showed that it had approximately the same capacity as BN specimens. This indicated that the repair method using grouting on damaged concrete covers and strengthening using FRP sheets was an effective alternative to repairing the corroded reinforced concrete beams. Doi: 10.28991/CEJ-2024-010-01-014 Full Text: PDF",
+    "keywords": [],
+    "doi": "10.28991/cej-2024-010-01-014",
+    "url": "https://www.semanticscholar.org/paper/2c3af6ab312a16aebc16994fd9f8b2f2383c9e10",
+    "citation_count": 5,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "2c3af6ab312a16aebc16994fd9f8b2f2383c9e10",
+      "externalIds": {
+        "DOI": "10.28991/cej-2024-010-01-014",
+        "CorpusId": 267618587
+      },
+      "url": "https://www.semanticscholar.org/paper/2c3af6ab312a16aebc16994fd9f8b2f2383c9e10",
+      "title": "Flexural Behavior of Repaired Reinforced Concrete Beams Due to Corrosion of Steel Reinforcement Using Grouting and FRP Sheet Strengthening",
+      "year": 2024,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://www.civilejournal.org/index.php/cej/article/download/4424/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.28991/cej-2024-010-01-014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.28991/cej-2024-010-01-014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Civil Engineering Journal"
+      },
+      "authors": [
+        {
+          "authorId": "98889035",
+          "name": "R. Djamaluddin"
+        },
+        {
+          "authorId": "95131054",
+          "name": "R. Irmawaty"
+        },
+        {
+          "authorId": "2221516412",
+          "name": ".. Fakhruddin"
+        },
+        {
+          "authorId": "2283866209",
+          "name": "Kohei Yamaguchi"
+        }
+      ],
+      "abstract": "One of the common causes of damage to the concrete structures close to the sea line is corrosion on the steel reinforcement in the concrete, which may cause spalling on the concrete cover. This paper presents the results of the simulation of the corroded reinforced concrete beams, which were repaired using the grouting method and FRP strengthening. The concrete cover of the beam specimens on the tensile side was filled with grouted concrete instead of filled with normal concrete to simulate the repair of concrete spalling. Three types of beam specimens were prepared and tested under a monotonic loading. BG and BPF were the specimens for beams with grouting only and beams with grouting and flexural strengthening using FRP sheets, respectively. Flexural strengthening using FRP sheets was carried out to restore the flexural capacity. As a comparison, control beams were also prepared in the form of normal reinforced concrete (BN). The results showed that the BG beam had a capacity of only about 50% compared to the control beam (BN). However, applying flexural strengthening using FRP sheet as on the type BGF beams showed that it had approximately the same capacity as BN specimens. This indicated that the repair method using grouting on damaged concrete covers and strengthening using FRP sheets was an effective alternative to repairing the corroded reinforced concrete beams. Doi: 10.28991/CEJ-2024-010-01-014 Full Text: PDF"
+    }
+  },
+  {
+    "paper_id": "bf3d9b7b1d077109039793629c319fa5981e60ce",
+    "title": "Polymer Composite Materials Fiber-Reinforced for the Reinforcement/Repair of Concrete Structures",
+    "authors": "George Soupionis, P. Georgiou, L. Zoumpoulakis",
+    "journal": "Polymers",
+    "publish_year": "2020",
+    "abstract": "The present paper deals with the use of polymeric matrix composite materials reinforced with carbon fiber as concrete shear reinforcement materials. Accordingly, cement specimens were manufactured and coated with various types of carbon fabrics and epoxy resin in liquid and solid form (paste). Additionally, composite materials of epoxy resin matrix reinforced with carbon fiber fabrics were manufactured. In all the specimens, the mechanical properties were estimated; the cement samples coated with composite materials of epoxy resin matrix reinforced with carbon fiber fabrics were tested for compressive strength, while the other specimens were tested for shear and bending strength. The specimens were subjected to artificial aging through heat treatment for 8, 12 and 16 days. During the process of artificial aging, the temperature in the chamber reached the range of 65–75 °C. These composite materials exhibited high mechanical properties combined with adaptability. Both an external deterioration of the materials as well as a reduction in mechanical properties during their artificial aging heat treatment were observed. This was shown in the specimens that were not subjected to artificial aging, with an applied compression strength of 74 MPa, and after the artificial aging, there was a decrease of ~7%, with the compression strength being reduced to 68 MPa.",
+    "keywords": [
+      "Materials Science",
+      "Medicine"
+    ],
+    "doi": "10.3390/polym12092058",
+    "url": "https://www.semanticscholar.org/paper/bf3d9b7b1d077109039793629c319fa5981e60ce",
+    "citation_count": 9,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "bf3d9b7b1d077109039793629c319fa5981e60ce",
+      "externalIds": {
+        "PubMedCentral": "7570006",
+        "MAG": "3084437351",
+        "DOI": "10.3390/polym12092058",
+        "CorpusId": 221722572,
+        "PubMed": "32927659"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf3d9b7b1d077109039793629c319fa5981e60ce",
+      "title": "Polymer Composite Materials Fiber-Reinforced for the Reinforcement/Repair of Concrete Structures",
+      "year": 2020,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2073-4360/12/9/2058/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7570006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Materials Science",
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Polymers",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "90547535",
+          "name": "George Soupionis"
+        },
+        {
+          "authorId": "145836473",
+          "name": "P. Georgiou"
+        },
+        {
+          "authorId": "12157856",
+          "name": "L. Zoumpoulakis"
+        }
+      ],
+      "abstract": "The present paper deals with the use of polymeric matrix composite materials reinforced with carbon fiber as concrete shear reinforcement materials. Accordingly, cement specimens were manufactured and coated with various types of carbon fabrics and epoxy resin in liquid and solid form (paste). Additionally, composite materials of epoxy resin matrix reinforced with carbon fiber fabrics were manufactured. In all the specimens, the mechanical properties were estimated; the cement samples coated with composite materials of epoxy resin matrix reinforced with carbon fiber fabrics were tested for compressive strength, while the other specimens were tested for shear and bending strength. The specimens were subjected to artificial aging through heat treatment for 8, 12 and 16 days. During the process of artificial aging, the temperature in the chamber reached the range of 65–75 °C. These composite materials exhibited high mechanical properties combined with adaptability. Both an external deterioration of the materials as well as a reduction in mechanical properties during their artificial aging heat treatment were observed. This was shown in the specimens that were not subjected to artificial aging, with an applied compression strength of 74 MPa, and after the artificial aging, there was a decrease of ~7%, with the compression strength being reduced to 68 MPa."
+    }
+  },
+  {
+    "paper_id": "576f6c90fe959c9e971cc9ee6858ab35b00cd3d2",
+    "title": "Study on Frost Resistance and Interface Bonding Performance through the Integration of Recycled Brick Powder in Ultra-High-Performance Concrete for Structural Reinforcement",
+    "authors": "Yike Zhang, Ali Raza, Muhammad Umar, Yang Chen, Chengfang Yuan",
+    "journal": "Materials",
+    "publish_year": "2023",
+    "abstract": "This study aims to address the issues posed by frost damage to concrete structures in cold regions, focusing on reinforcement and repair methods to increase the service life of existing structures instead of costly reconstruction solutions. Due to the limitations of conventional concrete in terms of durability and strength, this research focused on ultra-high-performance concrete (UHPC) by replacing part of the cement with recycled brick powder (RBP) to strengthen ordinary C50 concrete, obtaining UHPC-NC specimens. Mechanical tests investigated the bonding performance of UHPC-NC specimens under various conditions, including interface agents, surface roughness treatments, and freeze–thaw after 0, 50, 100, and 150 cycles with a 30% replacement rate of RBP. Additionally, a multi-factor calculation formula for interface bonding strength was established according to the test data, and the bonding mechanism and model were analyzed through an SEM test. The results indicate that the interface bonding of UHPC-NC specimens decreased during salt freezing compared to hydro-freezing, causing more severe damage. However, the relative index of splitting tensile strength for cement paste specimens showed increases of 14.01% and 14.97%, respectively, compared to specimens without an interface agent. Using an interface agent improved bonding strength and cohesiveness. The UHPC-NC bonding model without an interfacial agent can be characterized using a three-zone model. After applying an interfacial agent, the model can be characterized by a three-zone, three-layer bonding model. Overall, the RBP-UHPC-reinforced C50 for damaged concrete showed excellent interfacial bonding and frost resistance performance.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma16216999",
+    "url": "https://www.semanticscholar.org/paper/576f6c90fe959c9e971cc9ee6858ab35b00cd3d2",
+    "citation_count": 16,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "576f6c90fe959c9e971cc9ee6858ab35b00cd3d2",
+      "externalIds": {
+        "PubMedCentral": "10648230",
+        "DOI": "10.3390/ma16216999",
+        "CorpusId": 264954453,
+        "PubMed": "37959596"
+      },
+      "url": "https://www.semanticscholar.org/paper/576f6c90fe959c9e971cc9ee6858ab35b00cd3d2",
+      "title": "Study on Frost Resistance and Interface Bonding Performance through the Integration of Recycled Brick Powder in Ultra-High-Performance Concrete for Structural Reinforcement",
+      "year": 2023,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1944/16/21/6999/pdf?version=1698826471",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10648230, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Materials",
+        "volume": "16"
+      },
+      "authors": [
+        {
+          "authorId": "2321155763",
+          "name": "Yike Zhang"
+        },
+        {
+          "authorId": "2247614705",
+          "name": "Ali Raza"
+        },
+        {
+          "authorId": "2264664090",
+          "name": "Muhammad Umar"
+        },
+        {
+          "authorId": "2291967690",
+          "name": "Yang Chen"
+        },
+        {
+          "authorId": "2264398868",
+          "name": "Chengfang Yuan"
+        }
+      ],
+      "abstract": "This study aims to address the issues posed by frost damage to concrete structures in cold regions, focusing on reinforcement and repair methods to increase the service life of existing structures instead of costly reconstruction solutions. Due to the limitations of conventional concrete in terms of durability and strength, this research focused on ultra-high-performance concrete (UHPC) by replacing part of the cement with recycled brick powder (RBP) to strengthen ordinary C50 concrete, obtaining UHPC-NC specimens. Mechanical tests investigated the bonding performance of UHPC-NC specimens under various conditions, including interface agents, surface roughness treatments, and freeze–thaw after 0, 50, 100, and 150 cycles with a 30% replacement rate of RBP. Additionally, a multi-factor calculation formula for interface bonding strength was established according to the test data, and the bonding mechanism and model were analyzed through an SEM test. The results indicate that the interface bonding of UHPC-NC specimens decreased during salt freezing compared to hydro-freezing, causing more severe damage. However, the relative index of splitting tensile strength for cement paste specimens showed increases of 14.01% and 14.97%, respectively, compared to specimens without an interface agent. Using an interface agent improved bonding strength and cohesiveness. The UHPC-NC bonding model without an interfacial agent can be characterized using a three-zone model. After applying an interfacial agent, the model can be characterized by a three-zone, three-layer bonding model. Overall, the RBP-UHPC-reinforced C50 for damaged concrete showed excellent interfacial bonding and frost resistance performance."
+    }
+  },
+  {
+    "paper_id": "50315d2a5a489cd6b2e9b6a106b5d79e98cc8c46",
+    "title": "Quantitative Assessment of Strengthening Strategies and Design Recommendations for the Repair of Corrosion-Damaged Reinforced Concrete Members",
+    "authors": "U. Brindha, J. Maheswaran, M. Chellapandian, N. Arunachelam",
+    "journal": "Buildings",
+    "publish_year": "2023",
+    "abstract": "Maintenance of reinforced concrete (RC) structures has become a global issue due to the problems associated with the corrosion of steel reinforcement. Corrosion of RC structures results in severe serviceability and strength issues, which in turn necessitates major repair works. Though it is difficult to eliminate the risk of corrosion in RC structures, appropriate retrofitting procedures can be implemented to restore the lost strength. This paper presents a detailed analysis of the mechanism of corrosion in RC members and the procedure for retrofitting corrosion-damaged RC members subjected to different loading conditions. Moreover, the efficiency of existing strengthening techniques, such as steel jacketing, fiber-reinforced polymer (FRP) composites, engineered cementitious composites (ECCs), ferrocement jacketing, fabric-reinforced cementitious composites (FRCMs) and ultra-high-toughness cementitious composites (UHTCCs), are evaluated and compared in relation to restoring/enhancing the performance of corrosion-damaged RC members under different loading scenarios. Moreover, the paper provides a detailed comparison of the effects of different parameters governing the corrosion mechanism and suggests suitable design recommendations for improving the overall performance of corrosion-damaged RC members.",
+    "keywords": [],
+    "doi": "10.3390/buildings13041080",
+    "url": "https://www.semanticscholar.org/paper/50315d2a5a489cd6b2e9b6a106b5d79e98cc8c46",
+    "citation_count": 17,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "50315d2a5a489cd6b2e9b6a106b5d79e98cc8c46",
+      "externalIds": {
+        "DOI": "10.3390/buildings13041080",
+        "CorpusId": 258265037
+      },
+      "url": "https://www.semanticscholar.org/paper/50315d2a5a489cd6b2e9b6a106b5d79e98cc8c46",
+      "title": "Quantitative Assessment of Strengthening Strategies and Design Recommendations for the Repair of Corrosion-Damaged Reinforced Concrete Members",
+      "year": 2023,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-5309/13/4/1080/pdf?version=1681960727",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings13041080?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings13041080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "2215055359",
+          "name": "U. Brindha"
+        },
+        {
+          "authorId": "2173083300",
+          "name": "J. Maheswaran"
+        },
+        {
+          "authorId": "21773399",
+          "name": "M. Chellapandian"
+        },
+        {
+          "authorId": "2213516009",
+          "name": "N. Arunachelam"
+        }
+      ],
+      "abstract": "Maintenance of reinforced concrete (RC) structures has become a global issue due to the problems associated with the corrosion of steel reinforcement. Corrosion of RC structures results in severe serviceability and strength issues, which in turn necessitates major repair works. Though it is difficult to eliminate the risk of corrosion in RC structures, appropriate retrofitting procedures can be implemented to restore the lost strength. This paper presents a detailed analysis of the mechanism of corrosion in RC members and the procedure for retrofitting corrosion-damaged RC members subjected to different loading conditions. Moreover, the efficiency of existing strengthening techniques, such as steel jacketing, fiber-reinforced polymer (FRP) composites, engineered cementitious composites (ECCs), ferrocement jacketing, fabric-reinforced cementitious composites (FRCMs) and ultra-high-toughness cementitious composites (UHTCCs), are evaluated and compared in relation to restoring/enhancing the performance of corrosion-damaged RC members under different loading scenarios. Moreover, the paper provides a detailed comparison of the effects of different parameters governing the corrosion mechanism and suggests suitable design recommendations for improving the overall performance of corrosion-damaged RC members."
+    }
+  },
+  {
+    "paper_id": "1f4e791de55bd34f4ff6f7c42304c33a293d07d3",
+    "title": "Finite element modeling of reinforced concrete beams posttensioned with supplemental unbonded near surface mounted nickel‐titanium‐niobium shape memory alloy wire reinforcement",
+    "authors": "Arkabrata Sinha, J. Tatar",
+    "journal": "Structural Concrete",
+    "publish_year": "2023",
+    "abstract": "A novel posttensioning technique using nickel‐titanium‐niobium (NiTiNb) shape memory alloy (SMA) wires for the repair of reinforced concrete beams was evaluated numerically. A finite element model of a reinforced concrete beam was developed within a damage mechanics framework to simulate concrete cracking and subsequent posttensioning. The predicted yield and ultimate moment capacities of the simulated posttensioned beams were up to 14% less than the corresponding experimental results. Cumulative discrepancies in the assumed material models led to the conservative model results. The effects of concrete tensile damage, SMA reinforcement ratio, SMA‐concrete interaction (bonded vs. unbonded), and the effective prestress on the service and ultimate behavior of the posttensioned beam were evaluated. Partial loss of prestress in the SMA due to elastic shortening of the concrete was insignificant (<3%) because of the relatively low elastic modulus of the SMA. Increasing the SMA reinforcement ratio by three times increased the yield moment of the posttensioned beam by 99%. Reducing the effective SMA prestress to 80% of the initial prestress to account for the possible losses resulted in a decrease in the yield moment by up to 7.8%.",
+    "keywords": [],
+    "doi": "10.1002/suco.202100928",
+    "url": "https://www.semanticscholar.org/paper/1f4e791de55bd34f4ff6f7c42304c33a293d07d3",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "1f4e791de55bd34f4ff6f7c42304c33a293d07d3",
+      "externalIds": {
+        "DOI": "10.1002/suco.202100928",
+        "CorpusId": 258897998
+      },
+      "url": "https://www.semanticscholar.org/paper/1f4e791de55bd34f4ff6f7c42304c33a293d07d3",
+      "title": "Finite element modeling of reinforced concrete beams posttensioned with supplemental unbonded near surface mounted nickel‐titanium‐niobium shape memory alloy wire reinforcement",
+      "year": 2023,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/suco.202100928?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/suco.202100928, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Structural Concrete",
+        "pages": "5839 - 5854",
+        "volume": "24"
+      },
+      "authors": [
+        {
+          "authorId": "153343678",
+          "name": "Arkabrata Sinha"
+        },
+        {
+          "authorId": "145443068",
+          "name": "J. Tatar"
+        }
+      ],
+      "abstract": "A novel posttensioning technique using nickel‐titanium‐niobium (NiTiNb) shape memory alloy (SMA) wires for the repair of reinforced concrete beams was evaluated numerically. A finite element model of a reinforced concrete beam was developed within a damage mechanics framework to simulate concrete cracking and subsequent posttensioning. The predicted yield and ultimate moment capacities of the simulated posttensioned beams were up to 14% less than the corresponding experimental results. Cumulative discrepancies in the assumed material models led to the conservative model results. The effects of concrete tensile damage, SMA reinforcement ratio, SMA‐concrete interaction (bonded vs. unbonded), and the effective prestress on the service and ultimate behavior of the posttensioned beam were evaluated. Partial loss of prestress in the SMA due to elastic shortening of the concrete was insignificant (<3%) because of the relatively low elastic modulus of the SMA. Increasing the SMA reinforcement ratio by three times increased the yield moment of the posttensioned beam by 99%. Reducing the effective SMA prestress to 80% of the initial prestress to account for the possible losses resulted in a decrease in the yield moment by up to 7.8%."
+    }
+  },
+  {
+    "paper_id": "7fe06f5154591c0a1f533afe9a7dfce2154e9e05",
+    "title": "Mechanical–transport–chemical modeling of electrochemical repair methods for corrosion‐induced cracking in marine concrete",
+    "authors": "Zhaozheng Meng, Qing-feng Liu, J. Xia, Yuxin Cai, Xingji Zhu, Yu Zhou, L. Pel",
+    "journal": "Computer‐Aided Civil and Infrastructure Engineering",
+    "publish_year": "2022",
+    "abstract": "Reinforced concrete structures exposed to marine environments often experience chloride ingress, reinforcement corrosion, and corrosion‐induced cracking. The electrochemical repair method is a promising concrete rehabilitation technique with advantages of non‐destructive and economic performance in crack repair, chloride removal, and corrosion protection, which is particularly suitable for structures exposed to marine environments. This work presents an innovative methodology for modeling the mechanical, transport, and chemical process during electrochemical treatment for marine concrete structures. The entire process from concrete cracking up to repairing can be successfully reproduced and digitally visualized. The first sub‐model calculates the corrosion‐induced cracking process at the mesoscopic level with the consideration of local mechanical variances of concrete composites. Then, a reactive transport sub‐model is established to reveal the interactions and electrochemical reactions among various species of ions. A crack repair sub‐model is built to visualize the moving interface between chemical deposition and crack surface. Through combining the three sub‐models, the interconnected influencing factors in practical engineering can be quantitively investigated. The calculation results show that, compared with electrolyte concentration, the influence of current density on crack closure rates are more obvious. Other factors such as steel reinforcement diameter and crack distribution pattern, which have not been previously reported are highlighted. These findings can guide the application of electrochemical repair in practical engineering.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1111/mice.12827",
+    "url": "https://www.semanticscholar.org/paper/7fe06f5154591c0a1f533afe9a7dfce2154e9e05",
+    "citation_count": 94,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "7fe06f5154591c0a1f533afe9a7dfce2154e9e05",
+      "externalIds": {
+        "DBLP": "journals/cacie/MengLXCZZP22",
+        "DOI": "10.1111/mice.12827",
+        "CorpusId": 247073984
+      },
+      "url": "https://www.semanticscholar.org/paper/7fe06f5154591c0a1f533afe9a7dfce2154e9e05",
+      "title": "Mechanical–transport–chemical modeling of electrochemical repair methods for corrosion‐induced cracking in marine concrete",
+      "year": 2022,
+      "citationCount": 94,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/mice.12827?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/mice.12827, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Computer‐Aided Civil and Infrastructure Engineering",
+        "pages": "1854 - 1874",
+        "volume": "37"
+      },
+      "authors": [
+        {
+          "authorId": "2055974355",
+          "name": "Zhaozheng Meng"
+        },
+        {
+          "authorId": "2268305678",
+          "name": "Qing-feng Liu"
+        },
+        {
+          "authorId": "2000507371",
+          "name": "J. Xia"
+        },
+        {
+          "authorId": "2281711326",
+          "name": "Yuxin Cai"
+        },
+        {
+          "authorId": "95694555",
+          "name": "Xingji Zhu"
+        },
+        {
+          "authorId": "2157142297",
+          "name": "Yu Zhou"
+        },
+        {
+          "authorId": "152172874",
+          "name": "L. Pel"
+        }
+      ],
+      "abstract": "Reinforced concrete structures exposed to marine environments often experience chloride ingress, reinforcement corrosion, and corrosion‐induced cracking. The electrochemical repair method is a promising concrete rehabilitation technique with advantages of non‐destructive and economic performance in crack repair, chloride removal, and corrosion protection, which is particularly suitable for structures exposed to marine environments. This work presents an innovative methodology for modeling the mechanical, transport, and chemical process during electrochemical treatment for marine concrete structures. The entire process from concrete cracking up to repairing can be successfully reproduced and digitally visualized. The first sub‐model calculates the corrosion‐induced cracking process at the mesoscopic level with the consideration of local mechanical variances of concrete composites. Then, a reactive transport sub‐model is established to reveal the interactions and electrochemical reactions among various species of ions. A crack repair sub‐model is built to visualize the moving interface between chemical deposition and crack surface. Through combining the three sub‐models, the interconnected influencing factors in practical engineering can be quantitively investigated. The calculation results show that, compared with electrolyte concentration, the influence of current density on crack closure rates are more obvious. Other factors such as steel reinforcement diameter and crack distribution pattern, which have not been previously reported are highlighted. These findings can guide the application of electrochemical repair in practical engineering."
+    }
+  },
+  {
+    "paper_id": "534404fc5ff261b497d3d834e78145e79d462199",
+    "title": "Innovative Flexural Repair Technique of Pre-Damaged T-Beams Using Eco-Friendly Steel-Fibre-Reinforced Geopolymer Concrete",
+    "authors": "Ashraf J. Khalifa, Abo El-Wafa M. El-Thakeb, Ahmed M. El-Sebai, Ahmed S. Elmannaey",
+    "journal": "Fibers",
+    "publish_year": "2023",
+    "abstract": "This paper presents an innovative flexural repair technique for pre-damaged reinforced concrete T-beams using eco-friendly steel-fibre-reinforced geopolymer concrete (SFRGPC). The study considers various parameters such as repair layer depth, location and configuration, and the use of additional reinforcement in one beam. The beams were preloaded to 50% of their ultimate flexural capacity. Extensive measurements were taken, including crack initiation and propagation, crack width, initial stiffness, load deflection, peak loads, ductility index, and strain values. The structural performance of the repaired T-beams under flexural loading was predicted using an analytical model. The repaired beams showed an increase in carrying capacity, stiffness, and ductility, but the failure mode was identical to the control samples. The study shows that SFRGPC shows great promise as a technique for not only repairing pre-damaged reinforced concrete beams but also for their strengthening. The best results were obtained with three-sided jackets with fibrous geopolymer concrete only, resulting in a load-carrying capacity increase of 25.8% compared to reference T-beams. The bonding between SFRGPC and existing concrete was effective, with no slippage or disintegration at the interface. The repaired beams’ structural behaviour and performance under flexural loads were successfully predicted using the analytical model, with a precision of about 98%.",
+    "keywords": [],
+    "doi": "10.3390/fib12010003",
+    "url": "https://www.semanticscholar.org/paper/534404fc5ff261b497d3d834e78145e79d462199",
+    "citation_count": 6,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "534404fc5ff261b497d3d834e78145e79d462199",
+      "externalIds": {
+        "DOI": "10.3390/fib12010003",
+        "CorpusId": 269113911
+      },
+      "url": "https://www.semanticscholar.org/paper/534404fc5ff261b497d3d834e78145e79d462199",
+      "title": "Innovative Flexural Repair Technique of Pre-Damaged T-Beams Using Eco-Friendly Steel-Fibre-Reinforced Geopolymer Concrete",
+      "year": 2023,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2079-6439/12/1/3/pdf?version=1703591705",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/fib12010003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/fib12010003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Fibers"
+      },
+      "authors": [
+        {
+          "authorId": "2284258746",
+          "name": "Ashraf J. Khalifa"
+        },
+        {
+          "authorId": "2284255803",
+          "name": "Abo El-Wafa M. El-Thakeb"
+        },
+        {
+          "authorId": "2284254571",
+          "name": "Ahmed M. El-Sebai"
+        },
+        {
+          "authorId": "1413721149",
+          "name": "Ahmed S. Elmannaey"
+        }
+      ],
+      "abstract": "This paper presents an innovative flexural repair technique for pre-damaged reinforced concrete T-beams using eco-friendly steel-fibre-reinforced geopolymer concrete (SFRGPC). The study considers various parameters such as repair layer depth, location and configuration, and the use of additional reinforcement in one beam. The beams were preloaded to 50% of their ultimate flexural capacity. Extensive measurements were taken, including crack initiation and propagation, crack width, initial stiffness, load deflection, peak loads, ductility index, and strain values. The structural performance of the repaired T-beams under flexural loading was predicted using an analytical model. The repaired beams showed an increase in carrying capacity, stiffness, and ductility, but the failure mode was identical to the control samples. The study shows that SFRGPC shows great promise as a technique for not only repairing pre-damaged reinforced concrete beams but also for their strengthening. The best results were obtained with three-sided jackets with fibrous geopolymer concrete only, resulting in a load-carrying capacity increase of 25.8% compared to reference T-beams. The bonding between SFRGPC and existing concrete was effective, with no slippage or disintegration at the interface. The repaired beams’ structural behaviour and performance under flexural loads were successfully predicted using the analytical model, with a precision of about 98%."
+    }
+  },
+  {
+    "paper_id": "27e185b3d3c4b245d02d1f7a0c79a332fe8f03ba",
+    "title": "Experimental Investigation of Hybrid Beams Utilizing Ultra-High Performance Concrete (UHPC) as Tension Reinforcement",
+    "authors": "Ibrahim Y. Hakeem, M. Rahman, Fadi Althoey",
+    "journal": "Materials",
+    "publish_year": "2022",
+    "abstract": "Ultra-high performance concrete (UHPC) is a new generation concrete with extremely high tensile and compressive strength, high durability, and ductility. UHPC offers tremendous opportunities for use in new thin and slender structural concrete elements and repair of existing concrete structures and has an excellent potential to replace conventional steel reinforcement in normal concrete (NC) members. This paper investigated the potential application of a hybrid NC-UHPC beam using a thin UHPC layer on the tension face to cater to tensile stresses, eliminating the need for passive steel reinforcement. Four-point flexural load tests were performed on 24 composite beams with a thin UHPC layer overlaid with NC. The parameters considered include the thickness of the UHPC layer, depth, and span of the beam. A linear behavior categorizes the flexural behavior of the hybrid NC-UHPC beam up to the ultimate load, after which the hybrid beam shows a non-brittle failure, and softening ensues associated with cracking, increased deflection, and loss of load resisting capacity. The unfinished top surface of the UHPC layer and the overlying NC developed a full composite action without any slip. It was found that a two-day self-curing of the UHPC layer was found to be essential for the development of a strong bond between the layers. The random dispersion and orientation of steel fibers in the UHPC can lead to a decreased tensile response for larger hybrid NC-UHPC beams. The experimental results validate the potential of hybrid NC-UHPC beams as an attractive, structurally feasible, and alternative sound form of construction in terms of their high flexural strength and corrosion-free service life. The proposed unreinforced hybrid system could be used in the construction of precast beams and slabs for residential as well as industrial buildings. Further research, including full-scale load testing of the hybrid beam, is needed prior to practical applications.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma15165619",
+    "url": "https://www.semanticscholar.org/paper/27e185b3d3c4b245d02d1f7a0c79a332fe8f03ba",
+    "citation_count": 23,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "27e185b3d3c4b245d02d1f7a0c79a332fe8f03ba",
+      "externalIds": {
+        "PubMedCentral": "9415277",
+        "DOI": "10.3390/ma15165619",
+        "CorpusId": 251655837,
+        "PubMed": "36013758"
+      },
+      "url": "https://www.semanticscholar.org/paper/27e185b3d3c4b245d02d1f7a0c79a332fe8f03ba",
+      "title": "Experimental Investigation of Hybrid Beams Utilizing Ultra-High Performance Concrete (UHPC) as Tension Reinforcement",
+      "year": 2022,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1944/15/16/5619/pdf?version=1660647835",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9415277, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Materials",
+        "volume": "15"
+      },
+      "authors": [
+        {
+          "authorId": "31710728",
+          "name": "Ibrahim Y. Hakeem"
+        },
+        {
+          "authorId": "73672165",
+          "name": "M. Rahman"
+        },
+        {
+          "authorId": "117749669",
+          "name": "Fadi Althoey"
+        }
+      ],
+      "abstract": "Ultra-high performance concrete (UHPC) is a new generation concrete with extremely high tensile and compressive strength, high durability, and ductility. UHPC offers tremendous opportunities for use in new thin and slender structural concrete elements and repair of existing concrete structures and has an excellent potential to replace conventional steel reinforcement in normal concrete (NC) members. This paper investigated the potential application of a hybrid NC-UHPC beam using a thin UHPC layer on the tension face to cater to tensile stresses, eliminating the need for passive steel reinforcement. Four-point flexural load tests were performed on 24 composite beams with a thin UHPC layer overlaid with NC. The parameters considered include the thickness of the UHPC layer, depth, and span of the beam. A linear behavior categorizes the flexural behavior of the hybrid NC-UHPC beam up to the ultimate load, after which the hybrid beam shows a non-brittle failure, and softening ensues associated with cracking, increased deflection, and loss of load resisting capacity. The unfinished top surface of the UHPC layer and the overlying NC developed a full composite action without any slip. It was found that a two-day self-curing of the UHPC layer was found to be essential for the development of a strong bond between the layers. The random dispersion and orientation of steel fibers in the UHPC can lead to a decreased tensile response for larger hybrid NC-UHPC beams. The experimental results validate the potential of hybrid NC-UHPC beams as an attractive, structurally feasible, and alternative sound form of construction in terms of their high flexural strength and corrosion-free service life. The proposed unreinforced hybrid system could be used in the construction of precast beams and slabs for residential as well as industrial buildings. Further research, including full-scale load testing of the hybrid beam, is needed prior to practical applications."
+    }
+  },
+  {
+    "paper_id": "e9f2ade416f353a5d8ec4b28c2675cd1d9cae2f6",
+    "title": "Repair of reinforced concrete bridge columns subjected to chloride‐induced corrosion with ultra‐high performance fiber reinforced concrete",
+    "authors": "A. Pelle, B. Briseghella, G. Fiorentino, G. F. Giaccu, D. Lavorato, G. Quaranta, A. Rasulo, C. Nuti",
+    "journal": "Structural Concrete",
+    "publish_year": "2022",
+    "abstract": "The rehabilitation of reinforced concrete (RC) bridge columns subjected to chloride‐induced corrosion is addressed in the present paper. The proposed strategy is based on the replacement of the original external layer made of normal‐strength concrete (NSC) with ultra‐high performance fiber reinforced concrete (UHPFRC), and it additionally involves the substitution of the existing corroded longitudinal reinforcement with new machined steel rebars. This repair technique aims at restoring strength, stiffness, and ductility of the original column in a short time without altering its cross‐section dimensions. Because of the high compactness of the UHPFRC, it also serves at improving its durability. The main contribution of the present work is a numerical investigation carried out in order to identify how the design decisions about the repair strategy influence the behavior of the restored column. The parametric investigation reveals that the length of the zone in which NSC is replaced by UHPFRC as well as the machined index (i.e., ratio between turned and original rebar cross‐section area) must be properly selected to make the intervention effective. Numerical results also highlight that the main design issue to deal with is the relocation of the plastic hinge from the repaired zone towards the weak unrepaired part of the column. Practical design recommendations are finally formulated.",
+    "keywords": [],
+    "doi": "10.1002/suco.202200555",
+    "url": "https://www.semanticscholar.org/paper/e9f2ade416f353a5d8ec4b28c2675cd1d9cae2f6",
+    "citation_count": 17,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "e9f2ade416f353a5d8ec4b28c2675cd1d9cae2f6",
+      "externalIds": {
+        "DOI": "10.1002/suco.202200555",
+        "CorpusId": 252055816
+      },
+      "url": "https://www.semanticscholar.org/paper/e9f2ade416f353a5d8ec4b28c2675cd1d9cae2f6",
+      "title": "Repair of reinforced concrete bridge columns subjected to chloride‐induced corrosion with ultra‐high performance fiber reinforced concrete",
+      "year": 2022,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "https://iris.unimore.it/bitstream/11380/1287340/1/Structural%20Concrete%20-%202022%20-%20Pelle%20-%20Repair%20of%20reinforced%20concrete%20bridge%20columns%20subjected%20to%20chloride%e2%80%90induced%20corrosion.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/suco.202200555?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/suco.202200555, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Structural Concrete",
+        "pages": "332 - 344",
+        "volume": "24"
+      },
+      "authors": [
+        {
+          "authorId": "1581378306",
+          "name": "A. Pelle"
+        },
+        {
+          "authorId": "52537419",
+          "name": "B. Briseghella"
+        },
+        {
+          "authorId": "72860027",
+          "name": "G. Fiorentino"
+        },
+        {
+          "authorId": "6259987",
+          "name": "G. F. Giaccu"
+        },
+        {
+          "authorId": "92647043",
+          "name": "D. Lavorato"
+        },
+        {
+          "authorId": "2707301",
+          "name": "G. Quaranta"
+        },
+        {
+          "authorId": "1926043",
+          "name": "A. Rasulo"
+        },
+        {
+          "authorId": "113276622",
+          "name": "C. Nuti"
+        }
+      ],
+      "abstract": "The rehabilitation of reinforced concrete (RC) bridge columns subjected to chloride‐induced corrosion is addressed in the present paper. The proposed strategy is based on the replacement of the original external layer made of normal‐strength concrete (NSC) with ultra‐high performance fiber reinforced concrete (UHPFRC), and it additionally involves the substitution of the existing corroded longitudinal reinforcement with new machined steel rebars. This repair technique aims at restoring strength, stiffness, and ductility of the original column in a short time without altering its cross‐section dimensions. Because of the high compactness of the UHPFRC, it also serves at improving its durability. The main contribution of the present work is a numerical investigation carried out in order to identify how the design decisions about the repair strategy influence the behavior of the restored column. The parametric investigation reveals that the length of the zone in which NSC is replaced by UHPFRC as well as the machined index (i.e., ratio between turned and original rebar cross‐section area) must be properly selected to make the intervention effective. Numerical results also highlight that the main design issue to deal with is the relocation of the plastic hinge from the repaired zone towards the weak unrepaired part of the column. Practical design recommendations are finally formulated."
+    }
+  },
+  {
+    "paper_id": "7212fca472b39f6fd832279c52ad03aac4100e46",
+    "title": "Investigation of Interfacial Bonding Properties of Polyurethane Concrete and Cement Concrete/Steel Reinforcement",
+    "authors": "Yanqi Wang, Quansheng Sun, H. Ding, Songbai Leng, Hongchuan Cui, Bowen Xu, Hewei Cui",
+    "journal": "Advances in Materials Science and Engineering",
+    "publish_year": "2022",
+    "abstract": "To solve the problem that the repair material of the bridge's expansion joint anchorage area is prone to debonding from the other bridge components, polyurethane concrete was designed and prepared, and the bonding performance of polyurethane concrete was tested by the bond splitting test, bond direct shear test, bond oblique shear test, and steel reinforcement pull-out test. The results show that the interfacial bond strength of polyurethane concrete and cement concrete can be improved by increasing the interfacial roughness. The bond splitting strength increases by up to 91.4%, the bond direct shear strength increases by up to 55.2%, and the bond oblique shear strength increases by up to 28.9%. The bond strength between polyurethane concrete and cement concrete are minimally influenced by temperature. An increase in the diameter of the reinforcement or the length of the bonded anchorage can increase the ultimate pull-out strength of the polyurethane concrete and the steel reinforcement. Polyurethane concrete is a novel composite material with excellent bonding performance with cement concrete and steel reinforcement, which can be widely used in practical projects, such as repairing bridge expansion joint anchorage areas in the future.",
+    "keywords": [],
+    "doi": "10.1155/2022/5644468",
+    "url": "https://www.semanticscholar.org/paper/7212fca472b39f6fd832279c52ad03aac4100e46",
+    "citation_count": 8,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "7212fca472b39f6fd832279c52ad03aac4100e46",
+      "externalIds": {
+        "DOI": "10.1155/2022/5644468",
+        "CorpusId": 252806741
+      },
+      "url": "https://www.semanticscholar.org/paper/7212fca472b39f6fd832279c52ad03aac4100e46",
+      "title": "Investigation of Interfacial Bonding Properties of Polyurethane Concrete and Cement Concrete/Steel Reinforcement",
+      "year": 2022,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/amse/2022/5644468.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2022/5644468?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2022/5644468, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Advances in Materials Science and Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "2108014186",
+          "name": "Yanqi Wang"
+        },
+        {
+          "authorId": "2809857",
+          "name": "Quansheng Sun"
+        },
+        {
+          "authorId": "47929225",
+          "name": "H. Ding"
+        },
+        {
+          "authorId": "2187395505",
+          "name": "Songbai Leng"
+        },
+        {
+          "authorId": "2112821759",
+          "name": "Hongchuan Cui"
+        },
+        {
+          "authorId": "2112878691",
+          "name": "Bowen Xu"
+        },
+        {
+          "authorId": "2106749131",
+          "name": "Hewei Cui"
+        }
+      ],
+      "abstract": "To solve the problem that the repair material of the bridge's expansion joint anchorage area is prone to debonding from the other bridge components, polyurethane concrete was designed and prepared, and the bonding performance of polyurethane concrete was tested by the bond splitting test, bond direct shear test, bond oblique shear test, and steel reinforcement pull-out test. The results show that the interfacial bond strength of polyurethane concrete and cement concrete can be improved by increasing the interfacial roughness. The bond splitting strength increases by up to 91.4%, the bond direct shear strength increases by up to 55.2%, and the bond oblique shear strength increases by up to 28.9%. The bond strength between polyurethane concrete and cement concrete are minimally influenced by temperature. An increase in the diameter of the reinforcement or the length of the bonded anchorage can increase the ultimate pull-out strength of the polyurethane concrete and the steel reinforcement. Polyurethane concrete is a novel composite material with excellent bonding performance with cement concrete and steel reinforcement, which can be widely used in practical projects, such as repairing bridge expansion joint anchorage areas in the future."
+    }
+  }
+]

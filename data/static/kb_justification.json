@@ -1,0 +1,129 @@
+{
+  "title": "건설신기술 평가 KB의 전문가 지식 대체 타당성 논리",
+  "version": "1.0.0",
+  "date": "2026-03-07",
+
+  "thesis": "본 KB는 건설신기술 1차 평가위원회 심사위원의 지식, 경험, 판단 능력을 LLM 에이전트가 모사하기 위한 지식 기반으로서 타당하다.",
+
+  "expert_knowledge_mapping": {
+    "description": "실제 심사위원의 역량 요소와 KB 데이터 소스 간 대응 관계",
+    "mappings": [
+      {
+        "expert_competency": "선행기술 인지 능력",
+        "description": "기존에 어떤 특허/기술이 존재하는지에 대한 지식",
+        "kb_source": "KIPRIS 특허 데이터 (2,870건)",
+        "justification": "특허 DB는 심사위원이 특허 검색을 통해 확인하는 선행 기술 조사와 동일한 데이터 소스를 활용. 국내 특허 2,870건을 20개 중분류별 134개 키워드로 체계적으로 수집하여, 심사위원의 선행기술 조사 범위를 포괄적으로 커버.",
+        "coverage_evidence": {
+          "total_records": 2870,
+          "categories_covered": 20,
+          "keywords_used": 134,
+          "year_range": "1988-2026",
+          "recent_ratio": "28.1% (2020년 이후)"
+        }
+      },
+      {
+        "expert_competency": "학술적 배경 지식",
+        "description": "해당 분야의 학술 연구 동향, 이론적 기반에 대한 지식",
+        "kb_source": "Semantic Scholar 논문 데이터 (510건)",
+        "justification": "국제 학술 논문 DB를 통해 심사위원의 학술적 배경 지식을 보강. 건설 분야 37개 키워드로 검색한 510건의 논문은 심사위원이 학술 활동을 통해 축적하는 연구 동향 지식에 해당. 특히 최근 5년 논문 비중 29.9%로 현행 연구 트렌드 반영.",
+        "coverage_evidence": {
+          "total_records": 510,
+          "categories_covered": 20,
+          "keywords_used": 37,
+          "year_range": "1970-2026",
+          "recent_ratio": "29.9% (2020년 이후)"
+        }
+      },
+      {
+        "expert_competency": "규정/기준 지식",
+        "description": "건설 관련 법규, 설계기준, 시방서에 대한 숙지",
+        "kb_source": "CODIL 건설기준 (3,027건)",
+        "justification": "CODIL은 국토교통부 건설기준정보센터의 공식 데이터로, 심사위원이 진보성(품질향상, 안전성, 친환경성) 판단 시 참조하는 현행 건설기준/시방서를 직접 제공. 전량 2022-2024년 최신 기준으로 현행 규정 지식을 완전히 반영.",
+        "coverage_evidence": {
+          "total_records": 3027,
+          "categories_covered": 3,
+          "year_range": "2022-2024",
+          "recent_ratio": "100% (전량 최신)"
+        }
+      },
+      {
+        "expert_competency": "선례 판단 경험",
+        "description": "과거 유사 기술의 지정/불지정 사례에 대한 경험적 지식",
+        "kb_source": "KAIA 지정 건설신기술 (500건)",
+        "justification": "실제 KAIA에서 지정된 건설신기술 500건(제546호~제1046호)은 심사위원이 과거 심사 경험을 통해 축적하는 선례 지식에 해당. 이를 통해 '유사 기술이 이미 지정된 적이 있는가', '어떤 수준의 기술이 지정되었는가'에 대한 참조 기준을 제공.",
+        "coverage_evidence": {
+          "total_records": 500,
+          "tech_number_range": "546-1046",
+          "category_distribution": {
+            "토목": 312,
+            "건축": 166,
+            "기계설비": 22
+          }
+        }
+      },
+      {
+        "expert_competency": "평가 기준 숙지",
+        "description": "건설기술진흥법 시행규칙 및 평가 매뉴얼에 근거한 채점 기준",
+        "kb_source": "정적 KB - 평가기준표 (Level 1)",
+        "justification": "건설기술진흥법 시행규칙에 근거한 신규성(50점: 차별성 25 + 독창성 25)과 진보성(50점: 품질향상 15 + 개발정도 15 + 안전성 10 + 친환경성 10) 평가 기준을 구조화. 각 항목별 5단계 채점 가이드를 포함하여 심사위원의 채점 행동을 재현.",
+        "coverage_evidence": {
+          "criteria_items": 6,
+          "total_score": 100,
+          "pass_threshold": "각 영역 35점 이상"
+        }
+      }
+    ]
+  },
+
+  "current_trend_coverage": {
+    "description": "KB가 현행 기술 동향을 반영하고 있음을 입증하는 근거",
+    "evidence": [
+      {
+        "claim": "최신 특허 기술 동향 반영",
+        "evidence": "수집된 2,870건 특허 중 807건(28.1%)이 2020년 이후 출원으로, 최근 5년간의 건설 기술 혁신 동향을 직접 반영. 2023년 166건, 2024년 133건 등 가장 최신 출원까지 포함."
+      },
+      {
+        "claim": "현행 건설기준 완전 반영",
+        "evidence": "CODIL 3,027건 전량이 2022-2024년 기준으로, 현행 건설기준/설계기준/시방서를 100% 커버. 심사위원이 판단 시 참조하는 최신 규정 지식을 완전히 포함."
+      },
+      {
+        "claim": "국제 연구 동향 포함",
+        "evidence": "Semantic Scholar를 통해 국제 학술 논문 510건을 수집하여, 국내뿐 아니라 글로벌 건설 기술 연구 동향까지 반영. 영문 키워드 검색을 통해 해외 최신 연구 결과도 포함."
+      },
+      {
+        "claim": "최신 건설신기술 지정 사례 포함",
+        "evidence": "KAIA 지정기술 제546호~제1046호까지 500건의 실제 지정 사례를 포함하여, 최근 건설신기술 지정 트렌드와 기준을 학습 데이터로 활용 가능."
+      }
+    ]
+  },
+
+  "panel_knowledge_adequacy": {
+    "description": "10-15명 심사위원 에이전트가 독립적으로 평가하기에 충분한 KB 규모 근거",
+    "analysis": {
+      "total_kb_documents": 6907,
+      "per_agent_average": 460,
+      "agent_kb_composition": {
+        "Level_1_common": "평가기준표 + 매뉴얼 (모든 에이전트 공유)",
+        "Level_2_field_specific": "전문분야별 특허/논문/지정기술/CODIL (정합 30건 + 부분정합 50건)",
+        "Level_3_experience_based": "경력별 판단 기조 + 채점 편향 (고/중/저 경력 차별화)"
+      },
+      "per_category_minimum": {
+        "토목": {"patents": 1510, "papers": 230, "codil": 1016, "adequacy": "충분"},
+        "건축": {"patents": 940, "papers": 180, "codil": 1005, "adequacy": "충분"},
+        "기계설비": {"patents": 420, "papers": 100, "codil": 1006, "adequacy": "충분"}
+      }
+    },
+    "justification": "각 에이전트는 RAG 기반으로 평가 대상 기술과 가장 관련성 높은 선행기술을 동적으로 검색하여 컨텍스트로 활용. 6,907건의 KB에서 벡터 유사도 기반으로 상위 30-50건을 선별하므로, 실제 심사위원이 사전 조사를 통해 확보하는 참고자료 규모(10-30건)를 상회."
+  },
+
+  "methodological_validity": {
+    "architecture": "PIKE-RAG (Parametric-In-context Knowledge Enhancement RAG) + RAG-Novelty 결합",
+    "agent_diversity": {
+      "matching_levels": ["정합(70%): 기술 분야 직접 일치", "부분정합(30%): 인접/관련 분야"],
+      "experience_levels": ["고경력(30%): 15년+ 본질적 차별성 중시", "중경력(40%): 7-14년 균형적 판단", "저경력(30%): 3-6년 형식적 완결성 중시"],
+      "panel_size_range": "10-15명 (실제 위원회 규모 반영)"
+    },
+    "voting_mechanism": "PoLL(Poll of LLMs) 스타일 신뢰도 가중 투표 + 의장 검토",
+    "decision_threshold": "위원 2/3 이상 찬성 시 승인 (실제 위원회 의결 기준 동일)"
+  }
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "doi": "10.25303/193da15023",
+    "title": "Spatial Variation of Seismic Energy Release of Himachal Pradesh",
+    "authors": "Bala Balaji Y., Hema Sundara Rao V., Kavitha B.",
+    "abstract": "Himachal Pradesh is located in the seismically active\nHimalayan region, resulting from the ongoing collision\nbetween the Indian plate and the Eurasian plate.\nConsidering the State's rapid development, it is\nimportant to analyse the seismic activity of Himachal\nPradesh to ensure sustainable development,\ninfrastructure safety and disaster preparedness.\nDespite the current literature addressing multiple\naspects of seismic activity in Himachal Pradesh,\ndeeper study is required to examine recent patterns, to\nanticipate future seismic hazards and to improve\nmitigation measures. The objective of this research was\nto develop a spatial variation map based on seismic\nenergy released, capturing hazard levels across the\nentire State using a seismic event catalogue from 1800\nto 2024. The study area is classified as four regions\nbased on the spatial variation of the seismic energy\nmap.\nThis study analyses Gutenberg-Richter (G-R)\nparameters and Completeness Magnitude for four\nregions to detect seismic activity. The GutenbergRichter constants are a = 9.56, b = 1.55; a = 6.60, b =\n1.06; a = 3.43, b = 0.46; and a = 9.22, b = 1.49, with\ncorresponding magnitude completeness Mc values of\n4.8, 4.8, 2.7 and 4.8 for the North-West, North-East,\nSouth-West and South-East regions of Himachal\nPradesh respectively. The North-West region is found\nto be more active, with the seismic energy release (J)\nfound to be 1.15×1016, followed by the North-East,\nSouth-East and South-West regions with energy\nreleases (J) of 6.18×1014, 4.15×1014 and 1.66×10\n13\nrespectively. These findings help in the development of\nhazard maps and peak ground acceleration (PGA)\nestimates for various regions, facilitating improved\nearthquake-resistant design and effective disaster\nmanagement.",
+    "publish_year": "2102",
+    "journal": "Disaster Advances",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.33140/atcp.02.02.1",
+    "title": "Space is the Same thing as Energy-The Underlying Structure of the Observed Universe",
+    "authors": "",
+    "abstract": "Energy and Matter is the same thing. Space and Energy is the same thing. Time and change are different. These conclusions give rise to a different view of Atomic and molecular Structure and force. The model universe is a Quantum Universe, Quantum solution for quantum point driven, Time Free, Dimension Free, Thermodynamic Free and therefore entropy free. AuT built this list which is foundational and unique. 1. All dimensions present (at least 5) exist together within the matrix of the universe and in any regional matrix; subgroups of these dimensions are present. \t • Space has no dimension, precharge exists in a single dimension, prephotons exist in two; neutrons (complete matter) in 3 and blackholes in 4. \t • The definitions of time and space mean that exchanges of information state (ct state) between space and prephotonsoccur independent of time. Time as we experience arises between the prephoton states and ends with compression to neutrons. 2. All change is quantum change in response to a single variable leading to the universe existing as a series of quantum states or snapshots. Force and time are effects based on this quantum change. 3.\t Time and change are different. Changes in the single variable lead to time, but time is not required for that underlying change nor does it affect that change. 4. Time is an effect like force and dimension of the quantum change between states some of which occur without time-based reference giving rise to features like wave - particle false duality and the impression of charge among other features. 5. Space is made of the same type of information as all other states (energy, matter, black holes) which are folded from space based on exponential compression/folding. 6.\t Waves, Photons, Electrons and protons are examples of transitional states (ct3-ct4) between prephotons (ct3) and neutrons (ct4); atoms (after hydrogen) and molecular states through neutron stars are transitional states between neutrons (ct4) and black holes (ct5) along with intervening transitional ct3-ct4 states.",
+    "publish_year": "2029",
+    "journal": "Advances in Theoretical &amp; Computational Physics",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.24425/ace.2025.155084",
+    "title": "Analysis of building energy efficiency optimization design effectiveness based on multi-objective optimization algorithm",
+    "authors": "Guo Wei, Dong Yaqiong",
+    "abstract": "With the increasing attention of society to sustainable development and environmental friendly design, building energy saving design has become a research hotspot. In this paper, a method combining multi-objective optimization algorithm and neural network backpropagation strategy is proposed to solve the problem that traditional design methods are difficult to balance multi-objective. By dividing the architectural design problem into multiple sub-problems, each sub-problem corresponds to a design objective, and applying multi-objective optimization technology, the global optimization is realized. The experimental results show that the error of energy consumption prediction model is almost 0, while the error of daylighting prediction model is between 0 and 5, and the average error is about 3. The correlation coefficients of all models exceeded 0.9845, highlighting the excellent performance of neural networks in forecasting accuracy. The BP neural network showed good convergence in 2800 to 3000 iterations, further demonstrating the high efficiency of the method in energy consumption and daylighting prediction. The research not only provides a scientific and feasible strategy for building energy efficiency optimization design, but also enhances its scientific value and practicability through the display of quantitative results.",
+    "publish_year": "2028",
+    "journal": "Archives of Civil Engineering",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "authors": "Sivaramakrishnan Narayanan ",
+    "abstract": "Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.",
+    "publish_year": "2028",
+    "journal": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.18535/sshj.v6i2.607",
+    "title": "Research on Talents and Building Talented Policy in Public Sector in Vietnam",
+    "authors": "Khanh Tran Thi Bao",
+    "abstract": "In modern society, countries and localities consider the issue of talent as an important strategy and policy in competition and development. Because talent is the elite human resource, has great influence and decides the fate of the country and locality. However, the issue of talent in the public sector is more complicated than in the private sector, because it is related to political and legal factors on the management of human resources performing public duties. In fact, many countries have been very successful in attracting talent to the public service, creating important resources for economic and social development; therefore, research on talent and talent policy is always necessary. In this study, the author analyzes the views of some politicians and researchers on talent and suggests some contents on building talent policy in the public sector in Vietnam. The research results are theoretical in nature and have theoretical significance, contributing to providing more scientific information for managers to consult on the process of building and implementing talent policies in the civil service.",
+    "publish_year": "2028",
+    "journal": "Social Science and Humanities Journal",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.64470/elene.2025.12",
+    "title": "Secure Audio Steganography using Vectorized LSB and Chaos-Based Encryption",
+    "authors": "Korkmaz Zeynel Ümit, Horasan Fahrettin, Çetinkaya Zeynep",
+    "abstract": "In the era of digital transformation, the protection of sensitive multimedia data against growing cyber threats has become increasingly critical. Traditional cryptographic and steganographic techniques, while effective individually, often fall short when faced with advanced detection and attack methods, making hybrid security approaches a necessity. In this study, a hybrid security approach combining chaotic algorithms and the Least Significant Bit (LSB) embedding method is proposed. The method is enhanced through key-dependent parameter assignment, as well as additional steps such as transient periods and square matrix transformation. Furthermore, vectorization after square matrix transformation simplified indexing in embedding and extraction steps, thereby improving computational efficiency. As a result, high security and integrity were achieved for both visual and audio data. In the encryption process, seven different chaotic structures (Logistic Map, Lorenz System, Piecewise Linear Chaotic Map, Tent Map, Hénon Map, Chua Circuit, Chebyshev Map) were supported, and the method was tested on these algorithms. The original content was encrypted using XOR and then embedded into the audio signal via the LSB method. The proposed method was evaluated using the EBU SQAM audio dataset and standard test images with Peak Signal-to-Noise Ratio (PSNR), Signal-to-Noise Ratio (SNR), Mean Squared Error (MSE), Structural Similarity Index Measure (SSIM), and Bit Error Rate (BER) metrics. Experimental results demonstrated that for all tests, the extracted images achieved Visual_PSNR = ∞, Visual_SSIM = 1, and Visual_BER = 0. For audio data, PSNR values ranged between 102–107 dB and SNR values approximately 53–99 dB depending on the content type. These findings reveal that the proposed method ensures both the integrity of the content and the reliable preservation of the hidden data.",
+    "publish_year": "2026",
+    "journal": "Electrical Engineering and Energy (ELENE)",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.37905/jjbm.v6i4.33977",
+    "title": "Energy and Laplacian Energy of Pythagorean Intuitionistic Fuzzy Graphs with Applications in Medical Diagnosis Networks",
+    "authors": "Saravanakumar Anitha, Periyannan Jayalakshmi, Dhandapani Prasantha Bharathi, Yahya Nisky Imansyah",
+    "abstract": "This study extends fuzzy graph energy analysis by introducing energy and Laplacian energy for Pythagorean Intuitionistic Fuzzy Graphs (PIFGs), a powerful generalization of intuitionistic fuzzy graphs capable of representing higher degrees of uncertainty. A novel connection matrix for PIFGs is defined, and new formulations for energy and Laplacian energy are established, along with sharp lower and upper bounds. Beyond theoretical contributions, the approach is applied to medical diagnosis networks, where vertices represent symptoms,  diagnostic tests,  and diseases,  and edges encode Pythagorean intuitionistic fuzzy relationships. These measures quantify both the overall strength of associations (energy) and their structural irregularity (Laplacian energy), offering interpretable indicators for diagnostic certainty or ambiguity.  The framework provides a robust mathematical basis for decision-making in biomedical contexts where data are uncertain, imprecise, or conflicting.",
+    "publish_year": "2026",
+    "journal": "Jambura Journal of Biomathematics (JJBM)",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.60164/yz5sddf5u",
+    "title": "A Systematic Literature Review on the Application of Lean Construction Principles in Building Projects: Benefits, Challenges, and Future Research Directions",
+    "authors": "Nagesh Abel",
+    "abstract": "Question: How have Lean Construction principles been applied in building projects, and what\nchallenges and benefits have been identified in their implementation?\n\nPurpose: The purpose of this paper is to systematically review the application of lean\nprinciples in building projects to determine widely used tools, associated benefits,\nbarriers, and research gaps. It aims to explore the evolution of the lean idea from a\nfoundational approach to a digital-integrated framework.\n\nResearch Method: A systematic literature review conducted using the PRISMA framework.\nSearches were conducted in Scopus, Web of Science, and Google Scholar using Specific\nKeywords. After applying the inclusion and exclusion criteria and removing duplicates,\n83 studies published between 2007 and 2025 were included in the analysis.\n\nFindings: The review reveals that the Last Planner System® (LPS®) is the most widely\nimplemented tool, offering quantifiable benefits in cost, time, and workflow. Value\nStream Mapping (VSM) and 5S improve operational efficiency but remain limited in\napplication. Tools such as Just-in-Time (JIT), Target Value Design (TVD), and Set-Based\nDesign (SBD) are underexplored. Significant barriers include interoperability issues, less\nleadership initiative, and inadequate training. The integration of the Lean-BIM-Digital\nframework is evolving but lacks empirical validation.\n\nLimitations: Most reviewed studies are case-based and qualitative, making them difficult to\ngeneralize. Research is mainly focused on the construction phase, with minimal\nattention to design and procurement stages.\n\nImplications: The findings show the need for standardized performance indicators, stronger\nempirical methods, and broader application of lean-digital integration. Industry\npractitioners and policy makers can use these insights to improve lean implementation.\n\nValue for Authors: This review tries to connect fragmented knowledge, provides a\ncomprehensive approach to lean practices in building projects, and guides future\nresearch toward quantifiable, technology-oriented solutions.\n\nKeywords: Lean Construction, Building projects, Last Planner System® (LPS®), BIM integration,\nChallenges, Benefits, Systematic literature review\n\nPaper type: Review Papers",
+    "publish_year": "2026",
+    "journal": "Lean Construction Journal",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.24057/2071-9388-2025-4028",
+    "title": "Renewable Energy Firms In Transition: Environmental Returns And Policy Synergies  Under Saudi Vision 2030",
+    "authors": "Alharithi Mohammed, Zehri Chokri",
+    "abstract": "We examine how renewable energy strategies under Saudi Arabia’s Vision 2030 drive environmental sustainability in fossil fuel-dependent economies. The study analysed data from 42 firms (2012–2023) using the Generalised Method of Moments (GMM) and Impulse Response Functions (IRFs). Our findings indicate that a 1% increase in clean energy investment results in a 6.3–8.1% reduction in climate emissions and a 10.2–16.3% decrease in water challenges. A 1% increase in clean energy use lowers emissions by 5.4–7.6% and water stress by 3.2–11.4%. Policy integration amplifies outcomes. Oil-sector firms leverage scale for renewable projects while non-oil sectors face pressures from oil price volatility. IRFs confirm sustained environmental gains from renewable adoption. The study advocates integrated policies, including subsidy reallocation, lowwater renewables, and oil-sector engagement, to align economic diversification with sustainability. It also emphasises the need to address agricultural water inefficiencies and industrial energy intensity.",
+    "publish_year": "2026",
+    "journal": "GEOGRAPHY, ENVIRONMENT, SUSTAINABILITY",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.33425/3066-1226.1181",
+    "title": "Fuzzy Logic in Predictive Models for Reducing Energy Consumption in Smart Grids",
+    "authors": "Marna Y amini Lahari",
+    "abstract": "In this study, we compare the effectiveness of fuzzy logic, neural networks, and decision trees foroptimizing energy consumption in smart grids. We evaluate these techniques based on their forecastingaccuracy, load balancing efficiency, computational time, and flexibility. Our results reveal that neuralnetworks exhibit the highest forecasting accuracy at 92.4% and superior load balancing efficiency of82.1%, though they require significant computational time (25 minutes). Fuzzy logic provides a balancedperformance with a forecasting accuracy of 85.2%, a load balancing efficiency of 78.5%, and a moderatecomputational time of 12 minutes. It also scores highly in flexibility, demonstrating strong adaptabilityto changing conditions. Decision trees, while the most computationally efficient with a processing timeof 8 minutes, show the lowest forecasting accuracy (80.1%) and load balancing efficiency (74.6%),indicating limitations in handling complex energy management tasks. This comparison highlights thestrengths and trade-offs of each technique, offering insights into their suitability for real-time energyoptimization in smart grids.",
+    "publish_year": "2026",
+    "journal": "Global Journal of Engineering Innovations and Interdisciplinary Research",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.33425/3066-1226.1195",
+    "title": "AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation",
+    "authors": "G Vidhya, M Suchithra,, G Santhosh, M Anupama",
+    "abstract": "The growing demand for clean and reliable energy has accelerated the adoption of renewable energysystems such as solar photovoltaic and wind power technologies. However, the inherent variabilityof renewable resources poses significant challenges in performance prediction, system optimization,and reliable power generation. This study presents an artificial intelligence–based framework forperformance analysis of renewable energy systems aimed at supporting sustainable power generation.Operational and environmental data are utilized to develop machine learning models capable ofcapturing complex, nonlinear relationships between system inputs and energy output. The AI-basedapproach is evaluated against conventional analytical methods using performance indicators suchas power output, efficiency, prediction accuracy, and response time. The results demonstrate that AI-driven models significantly improve prediction accuracy, reduce analysis time, and enhance systemperformance assessment under varying operating conditions. The findings highlight the potential ofartificial intelligence to improve operational efficiency, support intelligent energy management, andstrengthen the integration of renewable energy systems into sustainable power networks.",
+    "publish_year": "2026",
+    "journal": "Global Journal of Engineering Innovations and Interdisciplinary Research",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.37758/jat.88i3.357",
+    "title": "Optimizing The Role Of School Public Relations In Addressing Hate Speech And Building A Positive Image",
+    "authors": "Rahman Muthi’ah, Unzilah Khomairohtusshiyamah , Hikmah Uryatul, Najiburrahman , Baharun Hasan",
+    "abstract": "In educational institutions, especially in schools, it is very interesting to observe the effectiveness of school community communication when facing hate speech issues and increasing positive synergy in implementing communication strategies. Nowadays, technology has developed very rapidly, making it very easy for negative and positive narratives to spread widely through communication, especially the use of social media. In this observation, the researcher used a qualitative method with a case study approach, collecting data from all elements within the school environment. In the educational context, it is certainly crucial to understand the patterns, programs, and follow-up in the implementation of communication management, so that the collected data can be analyzed in depth. It can be concluded that in communication relationships, all elements of the school community, especially policymakers, can significantly influence the process of disseminating negative and positive information on a massive and sustainable basis. Therefore, it is important to emphasize when stakeholders organize training activities on social media content and digital literacy, and also not forgetting parents, as part of the school community, because it is proven to increase the effectiveness in preventing negative narratives from circulating very quickly. Ultimately, every school must have a guideline to address the challenges facing the school environment by embracing all aspects, thereby addressing the prevention of hate speech and safeguarding the reputation of an educational institution.",
+    "publish_year": "2026",
+    "journal": "Jurnal At-Tarbiyat: Jurnal Pendidikan Islam",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.20491/isarder.2025.2165",
+    "title": "Fan Tribes and Brand Titans:The Role of Social Identity in Building Brand Equity inFenerbahce S.K. and Panathinaikos B.C. Fan Groups",
+    "authors": "AVCI Mustafa Serhat, ÖZDEMİR Handan, AKAGÜN Elif, PARILTI Nurettin",
+    "abstract": "Purpose –Thisstudy aimed to measure the effect of the social identities of Fenerbahçe and Panathinaikos basketball fan groups on their teams’ brand value.Design/methodology/approach –For this purpose, a survey was administered to a total of 500 fans—250 from each club. The questionnaire employed the scale developed by Watkins (2014), which was derived by synthesizing scales used in previous studies. The scale was essentially constructed based on the SIBE model. The data obtained from the survey were transferred to IBM SPSS 25.0 for classification and analysis. Regression analysis was used to test the research hypotheses.Results–It was found that fans’ support for their teams—both in the stands and through media channels—positively affects the clubs’ recognition.Discussion –The analyses revealed that fans’ social identities play an important role in creating brand value. It was concluded that fans attending games or supporting their teams in front of the TV positively influence the clubs’ visibility and awareness.",
+    "publish_year": "2026",
+    "journal": "Journal of Business Research - Turk",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.32598/jaehr.9.4.1229",
+    "title": "Investigation and Optimization of Air Pollution Risk by a Multi-criteria Decision Making Method Using Fuzzy TOPSIS: A Case Study of Construction Workers",
+    "authors": " , Sekhavati Eghbal, Jalilzadeh Yengejeh Reza,  ",
+    "abstract": "Background: Investigating human health during work importantly affect the safety and efficiency of the society. Different types of activity, including industrial, constructional, heavy duty ones, etc., affect the health of workers during their activities. In this study, the Multi-Objective Decision-Making (MODM) method was combined with fuzzy TOPSIS to investigate and optimize the air pollution risk affecting the health and safety of construction workers of Lar City, Fars Province, Iran. Methods: The comparison matrices (binary) and the Phillips–Perron test of different criteria and sub-criteria of health risk, including safety view, safety efficiency, understanding the risk, and risk investigation, were assessed to find the most influential factors for the optimization of the health risk of the workers. Results: Accordingly, the results indicated that “understanding the risk” followed by “safety efficiency” affected the health risk of the construction workers the most. However, among the sub-criteria, the most effective ones were “worker knowledge”, “manager knowledge”, “logistic specialized managers”, “modern facilities”, and “modern technology”. The selection of the linear and non-linear models was conducted according to the F values, and the model parameters were estimated using the Newton-Raphson test. Most coefficients were significant at P= 0.99. The model also has a high describing value of 0.97. The final estimated homogeneity coefficient was equal to 1.31, and it ranged from 0.86 to 2.72 for the critical risk investigation. The significance of the present research is to increase the health and safety of workers during work resulting in a more sustainable and healthier environment. Conclusion: Accordingly, the managers could handle the risks, determine the tolerable risks, indicate the risk of each process to control expenses, and take the essential measures for optimization.",
+    "publish_year": "2121",
+    "journal": "Journal of Advances in Environmental Health Research",
+    "citation_count": 7,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.3917/bupsy.pr1.0008",
+    "title": "Les schèmes affectifs et le rôle de l’affectivité dans la construction de la connaissance et de la subjectivité : examen critique de la conception piagétienne",
+    "authors": "Genovesi Mariela Cecilia",
+    "abstract": "Cet article vise à analyser de l’approche que Jean Piaget a mise en œuvre au sujet du lien entre l’affectivité, l’intelligence et la formation des schèmes de connaissance. L’objectif est de reconsidérer la place assignée à l’affectivité – conçue uniquement comme énergétique – et de formaliser la notion de schème affectif grâce à divers apports théoriques dans le champ de la psychologie, certains classiques (Ribot, Wallon, Freud) et d’autres plus récents (Aulagnier, Green, Rochat, Damasio et LeDoux).",
+    "publish_year": "2030",
+    "journal": "Bulletin de psychologie",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.60164/16jjgl0zs",
+    "title": "Health-Check Framework for Assessing Last Planner System Implementation Using Social Network Analysis",
+    "authors": "Eivazi Ziaei Parastoo, Malaeb Zeina, Lusis Eric, Hamzeh Farook",
+    "abstract": "Purpose: The Last Planner System® (LPS®)  is a lean construction tool aimed at enhancing the reliability of production planning and control. Although effective communication among project stakeholders is recognized as essential for LPS success, limited research has explored the correlation between social network interactions and the level of LPS implementation. This study examines how team member interactions influence LPS effectiveness in the architecture, engineering, construction, and operations (AECO) industry.\n\nResearch Method: Utilizing a mixed-methods approach, this research employs Social Network Analysis (SNA) across three case studies to integrate social network characteristics with LPS performance metrics.\n\nFindings: The findings reveal a trend suggestion that a well-connected lookahead planning network may be associated with higher Percent Plan Complete (PPC). Specifically, a positive correlation exists between Graph Density and PPC, while a negative correlation is observed between Average Path Length and PPC. These patterns suggest that robust stakeholder communication may play an important role in enhancing LPS implementation, as stronger communication in lookahead planning appears to be associated with improved project performance by increasing the PPC.\n\nLimitations: The study needs to be replicated on the other projects to increase generalizability.\nImplications: The proposed framework enables project managers to enhance LPS effectiveness by fostering human-centered collaboration and integrating smart digital technologies. By emphasizing the importance of social interactions in project settings, this research underscores the potential for improved project outcomes through enhanced stakeholder engagement in the AECO industry.\n\nValue for practitioners: This research contributes original insights by proposing a novel health-check framework, which serves as a practical tool for project managers to map current social interactions, identify areas for improvement, and bridge gaps in communication.\n\nKeywords: Last Planner System (LPS), Project Planning and Control, Social Network Analysis (SNA), Stakeholder Communication.\n\nPaper type: Full paper",
+    "publish_year": "2026",
+    "journal": "Lean Construction Journal",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.18256/2318-1109.2025.v14i1.5153",
+    "title": "The use of games and gamification elements in the construction industry",
+    "authors": "Padre Elder Pita Garcia, Serra Sheyla Mara Baptista",
+    "abstract": "Gamification and serious games are experiencing a notable increase in application within civil engineering, as they can provide additional value, such as knowledge and entertainment. Therefore, there is interest from academia in studying the use of gamification tools in Civil Construction and Lean Construction. It was then noted that there is a need to develop a systematic literature review on gamification and serious games in the construction industry. This article presents the state of the art through a comprehensive bibliographic search of relevant manuscripts on the topic in question. This study was produced through a systematic literature review conducted with the support of the StArt software, using searches on the Scopus, Web of Science, and Engineering Village platforms. Fifteen manuscripts were selected after excluding those unrelated to the topic or failing to meet the minimum quality criteria. A bibliometric analysis was conducted using the data from these manuscripts to understand the research panorama. Furthermore, an analysis of the groups identified through VOSviewer and a detailed analysis of the 15 selected articles were carried out, which made it possible to identify the particularities of each research and thus answer the research questions. The following research gaps were identified: a) using Gamification elements as a management tool in the construction industry and b) Gamification to bring customers and builders together. Furthermore, it was identified that research has focused much more on using serious games in educational environments than on using Gamification elements on the construction site. Thus, the results presented can serve as a reference and contribute to future research on this topic.",
+    "publish_year": "2026",
+    "journal": "Revista de Arquitetura IMED",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.20491/isarder.2025.2151",
+    "title": "Green Management Research in Hotels: Examination of Contribution Strategies",
+    "authors": "ALDOĞAN ŞENOL Funda, TUNA Muharrem",
+    "abstract": "Purpose –The  study  aims  to  examine  the  theoretical  contribution  strategies  of  articles  related  to green  management  in hotels,  as  one of  the  early  studies.  A  management  approach  that  has  gained increasing interest in the academic literature, within the scope of the study.Design/methodology/approach –The  articles  were  identified  from  Scopus,  Web  of  Science,  and ScienceDirect databases using the PRISMA protocol. Based on the contribution claims in the abstract and  introduction  sections,  a  systematic  review  of  33  articles  was  conducted,  and  the  contribution language used by the authors was evaluated. The contribution claims in the articles were coded into five  main  categories:  revelatory  contributions,  incremental  contributions, replicatory  contributions, consolidatory contributions, and differentiated context contributions. Most of the reviewed articles claimed incremental contributions.Results–Neglect spotting, which is part of the incremental contribution strategy, has been the most preferred sub-category. The differentiated contribution strategy is the second most commonly used of the contribution strategies in the articles. No articles were found in the study that claimed to use the replicatory contributions strategy.Discussion –The  findings  emphasize  the  importance  of  clearly  and  comprehensively  expressing theoretical  contributions.  Additionally,  the  recommendations  include  which  types  of  contributions could  be  emphasized  in  future  studies  in  the  field  of  green  management  in  hotels.  The  study  is expected  to attract the attention of researchers, as the framing of contribution claims is a relatively understudied research topic.",
+    "publish_year": "2026",
+    "journal": "Journal of Business Research - Turk",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.51977/7hvyfp67",
+    "title": "Strategi Pengembangan Desa Wisata Berbasis Green Tourism",
+    "authors": "Brahmanto Erlangga",
+    "abstract": "Desa Wisata Karangrejo di Borobudur, Magelang, merupakan salah satu destinasi wisata yang mengusung konsep green tourism. Penelitian ini bertujuan untuk merumuskan strategi pengembangan berbasis prinsip ekowisata yang berkelanjutan. Penelitian ini memberikan model konseptual pengembangan desa wisata hijau berbasis partisipasi masyarakat di tingkat local disamping itu Penelitian ini menggunakan pendekatan kualitatif dengan teknik wawancara melibatkan 10 informan, observasi, dan dokumentasi. Hasil penelitian menunjukkan bahwa Implementasi program seperti pengelolaan sampah, konservasi air, dan penggunaan energi terbarukan memperkuat daya saing Karangrejo sebagai destinasi wisata hijau. Strategi yang dihasilkan mengutamakan integrasi nilai-nilai lokal dengan praktik ramah lingkungan untuk menjaga keberlanjutan pariwisata di kawasan tersebut.\n \n\n\n\n\nKarangrejo Tourism Village in Borobudur, Magelang, is one of the tourist destinations promoting green tourism principles. This study aims to formulate development strategies based on sustainable ecotourism principles. The research used a qualitative approach with interviews, observations, and documentation techniques. The findings show that community participation, environmental conservation, and collaboration with external parties are key factors in the development of a green tourism village. The implementation of programs such as waste management, water conservation, and the use of renewable energy strengthens Karangrejo's competitiveness as a green tourism destination. The resulting strategies prioritize integrating local values with eco-friendly practices to maintain tourism sustainability in the area.",
+    "publish_year": "2026",
+    "journal": "Jurnal Kajian Pariwisata",
+    "citation_count": 0,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.3917/gmp.pr1.0013",
+    "title": "Les métropoles françaises pratiquent-elles une gouvernance de Smart City  ? Une évaluation par leur Système d’Information Financier Extra-Organisationnel (SIFEO)",
+    "authors": "Michel-Clupot Muriel, Rouot Serge",
+    "abstract": "L’article propose une analyse de la gouvernance des métropoles françaises à partir des contenus discursifs et des fonctionnalités de leur Système d’Information Financier Extra-Organisationnel (SIFEO). La smart city y est abordée comme objet de recherche et caractérisée par de grands champs d’action (Giffinger et al. , 2007), parmi lesquels : la gouvernance. De nature différente, elle prend le pas sur les autres, qu’elle contribue à mettre en œuvre. La recherche inscrit ces éléments de gouvernance propres à la smart city , dans le cadre d’analyse du système de gouvernance publique proposé par Mazouz et al. (2012, 2015) selon quatre niveaux, allant des institutions aux outils de gestion. Déployée sur l’ensemble des métropoles françaises, la démarche empirique est double. Dans un premier temps, il s’agit d’évaluer si leur SIFEO véhicule les thématiques constitutives d’une smart city , soit l’« intelligence discursive ». Le contenu informatif et communicationnel est étudié au moyen d’une analyse textuelle automatisée. Dans un second temps, il s’agit d’étudier le SIFEO comme un outil de gouvernance de la smart city , soit l’« intelligence fonctionnelle », avec une grille d’analyse ad hoc évaluant l’information, la communication et la participation. Les données collectées font l’objet d’une ACM révélatrice des pratiques de gouvernance. Les résultats montrent l’hétérogénéité des pratiques en la matière, corroborant ceux d’études antérieures : si les métropoles tiennent des discours sur la gouvernance, les fonctionnalités des sites et les pratiques sont en revanche très contrastées. Quelques-unes mettent bien en œuvre le triptyque de la smart gouvernance : Information – Communication – Participation et se révèlent être de véritables smart cities . À l’inverse, les autres utilisent de manière très limitée les fonctionnalités du SIFEO : une majorité d’entre elles semble correctement informer et communiquer, sans aller au bout de la démarche, et ignore la participation citoyenne. Les métropoles françaises ne sont pas toutes des smart cities  ; certaines pratiquent un smart washing , utilisant l’image positive de la smart city . Plus précisément, l’utilisation du SIFEO pour mesurer l’intelligence de la ville autorise quatre gradations : Smart City , Smart Washing , Mute Smart City et Not Smart . Au-delà de ces différents constats, le SIFEO propose un nouveau cadre d’analyse et constitue un véritable outil d’évaluation de la gouvernance, contribuant à sa conceptualisation (Rodriguez-Bolivar et Meijer, 2015).",
+    "publish_year": "2050",
+    "journal": "Gestion et management public",
+    "citation_count": 1,
+    "source": "crossref"
+  },
+  {
+    "doi": "10.33425/3066-1226.1187",
+    "title": "Fuzzy-Based Decision Support Systems for Disaster Management in Smart Cities",
+    "authors": "Yatham Thirumalanayudu, Saidabi Shaik, Devireddy Mamatha",
+    "abstract": "In the context of smart cities, effective disaster management is paramount for ensuring public safetyand resilience against natural calamities. This research presents a novel fuzzy-based decision supportsystem (DSS) designed to enhance disaster response capabilities compared to traditional DSS models. Byintegrating real-time data from IoT sensors, social media, and meteorological forecasts, the fuzzy-basedapproach adeptly handles uncertainties and ambiguities inherent in disaster scenarios. Experimentalresults indicate that the fuzzy-based DSS significantly improves response times, achieving reductionsof up to 55% compared to traditional systems, while also enhancing decision-making accuracy torates as high as 92%. Moreover, the fuzzy system demonstrates superior resource allocation efficiencyand garners higher user satisfaction ratings. These findings underscore the efficacy of fuzzy logic intransforming disaster management practices, positioning it as a critical component for the developmentof resilient smart city infrastructures.",
+    "publish_year": "2026",
+    "journal": "Global Journal of Engineering Innovations and Interdisciplinary Research",
+    "citation_count": 0,
+    "source": "crossref"
+  }
+]

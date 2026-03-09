@@ -1,0 +1,25 @@
+{
+  "tech_number": "718",
+  "tech_name": "펌프제어에 의한 인텔리전트 멀티 그라우팅(IMG, Intelligent Multi Grouting) 시스템",
+  "tech_field": "토목 > 토질 및 기초 > 지반 개량 및 보강",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=33&apntNo=718&frMenu=list&newtecId=26964",
+  "patents": [
+    {
+      "title": "그라우팅 시스템 및 그 제어방법",
+      "type": "특허등록",
+      "register_number": "100981007"
+    },
+    {
+      "title": "시멘트와 약액 주입재의 압력 및 유량 동시제어 그라우팅 시스템, 그라우팅 방법, 및 그 기록매체",
+      "type": "특허등록",
+      "register_number": "101501343"
+    },
+    {
+      "title": "GIN 커브를 이용한 그라우팅 시공방법 및 그 기록매체",
+      "type": "특허등록",
+      "register_number": "101583875"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 3
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "paper_id": "5bd6e6b810f29c2cc1953c8189ce6db997866ed0",
+    "title": "PREPARATION FOR THE NEXT GENERATION OF BRIDGE TECHNOLOGY IN KOREA",
+    "authors": "H. Koh, J. Choo",
+    "journal": "Structural Engineering \\/ Earthquake Engineering",
+    "publish_year": "2008",
+    "abstract": "In the years to come, Korea will have the privilege to become the country presenting the most diversified bridge construction activities that will constitute precious case studies for the international bridge community. Until 2011, about 50 major bridges with various types will link some of the 3,000 islands of the peninsula to the mainland, which are taking place in the ambitious plan for building an efficient national transportation network and set the bases for the future strategic hub of Northeast Asia. In order to sustain this unprecedented construction activity of infrastructure systems and the encouraging technological accomplishments that have been acquired to date, the Korean R&D community agreed with the necessity to prepare for the next generation of construction technology. There is a clear need to develop and construct a new generation of high performance facilities by means of enhanced materials, advanced structural systems and technologies as well as upgraded or improved specifications or standards in a lifetime perspective. This paper identifies some major technical issues and challenges for the next generation of bridge and addresses relevant and systematic construction-related R&D programs in Korea. Among them, the Korea Bridge Design & Engineering Research Center (KBRC) has been launched in 2004 as a national research program of the Ministry of Construction and Transportation to be the core of new research and technology transfer program in the area of bridge technology and expedite the process of full transition to the reliability- and performance-based bridge design codes and specifications in Korea. Other large R&D programs are also reviewed in terms of durability and lifecycle cost with lifetime perspective like the Bridge 200 R&D project of the Korea Institute of Construction Technology and high-performance materials like the High Performance Construction Material Research Center (HIPER CONMAT).",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.2208/JSCESEEE.26.1S",
+    "url": "https://www.semanticscholar.org/paper/5bd6e6b810f29c2cc1953c8189ce6db997866ed0",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "88f0e64b9f829b4793c2735f5444189adbbe5df2",
+    "title": "Study on the Relative Position Estimation Method with LiDAR for Remote Precision Installation of Bridge Girders",
+    "authors": "Kyoung-min Kim, Sang-Yoon Lee, Young-Soo Park",
+    "journal": "Journal of the Korea Academia-Industrial cooperation Society",
+    "publish_year": "2023",
+    "abstract": "The construction process of bridges inevitably involves work at elevated sites, leading to an increased risk of severe accidents for workers. In addition, there are problems such as a decrease in specialized workers caused by a decreasing population in South Korea. To overcome these problems, remote construction technology using construction robots is being developed. This study proposes a method for estimation of the relative position between precast girders and piers or abutments, which could be applied to a remote robot developed for precise installation in bridge construction. The method consists of LiDAR (light detection and ranging) and two markers. Point clouds are acquired with LiDAR to estimate the centers between markers and calculate their relative positions through distances from the centers. An experiment was conducted to confirm the usability and accuracy of the proposed method in outdoor conditions. The usability of the proposed method was confirmed, and the optimal number of cumulative data was selected. The method was applied to a manufactured prototype to verify its accuracy, and areas requiring improvement were identified. The proposed method could greatly contribute to reducing industrial accidents at bridge construction sites",
+    "keywords": [],
+    "doi": "10.5762/kais.2023.24.8.7",
+    "url": "https://www.semanticscholar.org/paper/88f0e64b9f829b4793c2735f5444189adbbe5df2",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "1d8870ad77376e6d60e7553c15135226cce5b532",
+    "title": "Comparison of Totally Prefabricated Bridge Substructure Designed According to Korea Highway Bridge Design (KHBD) and AASHTO-LRFD",
+    "authors": "Tae-Hoon Kim",
+    "journal": "International Journal of Concrete Structures and Materials",
+    "publish_year": "2013",
+    "abstract": "The purpose of this study was to investigate the design comparison of totally prefabricated bridge substructure system. Prefabricated bridge substructure systems are a relatively new and versatile alternative in substructure design that can offer numerous benefits. The system can reduce the work load at a construction site and can result in shorter construction periods. The prefabricated bridge substructures are designed by the methods of Korea Highway Bridge Code (KHBD) and load and resistance factor design (AASHTO-LRFD). For the design, the KHBD with DB-24 and DL-24 live loads is used. This study evaluates the design method of KHBD (2005) and AASHTO-LRFD (2007) for totally prefabricated bridge substructure systems. The computer program, reinforced concrete analysis in higher evaluation system technology was used for the analysis of reinforced concrete structures. A bonded tendon element is used based on the finite element method, and can represent the interaction between the tendon and concrete of a prestressed concrete member. A joint element is used in order to predict the inelastic behaviors of segmental joints. This study documents the design comparison of totally prefabricated bridge substructure and presents conclusions and design recommendations based on the analytical findings.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1007/S40069-013-0050-3",
+    "url": "https://www.semanticscholar.org/paper/1d8870ad77376e6d60e7553c15135226cce5b532",
+    "citation_count": 16,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "638a6af5916d1551b7c14d75b5b38a8afe5fd94b",
+    "title": "Comparison of Totally Prefabricated Bridge Substructure Designed According to Korea Highway Bridge Design (KHBD) and AASHTO-LRFD",
+    "authors": "Tae-Hoon Kim",
+    "journal": "International Journal of Concrete Structures and Materials",
+    "publish_year": "2013",
+    "abstract": "The purpose of this study was to investigate the design comparison of totally prefabricated bridge substructure system. Prefabricated bridge substructure systems are a relatively new and versatile alternative in substructure design that can offer numerous benefits. The system can reduce the work load at a construction site and can result in shorter construction periods. The prefabricated bridge substructures are designed by the methods of Korea Highway Bridge Code (KHBD) and load and resistance factor design (AASHTO-LRFD). For the design, the KHBD with DB-24 and DL-24 live loads is used. This study evaluates the design method of KHBD (2005) and AASHTO-LRFD (2007) for totally prefabricated bridge substructure systems. The computer program, reinforced concrete analysis in higher evaluation system technology was used for the analysis of reinforced concrete structures. A bonded tendon element is used based on the finite element method, and can represent the interaction between the tendon and concrete of a prestressed concrete member. A joint element is used in order to predict the inelastic behaviors of segmental joints. This study documents the design comparison of totally prefabricated bridge substructure and presents conclusions and design recommendations based on the analytical findings.",
+    "keywords": [],
+    "doi": "10.1007/s40069-013-0050-3",
+    "url": "https://www.semanticscholar.org/paper/638a6af5916d1551b7c14d75b5b38a8afe5fd94b",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "46017f03970dce43cedfd0df3a137fd7350b38d9",
+    "title": "Dynamic Characteristics Evaluation of Innovative UHPC Pedestrian Cable Stayed Bridge",
+    "authors": "W. Chin, Young-Jin Kim, Jeong-Rae Cho, J. S. Park",
+    "journal": "Engineering",
+    "publish_year": "2012",
+    "abstract": "KICT (Korea Institute of Construction Technology) is conducting a project called “SUPER BRIDGE 200—Development of Low Cost and Long Life Hybrid Cable Stayed Bridge”. This project aims to reduce the construction and main- tenance costs of long-span bridges by 20% and double their lifetime through the exploitation of ultra-high performance concrete (UHPC). This paper presents the design and construction of the first pedestrian cable stayed bridge using UHPC developed by KICT. UHPC, compared to conventional concrete, has not only high compressive and tensile strengths but also high ductility. The UHPC developed at KICT is a steel fiber-reinforced cement compound presenting design compressive strength larger than 180 MPa and design tensile strength exceeding 10 MPa with water-to-binder ratio below 0.24 and admixing of 2 volume percentage of steel fiber. To show the applicability of UHPC to structures, a pedestrian cable stayed bridge (Super Bridge I) exploiting the characteristics of the developed UHPC has been planned, designed and erected at KICT. The dimension of UHPC deck is 2.7 m × 7 m as a precast segment with a typical thickness of deck of only 7 cm. However, harmful crack was observed in the deck at the time of the fabrication of the deck segments. Accordingly, new fabrication method was conceived and applied to prevent cracking of the UHPC slender deck. Four UHPC deck segments were fabricated successfully without any crack. After construction, the dynamic characteristics (natural frequencies and mode shapes) were evaluated through vibration tests since several users felt excess vibration. A vertical tuned mass damper (TMD) was proposed and installed on the parapet of the bridge. The TMD reduces the acceleration by about 30% from 0.0316 g to 0.0244 g when two pedestrians are crossing the bridge.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.4236/ENG.2012.412110",
+    "url": "https://www.semanticscholar.org/paper/46017f03970dce43cedfd0df3a137fd7350b38d9",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "6e1e5ab76a11d39fc557234f90093a8b32cde5fb",
+    "title": "Rolling Fatigue Test of Large-Sized UHPC Member for Cable Stayed Bridge",
+    "authors": "Jeong-Rae Cho, Young-Jin Kim, J. S. Park, E. Choi, W. Chin",
+    "journal": "Engineering",
+    "publish_year": "2012",
+    "abstract": "Recently, research strives to apply Ultra High Performance Concrete (UHPC) to large-sized structures owing to its remarkable mechanical performance and durability compared to normal concrete. The Korea Institute of Construction Technology proposed SuperBridge800, an edge girder type UHPC cable stayed bridge with central span of 800 m, through its detailed design. The bridge is designed to be erected through the connection of precast UHPC segments. The precast UHPC segment is monolithically composed of one ribbed deck slab and edge girders at each side. The connection between the precast segments is achieved by steel bars at the edge girders and by UHPC cast-in-place wet joint at the slab. Despite of the outstanding mechanical performance of UHPC, the fabrication of large-sized members is a difficult task since UHPC hardens faster than normal concrete and requires a special curing process. Therefore, the constructability of large-sized UHPC segment should be secured to achieve SuperBridge800. Besides, the performance of the connection between segments should also be guaranteed, especially in terms of the fatigue performance of the UHPC cast-in-place joint, which constitutes a weak point. To that goal, two half-scaled UHPC segments are manufactured and the constructability is examined by fabricating a large-sized UHPC member connected with respect to the design conditions. This study conducts rolling fatigue test on the so-fabricated large-sized UHPC member. Rolling fatigue test is carried out up to 2 million cycles considering actual vehicle load at each center and quarter points of the member. The test results confirm that the service limit state is satisfied.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.4236/ENG.2012.410082",
+    "url": "https://www.semanticscholar.org/paper/6e1e5ab76a11d39fc557234f90093a8b32cde5fb",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  }
+]

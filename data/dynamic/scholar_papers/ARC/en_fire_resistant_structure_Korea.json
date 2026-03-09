@@ -1,0 +1,256 @@
+[
+  {
+    "paper_id": "bc6f123ffaef616339f109b4e02450ba23f0f5d9",
+    "title": "Evaluation of Behavioral Characteristics of the Fire Resistant Paint by Exposure Temperature",
+    "authors": "Hyun Kang, Heungyoul Kim, O. Kweon",
+    "journal": "Fire Science and Engineering",
+    "publish_year": "2023",
+    "abstract": "In Korea, industrial complexes for manufacturing and producing various products have been established in the region. Owing to their rapid development and ease of management, most industrial complexes are composed of steel-structured buildings, and only few buildings are reinforced concrete structures. Steel-structure buildings are generally known to have relatively low fire resistance depending on their material characteristics, which necessitates additional fire resistance reinforcement procedures to ensure structural safety. In this study, we experimentally evaluated the behavioral characteristics according to the exposure temperature of intumescent paint, which is a fire-resistant reinforcement material applied in various steel structures (including industrial complexes), to use it as a database for the diagnostic evaluation of fire-damaged steel structures.",
+    "keywords": [],
+    "doi": "10.7731/kifse.7db87c58",
+    "url": "https://www.semanticscholar.org/paper/bc6f123ffaef616339f109b4e02450ba23f0f5d9",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f38628db75524838c49bfc6502b7d6c0bbd8dfb4",
+    "title": "Experimental Study on the Thermal Effect according to the Distance around a Hydrogen Jet Flame",
+    "authors": "O. Kwon, K. Cho, Kyung-Hwan Park",
+    "journal": "Fire Science and Engineering",
+    "publish_year": "2021",
+    "abstract": "In this study, the safe distance in the case of a hydrogen vehicle fire was analyzed according to the temperature distribution around a hydrogen gas jet flame formed by the thermally activated pressure relief device operation of a hydrogen storage container. The experiment was conducted while 70 MPa hydrogen gas was released from a 1.8-mm-diameter nozzle to a 1.8- × 1.8 m fire-resistant structure wall for distances of 2 and 4 m between the nozzle output and the wall. To analyze the temperature around the hydrogen gas jet flame, five fire-fighting heat-protective hood test samples, certified by the Korea Fire Institute, and temperature sensors were installed every 1 m from the center of the jet flame in the vertical direction to the direction of the flame. In the experiment, the temperature around the jet flame was measured to observe the safe distance for firefighters. The results show that the safe distances at 70°C or less, which is harmless to firefighters, were 5 m without a heat-protective hood and 3 m with a heat-protective hood. In addition, it was confirmed that the direction of the jet flame and blocking by obstacles affect the safe distance during fire-fighting and rescue activities by firefighters.",
+    "keywords": [],
+    "doi": "10.7731/kifse.5ffe7d14",
+    "url": "https://www.semanticscholar.org/paper/f38628db75524838c49bfc6502b7d6c0bbd8dfb4",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "e11c54d79be8eb03c2df14707275a014364ffbec",
+    "title": "Inner Thermal Structure Evolution of Fire-Resistant Medium-Voltage Cable Under External Heat Flux with Varying Conductor Radius",
+    "authors": "Moayad S. M. Sedahmed, Mohmmed Mun ELseed Hassaan",
+    "journal": "Fire",
+    "publish_year": "2025",
+    "abstract": "Ensuring the fire resistance and thermal stability of power cables is crucial for their reliable performance in fire environments, essential for sustainable power distribution, and allowing for more time to extinguish fires and for evacuation. This study utilises numerical simulation to analyse the thermal behaviour of fire-resistant medium-voltage cable, focusing on the impact of conductor radius and material properties under external heat flux. A heat transfer model of cables with conductor radii of 3 mm, 5 mm, and 7 mm under a localised external heat flux of 750 °C was developed. The results show that smaller conductors stabilise faster (reaching the steady state at 45 min for 3 mm vs. 79 min for 7 mm) but experience higher thermal stress, with conductor temperatures peaking at 692.5 °C. Larger conductors enhance axial heat conduction, reduce steady-state temperature by up to 25%, and improve heat dissipation by over 360%. The 5 mm conductor radius provided balanced performance, lowering the temperature by 65 °C compared to 3 mm, although it remained 20.1% hotter than the 7 mm. The ceramic layer played a crucial role in reducing heat flux in the heat source section. Optimised polyethylene insulation and ceramic material improved heat retention and surface temperature control in non-heat source sections. Also, thermal resistance analysis decreased from 1.00 K/W (3 mm) to 0.65 K/W (7 mm). Among material properties, increasing ceramic thermal conductivity had a more significant impact on reducing core temperature than improving insulation. These findings provide practical recommendations for optimising conductor geometry and material properties for more fire-resistant cables.",
+    "keywords": [],
+    "doi": "10.3390/fire8050204",
+    "url": "https://www.semanticscholar.org/paper/e11c54d79be8eb03c2df14707275a014364ffbec",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "68bc3c1903f8b30ede7e87ed091d44576975aa94",
+    "title": "Fire-Resistant Coatings: Advances in Flame-Retardant Technologies, Sustainable Approaches, and Industrial Implementation",
+    "authors": "Rutu Patel, Mayankkumar L. Chaudhary, Yashkumar N. Patel, Kinal Chaudhari, Ram K. Gupta",
+    "journal": "Polymers",
+    "publish_year": "2025",
+    "abstract": "Fire-resistant coatings have emerged as crucial materials for reducing fire hazards in various industries, including construction, textiles, electronics, and aerospace. This review provides a comprehensive account of recent advances in fire-resistant coatings, emphasizing environmentally friendly and high-performance systems. Beginning with a classification of traditional halogenated and non-halogenated flame retardants (FRs), this article progresses to cover nitrogen-, phosphorus-, and hybrid-based systems. The synthesis methods, structure–property relationships, and fire suppression mechanisms are critically discussed. A particular focus is placed on bio-based and waterborne formulations that align with green chemistry principles, such as tannic acid (TA), phytic acid (PA), lignin, and deep eutectic solvents (DESs). Furthermore, the integration of nanomaterials and smart functionalities into fire-resistant coatings has demonstrated promising improvements in thermal stability, char formation, and smoke suppression. Applications in real-world contexts, ranging from wood and textiles to electronics and automotive interiors, highlight the commercial relevance of these developments. This review also addresses current challenges such as long-term durability, environmental impacts, and the standardization of performance testing. Ultimately, this article offers a roadmap for developing safer, sustainable, and multifunctional fire-resistant coatings for future materials engineering.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/polym17131814",
+    "url": "https://www.semanticscholar.org/paper/68bc3c1903f8b30ede7e87ed091d44576975aa94",
+    "citation_count": 16,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "1d296dab3019e9eceaf1881789815002bd7632f8",
+    "title": "A flexible, robust and multifunctional montmorillonite/aramid nanofibers@MXene electromagnetic shielding nanocomposite with an alternating structure for enhanced Joule heating and fire-resistant protective performance.",
+    "authors": "Wanbin Dang, Zongxu Liu, Lingna Wang, Yanhui Chen, Minghao Qi, Qiuyu Zhang",
+    "journal": "Nanoscale",
+    "publish_year": "2022",
+    "abstract": "With the rapidly increasing development of portable devices and flexible electronic devices, multifunctional composites with excellent mechanical strength, great electromagnetic interference shielding, great Joule heating performance and strong fire-resistant protective performance are noticeably required. Herein, inspired by the sandwich structure, we have designed a montmorillonite/aramid nanofibers@MXene (MMT/ANFs@MXene) nanocomposite with an alternating multilayered structure via a simple AVF process. In this nanocomposite, the ANFs/MMT (AT) layer acts as a mechanically reinforced and insulation protection layer, while the MXene layer maintains a complete conductive network. The superior alternating multilayered structure endows the nanocomposite with outstanding mechanical properties (154.66 MPa, 14.22%) and excellent EMI shielding effectiveness values (58.4 dB). In addition, the fire-resistant protective performance of the nanocomposite improves its safety and reliability, especially, the EMI shielding effectiveness is maintained at ∼34 dB after burning for 30 s. Besides, the MMT/ANFs@MXene nanocomposite shows excellent Joule heating performance with a fast thermal response, low driving voltage and long-time temperature stability, which could reach 110.2 °C at only 3 V applied voltage within 10 s. As a result, this work presents a novel strategy for constructing multifunctional composites with outstanding overall performance, which will broaden application areas and prospects in thermal management and EMI shielding in wearable products.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1039/d2nr01926d",
+    "url": "https://www.semanticscholar.org/paper/1d296dab3019e9eceaf1881789815002bd7632f8",
+    "citation_count": 7,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "c90f6e830de82bb32c65e54f9b41ff31cd112e26",
+    "title": "Ultrathin MXene/Polymer Coatings with an Alternating Structure on Fabrics for Enhanced Electromagnetic Interference Shielding and Fire-Resistant Protective Performances.",
+    "authors": "C. Lan, Hao Jia, Minghui Qiu, Shaohai Fu",
+    "journal": "ACS applied materials & interfaces",
+    "publish_year": "2021",
+    "abstract": "Wearable electromagnetic interference (EMI) shielding fabrics are highly desirable with the rapid development of electronic devices and wireless communications where electromagnetic pollution is a great concern for human health and the reliability of precision equipment. The balance between EMI shielding efficiency (SE) and the flexibility of fabric is still challenging because of the generally opposite requirements for coating thickness. In this work, MXene/insulative polymer coating with an alternating structure is fabricated via a stepwise assembly technique to judiciously combine excellent shielding elements, a reasonable structure, and high nanofiller content together in the coating. Owing to this novel strategy, the coating with nanoscale thickness (∼500 nm) has realized the commercial requirement for EMI SE and well retained the flexibility and air permeability of the fabric. Compared with the corresponding pure MXene coating, such multilayered coating demonstrates 138.95% enhancement of EMI SE due to the improved dielectrical properties and intensive multiple reflections of electromagnetic waves. Additionally, this hybrid coating also acts as an excellent fire-resistant barrier for the inner flammable fabric to protect human beings and electronic devices in case of accidental fire. This work provides new insights into the rational design of shields with nanometer thickness to realize high EMI shielding performance and good fire resistance for new-generation portable and wearable EMI shielding products.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1021/acsami.1c11638",
+    "url": "https://www.semanticscholar.org/paper/c90f6e830de82bb32c65e54f9b41ff31cd112e26",
+    "citation_count": 66,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2c3694467a4ff0c67d8afe584247b8077821826d",
+    "title": "Mechanically Robust and Thermal Insulating Silica/Aramid Nanofiber Composite Aerogel Fibers with Dual Networks for Fire‐Resistant and Flexible Triboelectric Nanogenerators",
+    "authors": "Jia Li, Xiangning Hu, Yao Pan, Jin Qian, Zhe Qiang, Zheyi Meng, Changhuai Ye, Meifang Zhu",
+    "journal": "Advanced Functional Materials",
+    "publish_year": "2024",
+    "abstract": "Aerogel fibers, known for their lightweight and exceptional thermal insulation properties, provide an ideal material solution for fabricating triboelectric nanogenerators (TENGs) for self‐powered wearable electronics in extreme environments, such as firefighting gear. However, current aerogel fibers face limitations due to their poor mechanical properties and lack of performance stability under harsh conditions. Herein, a facile strategy for preparing silica/aramid nanofiber (ANF) composite aerogel fibers with interpenetrated dual networks and a silica‐dominant component (≈64 wt.%) is demonstrated; the unique structure and composition endow the composite aerogel fibers with high tensile strength (3.4 MPa), low thermal conductivity (0.033 W (m·K)−1), a large specific surface area (587 m2 g−1), and outstanding fire resistance at 95% porosity, combining the best properties of both ANF and silica aerogel. Moreover, the composite aerogel fibers exhibit excellent mechanical flexibility at extremely low temperatures (−196 °C) and maintain structural integrity even when exposed to flame for up to 5 min. Leveraging these exceptional properties, composite aerogel fiber‐based TENGs show high electrical output performance before and after combustion (>94% retention). The fabrication strategy offers promising opportunities for modulating the properties and functionalities of aerogel fibers on demand, holding great potential for future applications in wearable smart protective fabrics for extreme environments.",
+    "keywords": [],
+    "doi": "10.1002/adfm.202410940",
+    "url": "https://www.semanticscholar.org/paper/2c3694467a4ff0c67d8afe584247b8077821826d",
+    "citation_count": 56,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4759a2961a681977d07efd3d01a8126fe786f530",
+    "title": "The most adverse fire scenario research of steel frame structure fire-resistant design based on structural vulnerability analysis",
+    "authors": "Chen Wenwen, Ye Jihong",
+    "journal": "Structures",
+    "publish_year": "2021",
+    "abstract": "Abstract The complex responses of the building under fire condition lead to difficult realization of structural fire-resistance design. By identifying the weakness areas, the defined most adverse scenario of the structural fire-resistance design has practical significance. In this paper, the characteristics of fire load, steel at elevated temperature and failure modes of steel beam and column in fire test, were discussed to determine that the damage consequences of steel components under fire were equivalent to component fracture. Meanwhile, the calculation method of joint well-formedness after component failure was given to recognize the failure mode of steel frame structure under fire condition based on structural vulnerability theory (SVT). Then, the most adverse fire scenario of the steel frame structure fire-resistance design under the conditions of single component failure and component failure continuously were analysed. The calculation method of the most adverse fire scenario based on the structural SVT was proposed. According to the failure mode identified by the SVT, the most adverse fire scenario was that the component with the minimum damage pattern subjected to fire in the condition of a single component failure occurred. When the component failed continuously, the components induced the maximum damage pattern (the vulnerability index was the largest) were the key components and such components exposed to fire was the most adverse fire scenario. Finally, two calculation models-6-story 4-span planar steel frame and 3D CFS composite shear wall structures-were selected to verify the proposed calculation of the most adverse fire scenarios. It was concluded that the proposed calculation method could reduce the number of fire scenarios that need to be calculated for design and was suitable for application to performance-based fire resistance design.",
+    "keywords": [
+      "Environmental Science"
+    ],
+    "doi": "10.1016/j.istruc.2021.09.032",
+    "url": "https://www.semanticscholar.org/paper/4759a2961a681977d07efd3d01a8126fe786f530",
+    "citation_count": 16,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "666d6994c9bbdc4cc8dbca6ac6500ee0b09e79dd",
+    "title": "Cellulose Nanofiber-Based Nanocomposite Films with Efficient Electromagnetic Interference Shielding and Fire-Resistant Performance.",
+    "authors": "Wenqin Shao, Xutao Zhang, Xiao Liang, Wenting Tao, Meng Ma, Si Chen, Yanqin Shi, Huiwen He, Yulu Zhu, Xu Wang",
+    "journal": "ACS applied materials & interfaces",
+    "publish_year": "2024",
+    "abstract": "Cellulose nanofiber (CNF) has been widely used as a flexible and lightweight polymer matrix for electromagnetic shielding and thermally conductive composite films because of its excellent mechanical strength, environmental performance, and low cost. However, the lack of flame retardancy seriously hinders its further application. Herein, renewable and biomass-sourced l-arginine (AR) was used to surface-modify ammonium polyphosphate (APP) and an environmentally friendly biobased flame retardant was synthesized by the coordination of zinc sulfate heptahydrate (ZnSO4·7H2O), which was named AAZ. AAZ was deposited on the surface of CNF by electrostatic adsorption and Zn2+ complexation. The biobased compatibilizer Triton X-100 was employed to assist the exfoliation of graphene nanoplatelets (GNPs) and their dispersion in the CNF matrix. Due to the formation of a dense lamellar layer resembling a shell structure, the CNF/GNPs composite films with a tensile strength of 52 MPa were obtained via vacuum-assisted filtration. Because the phosphorus-containing group produces a protective layer of PxOy compound and promotes the formation of a carbon layer by CNF and the combustion releases ammonia gas, the fire-resistant performance of the composite films was greatly improved. Compared with the pure CNF film, the composite film exhibits 33% reduction in PHRR value and 40% reduction in THR. In addition, the CNF/GNPs composite film with 20 wt % GNPs possessed high conductivity (2079.2 S/m) and electromagnetic interference (EMI) shielding effectiveness (37 dB). The ultrathin CNF/GNPs composite films have excellent potential for use as efficient flame retardant and EMI shielding materials.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1021/acsami.4c10660",
+    "url": "https://www.semanticscholar.org/paper/666d6994c9bbdc4cc8dbca6ac6500ee0b09e79dd",
+    "citation_count": 41,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4a4a9e23d4092a407c0a80e4d5b1595ce295901a",
+    "title": "Fully‐Recyclable Green and Fire‐Resistant Triboelectric Elastomer via Geometrical Synergistic Fillers and Its Applications for Smart Firefighting Boots",
+    "authors": "Junfeng Chu, Wenjie Wu, Yi Wei, Z. Wang, Xiangyu Chen, Liqun Zhang",
+    "journal": "Advanced Functional Materials",
+    "publish_year": "2024",
+    "abstract": "Wearable sensors for high temperatures (WSHT) applications pose a significant challenge in the electronics field due to the inherent inability of most electronics to function in harsh environments. Triboelectric nanogenerators (TENG) present a substantial potential for applications in such challenging conditions. Herein, a fully‐recyclable flame‐retardant triboelectric elastomer is developed, which exhibits superior charge stability under high temperature conditions and proposes the specially designed synergistic fillers that play a dual role by trapping more charges into the interface and stabilizing the char layers via layer‐ball‐layer structure. An efficient flame‐retardant system is presented, which exhibits a 31% lower fire growth index than the individual components. The maximum surface charge density of this triboelectric elastomer can reach 361 µC m−2, while this surface charge density can be preserved to 70.9% after 16 s of combustion (≈520 °C) and to 37.9% by continuously working at 130 °C. At last, utilizing this flame‐retardant triboelectric elastomer, smart firemen's boots featuring gait analysis for identification and second level early warning systems have been developed. This work paves the way for the development of triboelectric materials and intelligent wearable devices suitable for applications in harsh environments.",
+    "keywords": [],
+    "doi": "10.1002/adfm.202402520",
+    "url": "https://www.semanticscholar.org/paper/4a4a9e23d4092a407c0a80e4d5b1595ce295901a",
+    "citation_count": 21,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3c9c9daf04b056c2756aae4ff52caefecc9e8e90",
+    "title": "Biomimetic Nanoporous Transparent Universal Fire-Resistant Coatings.",
+    "authors": "Lin Zhang, Ai-Ning Zhang, Shuang-Mei He, G. Zheng, Fuxiang Zeng, Yu‐Zhong Wang, Bo-Wen Liu, Haibo Zhao",
+    "journal": "ACS applied materials & interfaces",
+    "publish_year": "2024",
+    "abstract": "The inherent flammability of most polymeric materials poses a significant fire hazard, leading to substantial property damage and loss of life. A universal flame-retardant protective coating is considered as a promising strategy to mitigate such risks; however, simultaneously achieving high transparency of the coatings remains a great challenge. Here, inspired by the moth eye effect, we designed a nanoporous structure into a protective coating that leverages a hydrophilic-hydrophobic interactive assembly facilitated by phosphoric acid protonated amino siloxane. The coating demonstrates robust adhesion to a diverse range of substrates, including but not limited to fabrics, foams, paper, and wood. As expected, its moth-eye-inspired nanoporous structure conferred a high visible light transparency of >97% and water vapor transmittance of 96%. The synergistic effect among phosphorus (P), nitrogen (N), and silicon (Si) largely enhanced the char-forming ability and restricted the decomposition of the coated substrates, which successfully endowed the coating with high fire-fighting performance. More importantly, for both flexible and rigid substrates, the coated samples all possessed great mechanical properties. This work provides a new insight for the design of protective coatings, particularly focusing on achieving high transparency.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1021/acsami.4c00570",
+    "url": "https://www.semanticscholar.org/paper/3c9c9daf04b056c2756aae4ff52caefecc9e8e90",
+    "citation_count": 19,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "af7d8455f8834ccf3276086b3402406fc65c6119",
+    "title": "Synthesis of aminopyrazine‐based fire resistant additive and its application in epoxy resin",
+    "authors": "Menghua Ma, Qixiang Yang, Tiantian Meng, Yuxin Wei, Yi Pan, Rui Chen",
+    "journal": "Polymer Engineering &amp; Science",
+    "publish_year": "2024",
+    "abstract": "A new fire retardency APD was synthesized successfully by the condensation between 2‐aminopyrazine and DOPO, and target product APD was characterized by NMR. Absorption peak at 12.6 ppm in 31P NMR verified complete consumption of the reactant DOPO and further confirmed the structure of APD. The safety of epoxy resin (EP) in fire disaster was dramatically improved by introduction of APD. Epoxy resin modified with 8% APD succeeded in vertical burning (UL‐94) test with V‐0 rating and limited oxygen index (LOI) of EP/8% APD was also improved to 33.9%. Cone calorimeter (CC) test further exhibited fire resistant effect of APD on EP in detail. 11.0 g APD reduced total heat release of 100 g EP to 35.1% and reduced total smoke product of 100 g EP to 19.9%. Char residue from CC test of EP/8% APD was analyzed by Raman, XPS, SEM, and FTIR tests. The results of these tests indicated that compact morphology of char residue from EP/8% APD possessed a positive effect in blocking fire spread.\nAPD was synthesized and fire resistant EP was made.\nEP/APD acquired outstanding fire resistance and moderate mechanical properties.\nAPD played fire resistant role in gas phase and condensed phase.\n",
+    "keywords": [],
+    "doi": "10.1002/pen.26755",
+    "url": "https://www.semanticscholar.org/paper/af7d8455f8834ccf3276086b3402406fc65c6119",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "a6d9a2465df5608e26681cef35a2e58e49220dae",
+    "title": "Enhancing the Mechanical and Fire-Resistant Properties of GFRP Composite using Boric Acid and Sodium Silicate Fillers",
+    "authors": "Tri Wibawa, K. Diharjo, D. Ariawan, W. W. Raharjo, Cahyo Hadi Wibowo, Fathony Nada Saputro, Andry Rakhman, A. Muharam, S. Kaleg, A. Hapid, Mohd Zulkefly",
+    "journal": "Engineering, Technology &amp; Applied Science Research",
+    "publish_year": "2024",
+    "abstract": "This study investigates the effects of Boric Acid (BA) , H3BO3, and Sodium Silicate (SS), Na2SiO3, as single fillers on the mechanical and fire-resistant properties of Glass Fiber Reinforced Polymer (GFRP) composites. Various compositions of BA and SS were incorporated into the GFRP matrix, and the resulting composites were analyzed using X-ray Diffraction (XRD), Fourier Transform Infrared Spectroscopy (FTIR), Scanning Electron Microscopy (SEM), Thermo-Gravimetric Analysis (TGA), and Differential Thermal Analysis (DTA). The results demonstrate that BA significantly enhances the amorphous structure and mechanical strength of GFRP composites, with optimal performance at 10% BA content. In contrast, SS improves thermal stability but reduces mechanical strength at higher concentrations due to agglomeration. Fire resistance testing revealed that both fillers increase the ignition time and decrease the burning rate, with BA exhibiting superior performance. These findings suggest that BA is a more effective filler for improving the mechanical and fire-resistant properties of GFRP composites, while SS can serve as a complementary additive to enhance thermal stability.",
+    "keywords": [],
+    "doi": "10.48084/etasr.9271",
+    "url": "https://www.semanticscholar.org/paper/a6d9a2465df5608e26681cef35a2e58e49220dae",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "084f982fe0a55ee4131db89b02ea4f0cbe285aed",
+    "title": "Robust, Fire-Retardant, and Water-Resistant Wood/Polyimide Composite Aerogels with a Hierarchical Pore Structure for Thermal Insulation",
+    "authors": "Lu Zhao, Junyong Chen, Defang Pan, Yan Hou",
+    "journal": "Gels",
+    "publish_year": "2023",
+    "abstract": "The use of energy-saving materials is an effective strategy for decreasing energy consumption and carbon emission. Wood is a type of biomass material with a natural hierarchical structure, which results in its high thermal insulation. It has been widely used in construction. However, developing wood-based materials without flammability and dimensional instability is still a challenge. Herein, we developed a wood/polyimide composite aerogel with a well-preserved hierarchical pore structure and dense hydrogen bonds inside, resulting in its excellent chemical compatibility and strong interfacial interactions between its two components. This novel wood-based composite was fabricated by removing most hemicellulose and lignin from natural wood, followed by the fast impregnation using an ‘in situ gel’ process. The introduction of polyimide into delignified wood substantially improved its mechanical properties, with the compression resistance being improved by over five times. Notably, the thermal conductivity coefficient of the developed composite was approximately half that of natural wood. Furthermore, the composite exhibited excellent fire-retardancy, hydrophobicity, thermal insulation, and mechanical properties. This study provides a novel method for wood modification, which not only aids interfacial compatibility between wood and polyimide but also retains the properties of the two components. The developed composite can effectively reduce energy consumption, making it promising for practical and complex thermal insulation applications.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/gels9060467",
+    "url": "https://www.semanticscholar.org/paper/084f982fe0a55ee4131db89b02ea4f0cbe285aed",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2b5829e81b93ac2a4820d39ef1fa43f0a68204a2",
+    "title": "Fire Performance of structural steel tubular sections with passive fire-resistant Mortar",
+    "authors": "M. Bhat, Umesh Kumar Sharma, P.C Ashwin Kuma",
+    "journal": "Proceedings of the International Conference on Fire Safety Engineering Research and Practice",
+    "publish_year": "2024",
+    "abstract": "Fire protection materials must limit the rise in temperature in steel components to prevent early steel\ndeterioration and structural collapse in the event of a fire. Therefore, fire protection in steel structures\nmust be efficient, optimised, and cost-effective to make them more competitive. The versatility of coldformed steel (CFS) products is currently being investigated through their extensive use in various\nstructural applications. Cold-formed steel tubular sections of grade YSt-355 and sectional dimensions\nof 180x180x6 mm and 3 metres long are used to investigate the fire performance of sections with passive\nfire-resistant (PFR) mortar. For this purpose, three full-scale fire experiments were performed on CFS\ntubular columns exposed to a standard fire curve ISO-834. In addition, the experimental investigation\nof the mechanical properties of the structural steel at ambient and elevated temperatures was conducted.\nA commercially available low-cost passive fire-resistant mortar particularly used for the concrete\nstructures in tunnel linings, was used to enhance the fire-resistant rating (FRR) of the CFS tubular\nsection. One tubular column specimen as a control specimen was left uncoated (SS1-00CM), while the\nother two specimens were coated with 20 mm (SS2-20CM) and 40 mm (SS3-40CM) thick fire-resistant\nmortar coating over the Grip primer. The columns were then subjected to an axial compressive load of\nload factor 0.35 prior to the initiation of fire load. The FRR is remarkably increased by nine times with\nthe use of PFR on CFS tubular sections, and a drastic decrease in the internal surface temperature was\nnoticed during the detailed experimental investigation, making it the most economical and efficient PFR\nmortar.",
+    "keywords": [],
+    "doi": "10.71427/icfserp2024/30",
+    "url": "https://www.semanticscholar.org/paper/2b5829e81b93ac2a4820d39ef1fa43f0a68204a2",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "c79e82a8563600d3c8d63a91cf4a9673f3e79802",
+    "title": "Effect of CaAlCO3-LDHs on fire resistant properties of intumescent fireproof coatings for steel structure",
+    "authors": "Xiaochun Hu, Xiaojun Zhu, Zhi-qiang Sun",
+    "journal": "Applied Surface Science",
+    "publish_year": "2018",
+    "abstract": "Abstract A water-based fire resistive nano-coating was prepared via adding CaAlCO3-layered double hydroxides (CaAlCO3-LDHs) as an inorganic filler to intumescent fire retardant coating. The influence of CaAlCO3-LDHs on the coatings properties was investigated by thermogravimetry (TG), differential thermal analysis (DTA), Fourier transform infrared spectroscopy (FTIR), X-ray photoelectron spectroscopy (XPS), scanning electron microscopy (SEM), cone calorimeter (CONE) and fire performance test. The results showed that CaAlCO3-LDHs could improve the quality of the residual char layer, increase the degree of the cross-linking and the carbon accumulation, and enhance the oxidation resistance of the char layer. The addition of 5 mass% CaAlCO3-LDHs to the coating could reduce the fire hazards of the coating itself, lower the rate of flame propagation and thermal degradation, and improve the char structure and fire resistance of the coating, which was attributed to the synergistic effect of CaAlCO3-LDHs and the intumescent fire retardant (APP/PER/MEL).",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.APSUSC.2018.06.165",
+    "url": "https://www.semanticscholar.org/paper/c79e82a8563600d3c8d63a91cf4a9673f3e79802",
+    "citation_count": 67,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "50cf73b5a320b5c1c837243a3416aaaac8ff28a5",
+    "title": "Catalytic amounts of sodium-sulfonate-naphthol enable mechanically robust, ultra-transparent, super-fire-resistant and easily recyclable polycarbonate.",
+    "authors": "Yue Li, Lin Chen, Pan Deng, Yan Guo, Xiu-Li Wang, Yu-Zhong Wang",
+    "journal": "Materials horizons",
+    "publish_year": "2025",
+    "abstract": "Polycarbonate is an advanced engineering plastic widely used in aerospace, high-speed rail and 5G communications. However, it remains a huge challenge to synthesize polycarbonate materials using a strategy that simultaneously integrates green-preparation, service-stage advanced-performance and end-of-life easy-recyclability. Herein, we propose an ultrahigh-efficiency and green halogen/phosphorus-free strategy to prepare a mechanically robust, highly transparent, super-fire-resistant and chemically easily recyclable polycarbonate plastic. By chemical copolymerization of only catalytic amounts of sodium sulfonate-naphthol (0.3-0.5 mol%, namely 3400-5600 ppm), the corresponding polycarbonates exhibit >85 MPa tensile strength, >67 kJ m-2 notched impact strength, >90% transparency, >36% ultra-high limiting oxygen index and 1.6 mm thin-wall UL-94 V-0 rating during the service-stage. Especially, at the end-of-life, these polycarbonates can be easily depolymerized back to the raw monomer bisphenol A and high-value 2-oxazolidinone under mild conditions (50 °C for 4 h), achieving ultra-high atom-economic chemical recycling. Starting from the source of a chemical structure, this work opens up a new perspective for constructing life cycle-managed plastic materials with advanced high-performance and full-recyclability, contributing to the global circular economy through sustainable material design.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1039/d5mh00260e",
+    "url": "https://www.semanticscholar.org/paper/50cf73b5a320b5c1c837243a3416aaaac8ff28a5",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "d645907a2daf4004fb0d278c2792fcfc22d4cee7",
+    "title": "Fire Resistant Design of Steel Structure",
+    "authors": "B. Santhiya, A. GulshanTajM.N.",
+    "journal": "International Journal for Research in Applied Science and Engineering Technology",
+    "publish_year": "2018",
+    "abstract": "Abstract: When the steel structure is exposed to fire or elevated temperature is an extreme condition that leads to change in materials properties, consequently, change in overall behavior is expected. The strength of steel at high temperature of 550°C, hot rolled structural steel will retain 60% of its room temperature load capacity and would withstand before collapse. Research has shown, however, that the limiting temperature of a structural steel member is not fixed at 550°C but varies according to two factors, the temperature profile and the load. Many research efforts were devoted toward evaluation of materials performance when exposed to fire and high temperature events. Therefore, design of structures should incorporate measures to mitigate or prevent destruction of the structure while safeguarding safety issues related to human occupancy. Structures exposed to high temperature events (fire) are usually investigated to evaluate their structure integrity and performance. Several active and passive fire protection approaches could be taken to minimize or control the impact of fire on structures and their components; however, the change of materials properties and the loss of structure stiffness require comprehensive evaluation of the structure’s performance to recommend the subsequent actions. In this paper, design recommendations and codes requirements for fire resistant design of steel structure according to Eurocode 3 are discussed.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.22214/ijraset.2023.57435",
+    "url": "https://www.semanticscholar.org/paper/d645907a2daf4004fb0d278c2792fcfc22d4cee7",
+    "citation_count": 15,
+    "source": "semantic_scholar"
+  }
+]

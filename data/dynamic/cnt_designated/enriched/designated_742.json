@@ -1,0 +1,35 @@
+{
+  "tech_number": "742",
+  "tech_name": "공장 생산된 박막형 점착 복합 방수시트와 콘크리트간 재료적 일체성을 가지는 건식화 복합방수 시공기술(Dry Waterproof System)",
+  "tech_field": "건축 > 방수 > 구체 방수 및 지하외방수",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=31&apntNo=742&frMenu=list&newtecId=27724",
+  "patents": [
+    {
+      "title": "지하 콘크리트 구조물 방수공법",
+      "type": "특허등록",
+      "register_number": "100929362"
+    },
+    {
+      "title": "습윤면 접착 고점도 아스팔트 매스틱 도막 방수재 및 이의 제조방법",
+      "type": "특허등록",
+      "register_number": "101030574"
+    },
+    {
+      "title": "박막형 방수층을 가진 방수시트 및 그 제조방법",
+      "type": "특허등록",
+      "register_number": "101114962"
+    },
+    {
+      "title": "지하구조물의 외방수와 역타설 구간의 방수시공 방법 ",
+      "type": "특허등록",
+      "register_number": "101360132"
+    },
+    {
+      "title": "지하구조물의 외방수와 역타설 구간의 방수시공 방법 ",
+      "type": "특허등록",
+      "register_number": "101380741"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 3
+}

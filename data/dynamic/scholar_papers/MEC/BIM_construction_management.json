@@ -1,0 +1,1163 @@
+[
+  {
+    "paper_id": "7413dafa8537001ab2c5a20f409086163b488e5b",
+    "title": "Research on BIM Construction Management Platform of Guangzhou Evergrande Football Stadium Project",
+    "authors": "Tianping Bi, Qi Ao, ChunYe Zhang",
+    "journal": "Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City",
+    "publish_year": "2021",
+    "abstract": "In order to realize the intelligent management of Guangzhou Evergrande Football Stadium project construction stage, the refined BIM model is used as the carrier to realize multi-party collaborative management, and then achieve the linkage management of quality, safety and progress.In this paper, on the basis of the Revit model library, we use C#. Net language, combined with visual studio. Net to develop the software, establish the BIM family library and other contents to transform with the 3DGIS basic data format, and realize the integration of Revit model content and 3DGIS basic data;BIM construction management platform is the innovative need to apply BIM+3DGIS+IoT technology to the whole life cycle management of construction industry, promote the digitization of urban physical space and the integration of data, technology and business in various fields, and finally meet the management needs of visualization, intelligence, informatization and refinement of Engineering management of large and medium-sized projects.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1145/3512576.3512645",
+    "url": "https://www.semanticscholar.org/paper/7413dafa8537001ab2c5a20f409086163b488e5b",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "7413dafa8537001ab2c5a20f409086163b488e5b",
+      "externalIds": {
+        "DBLP": "conf/icit/BiAZ21",
+        "DOI": "10.1145/3512576.3512645",
+        "CorpusId": 248087288
+      },
+      "url": "https://www.semanticscholar.org/paper/7413dafa8537001ab2c5a20f409086163b488e5b",
+      "title": "Research on BIM Construction Management Platform of Guangzhou Evergrande Football Stadium Project",
+      "year": 2021,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3512576.3512645?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3512576.3512645, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle",
+        "Book"
+      ],
+      "journal": {
+        "name": "Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart City"
+      },
+      "authors": [
+        {
+          "authorId": "3210936",
+          "name": "Tianping Bi"
+        },
+        {
+          "authorId": "2203814504",
+          "name": "Qi Ao"
+        },
+        {
+          "authorId": "2124626743",
+          "name": "ChunYe Zhang"
+        }
+      ],
+      "abstract": "In order to realize the intelligent management of Guangzhou Evergrande Football Stadium project construction stage, the refined BIM model is used as the carrier to realize multi-party collaborative management, and then achieve the linkage management of quality, safety and progress.In this paper, on the basis of the Revit model library, we use C#. Net language, combined with visual studio. Net to develop the software, establish the BIM family library and other contents to transform with the 3DGIS basic data format, and realize the integration of Revit model content and 3DGIS basic data;BIM construction management platform is the innovative need to apply BIM+3DGIS+IoT technology to the whole life cycle management of construction industry, promote the digitization of urban physical space and the integration of data, technology and business in various fields, and finally meet the management needs of visualization, intelligence, informatization and refinement of Engineering management of large and medium-sized projects."
+    }
+  },
+  {
+    "paper_id": "6e88881c62455c0154b29212ce903e05fbd77c20",
+    "title": "Application of the PKPM-BIM construction management platform in project security management",
+    "authors": "Liu Chen, Wang Jing",
+    "journal": "",
+    "publish_year": "2017",
+    "abstract": "",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "",
+    "url": "https://www.semanticscholar.org/paper/6e88881c62455c0154b29212ce903e05fbd77c20",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "6e88881c62455c0154b29212ce903e05fbd77c20",
+      "externalIds": {
+        "MAG": "2886339214",
+        "CorpusId": 115973321
+      },
+      "url": "https://www.semanticscholar.org/paper/6e88881c62455c0154b29212ce903e05fbd77c20",
+      "title": "Application of the PKPM-BIM construction management platform in project security management",
+      "year": 2017,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "",
+        "pages": "58-62",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2108443885",
+          "name": "Liu Chen"
+        },
+        {
+          "authorId": "145920088",
+          "name": "Wang Jing"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "paper_id": "48cf17acfb902046eb036a8f535c0ab5ec6941e0",
+    "title": "Innovative BIM technology application in the construction management of highway",
+    "authors": "Dong Zhou, Bida Pei, Xueqin Li, Dingfu Jiang, Lin Wen",
+    "journal": "Scientific Reports",
+    "publish_year": "2024",
+    "abstract": "Within the global architecture, engineering, and construction industry, the use of Building Information Modeling (BIM) technology has significantly expanded. However, given the unique characteristics of road infrastructure, the application of BIM technology is still being explored. This article focuses on the Yuanchen Expressway, exploring innovative applications of BIM technology in comprehensive construction management. The project employs advanced technologies, including BIM, Geographic Information Systems (GIS), and the Internet of Things (IoT), to precisely identify critical nodes and breakthroughs. Supported by a detailed BIM model and a multi-level, diversified digital management platform, the project effectively addresses construction challenges in multiple tunnels, bridges, and complex interchanges, achieving intelligent construction innovation throughout the Yuanchen Expressway with BIM technology. By guiding construction through BIM models, utilizing a BIM+GIS-based management cloud platform system, and employing VR safety briefings, the project effectively reduces the difficulty of communication and coordination in project management, shortens the project measurement cycle, improves on-site work efficiency, and ensures comprehensive control and safety management. This article provides an exemplary case for the application of full-line construction management using BIM technology in the highway sector both in China and globally, offering new perspectives and strategies for highway construction management.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1038/s41598-024-66232-5",
+    "url": "https://www.semanticscholar.org/paper/48cf17acfb902046eb036a8f535c0ab5ec6941e0",
+    "citation_count": 36,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "48cf17acfb902046eb036a8f535c0ab5ec6941e0",
+      "externalIds": {
+        "PubMedCentral": "11222554",
+        "DOI": "10.1038/s41598-024-66232-5",
+        "CorpusId": 270961301,
+        "PubMed": "38961179"
+      },
+      "url": "https://www.semanticscholar.org/paper/48cf17acfb902046eb036a8f535c0ab5ec6941e0",
+      "title": "Innovative BIM technology application in the construction management of highway",
+      "year": 2024,
+      "citationCount": 36,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41598-024-66232-5.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11222554, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Scientific Reports",
+        "volume": "14"
+      },
+      "authors": [
+        {
+          "authorId": "2266106978",
+          "name": "Dong Zhou"
+        },
+        {
+          "authorId": "2309696743",
+          "name": "Bida Pei"
+        },
+        {
+          "authorId": "2116253756",
+          "name": "Xueqin Li"
+        },
+        {
+          "authorId": "9186500",
+          "name": "Dingfu Jiang"
+        },
+        {
+          "authorId": "2266180162",
+          "name": "Lin Wen"
+        }
+      ],
+      "abstract": "Within the global architecture, engineering, and construction industry, the use of Building Information Modeling (BIM) technology has significantly expanded. However, given the unique characteristics of road infrastructure, the application of BIM technology is still being explored. This article focuses on the Yuanchen Expressway, exploring innovative applications of BIM technology in comprehensive construction management. The project employs advanced technologies, including BIM, Geographic Information Systems (GIS), and the Internet of Things (IoT), to precisely identify critical nodes and breakthroughs. Supported by a detailed BIM model and a multi-level, diversified digital management platform, the project effectively addresses construction challenges in multiple tunnels, bridges, and complex interchanges, achieving intelligent construction innovation throughout the Yuanchen Expressway with BIM technology. By guiding construction through BIM models, utilizing a BIM+GIS-based management cloud platform system, and employing VR safety briefings, the project effectively reduces the difficulty of communication and coordination in project management, shortens the project measurement cycle, improves on-site work efficiency, and ensures comprehensive control and safety management. This article provides an exemplary case for the application of full-line construction management using BIM technology in the highway sector both in China and globally, offering new perspectives and strategies for highway construction management."
+    }
+  },
+  {
+    "paper_id": "21a684244442fca057d1ce1d40cfae9e1e0036ec",
+    "title": "Use of Building Information Modeling (BIM) to Improve Construction Management in the USA",
+    "authors": "Igba Emmanuel, Edwin Osei Danquah, Emmanuel Adikwu Ukpoju, Jesutosin Obasa, T. Olola, Joy Onma Enyejo",
+    "journal": "World Journal of Advanced Research and Reviews",
+    "publish_year": "2024",
+    "abstract": "The construction industry in the United States faces ongoing challenges related to cost overruns, project delays, and inefficiencies in project management. Building Information Modeling (BIM) has emerged as a transformative technology with the potential to address these issues by enhancing the precision, collaboration, and decision-making processes in construction management. This paper provides a comprehensive review of the application of BIM in the U.S. construction sector, with a focus on its impact on improving construction management practices. The review explores the specific ways in which BIM contributes to project success, including its ability to streamline workflows, reduce errors, and facilitate real-time collaboration among stakeholders. Through an in-depth analysis of current literature, this paper highlights the specialized functions of BIM that are particularly beneficial for construction management in the U.S., such as clash detection, 4D scheduling, and cost estimation. The paper also examines case studies that demonstrate the successful integration of BIM in large-scale projects across the country, showcasing tangible improvements in project outcomes, including reduced project timelines and enhanced cost efficiency. Additionally, the paper delves into the challenges associated with BIM adoption in the U.S., including the need for skilled personnel, the integration of BIM with existing project management systems, and the legal and contractual implications of BIM-based collaboration. These challenges are discussed alongside strategies for overcoming them, emphasizing the importance of training, standardization, and cross-disciplinary collaboration. The findings of this review suggest that the widespread adoption of BIM in the U.S. construction industry holds significant promise for enhancing project management efficiency, improving stakeholder communication, and ultimately contributing to more successful project outcomes. The paper concludes by proposing best practices for BIM implementation in construction management, aiming to guide industry professionals in leveraging this technology to its fullest potential.",
+    "keywords": [],
+    "doi": "10.30574/wjarr.2024.23.3.2794",
+    "url": "https://www.semanticscholar.org/paper/21a684244442fca057d1ce1d40cfae9e1e0036ec",
+    "citation_count": 31,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "21a684244442fca057d1ce1d40cfae9e1e0036ec",
+      "externalIds": {
+        "DOI": "10.30574/wjarr.2024.23.3.2794",
+        "CorpusId": 272817103
+      },
+      "url": "https://www.semanticscholar.org/paper/21a684244442fca057d1ce1d40cfae9e1e0036ec",
+      "title": "Use of Building Information Modeling (BIM) to Improve Construction Management in the USA",
+      "year": 2024,
+      "citationCount": 31,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjarr.2024.23.3.2794?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjarr.2024.23.3.2794, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "journal": {
+        "name": "World Journal of Advanced Research and Reviews"
+      },
+      "authors": [
+        {
+          "authorId": "2324431389",
+          "name": "Igba Emmanuel"
+        },
+        {
+          "authorId": "2324431550",
+          "name": "Edwin Osei Danquah"
+        },
+        {
+          "authorId": "2290316889",
+          "name": "Emmanuel Adikwu Ukpoju"
+        },
+        {
+          "authorId": "2324433200",
+          "name": "Jesutosin Obasa"
+        },
+        {
+          "authorId": "2198421792",
+          "name": "T. Olola"
+        },
+        {
+          "authorId": "2314818947",
+          "name": "Joy Onma Enyejo"
+        }
+      ],
+      "abstract": "The construction industry in the United States faces ongoing challenges related to cost overruns, project delays, and inefficiencies in project management. Building Information Modeling (BIM) has emerged as a transformative technology with the potential to address these issues by enhancing the precision, collaboration, and decision-making processes in construction management. This paper provides a comprehensive review of the application of BIM in the U.S. construction sector, with a focus on its impact on improving construction management practices. The review explores the specific ways in which BIM contributes to project success, including its ability to streamline workflows, reduce errors, and facilitate real-time collaboration among stakeholders. Through an in-depth analysis of current literature, this paper highlights the specialized functions of BIM that are particularly beneficial for construction management in the U.S., such as clash detection, 4D scheduling, and cost estimation. The paper also examines case studies that demonstrate the successful integration of BIM in large-scale projects across the country, showcasing tangible improvements in project outcomes, including reduced project timelines and enhanced cost efficiency. Additionally, the paper delves into the challenges associated with BIM adoption in the U.S., including the need for skilled personnel, the integration of BIM with existing project management systems, and the legal and contractual implications of BIM-based collaboration. These challenges are discussed alongside strategies for overcoming them, emphasizing the importance of training, standardization, and cross-disciplinary collaboration. The findings of this review suggest that the widespread adoption of BIM in the U.S. construction industry holds significant promise for enhancing project management efficiency, improving stakeholder communication, and ultimately contributing to more successful project outcomes. The paper concludes by proposing best practices for BIM implementation in construction management, aiming to guide industry professionals in leveraging this technology to its fullest potential."
+    }
+  },
+  {
+    "paper_id": "9f77c81d15f28d9b81f6ae0cb16f20f20e0d6e3b",
+    "title": "BIM-driven energy simulation and optimization for net-zero tall buildings: sustainable construction management",
+    "authors": "Muhammad Sajjad, Anfeng Hu, A. Alshehri, A. Waqar, Abdul Mateen Khan, A. Bageis, Yassir G. Elaraki, A. A. A. Shohan, Omrane Benjeddou",
+    "journal": "Frontiers in Built Environment",
+    "publish_year": "2024",
+    "abstract": "The growing demand for sustainable and energy-efficient buildings, particularly in the context of tall structures, has prompted increased attention to innovative solutions. Despite advancements in Building Information Modelling (BIM) technology, there exists a critical gap in understanding its comprehensive application for achieving net-zero energy consumption in tall buildings, particularly in the Malaysian construction industry. This research addresses this gap by presenting a novel strategy that integrates BIM technology with energy analysis tools for net-zero tall buildings in Malaysia. The aim of the study is to contribute valuable insights to the construction industry, policymakers, and researchers by conducting empirical research, utilizing case studies, validating the proposed framework, advancing sustainable design practices, and supporting the transition towards net-zero energy tall buildings in Malaysia. The methodology involves a three-phase approach, including qualitative analysis, a pilot survey, and a main questionnaire. Exploratory factor analysis (EFA) validates the categorization derived from qualitative interviews, while Partial Least Squares Structural Equation Modelling (PLS-SEM) assesses the convergent and discriminant validity of the measurement model. Hypotheses testing using bootstrapping establishes the significance of correlations between BIM deployment and key factors such as early design integration, enhanced energy efficiency, optimized system integration, predictive performance analysis, and validation of sustainable design. The research findings support the positive associations between BIM deployment and the mentioned factors, providing statistical significance through T-statistics and p-values. The implications of this research extend beyond the Malaysian context, offering valuable insights for architects, engineers, and stakeholders involved in designing and managing sustainable tall buildings. By addressing the identified gaps and leveraging BIM technology effectively, stakeholders can contribute to the construction of net-zero energy structures, aligning with global efforts towards sustainable and energy-efficient building practices.",
+    "keywords": [],
+    "doi": "10.3389/fbuil.2024.1296817",
+    "url": "https://www.semanticscholar.org/paper/9f77c81d15f28d9b81f6ae0cb16f20f20e0d6e3b",
+    "citation_count": 32,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "9f77c81d15f28d9b81f6ae0cb16f20f20e0d6e3b",
+      "externalIds": {
+        "DOI": "10.3389/fbuil.2024.1296817",
+        "CorpusId": 267489872
+      },
+      "url": "https://www.semanticscholar.org/paper/9f77c81d15f28d9b81f6ae0cb16f20f20e0d6e3b",
+      "title": "BIM-driven energy simulation and optimization for net-zero tall buildings: sustainable construction management",
+      "year": 2024,
+      "citationCount": 32,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fbuil.2024.1296817/pdf?isPublishedV2=False",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fbuil.2024.1296817?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fbuil.2024.1296817, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "journal": {
+        "name": "Frontiers in Built Environment"
+      },
+      "authors": [
+        {
+          "authorId": "2282647400",
+          "name": "Muhammad Sajjad"
+        },
+        {
+          "authorId": "2282866815",
+          "name": "Anfeng Hu"
+        },
+        {
+          "authorId": "2265273483",
+          "name": "A. Alshehri"
+        },
+        {
+          "authorId": "144489444",
+          "name": "A. Waqar"
+        },
+        {
+          "authorId": "2258433633",
+          "name": "Abdul Mateen Khan"
+        },
+        {
+          "authorId": "97620741",
+          "name": "A. Bageis"
+        },
+        {
+          "authorId": "2050611407",
+          "name": "Yassir G. Elaraki"
+        },
+        {
+          "authorId": "1742094936",
+          "name": "A. A. A. Shohan"
+        },
+        {
+          "authorId": "98235017",
+          "name": "Omrane Benjeddou"
+        }
+      ],
+      "abstract": "The growing demand for sustainable and energy-efficient buildings, particularly in the context of tall structures, has prompted increased attention to innovative solutions. Despite advancements in Building Information Modelling (BIM) technology, there exists a critical gap in understanding its comprehensive application for achieving net-zero energy consumption in tall buildings, particularly in the Malaysian construction industry. This research addresses this gap by presenting a novel strategy that integrates BIM technology with energy analysis tools for net-zero tall buildings in Malaysia. The aim of the study is to contribute valuable insights to the construction industry, policymakers, and researchers by conducting empirical research, utilizing case studies, validating the proposed framework, advancing sustainable design practices, and supporting the transition towards net-zero energy tall buildings in Malaysia. The methodology involves a three-phase approach, including qualitative analysis, a pilot survey, and a main questionnaire. Exploratory factor analysis (EFA) validates the categorization derived from qualitative interviews, while Partial Least Squares Structural Equation Modelling (PLS-SEM) assesses the convergent and discriminant validity of the measurement model. Hypotheses testing using bootstrapping establishes the significance of correlations between BIM deployment and key factors such as early design integration, enhanced energy efficiency, optimized system integration, predictive performance analysis, and validation of sustainable design. The research findings support the positive associations between BIM deployment and the mentioned factors, providing statistical significance through T-statistics and p-values. The implications of this research extend beyond the Malaysian context, offering valuable insights for architects, engineers, and stakeholders involved in designing and managing sustainable tall buildings. By addressing the identified gaps and leveraging BIM technology effectively, stakeholders can contribute to the construction of net-zero energy structures, aligning with global efforts towards sustainable and energy-efficient building practices."
+    }
+  },
+  {
+    "paper_id": "413f7115027fd823a85581e7e02cee71afa91537",
+    "title": "Integrating BIM and AI for Smart Construction Management: Current Status and Future Directions",
+    "authors": "Yue Pan, Limao Zhang",
+    "journal": "Archives of Computational Methods in Engineering",
+    "publish_year": "2022",
+    "abstract": "At present, building information modeling (BIM) has been developed into a digital backbone of the architecture, engineering, and construction industry. Als",
+    "keywords": [],
+    "doi": "10.1007/s11831-022-09830-8",
+    "url": "https://www.semanticscholar.org/paper/413f7115027fd823a85581e7e02cee71afa91537",
+    "citation_count": 284,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "413f7115027fd823a85581e7e02cee71afa91537",
+      "externalIds": {
+        "DOI": "10.1007/s11831-022-09830-8",
+        "CorpusId": 253330325
+      },
+      "url": "https://www.semanticscholar.org/paper/413f7115027fd823a85581e7e02cee71afa91537",
+      "title": "Integrating BIM and AI for Smart Construction Management: Current Status and Future Directions",
+      "year": 2022,
+      "citationCount": 284,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11831-022-09830-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11831-022-09830-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Archives of Computational Methods in Engineering",
+        "pages": "1081-1110",
+        "volume": "30"
+      },
+      "authors": [
+        {
+          "authorId": "1716219528",
+          "name": "Yue Pan"
+        },
+        {
+          "authorId": "2118821289",
+          "name": "Limao Zhang"
+        }
+      ],
+      "abstract": null
+    },
+    "abstract_source": "doi_scrape"
+  },
+  {
+    "paper_id": "5487b3d145a601bf17575b25a75e01a4b4473fad",
+    "title": "Lean and BIM integration benefits construction management practices in New Zealand",
+    "authors": "A. J. Likita, M. B. Jelodar, Vishnupriya Vishnupriya, J. Rotimi",
+    "journal": "Construction Innovation",
+    "publish_year": "2023",
+    "abstract": "\nPurpose\nThe construction industry is inefficient in terms of quality products, productivity and performance worldwide, including in Australia and New Zealand. The construction industry is becoming more innovative, competitive and complex; and more participants are involved in construction projects. There are new attempts to implement the Lean construction philosophy, integrated project delivery method and building information modelling (BIM) technology in construction industry to improve productivity and efficiency. This paper aims to identify Lean and BIM integration benefits in construction industry globally and in the New Zealand.\n\n\nDesign/methodology/approach\nA systematic literature review and case studies were used to identify various benefits of the integrating Lean and BIM in construction industry. It focused on articles published between 1995 and 2021.\n\n\nFindings\nLean and BIM benefits identified in the study were documented such as benefits over the traditional approach, critically increased efficiency and visualization, better building process, better building performance, mitigating risk and reduce cost. Also, several factors were identified as major benefits such as improved onsite collaboration, better coordination, improve onsite communication, increase productivity, mitigating risk, reducing waste and reduced cost. The study showed integrating Lean and BIM in construction management practice will help reduce several challenges which affect expected goals and customer anticipation. The research outcome ultimately will assist different stakeholders in applying Lean and BIM in construction management practice.\n\n\nOriginality/value\nThis study practically focused on using the integration of BIM and Lean principles to improve the construction industry productivity and performance.\n",
+    "keywords": [],
+    "doi": "10.1108/ci-06-2022-0136",
+    "url": "https://www.semanticscholar.org/paper/5487b3d145a601bf17575b25a75e01a4b4473fad",
+    "citation_count": 18,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "5487b3d145a601bf17575b25a75e01a4b4473fad",
+      "externalIds": {
+        "DOI": "10.1108/ci-06-2022-0136",
+        "CorpusId": 258906468
+      },
+      "url": "https://www.semanticscholar.org/paper/5487b3d145a601bf17575b25a75e01a4b4473fad",
+      "title": "Lean and BIM integration benefits construction management practices in New Zealand",
+      "year": 2023,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/ci-06-2022-0136?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/ci-06-2022-0136, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "journal": {
+        "name": "Construction Innovation"
+      },
+      "authors": [
+        {
+          "authorId": "133620701",
+          "name": "A. J. Likita"
+        },
+        {
+          "authorId": "95463472",
+          "name": "M. B. Jelodar"
+        },
+        {
+          "authorId": "2091409653",
+          "name": "Vishnupriya Vishnupriya"
+        },
+        {
+          "authorId": "95830175",
+          "name": "J. Rotimi"
+        }
+      ],
+      "abstract": "\nPurpose\nThe construction industry is inefficient in terms of quality products, productivity and performance worldwide, including in Australia and New Zealand. The construction industry is becoming more innovative, competitive and complex; and more participants are involved in construction projects. There are new attempts to implement the Lean construction philosophy, integrated project delivery method and building information modelling (BIM) technology in construction industry to improve productivity and efficiency. This paper aims to identify Lean and BIM integration benefits in construction industry globally and in the New Zealand.\n\n\nDesign/methodology/approach\nA systematic literature review and case studies were used to identify various benefits of the integrating Lean and BIM in construction industry. It focused on articles published between 1995 and 2021.\n\n\nFindings\nLean and BIM benefits identified in the study were documented such as benefits over the traditional approach, critically increased efficiency and visualization, better building process, better building performance, mitigating risk and reduce cost. Also, several factors were identified as major benefits such as improved onsite collaboration, better coordination, improve onsite communication, increase productivity, mitigating risk, reducing waste and reduced cost. The study showed integrating Lean and BIM in construction management practice will help reduce several challenges which affect expected goals and customer anticipation. The research outcome ultimately will assist different stakeholders in applying Lean and BIM in construction management practice.\n\n\nOriginality/value\nThis study practically focused on using the integration of BIM and Lean principles to improve the construction industry productivity and performance.\n"
+    }
+  },
+  {
+    "paper_id": "a86ca8dd98d2f99d0c55c5aed4f79813c5008163",
+    "title": "A review of construction management challenges and BIM-based solutions: perspectives from the schedule, cost, quality, and safety management",
+    "authors": "M. Parsamehr, U. Perera, Tharindu C. Dodanwala, Piyaruwan Perera, Rajeev Ruparathna",
+    "journal": "Asian Journal of Civil Engineering",
+    "publish_year": "2022",
+    "abstract": "Efficient project delivery in the context of contemporary construction management is dependent on large volumes of data. However, due to pertinent challeng",
+    "keywords": [],
+    "doi": "10.1007/s42107-022-00501-4",
+    "url": "https://www.semanticscholar.org/paper/a86ca8dd98d2f99d0c55c5aed4f79813c5008163",
+    "citation_count": 133,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "a86ca8dd98d2f99d0c55c5aed4f79813c5008163",
+      "externalIds": {
+        "DOI": "10.1007/s42107-022-00501-4",
+        "CorpusId": 252507734
+      },
+      "url": "https://www.semanticscholar.org/paper/a86ca8dd98d2f99d0c55c5aed4f79813c5008163",
+      "title": "A review of construction management challenges and BIM-based solutions: perspectives from the schedule, cost, quality, and safety management",
+      "year": 2022,
+      "citationCount": 133,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s42107-022-00501-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s42107-022-00501-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "Asian Journal of Civil Engineering",
+        "pages": "353-389",
+        "volume": "24"
+      },
+      "authors": [
+        {
+          "authorId": "2041929371",
+          "name": "M. Parsamehr"
+        },
+        {
+          "authorId": "2090625823",
+          "name": "U. Perera"
+        },
+        {
+          "authorId": "2114607872",
+          "name": "Tharindu C. Dodanwala"
+        },
+        {
+          "authorId": "121046030",
+          "name": "Piyaruwan Perera"
+        },
+        {
+          "authorId": "96817138",
+          "name": "Rajeev Ruparathna"
+        }
+      ],
+      "abstract": null
+    },
+    "abstract_source": "doi_scrape"
+  },
+  {
+    "paper_id": "7315a2d0c0e39ddc2df7370887e9f424709037eb",
+    "title": "Integration Model of Construction Management of BIM Construction Project Based on IFC",
+    "authors": "Yang Hongxia",
+    "journal": "Journal of Computational and Theoretical Nanoscience",
+    "publish_year": "2016",
+    "abstract": "",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1166/JCTN.2016.5849",
+    "url": "https://www.semanticscholar.org/paper/7315a2d0c0e39ddc2df7370887e9f424709037eb",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "7315a2d0c0e39ddc2df7370887e9f424709037eb",
+      "externalIds": {
+        "MAG": "2592814038",
+        "DOI": "10.1166/JCTN.2016.5849",
+        "CorpusId": 126295538
+      },
+      "url": "https://www.semanticscholar.org/paper/7315a2d0c0e39ddc2df7370887e9f424709037eb",
+      "title": "Integration Model of Construction Management of BIM Construction Project Based on IFC",
+      "year": 2016,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1166/JCTN.2016.5849?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1166/JCTN.2016.5849, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Computational and Theoretical Nanoscience",
+        "pages": "9368-9372",
+        "volume": "13"
+      },
+      "authors": [
+        {
+          "authorId": "50413333",
+          "name": "Yang Hongxia"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "paper_id": "05015170aaa69b5fc45907edc548a7a61383c9ed",
+    "title": "Intelligent Building Construction Management Based on BIM Digital Twin",
+    "authors": "Yi Jiang",
+    "journal": "Computational Intelligence and Neuroscience",
+    "publish_year": "2021",
+    "abstract": "In order to improve the construction effect of intelligent buildings, this paper combines the BIM digital twin technology to construct the overall structure of the building construction operation and maintenance system driven by the BIM digital twin. Moreover, this paper conducts intelligent simulation of the construction process of the building and combines the construction process of the intelligent building to apply the BIM digital twin technology to the construction management of the intelligent building. In addition, this paper uses BIM to simulate the construction process. After the construction management plan is developed, BIM can be used to simulate the construction, find the problems in the construction, and formulate a reliable construction management plan in time. Through simulation experiment research, it can be known that the intelligent building construction management model based on BIM digital twin proposed in this paper can help the deployment of intelligent building construction process in many aspects and help improve the efficiency of building construction management.",
+    "keywords": [
+      "Medicine",
+      "Computer Science"
+    ],
+    "doi": "10.1155/2021/4979249",
+    "url": "https://www.semanticscholar.org/paper/05015170aaa69b5fc45907edc548a7a61383c9ed",
+    "citation_count": 42,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "05015170aaa69b5fc45907edc548a7a61383c9ed",
+      "externalIds": {
+        "DBLP": "journals/cin/Jiang21",
+        "PubMedCentral": "8691975",
+        "DOI": "10.1155/2021/4979249",
+        "CorpusId": 245238569,
+        "PubMed": "34950199"
+      },
+      "url": "https://www.semanticscholar.org/paper/05015170aaa69b5fc45907edc548a7a61383c9ed",
+      "title": "Intelligent Building Construction Management Based on BIM Digital Twin",
+      "year": 2021,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/cin/2021/4979249.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8691975, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Computational Intelligence and Neuroscience",
+        "volume": "2021"
+      },
+      "authors": [
+        {
+          "authorId": "2146421841",
+          "name": "Yi Jiang"
+        }
+      ],
+      "abstract": "In order to improve the construction effect of intelligent buildings, this paper combines the BIM digital twin technology to construct the overall structure of the building construction operation and maintenance system driven by the BIM digital twin. Moreover, this paper conducts intelligent simulation of the construction process of the building and combines the construction process of the intelligent building to apply the BIM digital twin technology to the construction management of the intelligent building. In addition, this paper uses BIM to simulate the construction process. After the construction management plan is developed, BIM can be used to simulate the construction, find the problems in the construction, and formulate a reliable construction management plan in time. Through simulation experiment research, it can be known that the intelligent building construction management model based on BIM digital twin proposed in this paper can help the deployment of intelligent building construction process in many aspects and help improve the efficiency of building construction management."
+    }
+  },
+  {
+    "paper_id": "cf7364f9c0c68a521eea37dae4040bdb758df840",
+    "title": "Construction Management Supported by BIM and a Business Intelligence Tool",
+    "authors": "F. Rodrigues, A. Alves, R. Matos",
+    "journal": "Energies",
+    "publish_year": "2022",
+    "abstract": "The construction sector generates large amounts of heterogeneous and dynamic data characterized by their fragmentation throughout the life cycle of a project. Immediate and accurate access to that data is fundamental to the management, decision-making and analysis by construction owners, supervisors, managers, and technicians involved in the different phases of the project life cycle. However, since construction project data are diverse, dispersed, uncorrelated, and difficult to visualize, a reliable basis for decision-making can rarely be established by the management team. Aiming to bridge this gap, a methodology for data management during building construction by means of Data with BIM and Business Intelligence (BI) analysis tools was developed in this study. This methodology works by extracting data from 3D parametric model and integrating it with a BI tool, through which data are visualized and interrelated with the same database, the BIM model. To demonstrate the applicability of the methodology, a study case was carried out. It was shown that this methodology provides a collaborative platform for accurate data analysis to the construction management and supervision teams, allowing project stakeholders to access and update data in real-time, in permanent linkage with the BIM model. Additionally, improving the reliability of the decision-making process and ensuring project deliverability, the developed methodology contributes to a more sustainable management process by decreasing errors and resource consumption, including energy. Therefore, the main goal of this study is to present a methodology for data analysis with BIM models integrated with BI for sustainable construction management.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/en15093412",
+    "url": "https://www.semanticscholar.org/paper/cf7364f9c0c68a521eea37dae4040bdb758df840",
+    "citation_count": 32,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "cf7364f9c0c68a521eea37dae4040bdb758df840",
+      "externalIds": {
+        "DOI": "10.3390/en15093412",
+        "CorpusId": 248615703
+      },
+      "url": "https://www.semanticscholar.org/paper/cf7364f9c0c68a521eea37dae4040bdb758df840",
+      "title": "Construction Management Supported by BIM and a Business Intelligence Tool",
+      "year": 2022,
+      "citationCount": 32,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/15/9/3412/pdf?version=1651899634",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/en15093412?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en15093412, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Energies"
+      },
+      "authors": [
+        {
+          "authorId": "145898337",
+          "name": "F. Rodrigues"
+        },
+        {
+          "authorId": "2164788362",
+          "name": "A. Alves"
+        },
+        {
+          "authorId": "108385117",
+          "name": "R. Matos"
+        }
+      ],
+      "abstract": "The construction sector generates large amounts of heterogeneous and dynamic data characterized by their fragmentation throughout the life cycle of a project. Immediate and accurate access to that data is fundamental to the management, decision-making and analysis by construction owners, supervisors, managers, and technicians involved in the different phases of the project life cycle. However, since construction project data are diverse, dispersed, uncorrelated, and difficult to visualize, a reliable basis for decision-making can rarely be established by the management team. Aiming to bridge this gap, a methodology for data management during building construction by means of Data with BIM and Business Intelligence (BI) analysis tools was developed in this study. This methodology works by extracting data from 3D parametric model and integrating it with a BI tool, through which data are visualized and interrelated with the same database, the BIM model. To demonstrate the applicability of the methodology, a study case was carried out. It was shown that this methodology provides a collaborative platform for accurate data analysis to the construction management and supervision teams, allowing project stakeholders to access and update data in real-time, in permanent linkage with the BIM model. Additionally, improving the reliability of the decision-making process and ensuring project deliverability, the developed methodology contributes to a more sustainable management process by decreasing errors and resource consumption, including energy. Therefore, the main goal of this study is to present a methodology for data analysis with BIM models integrated with BI for sustainable construction management."
+    }
+  },
+  {
+    "paper_id": "8e8b04b60424dbd86ff187872091f828ff82f696",
+    "title": "Bim And Construction Management",
+    "authors": "Bim And, Construction Management",
+    "journal": "",
+    "publish_year": "2021",
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "url": "https://www.semanticscholar.org/paper/8e8b04b60424dbd86ff187872091f828ff82f696",
+    "citation_count": 34,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "8e8b04b60424dbd86ff187872091f828ff82f696",
+      "externalIds": {
+        "CorpusId": 114748486
+      },
+      "url": "https://www.semanticscholar.org/paper/8e8b04b60424dbd86ff187872091f828ff82f696",
+      "title": "Bim And Construction Management",
+      "year": 2021,
+      "citationCount": 34,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": null,
+      "authors": [
+        {
+          "authorId": "2286616281",
+          "name": "Bim And"
+        },
+        {
+          "authorId": "2286758104",
+          "name": "Construction Management"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "paper_id": "602049efa2d001fb4e8459ff4529c00a0d9a7ed6",
+    "title": "A Review of Challenges and Opportunities in BIM Adoption for Construction Project Management",
+    "authors": "The Van Tran, Hoa Van Vu Tran, Tuan Anh Nguyen",
+    "journal": "Engineering Journal",
+    "publish_year": "2024",
+    "abstract": ". This research investigates the transformative impact of Building Information Modeling (BIM) on construction project management, highlighting its potential to enhance traditional processes through digital innovation. As the construction industry evolves amidst global economic integration and heightened competition, the demand for quality, efficiency, and sustainability escalates, presenting new challenges for project managers. Traditional management practices, while foundational, lack the dynamism and integrative capabilities offered by BIM technology. BIM emerges as a revolutionary paradigm, facilitating a shared digital environment that promotes precision, efficiency, and improved collaboration across the project lifecycle. By integrating BIM with artificial intelligence (AI), this study explores novel synergies that further refine project management methodologies, addressing complex challenges in the design, execution, and maintenance phases. The research employs a comprehensive review of existing literature, case studies, and practical applications to assess the effectiveness of BIM in various project management contexts. The findings reveal that while BIM significantly enhances project outcomes, its adoption faces technological, organizational, and cultural barriers. This necessitates a comprehensive strategy encompassing innovation, education, and policy reform to unlock its full potential. The study underscores the critical role of BIM in driving the future of construction project management, advocating for a collaborative effort among industry stakeholders to foster a conducive environment for BIM adoption and leverage its benefits for sustainable development in the construction sector.",
+    "keywords": [],
+    "doi": "10.4186/ej.2024.28.8.79",
+    "url": "https://www.semanticscholar.org/paper/602049efa2d001fb4e8459ff4529c00a0d9a7ed6",
+    "citation_count": 41,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "602049efa2d001fb4e8459ff4529c00a0d9a7ed6",
+      "externalIds": {
+        "DOI": "10.4186/ej.2024.28.8.79",
+        "CorpusId": 272964472
+      },
+      "url": "https://www.semanticscholar.org/paper/602049efa2d001fb4e8459ff4529c00a0d9a7ed6",
+      "title": "A Review of Challenges and Opportunities in BIM Adoption for Construction Project Management",
+      "year": 2024,
+      "citationCount": 41,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.4186/ej.2024.28.8.79",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4186/ej.2024.28.8.79?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4186/ej.2024.28.8.79, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "journal": {
+        "name": "Engineering Journal"
+      },
+      "authors": [
+        {
+          "authorId": "2294931021",
+          "name": "The Van Tran"
+        },
+        {
+          "authorId": "2321102393",
+          "name": "Hoa Van Vu Tran"
+        },
+        {
+          "authorId": "2295082798",
+          "name": "Tuan Anh Nguyen"
+        }
+      ],
+      "abstract": ". This research investigates the transformative impact of Building Information Modeling (BIM) on construction project management, highlighting its potential to enhance traditional processes through digital innovation. As the construction industry evolves amidst global economic integration and heightened competition, the demand for quality, efficiency, and sustainability escalates, presenting new challenges for project managers. Traditional management practices, while foundational, lack the dynamism and integrative capabilities offered by BIM technology. BIM emerges as a revolutionary paradigm, facilitating a shared digital environment that promotes precision, efficiency, and improved collaboration across the project lifecycle. By integrating BIM with artificial intelligence (AI), this study explores novel synergies that further refine project management methodologies, addressing complex challenges in the design, execution, and maintenance phases. The research employs a comprehensive review of existing literature, case studies, and practical applications to assess the effectiveness of BIM in various project management contexts. The findings reveal that while BIM significantly enhances project outcomes, its adoption faces technological, organizational, and cultural barriers. This necessitates a comprehensive strategy encompassing innovation, education, and policy reform to unlock its full potential. The study underscores the critical role of BIM in driving the future of construction project management, advocating for a collaborative effort among industry stakeholders to foster a conducive environment for BIM adoption and leverage its benefits for sustainable development in the construction sector."
+    }
+  },
+  {
+    "paper_id": "2390c49d271e394dd09d62a93f2da087fd8d3441",
+    "title": "CONCEPTUAL FRAMEWORK FOR INTEGRATING BIM AND AUGMENTED REALITY IN CONSTRUCTION MANAGEMENT",
+    "authors": "R. Machado, C. Vilela",
+    "journal": "JOURNAL OF CIVIL ENGINEERING AND MANAGEMENT",
+    "publish_year": "2020",
+    "abstract": "The need for systematic data collection and processing to generate real-time building site \n progress information is critical. Building Information Modelling (BIM) provides the benefit of aggregating information \n about the building site on a single platform. Augmented reality (AR) emerges to enhance BIM concerning visualization of \n the building site, through processing and automatic absorption of information. This work aims to analyse the potential \n of AR association to BIM, by adopting an approach based on literature review. Trends in contemporary research are checked \n by categorizing applied research methods, areas of expertise, and AR technologies. Publications produced between 2008 \n and 2018 from journals of architecture, engineering, and construction areas in databases Web of Science, SciSearch, \n SCOPUS, INSPEC, Google Scholar, Academic OneFile, EBSCO, OCLC, VINITI, SCImago, and ProQuest were investigated. \n As main results, it was found that the case study approach was adopted in 41% of the publications analysed. The building \n site inspection was the research object in 48% of papers. Fiducial markers, GIS/GPS, laser scanners, and photogrammetry \n emerged as main options for automatic data capture on the progress of the building site. Integration between AR and BIM \n has the potential to solve information processing problems and improving construction management.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3846/jcem.2020.11803",
+    "url": "https://www.semanticscholar.org/paper/2390c49d271e394dd09d62a93f2da087fd8d3441",
+    "citation_count": 55,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "2390c49d271e394dd09d62a93f2da087fd8d3441",
+      "externalIds": {
+        "MAG": "3001573261",
+        "DOI": "10.3846/jcem.2020.11803",
+        "CorpusId": 211075757
+      },
+      "url": "https://www.semanticscholar.org/paper/2390c49d271e394dd09d62a93f2da087fd8d3441",
+      "title": "CONCEPTUAL FRAMEWORK FOR INTEGRATING BIM AND AUGMENTED REALITY IN CONSTRUCTION MANAGEMENT",
+      "year": 2020,
+      "citationCount": 55,
+      "openAccessPdf": {
+        "url": "https://journals.vgtu.lt/index.php/JCEM/article/download/11803/9631",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3846/jcem.2020.11803?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3846/jcem.2020.11803, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "JOURNAL OF CIVIL ENGINEERING AND MANAGEMENT"
+      },
+      "authors": [
+        {
+          "authorId": "2056894950",
+          "name": "R. Machado"
+        },
+        {
+          "authorId": "2141910298",
+          "name": "C. Vilela"
+        }
+      ],
+      "abstract": "The need for systematic data collection and processing to generate real-time building site \n progress information is critical. Building Information Modelling (BIM) provides the benefit of aggregating information \n about the building site on a single platform. Augmented reality (AR) emerges to enhance BIM concerning visualization of \n the building site, through processing and automatic absorption of information. This work aims to analyse the potential \n of AR association to BIM, by adopting an approach based on literature review. Trends in contemporary research are checked \n by categorizing applied research methods, areas of expertise, and AR technologies. Publications produced between 2008 \n and 2018 from journals of architecture, engineering, and construction areas in databases Web of Science, SciSearch, \n SCOPUS, INSPEC, Google Scholar, Academic OneFile, EBSCO, OCLC, VINITI, SCImago, and ProQuest were investigated. \n As main results, it was found that the case study approach was adopted in 41% of the publications analysed. The building \n site inspection was the research object in 48% of papers. Fiducial markers, GIS/GPS, laser scanners, and photogrammetry \n emerged as main options for automatic data capture on the progress of the building site. Integration between AR and BIM \n has the potential to solve information processing problems and improving construction management."
+    }
+  },
+  {
+    "paper_id": "9ca92b3c6bf12074073113b59f8804dff656e7b5",
+    "title": "Lean construction management techniques and BIM technology - systematic literature review",
+    "authors": "Adrian Michalski, Eryk Glodzinski, Klaus Bde",
+    "journal": "",
+    "publish_year": "2021",
+    "abstract": "",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.procs.2021.12.107",
+    "url": "https://www.semanticscholar.org/paper/9ca92b3c6bf12074073113b59f8804dff656e7b5",
+    "citation_count": 38,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "9ca92b3c6bf12074073113b59f8804dff656e7b5",
+      "externalIds": {
+        "DBLP": "conf/centeris/MichalskiGB21",
+        "DOI": "10.1016/j.procs.2021.12.107",
+        "CorpusId": 245869373
+      },
+      "url": "https://www.semanticscholar.org/paper/9ca92b3c6bf12074073113b59f8804dff656e7b5",
+      "title": "Lean construction management techniques and BIM technology - systematic literature review",
+      "year": 2021,
+      "citationCount": 38,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.procs.2021.12.107",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.procs.2021.12.107?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.procs.2021.12.107, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "journal": {
+        "pages": "1036-1043"
+      },
+      "authors": [
+        {
+          "authorId": "2090709961",
+          "name": "Adrian Michalski"
+        },
+        {
+          "authorId": "2082837354",
+          "name": "Eryk Glodzinski"
+        },
+        {
+          "authorId": "2157257756",
+          "name": "Klaus Bde"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "paper_id": "7b3f85e0b5b0568e8aeadadfafc73b738bdb592d",
+    "title": "Incorporating BIM in the Final Semester Undergraduate Project of Construction Management — A Case Study in Fuzhou University",
+    "authors": "Liyuan Wang, Xueyuan Yan, Bing-hui Fan, R. Jin, Tong Yang, Georgios Kapogiannis",
+    "journal": "KSCE Journal of Civil Engineering",
+    "publish_year": "2020",
+    "abstract": "",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1007/s12205-020-1971-4",
+    "url": "https://www.semanticscholar.org/paper/7b3f85e0b5b0568e8aeadadfafc73b738bdb592d",
+    "citation_count": 19,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "7b3f85e0b5b0568e8aeadadfafc73b738bdb592d",
+      "externalIds": {
+        "MAG": "3034594454",
+        "DOI": "10.1007/s12205-020-1971-4",
+        "CorpusId": 225738730
+      },
+      "url": "https://www.semanticscholar.org/paper/7b3f85e0b5b0568e8aeadadfafc73b738bdb592d",
+      "title": "Incorporating BIM in the Final Semester Undergraduate Project of Construction Management — A Case Study in Fuzhou University",
+      "year": 2020,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12205-020-1971-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12205-020-1971-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "KSCE Journal of Civil Engineering",
+        "pages": "2403 - 2418",
+        "volume": "24"
+      },
+      "authors": [
+        {
+          "authorId": "2108947616",
+          "name": "Liyuan Wang"
+        },
+        {
+          "authorId": "49602522",
+          "name": "Xueyuan Yan"
+        },
+        {
+          "authorId": "2052131176",
+          "name": "Bing-hui Fan"
+        },
+        {
+          "authorId": "48270424",
+          "name": "R. Jin"
+        },
+        {
+          "authorId": "2109350394",
+          "name": "Tong Yang"
+        },
+        {
+          "authorId": "2979181",
+          "name": "Georgios Kapogiannis"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "paper_id": "ede38a69f87d22654af7897885ed489612530b08",
+    "title": "Application of GIS and BIM Integration Technology in Construction Management",
+    "authors": "Zhong-hua Han, Zhen Wang, C. Gao, M. Wang, Shengquan Li",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2020",
+    "abstract": "With the development of smart city, the concept of smart development is integrated into the construction management, so as to promote the smart development of construction and improve the efficiency of construction management. This paper discusses the application prospect of GIS-BIM integration technology in construction schedule management, site material management and safety management of construction personnel. At the same time, it looks into the application trend of gis-bim integration technology and global wide area network, Internet of things, virtual reality and other emerging technologies in the integration of building construction management, so as to promote the intelligent and visual management development of gis-bim integration technology in building construction management.",
+    "keywords": [
+      "Physics",
+      "Engineering"
+    ],
+    "doi": "10.1088/1755-1315/526/1/012161",
+    "url": "https://www.semanticscholar.org/paper/ede38a69f87d22654af7897885ed489612530b08",
+    "citation_count": 19,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "ede38a69f87d22654af7897885ed489612530b08",
+      "externalIds": {
+        "MAG": "3041535473",
+        "DOI": "10.1088/1755-1315/526/1/012161",
+        "CorpusId": 225596591
+      },
+      "url": "https://www.semanticscholar.org/paper/ede38a69f87d22654af7897885ed489612530b08",
+      "title": "Application of GIS and BIM Integration Technology in Construction Management",
+      "year": 2020,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "https://iopscience.iop.org/article/10.1088/1755-1315/526/1/012161/pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/526/1/012161?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/526/1/012161, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Engineering"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "526"
+      },
+      "authors": [
+        {
+          "authorId": "2113962864",
+          "name": "Zhong-hua Han"
+        },
+        {
+          "authorId": "2118455000",
+          "name": "Zhen Wang"
+        },
+        {
+          "authorId": "2114088887",
+          "name": "C. Gao"
+        },
+        {
+          "authorId": "2143740923",
+          "name": "M. Wang"
+        },
+        {
+          "authorId": "2153698842",
+          "name": "Shengquan Li"
+        }
+      ],
+      "abstract": "With the development of smart city, the concept of smart development is integrated into the construction management, so as to promote the smart development of construction and improve the efficiency of construction management. This paper discusses the application prospect of GIS-BIM integration technology in construction schedule management, site material management and safety management of construction personnel. At the same time, it looks into the application trend of gis-bim integration technology and global wide area network, Internet of things, virtual reality and other emerging technologies in the integration of building construction management, so as to promote the intelligent and visual management development of gis-bim integration technology in building construction management."
+    }
+  },
+  {
+    "paper_id": "d820401e3dd8fb7808416063ddf7c76c249e36a1",
+    "title": "Interoperability Analyses of BIM Platforms for Construction Management",
+    "authors": "C. D. De Gaetani, Mertkan Mert, F. Migliaccio",
+    "journal": "Applied Sciences",
+    "publish_year": "2020",
+    "abstract": "It is incontrovertible that an exchange of files is essentially required at several stages of the workflow in the architecture, engineering, and construction (AEC) industry. Therefore, investigating and detecting the capabilities/inabilities of building information modeling (BIM) software packages with respect to interoperability can be informative to stakeholders who exchange data between various BIM packages. The work presented in this paper includes a discussion on the interoperability of different software platforms commonly used in the AEC industry. Although, in theory, flawless interoperability of some types of files between different BIM platforms is ensured, in practical applications, this is not always the case. Hence, this research aims to identify faults in data exchange by assessing different possible scenarios where a sample Industry Foundation Classes (IFC) four-dimensions (4D) BIM model and related Gantt charts are exchanged. Throughout the interoperability analysis of both IFC file and Gantt charts, the following checks were carried out: geometrical and nongeometrical information exchange through IFC files, 4D information correct readability, and presence of missing schedule information in Gantt charts after their import/export procedure. The results show that interoperability between the analyzed platforms is not always ensured, providing useful insight into realistic scenarios.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3390/app10134437",
+    "url": "https://www.semanticscholar.org/paper/d820401e3dd8fb7808416063ddf7c76c249e36a1",
+    "citation_count": 45,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "d820401e3dd8fb7808416063ddf7c76c249e36a1",
+      "externalIds": {
+        "MAG": "3038220267",
+        "DOI": "10.3390/app10134437",
+        "CorpusId": 225682056
+      },
+      "url": "https://www.semanticscholar.org/paper/d820401e3dd8fb7808416063ddf7c76c249e36a1",
+      "title": "Interoperability Analyses of BIM Platforms for Construction Management",
+      "year": 2020,
+      "citationCount": 45,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2076-3417/10/13/4437/pdf?version=1593272249",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app10134437?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app10134437, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Applied Sciences"
+      },
+      "authors": [
+        {
+          "authorId": "1912218922",
+          "name": "C. D. De Gaetani"
+        },
+        {
+          "authorId": "2006070915",
+          "name": "Mertkan Mert"
+        },
+        {
+          "authorId": "69449833",
+          "name": "F. Migliaccio"
+        }
+      ],
+      "abstract": "It is incontrovertible that an exchange of files is essentially required at several stages of the workflow in the architecture, engineering, and construction (AEC) industry. Therefore, investigating and detecting the capabilities/inabilities of building information modeling (BIM) software packages with respect to interoperability can be informative to stakeholders who exchange data between various BIM packages. The work presented in this paper includes a discussion on the interoperability of different software platforms commonly used in the AEC industry. Although, in theory, flawless interoperability of some types of files between different BIM platforms is ensured, in practical applications, this is not always the case. Hence, this research aims to identify faults in data exchange by assessing different possible scenarios where a sample Industry Foundation Classes (IFC) four-dimensions (4D) BIM model and related Gantt charts are exchanged. Throughout the interoperability analysis of both IFC file and Gantt charts, the following checks were carried out: geometrical and nongeometrical information exchange through IFC files, 4D information correct readability, and presence of missing schedule information in Gantt charts after their import/export procedure. The results show that interoperability between the analyzed platforms is not always ensured, providing useful insight into realistic scenarios."
+    }
+  },
+  {
+    "paper_id": "9f647e2e8ef030a4e695c8b90226721b9feb788e",
+    "title": "The application of BIM technology in road and bridge construction management",
+    "authors": "Shen Jian",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2020",
+    "abstract": "In the whole construction process of highway and bridge, strict engineering quality and safety management, to some extent, is to help promote the long-term development of highway and bridge technology, at the same time, can effectively guarantee the overall safety of bridge and highway construction projects, and reduce the occurrence of safety accidents. In this paper, the application of BIM technology in the safety management of highways and bridges is analyzed to effectively improve the quality and efficiency of construction safety management measures, in order to provide important reference value for bridge construction management safety.",
+    "keywords": [
+      "Engineering",
+      "Physics"
+    ],
+    "doi": "10.1088/1755-1315/587/1/012002",
+    "url": "https://www.semanticscholar.org/paper/9f647e2e8ef030a4e695c8b90226721b9feb788e",
+    "citation_count": 14,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "9f647e2e8ef030a4e695c8b90226721b9feb788e",
+      "externalIds": {
+        "MAG": "3094185948",
+        "DOI": "10.1088/1755-1315/587/1/012002",
+        "CorpusId": 226338585
+      },
+      "url": "https://www.semanticscholar.org/paper/9f647e2e8ef030a4e695c8b90226721b9feb788e",
+      "title": "The application of BIM technology in road and bridge construction management",
+      "year": 2020,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1755-1315/587/1/012002",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/587/1/012002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/587/1/012002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering",
+        "Physics"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "587"
+      },
+      "authors": [
+        {
+          "authorId": "92463604",
+          "name": "Shen Jian"
+        }
+      ],
+      "abstract": "In the whole construction process of highway and bridge, strict engineering quality and safety management, to some extent, is to help promote the long-term development of highway and bridge technology, at the same time, can effectively guarantee the overall safety of bridge and highway construction projects, and reduce the occurrence of safety accidents. In this paper, the application of BIM technology in the safety management of highways and bridges is analyzed to effectively improve the quality and efficiency of construction safety management measures, in order to provide important reference value for bridge construction management safety."
+    }
+  },
+  {
+    "paper_id": "fc27dc2e6f367ca7d65adb12ba561fcc837580e7",
+    "title": "BIM, Augmented and Virtual Reality empowering Lean Construction Management: a project simulation game",
+    "authors": "P. Dallasega, Andrea Revolti, P. Sauer, Felix Schulze, E. Rauch",
+    "journal": "Procedia Manufacturing",
+    "publish_year": "2020",
+    "abstract": "Abstract During the last decades, Lean Management methodologies established in the manufacturing environment have been applied and adapted to the construction industry under the term “Lean Construction”. Currently, concepts and technologies from Industry 4.0 are mainly transforming the manufacturing industry and only few applications have been implemented to construction and its connected supply chains. This paper shows how new technologies like Building Information Modeling connected with Virtual and Augmented Reality could empower Lean Construction methodologies to increase efficiency during the building execution process. The approach was tested by using the project simulation game Villego® with students from the course “Project Management” of the master degree LM-33 “Industrial Mechanical Engineering” of the Free University of Bozen-Bolzano.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1016/j.promfg.2020.04.059",
+    "url": "https://www.semanticscholar.org/paper/fc27dc2e6f367ca7d65adb12ba561fcc837580e7",
+    "citation_count": 57,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "fc27dc2e6f367ca7d65adb12ba561fcc837580e7",
+      "externalIds": {
+        "MAG": "3021964826",
+        "DOI": "10.1016/j.promfg.2020.04.059",
+        "CorpusId": 219138356
+      },
+      "url": "https://www.semanticscholar.org/paper/fc27dc2e6f367ca7d65adb12ba561fcc837580e7",
+      "title": "BIM, Augmented and Virtual Reality empowering Lean Construction Management: a project simulation game",
+      "year": 2020,
+      "citationCount": 57,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.promfg.2020.04.059",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.promfg.2020.04.059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.promfg.2020.04.059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Procedia Manufacturing",
+        "pages": "49-54",
+        "volume": "45"
+      },
+      "authors": [
+        {
+          "authorId": "3419862",
+          "name": "P. Dallasega"
+        },
+        {
+          "authorId": "81169981",
+          "name": "Andrea Revolti"
+        },
+        {
+          "authorId": "116292204",
+          "name": "P. Sauer"
+        },
+        {
+          "authorId": "2065779541",
+          "name": "Felix Schulze"
+        },
+        {
+          "authorId": "26980856",
+          "name": "E. Rauch"
+        }
+      ],
+      "abstract": "Abstract During the last decades, Lean Management methodologies established in the manufacturing environment have been applied and adapted to the construction industry under the term “Lean Construction”. Currently, concepts and technologies from Industry 4.0 are mainly transforming the manufacturing industry and only few applications have been implemented to construction and its connected supply chains. This paper shows how new technologies like Building Information Modeling connected with Virtual and Augmented Reality could empower Lean Construction methodologies to increase efficiency during the building execution process. The approach was tested by using the project simulation game Villego® with students from the course “Project Management” of the master degree LM-33 “Industrial Mechanical Engineering” of the Free University of Bozen-Bolzano."
+    }
+  }
+]

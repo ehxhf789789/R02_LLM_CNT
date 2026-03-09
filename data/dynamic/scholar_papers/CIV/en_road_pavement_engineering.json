@@ -1,0 +1,296 @@
+[
+  {
+    "paper_id": "3368f18a5558c0c8062061628296532c9cee9c1a",
+    "title": "Sustainable Pavement Engineering and Road Materials",
+    "authors": "E. Bocci",
+    "journal": "Sustainability",
+    "publish_year": "2022",
+    "abstract": "One of the most topical research areas currently concerns the identification and improvement of technologies against climate change, environmental pollution, exploitation of natural resources, and the economic crisis [...]",
+    "keywords": [],
+    "doi": "10.3390/su14042166",
+    "url": "https://www.semanticscholar.org/paper/3368f18a5558c0c8062061628296532c9cee9c1a",
+    "citation_count": 7,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "c8448c23ad5b26e51fd2ef1a1236d0e18bcdc7b5",
+    "title": "Engineering Properties of New-Age (Nano) Modified Emulsion (NME) Stabilised Naturally Available Granular Road Pavement Materials Explained Using Basic Chemistry",
+    "authors": "G. Jordaan, W. Steyn",
+    "journal": "Applied Sciences",
+    "publish_year": "2021",
+    "abstract": "Nanoscale organofunctional silanes have been developed, tested and successfully applied to protect stone buildings in Europe against climatic effects since the 1860s. The same nanotechnologies can also be used in pavement engineering to create strong chemical bonds between a stabilising agent and granular material. The attachment of the organofunctional silane to a material also changes the surface of the material to become hydrophobic, thereby considerably reducing future chemical weathering. These properties allow naturally available materials to be used in any pavement layer at a low risk. In the built environment, scientists soon determined that the successful use of an organo-silane depends on the type and condition of the stone to be treated. The same principles apply to the implementation of applicable nanotechnologies in pavement engineering. Understanding the basic chemistry, determining the properties of the stabilising agent and the organofunctional modifying agent and the chemical interaction with the primary and secondary minerals of the material are essential for the successful application of these technologies in pavement engineering. This paper explains some basic chemistry, which fundamentally influences engineering outputs that can be achieved using New-age (Nano) Modified Emulsions (NME) stabilising agents with naturally available granular materials in all road pavement layers below the surfacing.",
+    "keywords": [
+      "Chemistry"
+    ],
+    "doi": "10.3390/app11209699",
+    "url": "https://www.semanticscholar.org/paper/c8448c23ad5b26e51fd2ef1a1236d0e18bcdc7b5",
+    "citation_count": 6,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3a376110cd445a7d89e372fb47313b243659e23f",
+    "title": "Enhancing local road pavement condition prediction using Bayesian-optimized ensemble machine learning and adaptive synthetic sampling technique",
+    "authors": "N. Elshaboury, Mohamed S. Yamany, Samuel Labi, Omar Smadi",
+    "journal": "International Journal of Pavement Engineering",
+    "publish_year": "2024",
+    "abstract": "ABSTRACT Pavement condition prediction helps road agencies to schedule maintenance, rehabilitation, and reconstruction, and to allocate limited funds and resources to such activities. Compared to state highways, pavement performance prediction for local roads has received relatively little attention in the literature due to perceptions of low importance, low levels of investment in data collection, poor data quality, and high variation within the data elements. Additionally, local road pavement condition data may suffer from dataset imbalance, often leading to unreliable condition predictions. Hence, this paper introduces a methodology to predict local pavement condition using various single estimator and ensemble machine learning (ML) models along with the adaptive synthetic sampling method. The study develops nine (9) Bayesian-optimised ML models: category boosting (CatBoost), adaptive boosting, decision tree, extra trees, gradient boosting, light gradient-boosting machine, k-nearest neighbour, random forest, and artificial neural network. The ensemble ML and CatBoost were found to exhibit the best model performance, with an average testing accuracy of 0.82, specificity of 0.81, sensitivity of 0.63, and F-measure of 0.61. These results underscore the efficacy of ensemble ML models in pavement condition prediction. The proposed approach can be beneficial to local road agencies in their long-term planning, scheduling, and budgeting.",
+    "keywords": [],
+    "doi": "10.1080/10298436.2024.2365957",
+    "url": "https://www.semanticscholar.org/paper/3a376110cd445a7d89e372fb47313b243659e23f",
+    "citation_count": 13,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "0f76b69951ee9fb74894b70a35339695adbc604f",
+    "title": "Performance, environmental impact, and cost evaluation of eucalyptus ash-stabilised dam sediments for sustainable pavement engineering",
+    "authors": "Nunthanis Wongvatana, Sakda Lhajai, Hatairat Poorahong, P. Jongpradist, P. Jamsawang",
+    "journal": "International Journal of Pavement Engineering",
+    "publish_year": "2025",
+    "abstract": "ABSTRACT This study explores the feasibility of using dam sediments stabilised with eucalyptus ash (EA) and cement as sustainable, cost-effective road construction materials. Typically considered waste, the sediments were combined with EA—known for its pozzolanic activity—and cement to enhance mechanical and environmental performance. Destructive tests included unconfined compressive strength (qu), California bearing ratio (CBR), secant elastic modulus, and wetting-drying durability. Non-destructive tests measured shear and compression wave velocities using free-free resonance methods. Microstructural analyses revealed the formation of calcium silicate hydrate gels, which densified the matrix and strengthened interparticle bonds. The optimal 10% EA-cement mix achieved a qu of 1.2 MPa, a CBR of 47%, and increased dynamic moduli, indicating improved stiffness and strength. A strong correlation between wave velocities and strength supports non-destructive evaluation for in-situ monitoring. Economic analysis showed that stabilised sediments are 2.6 times more cost-efficient than conventional materials, mainly due to reduced transport costs. Environmental assessments confirmed material safety with minimal heavy metal leaching. Overall, EA-cement-stabilized sediments offer a sustainable, high-performance alternative for pavements, supporting eco-friendly and economical infrastructure development.",
+    "keywords": [],
+    "doi": "10.1080/10298436.2025.2520028",
+    "url": "https://www.semanticscholar.org/paper/0f76b69951ee9fb74894b70a35339695adbc604f",
+    "citation_count": 5,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "9bf1c214acf599a49964c883be08096e512e8469",
+    "title": "Physics-informed neural networks to advance pavement engineering and management",
+    "authors": "Nima Kargah-Ostadi, K. Vasylevskyi, A. Ablets, A. Drach",
+    "journal": "Road Materials and Pavement Design",
+    "publish_year": "2024",
+    "abstract": "Physics-informed neural networks (PINN) are machine learning (ML) algorithms that can bridge the gap between our understanding of physical phenomena and the corresponding empirical observations. This paper discusses applications of physics-integrated ML to advance pavement engineering. To demonstrate an example, a PINN model was pretrained to approximate the simulation of vehicles’ suspension responses to longitudinal road profiles. The parameters of the outer layers were finetuned to adapt model output to the standard International Roughness Index (IRI), while keeping the pretrained inner layers to preserve the embedded physical knowledge of the suspension behaviour. The PINN model showed low bias and standard error in predicting IRI values on training, test, and an independent dataset from an autonomous vehicle study by the Ford Motor Company. This approach to reconcile and supplement infrequent survey data with spatiotemporally continuous data (from connected vehicles) can enhance data-driven practices for pavement design, maintenance and asset management.",
+    "keywords": [],
+    "doi": "10.1080/14680629.2024.2315073",
+    "url": "https://www.semanticscholar.org/paper/9bf1c214acf599a49964c883be08096e512e8469",
+    "citation_count": 9,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "22d53a1f0bdb36695d5efea676ee22fdfe033a2a",
+    "title": "Performance Evaluation of Steel Slag Asphalt Mixtures for Sustainable Road Pavement Rehabilitation",
+    "authors": "J. Neves, J. Crucho",
+    "journal": "Applied Sciences",
+    "publish_year": "2023",
+    "abstract": "The demand for more sustainable transport infrastructure has led to a broader acceptance of waste materials in pavements. An excellent example of this trend is the incorporation of steel slag aggregates (SSA) in asphalt mixtures. This work evaluates the mechanical performance of asphalt mixtures that include SSA in their composition. Asphalt mixtures were evaluated through laboratory tests for affinity between binder and aggregate, Marshall and volumetric properties, stiffness, resistance to fatigue, permanent deformation, and water sensitivity. Two rates of SSA incorporation—20% and 35%—were considered. In general, results indicated that incorporating SSA has not impaired the behavior of the asphalt mixtures. In some cases, the presence of SSA has improved mechanical performance. It was the case of the resistance to permanent deformation, stability, flow, and water sensitivity. This work confirms the suitability of the SSA application in asphalt mixtures beyond the benefit of promoting industrial waste in pavement engineering.",
+    "keywords": [],
+    "doi": "10.3390/app13095716",
+    "url": "https://www.semanticscholar.org/paper/22d53a1f0bdb36695d5efea676ee22fdfe033a2a",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4b98a5e1d9878679652df4947ae127d265a9e69d",
+    "title": "Laboratory Investigation and Machine Learning Modeling of Road Pavement Asphalt Mixtures Prepared with Construction and Demolition Waste and RAP",
+    "authors": "Fabio Rondinella, C. Oreto, F. Abbondati, Nicola Baldo",
+    "journal": "Sustainability",
+    "publish_year": "2023",
+    "abstract": "Due to the decreasing availability of virgin materials coupled with an increased awareness of environmental sustainability issues, many researchers have focused their efforts on investigating innovative technological solutions in the civil engineering domain. This paper aims to evaluate the suitability of construction and demolition waste (C and DW) and reclaimed asphalt pavement (RAP) reused within asphalt mixtures (AMs) prepared for the binder layer of road pavements. Both hot and cold mixing methodologies were investigated. The technical assessment was based on the volumetric and mechanical suitability, according to saturated surface dry voids (SSDV) and indirect tensile strength (ITS) tests carried out at 10 °C, respectively. Laboratory findings showed that all the hot AMs matched the desired target SSDV at the design gyrations number at different optimum bitumen content levels, alternatively showing a non-significant variation or a significant increase in ITS compared to conventional hot mix asphalt. Conversely, the cold AMs with cement and emulsion bitumen showed a greater volume of voids and moisture sensitivity, and lower temperature susceptibility compared to hot AMs, reaching, on average, 11% lower ITS when using coarse C and DW aggregates and 43% lower ITS when using filler from C and DW. These volumetric and mechanical properties were modeled by means of support vector machines and categorical boosting (CatBoost) machine learning algorithms. The results proved to be satisfactory, with CatBoost determination coefficients R2 referring to SSDV and ITS equal to 0.8678 and 0.9916, respectively. This allowed for the mechanical performance of these sustainable mixtures to be predicted with high accuracy and implemented within conventional mix design procedures.",
+    "keywords": [],
+    "doi": "10.3390/su152316337",
+    "url": "https://www.semanticscholar.org/paper/4b98a5e1d9878679652df4947ae127d265a9e69d",
+    "citation_count": 16,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "5f4a3bc4173c43d44bd0cef5ccba5756e6d82b4a",
+    "title": "Investigating the environmental impacts and engineering performance of road asphalt pavement mixtures made up of jet grouting waste and reclaimed asphalt pavement.",
+    "authors": "C. Oreto, R. Veropalumbo, N. Viscione, S. A. Biancardo, F. Russo",
+    "journal": "Environmental research",
+    "publish_year": "2021",
+    "abstract": "As a response to the reduction of environmental pollution and energy consumption in the maintenance or building of a road pavement, this research aims to provide innovative asphalt mixture solutions when designing asphalt base layers containing solidified Jet Grouting Waste (JGW) particles. This involved adding (or not) solutions made up from Reclaimed Asphalt Pavement (RAP) obtained by milling old pavements. The first step focused on a JGW and RAP leaching test before going on to design two non-traditional mixtures: a) a hot asphalt mixture made by replacing 4% of the limestone filler by the total weight of the aggregates with JGW (HMAJ), mixing all of them at a high temperature (160÷180°C), and b) a cold asphalt mixture made by adding 3% JGW as a filler, 70% RAP (CMRAJ), and 27% limestone by the total weight of the aggregates at low temperatures (40÷50°C). These innovative mixtures were investigated from the point of view of engineering performance by ascertaining their physico-mechanical features and environmental impact through a Life Cycle Assessment (LCA) test. Further comparison with traditional ones was then carried out using a hot mix asphalt (HMA) and a cold mixture made up from RAP, substituting a portion of the limestone aggregates (CMRA). Such mixtures are subject to special tender specification requirements. Engineering performance assessment showed that, compared with HMA, when JGW is added to both hot and cold mixtures, the ITS is 11% higher for HMAJ and CMRAJ, and cumulative strain is reduced by 17% for HMAJ and 39% for CMRA, while the cold asphalt mixtures (CMRA and CMRAJ) showed greater stiffness levels (on average 50%) at all test temperatures (10, 25, and 40°C). LCA analysis provided significant results for the solutions being compared. Specifically, use of HMAJ as the base layer helped save 65g/m3 of CO2 compared with HMA, at the same time helping to reduce 29.7kg of CO2eq./m3 global warming potential. On the other hand, the use of CMRA as the base layer, again compared with the HMA, helped save 45g/m3 of phosphorous compound emissions in water. In terms of terrestrial ecotoxicity and human non-carcinogenic toxicity, the best performance was obtained using a CMRAJ mixture, whose indicators showed a 60% reduction compared with the HMA solution base layer.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1016/j.envres.2021.111277",
+    "url": "https://www.semanticscholar.org/paper/5f4a3bc4173c43d44bd0cef5ccba5756e6d82b4a",
+    "citation_count": 50,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "dcbeb322f7a56f967e432f79a91ba4e21c3bb2bf",
+    "title": "Sustainable usage of demolished concrete waste as a sub-base material in road pavement",
+    "authors": "M. Mazhar, Pervez Alam, Sirajuddin Ahmed, Mohammed Sharib Khan, F. Adam",
+    "journal": "",
+    "publish_year": "2023",
+    "abstract": "Recycled concrete aggregate, waste rock, crushed stone aggregate, reclaimed asphalt pavement, crushed clay brick, fine recycled glass, and gravel are some of the things that are left behind when concrete buildings are torn down. These things are a big problem for many countries around the world. More and more people want to find smart ways to use the waste that these substances make. To protect the environment and natural resources and to keep damage to the environment to a minimum, it is important to deal with this issue locally. Several studies have shown that old concrete is strong and can be used as a green material. This will make construction cheaper in the long run. Thus, the goal of this research was to find out how well demolished concrete waste works and what its engineering properties are so that it could be used in the base and sub-base of road pavements. The old concrete waste aggregates were used to replace the new or fresh aggregates in a range from 0% to 100% by weight. When demolished concrete waste aggregates were used instead of new aggregates, the water absorption went up from 1.58 to 4.65%. This shows that the water-cement ratio got better. The crushing value went up from 26.54 to 55.29%, the impact value went up from 27.86 to 58.05%, and the abrasion value went up from 26.96 to 35.58%. Based on the results of this study, the sub-base of roads can be made from a mix of 50% recycled aggregates and 50% new aggregates. Reusing concrete waste from buildings that have been torn down as a sub-base material will help reach social, economic, and environmental sustainability.",
+    "keywords": [],
+    "doi": "10.3389/frsus.2023.1060878",
+    "url": "https://www.semanticscholar.org/paper/dcbeb322f7a56f967e432f79a91ba4e21c3bb2bf",
+    "citation_count": 10,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "eb32f1d8c4d0f318fedfdb5fa2715301c2392e1f",
+    "title": "A Study on Frequency Response Functions in Pavement Engineering",
+    "authors": "F. Praticò, G. Pellicano, Matteo Bolognese, G. Licitra",
+    "journal": "The Baltic Journal of Road and Bridge Engineering",
+    "publish_year": "2023",
+    "abstract": "Mechanical impedance (MI) defines the ability of a system to vibrate as a consequence of force application. In the recent years, the correlation of this parameter with tire-road noise and other characteristics has gained certain attention. Nevertheless, the information about this topic is still insufficient. Usually, the force is set through an impulse hammer as a master and the acceleration is measured through an accelerometer as a response in order to measure the corresponding Frequency Response Function (FRF). The objectives of the study presented in this paper are i) to analyse the differences between the axial mechanical impedance (complex ratio of force and velocity referred to the same point, named driving-point impedance) and the non-axial mechanical impedance (complex ratio of the force at the point i and velocity at the point j, named transfer impedance); ii) to analyse the effect of adding crumb rubber (2% by mixture weight) and of the percentage of bitumen on the mechanical impedance for the bituminous samples. Therefore, laboratory tests on asphalt concrete specimens have been performed, using an instrumentation system composed of i) an impact hammer reporting the impact force value; ii) an impedance head measuring the direct impact force and the direct acceleration at the hitting point location; iii) a piezoelectric accelerometer measuring the transfer acceleration at a certain distance from the hitting point location. Results demonstrate that the ratio between the repeatability and the average is quite constant, while for heights higher than 10 cm, also MI tends to be independent on the height. A number of recommendations have been made based on the results of the present research.",
+    "keywords": [],
+    "doi": "10.7250/bjrbe.2023-18.595",
+    "url": "https://www.semanticscholar.org/paper/eb32f1d8c4d0f318fedfdb5fa2715301c2392e1f",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f47c129933660abdba01d6d3905b974ada8fe841",
+    "title": "Life Cycle Assessment in Road Pavement Infrastructures: A Review",
+    "authors": "B. Gouveia, Marina Donato, M. D. da Silva",
+    "journal": "Civil Engineering Journal",
+    "publish_year": "2022",
+    "abstract": "The need to meet society's demands for road infrastructure while minimizing the resulting environmental impacts is a source of great complications. In this context, Life Cycle Assessment (LCA) can be useful by applying a set of rules and processes for the environmental assessment of projects. The objectives of this study were to present the main environmental impact categories associated with emissions from the life cycle phases of a road pavement and how to estimate them. In addition, this paper provides examples of LCA applications on these infrastructures. In view of the evolution of research on LCA, a compilation was made on: the main categories of environmental impact associated with emissions; phases of life cycle impact assessment; and procedures and methods of impact estimation. The impact categories presented are associated with climate change, acidification, ozone depletion, tropospheric ozone formation, eutrophication, and Particulate Matter Formation. Not all methods are able to generate indicators for all types of impact and, depending on the type of materials and services that make up the inventory of the alternatives analyzed, one specific method may be more appropriate to use. The conclusions are that for each environmental impact, the results depend on the input parameters, such as energy flows and materials, along with their processing by methods of life cycle impact assessment. Besides this, despite the great diversity of the databases for the steps of life cycle assessment of roadway pavement, there is a general consensus about the nature of these steps. Doi: 10.28991/CEJ-2022-08-06-015 Full Text: PDF",
+    "keywords": [],
+    "doi": "10.28991/cej-2022-08-06-015",
+    "url": "https://www.semanticscholar.org/paper/f47c129933660abdba01d6d3905b974ada8fe841",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "b82c24d8588ef4cc65065adad28ab107392ca7e4",
+    "title": "Road pavement crack detection using deep learning with synthetic data",
+    "authors": "I. Kanaeva, J. Ivanova",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "publish_year": "2021",
+    "abstract": "The improvement of road system quality is a critical task. The mechanism to address such important issue is close monitoring of road pavement condition. Traditional approach requires manual identification of damages. Taking into account considerable length of road system it is essential to create an effective automatic pavement defects detection tool. This approach will extremely reduce time for monitoring of current road state. In this paper global experience in solution of detection issues of road pavement’s distress is reviewed. The article includes information about the existing datasets of road defects, which are commonly used for detection and segmentation. The present work is based on deep learning approach with the use of synthetic generated training data for segmentation of cracks in driver-view image. The novelty of the approach lies in creating synthetic dataset for training state-of-the-art deep learning frameworks. The relevance of the research is emphasized by processing of wide-view images in which heterogeneous pixel intensity, complex crack topology, different illumination condition and complexity of background make the task challenging.",
+    "keywords": [
+      "Physics",
+      "Computer Science"
+    ],
+    "doi": "10.1088/1757-899X/1019/1/012036",
+    "url": "https://www.semanticscholar.org/paper/b82c24d8588ef4cc65065adad28ab107392ca7e4",
+    "citation_count": 33,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "996ca7ffb60d1816419f581bbcb16eb4cfc5ea8c",
+    "title": "Road Pavement Thickness and Construction Depth Optimization Using Treated and Untreated Artificially-Synthesized Expansive Road Subgrade Materials with Varying Plasticity Index",
+    "authors": "S. Amakye, S. Abbey, C. Booth, J. Oti",
+    "journal": "Materials",
+    "publish_year": "2022",
+    "abstract": "Road pavement thickness and their depth of construction take a chunk of the overall cost of road construction. This has called for a need for reduced road pavement thickness by improving the engineering properties of subgrade such as the California bearing ratio (CBR). The CBR of road subgrade has been a major determining factor for road pavement thickness, and expansive subgrades generally have a low CBR, resulting in major road defects. In this study, road pavement thickness and construction depth optimization were conducted using the CBR values achieved in this study. Additives proportions of 8% lime and 20% cement were used in expansive subgrade to improve their engineering properties, making them suitable for use in road construction. The study investigated the characteristics, mineral structure, Atterberg limit, compaction, CBR, swell and microstructural properties of expansive subgrade. The results show a reduction in road pavement thickness and a construction depth with an increase in CBR value. All CBR values for treated samples were above 2%, making them usable in road construction. A reduction in swell potential up to 0.04% was observed for treated expansive subgrade. The study concluded that pavement thickness and construction depth can be reduced by enhancing subgrade materials and using cement and lime as binders.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma15082773",
+    "url": "https://www.semanticscholar.org/paper/996ca7ffb60d1816419f581bbcb16eb4cfc5ea8c",
+    "citation_count": 17,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "a783f8171bde978b49afcb240dca1fee44f25d64",
+    "title": "Thermodynamic Aspects of Pavement Engineering",
+    "authors": "B. Khroustalev, Ting Liu, Y. Aliakseyeu, Zhongyu Li, V. D. Akeliev, V. Minchenya",
+    "journal": "Science & Technique",
+    "publish_year": "2022",
+    "abstract": "Scientific and practical calculations on the thermal stability of typical automobile road surface (semi-limited objects) with fluctuations in air temperatures, transitions from positive to negative, with actual heat transfer coefficients, thermal conductivity of components, specific mass isobaric heat capacities, material densities, periods of regular fluctuations are presented. The study shows that temperature fluctuations occur in road surfaces, therefore deformations are brought about in them, generating thermal cracks. Thermal deformations include free, proportional to temperature gradients, stressed deformations due to temperature stresses, characterized by linear thermal expansion coefficients. In road materials, physical and mechanical properties change over time: strength, moduli of elastic longitudinal deformations, shear, transverse deformation coefficients. Thus, the temperature of pavement materials depends on the coordinates, time, and thermophysical characteristics of the materials. Thermal engineering calculations have shown that many road surfaces have limited thermal stability; under the influence of relatively small external influences, they are more stable (supercooled water vapor exists for a short time, turning into a liquid, saturated, supersaturated steam into a superheated liquid, this depends on the radiation characteristics of the surfaces, the presence of external disturbances, etc.). Thus, a complex non-stationary thermal regime takes place, when the temperature fields of the coatings, their gradients of temperature potentials, and masses depend on the boundary conditions of the 1st–4th kind. A citation analysis of the data of the Journal Citation Reports of world scientific serial publications has been developed to carry out research on heat and mass transfer in road surface. The analysis shows that in order to improve the reliability and durability of pavements, fundamental studies of both the physical and technical and thermal properties of all components of road construction mixtures are of great importance.  ",
+    "keywords": [],
+    "doi": "10.21122/2227-1031-2022-21-1-28-35",
+    "url": "https://www.semanticscholar.org/paper/a783f8171bde978b49afcb240dca1fee44f25d64",
+    "citation_count": 5,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "41ad57e2a859fcff395102157cfddce062b70ed8",
+    "title": "Development of framework for performance prediction of flexible road pavement in Nigeria using Fuzzy logic theory",
+    "authors": "A. Olowosulu, J. Kaura, A. Murana, P. T. Adeke",
+    "journal": "International Journal of Pavement Engineering",
+    "publish_year": "2021",
+    "abstract": "ABSTRACT Though several attempts have been made in the past to develop performance prediction models for flexible road pavement in Nigeria, insufficient dataset remained the major problem of using such models. This study used Fuzzy logic theory which is capable of handling the challenge of imprecise dataset to develop a framework for performance prediction of flexible road pavement in Nigeria. A Fuzzy Inference System was developed using MATLAB software. The attributes used included; Initial Pavement Surface Condition, Age of pavement, Resilient Modulus of subgrade soil, Average Truck load per day, Average Annual Air Temperature and Rainfall to predict the Future Pavement Surface Condition (FPSC). The model was calibrated using observed logical behaviour of pavement to fit engineering experience and judgement. A goodness-of-fit test showed high level of accuracy at 81.63% which was validated at 74.13% using extrapolated dataset of the same source. The study proposed 5120 mutually exclusive decision rules for performance prediction of flexible road pavement based on permutation theory. Though there was no current and well-spread dataset that described the present pavement condition to calibrate the decision rules, a framework for performance prediction of flexible road pavement using Fuzzy logic theory was developed for pavement engineers in Nigeria.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1080/10298436.2021.1922907",
+    "url": "https://www.semanticscholar.org/paper/41ad57e2a859fcff395102157cfddce062b70ed8",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "dd4fecc535277fab7498ecb75354977ab05358b9",
+    "title": "Characterization of Stabilised Sewage Sludge for Reuse in Road Pavement",
+    "authors": "S. Medaoud, L. Mokrani, Samy Mezhoud, S. Ziane",
+    "journal": "Civil and Environmental Engineering Reports",
+    "publish_year": "2022",
+    "abstract": "Abstract In recent years, the disposal of sewage sludge has been a major concern worldwide because of their potential treat in relation with the contamination of ground water and food chain. Furthermore, their poor mechanical properties don’t allow a possible direct use in civil engineering applications. For these reasons, it was important to explore more opportunity to reuse this by-product of sewage treatment. In this frame, the solidificationstabilisation technique (S-S) which is based on hydraulic binders can improve the properties of sewage sludge so that it can be used in civil engineering application, especially in road pavements. In this context, this paper investigates the possibility of using the solidified sludge in road construction. To achieve this goal, an experimental protocol was conducted using a several combined binders: combination of Cement/ Limestone filler and Cement/Lime, with different amounts in the target to fix the optimal mixtures amount. Several tests were conducted to characterise the mechanical and geotechnical properties of the solidified sludge. The results indicate that the solidified sludge using a combined mixture of cement and lime allows a possible use as base and sub-base layer.",
+    "keywords": [],
+    "doi": "10.2478/ceer-2022-0012",
+    "url": "https://www.semanticscholar.org/paper/dd4fecc535277fab7498ecb75354977ab05358b9",
+    "citation_count": 9,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "5aa07aafd1acbba1ae6db1122a31e7b6a25bbd7f",
+    "title": "Applicability of smartphone-based roughness data for rural road pavement condition evaluation",
+    "authors": "R. Sandamal, H. Pasindu",
+    "journal": "International Journal of Pavement Engineering",
+    "publish_year": "2020",
+    "abstract": "ABSTRACT Rural roads play a pivotal role in facilitating connectivity for the rural communities by providing access for their economic and social needs. Due to lack of funding and other resources, maintenance decision making is often done in an ad-hoc and subjective manner. Moreover, the inability to collect extensive data as needed to run most pavement management systems and technical expertise required has resulted in the low usage of such systems by local road agencies. Therefore, there is a need to develop a cost-effective, simplified approach for network-level pavement condition evaluation to assist in pavement maintenance management. The study explores the applicability of smartphone-based roughness data to assess the pavement condition of rural roads, and it is compared with the results from a Class III type roughness measurement equipment. Result show it has good correlation, which suggests it has sufficient accuracy when compared to the conventional roughness measurement methods. Furthermore, it is established that roughness results accurately represent the presence of pavement distresses and the overall pavement condition in the rural roads that are considered in maintenance decision making. The findings from the study would provide a cost-effective pavement condition data collection method that can be adopted for network-level condition evaluation in low volume roads.",
+    "keywords": [
+      "Business"
+    ],
+    "doi": "10.1080/10298436.2020.1765243",
+    "url": "https://www.semanticscholar.org/paper/5aa07aafd1acbba1ae6db1122a31e7b6a25bbd7f",
+    "citation_count": 42,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "091f3170f3396332de5c6e81f0af6393a6e712f3",
+    "title": "Design of a Novel Road Pavement Using Steel and Plastics to Enhance Performance, Durability and Construction Efficiency",
+    "authors": "Wei Jiang, Dongdong Yuan, A. Sha, Yue Huang, Jinhuan Shan, Pengfei Li",
+    "journal": "Materials",
+    "publish_year": "2021",
+    "abstract": "Durability is one important problem that pavement engineers need to address in pavement’s long service life. Furthermore, easily recycled pavement materials, and safe and efficient pavement construction are also important areas for development in road engineering. For these reasons, a new asphalt steel plastic (ASP) pavement structure was proposed with an asphalt mixture forming the surface layer, and steel plate and plastic materials functioning as the main load-bearing layers. Based on a comprehensive performance review and cost-benefit analysis, stone mastic asphalt (SMA) is recommended to be used as the surface layer; and A656 steel plate and acrylonitrile butadiene styrene (ABS) plastic materials should be the main load-bearing layer, on top of a foundation layer made with graded crushed stones. A glass fiber reinforced polymer (GFRP) insulation layer is recommended for use between the steel plate and ABS. Mechanical properties of the ASP pavement were analyzed using the finite element method. Laboratory tests were conducted to verify the thermal insulation performance of GFRP, the high-temperature stability and the fatigue resistance of ASP pavement. Results show that some of the mechanical properties of ASP pavement (with a structure of 80 mm SMA asphalt mixture, 8 mm steel plate, 140 mm ABS and 200 mm crushed stones) are comparable with conventional long-life pavement (with 350 mm asphalt layer overlaying 400 mm graded crushed stones). Dynamic stability of the ASP slab specimens can reach 10,000 times/mm, and the fatigue life is about twice that of SMA. Besides, the ASP pavement can be prefabricated and assembled on-site, and thus can greatly improve construction efficiency. From the lifecycle perspective, ASP pavement has many advantages over traditional pavements, such as durability, lower environmental footprint and recyclability, making it is worth further research.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma14030482",
+    "url": "https://www.semanticscholar.org/paper/091f3170f3396332de5c6e81f0af6393a6e712f3",
+    "citation_count": 17,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "da1d859a77dca3542c6fe90a9f152b2f89ccfdbb",
+    "title": "Fundamental Principles Ensuring Successful Implementation of New-Age (Nano) Modified Emulsions (NME) for the Stabilisation of Naturally Available Materials in Pavement Engineering",
+    "authors": "G. Jordaan, W. Steyn",
+    "journal": "Applied Sciences",
+    "publish_year": "2021",
+    "abstract": "Good transportation systems are pre-requisites to economic development. Empirically developed, archaic test methods are traditionally used for materials classification used in road construction. This system normally classifies naturally available materials subjected to chemical weathering conditions, as unsuitable for use in the load-bearing road pavement layers. Consequently, design standards normally require the use of imported materials at considerable costs, severely restricting road network development under scenarios of limited funding. The introduction of applicable nanotechnologies has been shown to enable the use of naturally available materials in all pavement layers at a substantial reduction in costs. The successful roll-out of these nanotechnology solutions depends on a sound, scientifically based approach. Aspects such as toxicity, health and safety, etc. must be addressed in a holistic approach together with material compatibility and fundamental engineering requirements. The successes achieved over the last decade, introducing material compatible New-age Modified Emulsions (NME), are based on fundamental concepts that need to be considered in a holistic test, evaluation and implementation strategy. This paper identifies fundamental concepts related to nanotechnology implementation in the context of road pavement engineering, which needs to be addressed to ensure successful implementation. Ad hoc implementation of new-age technologies without adequate scientific evaluation could prove detrimental.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3390/APP11041745",
+    "url": "https://www.semanticscholar.org/paper/da1d859a77dca3542c6fe90a9f152b2f89ccfdbb",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "9d2b6be69ac3eb1c5fb98535b082ed1905d37b2d",
+    "title": "From Street to Road: An Innovative Approach to Explore Discarded Chewing Gum as a Performance-Enhancing Modifier for Road Pavement Applications",
+    "authors": "N. Nciri, Namho Kim, N. Cho",
+    "journal": "Polymers",
+    "publish_year": "2021",
+    "abstract": "To uncover the potential benefits of discarded chewing gum (DCG) as a performance-enhancing modifier for road pavement applications, its influence on the asphalt binder’s attributes was profoundly examined. The base AP-5 asphalt along with its specimens dosed with various fractions of DCG (e.g., 3, 6, and 9 wt%) were analyzed by Fourier transform-infrared spectroscopy (FT-IR), X-ray diffraction (XRD), thin-layer chromatography-flame ionization detection (TLC-FID), scanning electron microscopy (SEM), atomic force microscopy (AFM), thermogravimetric analysis (TGA), and differential scanning calorimetry (DSC). Brookfield viscometer, ring and ball softening point, needle penetration, and dynamic shear rheometer (DSR) tests were adopted to inspect the physical and rheological changes of asphalt cement after DCG incorporation. FT-IR disclosed that the asphalt-gum interaction was not chemical but physical in nature, whilst XRD demonstrated the existence of talc filler in DCG, which may confer the bituminous mixes with exceptional engineering properties. Iatroscan analysis evinced that the gum treatment particularly altered the aromatic and resin fractions; meanwhile, the content of saturates and asphaltenes remained relatively unchanged. SEM divulged that the DCG has a complete dissolution within the bitumen matrix, which becomes rougher due to higher dose administration. AFM revealed that the steady gum introduction amplified the size of bee-like structures, shrunk their peri-phase domains, and wiped out the para-phase domains entirely. TGA/DTGA/DSC data highlighted that the high-temperature-stable additive slightly affected the thermal properties of blends. DSR and empirical rheological tests showed that the waste gum made the bitumen less vulnerable to heat and tender, thereby boosting its resistance against fatigue cracking at intermediate service temperatures. On top of that, DCG widened the thermal window of bitumen performance grade (PG), and preserved its viscosity at standard temperatures, leading to maintaining an appropriate workability for asphalt mix. In brief, the use of discarded chewing gum as an asphalt modifier is feasible and could mitigate plastic pollution and provide durable roadways by delivering superior performance.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/polym13121963",
+    "url": "https://www.semanticscholar.org/paper/9d2b6be69ac3eb1c5fb98535b082ed1905d37b2d",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3269bc48d619d10f823b27071a71b5c80cff7077",
+    "title": "Research Hotspots and Development Trends on Recycled Construction Materials in Pavement Engineering: A Bibliometric Evaluation",
+    "authors": "Yue Xiao, Qiankun Dong, Xiwen Chang, Peiqiang Cui, Gang Liu",
+    "journal": "Materials",
+    "publish_year": "2021",
+    "abstract": "Road recycling technology is gradually becoming a research focus in road construction due to natural resource shortages. It is therefore necessary to carry out deep and extensive analysis of the huge amount of publications in the research area of recycling technology in road construction. Based on three databases (Web of Science, Compendex and Scopus) and VOSviewer visualization software, this study conducts a bibliometric analysis of the literature in the field of recycled construction materials in pavement engineering. The global research publications were reviewed to quantitatively identify the literature characteristics. A number of publications, document types, research areas and keywords were used to achieve the general statistics of this reviewed literature. H-index, publication number and citations per publication were used to evaluate the academic contributions by country, institution and journal. The results show that the most productive country and institution for publications are the USA and Chang’an University from China, respectively, followed by China and Wuhan University of Technology. In recent years, researchers have generally paid attention to two main approaches: the application of rubber modified asphalt and the performance enhancement of recycled pavement.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma14092170",
+    "url": "https://www.semanticscholar.org/paper/3269bc48d619d10f823b27071a71b5c80cff7077",
+    "citation_count": 8,
+    "source": "semantic_scholar"
+  }
+]

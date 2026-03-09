@@ -1,0 +1,267 @@
+/* Global */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #333; }
+
+.app { min-height: 100vh; }
+
+/* Navigation */
+.nav-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 24px; height: 56px;
+  background: #1a237e; color: white;
+}
+.nav-title { font-size: 18px; font-weight: 700; cursor: pointer; }
+.nav-links a {
+  color: rgba(255,255,255,0.7); text-decoration: none;
+  margin-left: 20px; font-size: 13px;
+}
+.nav-links a.active { color: white; border-bottom: 2px solid white; padding-bottom: 4px; }
+.nav-links a:hover { color: white; }
+
+/* Main content */
+.main-content { max-width: 1400px; margin: 0 auto; padding: 24px; }
+
+/* Stats grid */
+.stats-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px; margin: 16px 0;
+}
+.stat-card {
+  background: white; border-radius: 8px; padding: 16px; text-align: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.stat-value { font-size: 24px; font-weight: 700; color: #1a237e; }
+.stat-label { font-size: 12px; color: #666; margin-top: 4px; }
+.stat-card.bg-green { background: #e8f5e9; }
+.stat-card.bg-green .stat-value { color: #2e7d32; }
+.stat-card.bg-red { background: #ffebee; }
+.stat-card.bg-red .stat-value { color: #c62828; }
+.stat-card.bg-blue { background: #e3f2fd; }
+.stat-card.bg-blue .stat-value { color: #1565c0; }
+
+/* Tables */
+.result-table, .vote-table {
+  width: 100%; border-collapse: collapse; background: white;
+  border-radius: 8px; overflow: hidden; margin: 16px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.result-table th, .vote-table th {
+  background: #f5f5f5; padding: 10px 12px; text-align: left;
+  font-size: 12px; color: #666; font-weight: 600;
+}
+.result-table td, .vote-table td {
+  padding: 10px 12px; border-top: 1px solid #eee; font-size: 13px;
+}
+.result-table tr:hover, .vote-table tr:hover {
+  background: #f5f5f5; cursor: pointer;
+}
+.vote-table tr.selected { background: #e3f2fd; }
+
+.verdict-approved { color: #2e7d32; font-weight: 600; }
+.verdict-rejected { color: #c62828; font-weight: 600; }
+
+/* Charts */
+.chart-section {
+  background: white; border-radius: 8px; padding: 20px; margin: 16px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Section row (side by side) */
+.section-row {
+  display: flex; gap: 16px;
+}
+@media (max-width: 768px) {
+  .section-row { flex-direction: column; }
+}
+
+/* Detail page */
+.result-detail h1 { font-size: 22px; margin-bottom: 8px; }
+.meta-info { display: flex; gap: 12px; color: #666; font-size: 13px; margin-bottom: 24px; flex-wrap: wrap; }
+.meta-info span { background: #f0f0f0; padding: 4px 8px; border-radius: 4px; }
+
+/* Agent detail */
+.agent-detail {
+  background: white; border-radius: 8px; padding: 20px; margin: 16px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.agent-detail h3 { margin-bottom: 8px; color: #1a237e; }
+.agent-detail h4 { margin: 12px 0 8px; color: #333; }
+.agent-detail ul { padding-left: 20px; }
+.agent-detail li { margin-bottom: 4px; font-size: 13px; }
+
+/* Evidence cards */
+.evidence-card {
+  background: #fafafa; border-radius: 6px; padding: 12px 16px; margin: 8px 0;
+  border-left: 4px solid #999;
+}
+.evidence-type {
+  font-size: 11px; font-weight: 700; text-transform: uppercase;
+  color: #666; margin-bottom: 4px;
+}
+.evidence-claim { font-size: 13px; font-weight: 500; margin-bottom: 4px; }
+.evidence-ref { font-size: 12px; color: #2196F3; margin-bottom: 2px; }
+.evidence-relevance { font-size: 12px; color: #666; font-style: italic; }
+
+/* Dissenting opinions */
+.dissenting, .chairman-review {
+  background: #fff3e0; border-radius: 8px; padding: 20px; margin: 16px 0;
+  border-left: 4px solid #ff9800;
+}
+.chairman-review { background: #e8eaf6; border-left-color: #3f51b5; }
+
+/* Tabs */
+.tab-bar {
+  display: flex; gap: 8px; margin-bottom: 24px; flex-wrap: wrap;
+}
+.tab-bar button {
+  padding: 8px 20px; border: 1px solid #ddd; border-radius: 4px;
+  background: white; cursor: pointer; font-size: 13px;
+}
+.tab-bar button.active {
+  background: #1a237e; color: white; border-color: #1a237e;
+}
+.tab-bar button:hover:not(.active) { background: #f0f0f0; }
+
+/* Info box */
+.info-box {
+  background: #e3f2fd; padding: 12px 16px; border-radius: 4px;
+  margin: 12px 0; font-size: 13px; line-height: 1.6;
+}
+
+/* Case box */
+.case-box {
+  background: white; padding: 8px 12px; margin: 4px 0;
+  border-radius: 4px; font-size: 13px; border: 1px solid #eee;
+}
+
+/* Loading */
+.loading { text-align: center; padding: 40px; color: #666; font-size: 16px; }
+
+h2 { font-size: 18px; margin: 24px 0 12px; color: #1a237e; }
+h3 { font-size: 15px; margin: 20px 0 8px; }
+
+/* Buttons */
+.btn {
+  display: inline-block; padding: 8px 16px; border: none; border-radius: 4px;
+  font-size: 13px; cursor: pointer; text-decoration: none;
+  transition: background 0.2s;
+}
+.btn-primary { background: #1a237e; color: white; }
+.btn-primary:hover { background: #283593; }
+.btn-primary:disabled { background: #999; cursor: not-allowed; }
+.btn-secondary { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+.btn-secondary:hover { background: #e0e0e0; }
+.btn-sm { padding: 4px 12px; font-size: 12px; }
+
+/* Code block */
+.code-block {
+  background: #263238; color: #eee; padding: 16px; border-radius: 6px;
+  font-family: 'Consolas', 'Monaco', monospace; font-size: 12px;
+  overflow-x: auto; white-space: pre-wrap; word-break: break-all;
+  max-height: 400px; overflow-y: auto;
+}
+
+/* Pipeline steps */
+.pipeline-steps {
+  display: flex; align-items: center; flex-wrap: wrap;
+  gap: 8px; padding: 16px 0;
+}
+.pipeline-step {
+  display: flex; align-items: center; gap: 8px;
+  background: #e3f2fd; padding: 8px 16px; border-radius: 20px;
+}
+.step-number {
+  width: 24px; height: 24px; border-radius: 50%;
+  background: #1a237e; color: white; display: flex;
+  align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 700;
+}
+.step-text { font-size: 13px; }
+.step-arrow { font-size: 20px; color: #999; }
+
+/* KB hierarchy */
+.kb-hierarchy {
+  display: flex; flex-direction: column; gap: 12px; margin-top: 16px;
+}
+.kb-level {
+  border-radius: 8px; padding: 16px; border-left: 4px solid #999;
+}
+.kb-level-1 { background: #e8f5e9; border-left-color: #4CAF50; }
+.kb-level-2 { background: #e3f2fd; border-left-color: #2196F3; }
+.kb-level-3 { background: #f3e5f5; border-left-color: #9C27B0; }
+.kb-level-header {
+  font-size: 14px; font-weight: 600; margin-bottom: 8px;
+}
+.kb-level-body { font-size: 13px; color: #555; }
+.kb-badge {
+  display: inline-block; padding: 2px 8px; border-radius: 4px;
+  font-size: 11px; font-weight: 700; color: white; margin-right: 8px;
+}
+.kb-level-1 .kb-badge { background: #4CAF50; }
+.kb-level-2 .kb-badge { background: #2196F3; }
+.kb-level-3 .kb-badge { background: #9C27B0; }
+
+/* Workflow SVG */
+.workflow-container {
+  overflow-x: auto; padding: 16px 0;
+}
+.workflow-svg {
+  width: 100%; min-width: 800px; height: auto;
+}
+
+/* Prompt structure */
+.prompt-structure { margin-top: 16px; }
+.prompt-section { margin-bottom: 20px; }
+.prompt-section h3 { color: #1a237e; margin-bottom: 8px; }
+
+/* Experiment config */
+.experiment-config {
+  display: flex; flex-direction: column; gap: 12px; padding: 8px 0;
+}
+.config-row {
+  display: flex; align-items: center; gap: 12px; font-size: 14px;
+}
+.config-row label { font-weight: 500; min-width: 100px; }
+.config-row input[type="number"] {
+  padding: 6px 8px; border: 1px solid #ddd; border-radius: 4px;
+  font-size: 14px;
+}
+.config-row .hint { font-size: 12px; color: #999; }
+
+/* Progress bar */
+.progress-bar {
+  height: 6px; background: #eee; border-radius: 3px; margin-top: 6px;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%; background: #4CAF50; border-radius: 3px;
+  transition: width 0.3s;
+}
+
+/* Node detail grid */
+.node-detail-grid {
+  display: flex; flex-direction: column; gap: 8px;
+}
+
+/* Panel config grid */
+.panel-config-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  gap: 12px; margin-top: 12px;
+}
+
+/* Running badge on experiment tab */
+.running-badge {
+  display: inline-block;
+  background: #FF9800;
+  color: white;
+  border-radius: 10px;
+  padding: 1px 6px;
+  font-size: 10px;
+  font-weight: 700;
+  margin-left: 4px;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}

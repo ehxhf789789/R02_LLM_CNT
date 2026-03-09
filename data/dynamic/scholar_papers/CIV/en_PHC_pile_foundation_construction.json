@@ -1,0 +1,120 @@
+[
+  {
+    "paper_id": "c40fe152ec7df1a30e29ed17a399b142e8d39f0e",
+    "title": "Mechanical characteristics and calculation method of static pressure pile installation for PHC pipe piles in sandy soil foundation with pebble interlayer",
+    "authors": "Xiannian Zhou, Chengyu Yang, Xiaojie Ming, Mi Dai, Weihe Lu, Fanghui Zhang",
+    "journal": "Scientific Reports",
+    "publish_year": "2025",
+    "abstract": "The static pressure pile installation technique is extensively utilized in the construction of bridge pile foundations. However, the presence of pebble interlayers within the strata is a common occurrence. To examine the impact of such pebble interlayers on the installation of pipe piles using static pressure, model tests were executed to scrutinize parameters including pile penetration force, ultimate bearing capacity, lateral soil pressure, and the distribution of pile penetration resistance under two distinct working conditions: standard sand and pebble interlayer during pile penetration. The objective was to elucidate the effect of pebble interlayers on pile penetration. The findings indicated that a pebble layer with a thickness equivalent to 2.5 times the diameter of the pile could result in a 1.3-fold increase in the average pile penetration force, and at its peak, could elevate the pile penetration force by as much as 1.8-fold. Furthermore, the lateral soil pressure surrounding the pile exhibits a nonlinear escalation. In scenarios where the foundation soil is uniform, the lateral soil pressure at a specific point around the pile will markedly increase due to the soil compression effect generated as the pile head approaches that location. Nonetheless, after the pile head surpasses this point, the lateral soil pressure will experience a rapid decline due to the unloading effect precipitated by the failure of the soil surrounding the pile. When the pile head traverses through the pebble interlayer, it induces an augmentation in the lateral soil pressure within the underlying soil stratum. Additionally, drawing upon Meyerhof’s theory of ultimate bearing capacity, a revised calculation formula for pile penetration resistance in both uniform and pebble-interbedded sandy soil foundations has been formulated. This formula can be employed to estimate the pile penetration resistance of static pressure piles.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1038/s41598-025-98127-4",
+    "url": "https://www.semanticscholar.org/paper/c40fe152ec7df1a30e29ed17a399b142e8d39f0e",
+    "citation_count": 5,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "e0a97ddaa9cfa5efdd52b030ac46bc9330addffc",
+    "title": "Influence Analysis of Large-area PHC Pipe Pile Construction on the Surrounding Environment in Deep Silt Site",
+    "authors": "Z. Zheng, J. Ding, Xiaoqing Li, S. Su, Cong Zhang",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2021",
+    "abstract": "There are a large number of deep and thick soft soil foundations along the river and coastal areas. PHC pipe piles have become one of the foundation treatment methods widely used in soft soil foundations. Taking the construction of a pile foundation project in Wenzhou as an example, the thickness of the dredger fill and silt at the site is 27.20∼33.60m, and the impact of large-area pile group construction on the surrounding environment is discussed. The results show that: (1) The load imposed on the pile top and the pile sinking depth during the construction of the foundation pile increase according to an exponential function. (2) The direction of horizontal soil squeezing deformation around the field is related to the position of the measuring point. The corner range is small and the middle range is larger, but the direction of maximum displacement is basically along the shortest line between the pile position and the measuring point. (3) The vertical direction of the measuring point varies greatly with the construction time and pile position, and the uplift and settlement appear repeatedly. The monitoring results can provide a reference for the construction of similar projects.",
+    "keywords": [
+      "Physics",
+      "Geology"
+    ],
+    "doi": "10.1088/1755-1315/643/1/012010",
+    "url": "https://www.semanticscholar.org/paper/e0a97ddaa9cfa5efdd52b030ac46bc9330addffc",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "04c529d27bea636551c503ba48aaa09bdc452a8d",
+    "title": "Field and Numerical Study of the Bearing Capacity of Pre-Stressed High-Strength Concrete (PHC)-Pipe-Pile-Reinforced Soft Soil Foundations with Tie Beams",
+    "authors": "Yunlong Yao, Bao-ning Hong, Xin Liu, G. Wang, Zhiwei Shao, Dongning Sun",
+    "journal": "Applied Sciences",
+    "publish_year": "2023",
+    "abstract": "Pre-stressed high-strength concrete pipe piles (PHC pipe piles) have been widely used in actual soft foundation treatment projects due to their reliable quality, fast construction, assembly line production, and environmental friendliness. However, large-scale slip damage still occurs in construction projects. In order to reduce and avoid such accidents, a highway in Guangdong (section K31+100~K31+388) was taken as an example for this study. Plaxis 2D software (V22.01.00) was used to establish a PHC pipe pile composite roadbed model and investigate the effects of tie beam form, pile lengths, pile spacings, pile verticality, and embankment filling loading modes on the settlement and stability of the composite roadbed. The results show that the original treatment plan, which had the form of a PHC pipe pile with caps, had a low horizontal bearing capacity and a poor anti-disturbance ability, leading to the occurrence of a landslide accident. A comparison of different structural forms revealed that the longitudinal and transverse tie beam form was the most stable, followed by the transverse tie beam form, longitudinal tie beam form, PHC pipe pile form with caps, and PHC pipe pile form without caps. Compared to the structural form of PHC pipe piles with pile caps, the stabilities of the transverse tie beam form and the longitudinal tie beam form were improved by 42.47% and 38.61%, respectively, while that of the longitudinal and transverse tie beam form was improved by 50.87%. The application of longitudinal and transverse tie beams effectively reduced the settlement of the composite roadbed, as confirmed by both measured data and finite element analysis. This structure achieved the desired vertical settlement control and lateral anti-slip effects.",
+    "keywords": [],
+    "doi": "10.3390/app132111786",
+    "url": "https://www.semanticscholar.org/paper/04c529d27bea636551c503ba48aaa09bdc452a8d",
+    "citation_count": 13,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4f648e20e689526bd521f80410c96ec4fd11becd",
+    "title": "Field Tests and the Numerical Analysis of a Pile-Net Composite Foundation for an Intelligent Connected Motor-Racing Circuit",
+    "authors": "Xiaonan Wang, Qitao Pei",
+    "journal": "Buildings",
+    "publish_year": "2024",
+    "abstract": "In response to the problem of significant post-construction settlement that may occur in a motor racing circuit (MRC), two representative composite foundation testing areas, PHC pile (pre-tensioned spun high-strength concrete pile) and CFG pile (cement fly ash gravel pile), were selected for field tests to obtain the deformation law of pile–soil. Then, finite element numerical simulation was used to carry out back analysis on the geological mechanical parameters of the testing areas. The results showed that the error of soil settlement between the piles in the PHC pile and CFG pile testing areas were 8.2% and 9.6%, respectively, with good inversion precision. The obtained geological mechanical parameters can be used to predict the settlement of the rest of the MRC. On this basis, a finite element numerical model was constructed to analyze the bearing and deformation characteristics of the foundation of the MRC under five types of working conditions that may cause significant post-construction settlement. It showed that the settlement of the embankment was large in the middle and small on both sides after the consolidation of the embankment. The maximum settlement was about 27.0 mm, and the maximum longitudinal uneven settlement ratio of the embankment was 1.3/4000. The axial force of piles in the PHC pile and CFG pile composite foundations increased first and then decreased with depth. The maximum bending moment was located at the foot of slopes or at the boundary of strata, which was relatively small in the middle of the embankment. The deformation of the embankment and the bearing capacity of the piles could meet engineering requirements. This study has certain guiding significance for the design and construction of similar pile-net composite foundations.",
+    "keywords": [],
+    "doi": "10.3390/buildings14010174",
+    "url": "https://www.semanticscholar.org/paper/4f648e20e689526bd521f80410c96ec4fd11becd",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "0f546d91b0b720dea23051240efd94a5bb010fb4",
+    "title": "Time-dependent field performance of PHC pile-cap-beam-supported embankment over soft marine clay",
+    "authors": "Ye Xiao, Wu Jiantao, Lim Guowei",
+    "journal": "Transportation geotechnics",
+    "publish_year": "2021",
+    "abstract": "Abstract Capped rigid piles have been widely utilized to improve soft marine clay foundation for rapid construction of highway embankments and still exposed the problem of insufficient horizontal bearing capacity. An innovative composite system of pile-cap-beam (PCB) was presented in this study. Field measurements including pressures acting on the pile and soil surface, excess pore water pressures, settlements, lateral displacements and strains of ground beams were reported and discussed. The results elucidated that the response of ground beams subjected to embankment loading is closely related to the location of embankment corresponding to respective fill level. The beam between caps is prone to mid-span deflection at locations closer to the shoulder, which contributes to load transfer to the piles. The composite PCB system performed better in regard to reducing lateral displacements, total and differential settlements between the pile and surrounding soil, with a decrease of 57.1, 44.8 and 79.9%, respectively. The measured lateral displacement-settlement ratio suggested that the use of composite PCB system was remarkably effective in enhancing the stability of embankment. In addition, feasibility of strain-based FBG sensors installed in the steel bar of ground beams was validated and limitations of the deployment was also discussed in this study.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/j.trgeo.2020.100435",
+    "url": "https://www.semanticscholar.org/paper/0f546d91b0b720dea23051240efd94a5bb010fb4",
+    "citation_count": 18,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "579a3e66f942d6efc1822c4636a69f2ee6925a19",
+    "title": "Comparison of Construction Costs for Bridge Foundation with Optimization of Steel and PHC Embedded Piles",
+    "authors": "Jung-Mann Yun, G. Yea, H. Kim, Dong-Min Kim, Soo-lo Kim",
+    "journal": "Journal of the korean geosynthetic society",
+    "publish_year": "2016",
+    "abstract": "In this study, execution costs of the foundation system are compared with PHC and steel pile in the same soil layers and load condition. Steel piles installed on the thin weathered rock are reduced as 12.5% in comparison with the number of PHC piles. Steel piles installed on the soft rock through weathered rock with 1.7m of thickness reduce the number of piles as 35.7% (STK 400) and 46.4% (STK 490), respectively, in comparison with PHC piles installed on the weathered rock. Also, they reduce the number of piles as 26.5% (STK 400) and 38.8% (STK 490), respectively, in comparison with steel piles (STK 400) installed on the weathered rock. When the thickness of footings is constant, steel piles installed on the soft rock may reduce the area of footings up to 12.2% (STK 400) and 45.4% (STK 490), respectively, in comparison with PHC piles installed on the weathered rock. Total cost of foundation system installed on the soft rock with steel piles (STK 400) increases as 12%, whereas in case of replaced with steel piles (STK 490), it reduces as 16% in comparison with PHC piles installed on the weathered rock. This is because the cost reduction due to the number of piles and footing area is more effective despite high cost of steel piles (STK 490). When the thickness of weathered rock is less than 5m, installing steel piles (STK 490) on the soft rock through it is more economic in comparison with installing PHC piles on the weathered rock. 요 지 본 연구에서는 동일한 지층 및 하중조건에서 PHC말뚝을 강관말뚝으로 대체할 경우 말뚝 본수의 변화와 푸팅을 포함한 공사비를 비교하였다. 얕은 풍화암층에 강관말뚝을 지지할 경우 PHC말뚝과 비교하여 12.5%의 본수가 절감되었다. 실 사례로부터 가정된 1.7m 두께의 풍화암층을 통과하여 깊은기초를 연암층에 지지할 경우 일반 및 고강도 강관말뚝은 각각 풍화암층에 설치한 PHC 말뚝 대비 35.7% 및 46.4%, 강관말뚝 대비 26.5% 및 38.8%의 본수가 절감되는 효과가 있는 것으로 나타났다. 푸팅두께가 일정하다고 가정할 경우 풍화암층을 관통하여 연암층에 설치된 일반 및 고강도 강관말뚝은 풍화암층에 설치된 PHC말뚝 대비 각각 12.2% 및 45.4%까지 푸팅의 소요면적을 절감할 수 있는 것으로 나타났다. 이러한 결과를 가지고 말뚝시스템의 전체 공사 비를 산정한 결과 풍화암에 지지된 PHC말뚝과 비교할 때 연암층에 설치된 일반 강관말뚝의 비용은 12% 높게 산정된 반면, 이를 고강도 강관말뚝으로 대체하였을 경우는 오히려 16% 절감효과가 있는 것으로 나타났다. 이는 고강도 강관말뚝의 재료비가 상대적으로 높으나 말뚝 본수 및 푸팅면적의 감소로 인한 비용 절감효과가 더 크기 때문이다. 풍화암층 두께를 변화시키며 해석하여 말뚝시스템의 공사비를 비교한 결과 풍화암층 두께가 5m 이하인 조건에서는 PHC말뚝을 풍화암층에 지지하는 것 보다 이를 관통하여 연암층에 고강도 강관말뚝을 지지하는 것이 전체 공사비 측면에서 유리한 것으로 나타났다.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.12814/JKGSS.2016.15.4.071",
+    "url": "https://www.semanticscholar.org/paper/579a3e66f942d6efc1822c4636a69f2ee6925a19",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "499032e2a4da0be69072200ff7299f48c8d996f5",
+    "title": "Analysis and Comparison of In-situ Full Scale Test of Pile-head Core Pullout Resistance of Improved PHC Pile",
+    "authors": "Z. Jiaqi, Liu Wentsung, Yu Weiqing, Li Shengnan",
+    "journal": "2019 IEEE International Conference on Architecture, Construction, Environment and Hydraulics (ICACEH)",
+    "publish_year": "2019",
+    "abstract": "PHC pile is the most widely used pile in mainland China and Taiwan, and the joint between pile head and pile cap is a problem that cannot be solved effectively in foundation engineering. Pullout resistance force on the pile-head core of improved PHC pile is tested in full scale, and the test result is compared with theoretical calculation and conventional estimation of PHC pile. The test pile of PHC 600 B 100–10 is a 600 mm diameter, 10 m long pile with pile head of 2 m in length. There are 6 layers in 2 by 2 horizontal D19 rebars placed within inner portion of the pile head. Test is followed with ASTM-D3689M. The result shows that the pullout loading goes up to 175 tons, and the theoretical value of the pullout resistance force calculated from the pile-head core is 371 tons, which is 7.5 times and 6.2 times higher of the pullout resistance force of the 2 m long pile-head core compared to the conventional PHC pile proposed by two literature studies respectively. The result also shows that the improved PHC pile can be more effectively connected with the pile cap.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1109/ICACEH48424.2019.9041936",
+    "url": "https://www.semanticscholar.org/paper/499032e2a4da0be69072200ff7299f48c8d996f5",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "ef54675ce5b4fd56389f627404e792215fb28016",
+    "title": "Numerical Analysis of Soil Squeezing Effect of Pipe Pile Construction in Deep Silt Site",
+    "authors": "J. Ding, Jinlei Zhang, Qi Wang, Jian Zhang, H. Qi",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2021",
+    "abstract": "This article is based on a pile foundation project in Wenzhou City, combined with construction site monitoring data, and established a finite element model to analyze the soil squeezing displacement caused by the construction of PHC pipe piles in deep silt sites, as well as the displacement of different sizes of digged holes on the surface impact. When the distance from the pile position to monitoring point is 35 times of the pile diameter, the field test results show that the horizontal displacement and velocity change of the soil caused by the pile foundation construction decrease with the buried depth, and the main influence range is within the buried depth of 0-14 m. Numerical simulation results show that: (1)without digged hole, the main influence range of the main soil squeezing displacement is about 8 times of pile diameter; (2)the larger the diameter of the digged hole, the smaller the displacement and the influence range of the affected soil on the surface; (3)The ground squeeze displacement caused by the pile construction attenuates in a power function with the distance from the pile position to the measuring point.",
+    "keywords": [
+      "Geology",
+      "Physics"
+    ],
+    "doi": "10.1088/1755-1315/696/1/012022",
+    "url": "https://www.semanticscholar.org/paper/ef54675ce5b4fd56389f627404e792215fb28016",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  }
+]

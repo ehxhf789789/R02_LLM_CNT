@@ -1,0 +1,950 @@
+[
+  {
+    "paper_id": "d4a6cc38cb29f68a1b7c3646262fc61556aa0e2a",
+    "title": "Research on ventilation and noise reduction technology for substations based on deep learning",
+    "authors": "Li Zhu, Zixuan Zhu, Wen Jiang",
+    "journal": "2024 3rd International Conference on Energy and Power Engineering, Control Engineering (EPECE)",
+    "publish_year": "2024",
+    "abstract": "With the accelerated urbanization process and the continuous growth of power demand, substations are a critical component of the power system. However, the main noise sources in substations, such as main transformers, reactors, and cooling fans, have a significant impact on the surrounding environment. Therefore, this paper proposes an optimization design method for ventilation and noise reduction in substations based on deep learning. Firstly, the finite element method is used to simulate the ventilation and noise data of substations under multiple operating conditions to obtain sufficient samples. Secondly, the construction of the Convolutional Neural Network (CNN) model is completed, and the obtained data is used for model training. Finally, the optimization solution of parameter design is achieved using the SAC algorithm. The results show that the designed parameters for substations using this method can effectively reduce noise and comply with national standards.",
+    "keywords": [],
+    "doi": "10.1109/EPECE63428.2024.00010",
+    "url": "https://www.semanticscholar.org/paper/d4a6cc38cb29f68a1b7c3646262fc61556aa0e2a",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "d4a6cc38cb29f68a1b7c3646262fc61556aa0e2a",
+      "externalIds": {
+        "DOI": "10.1109/EPECE63428.2024.00010",
+        "CorpusId": 271869230
+      },
+      "url": "https://www.semanticscholar.org/paper/d4a6cc38cb29f68a1b7c3646262fc61556aa0e2a",
+      "title": "Research on ventilation and noise reduction technology for substations based on deep learning",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EPECE63428.2024.00010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EPECE63428.2024.00010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2024 3rd International Conference on Energy and Power Engineering, Control Engineering (EPECE)",
+        "pages": "14-17"
+      },
+      "authors": [
+        {
+          "authorId": "2316095347",
+          "name": "Li Zhu"
+        },
+        {
+          "authorId": "2283200598",
+          "name": "Zixuan Zhu"
+        },
+        {
+          "authorId": "2354630346",
+          "name": "Wen Jiang"
+        }
+      ],
+      "abstract": "With the accelerated urbanization process and the continuous growth of power demand, substations are a critical component of the power system. However, the main noise sources in substations, such as main transformers, reactors, and cooling fans, have a significant impact on the surrounding environment. Therefore, this paper proposes an optimization design method for ventilation and noise reduction in substations based on deep learning. Firstly, the finite element method is used to simulate the ventilation and noise data of substations under multiple operating conditions to obtain sufficient samples. Secondly, the construction of the Convolutional Neural Network (CNN) model is completed, and the obtained data is used for model training. Finally, the optimization solution of parameter design is achieved using the SAC algorithm. The results show that the designed parameters for substations using this method can effectively reduce noise and comply with national standards."
+    }
+  },
+  {
+    "paper_id": "ab9f8599343a1ce6000deefb25b376ac4b803de1",
+    "title": "Sound insulation and noise reduction technology for modular housing used in airport environments",
+    "authors": "J. Qiu, Jianfei Zhang, Qingyun Zhang, Baoguang Chen, Pingping Zhang, Rongling Xie, Minghui Li",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2019",
+    "abstract": "The purpose of this study is to provide a modular building of steel structure to meet the requirements of internal construction and acoustics of the airport, improve the living environment and rest conditions of tower staff, relieve the daily work pressure of staff and improve work efficiency. The research of this subject has practical application value for the construction of staff dormitory of airport tower.",
+    "keywords": [
+      "Physics",
+      "Computer Science"
+    ],
+    "doi": "10.1088/1755-1315/358/4/042008",
+    "url": "https://www.semanticscholar.org/paper/ab9f8599343a1ce6000deefb25b376ac4b803de1",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "ab9f8599343a1ce6000deefb25b376ac4b803de1",
+      "externalIds": {
+        "MAG": "3094415565",
+        "DOI": "10.1088/1755-1315/358/4/042008",
+        "CorpusId": 226816045
+      },
+      "url": "https://www.semanticscholar.org/paper/ab9f8599343a1ce6000deefb25b376ac4b803de1",
+      "title": "Sound insulation and noise reduction technology for modular housing used in airport environments",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1755-1315/358/4/042008",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/358/4/042008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/358/4/042008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "358"
+      },
+      "authors": [
+        {
+          "authorId": "2150085928",
+          "name": "J. Qiu"
+        },
+        {
+          "authorId": "101594821",
+          "name": "Jianfei Zhang"
+        },
+        {
+          "authorId": "2107979641",
+          "name": "Qingyun Zhang"
+        },
+        {
+          "authorId": "2048481819",
+          "name": "Baoguang Chen"
+        },
+        {
+          "authorId": "2154286603",
+          "name": "Pingping Zhang"
+        },
+        {
+          "authorId": "2143721925",
+          "name": "Rongling Xie"
+        },
+        {
+          "authorId": "2128414612",
+          "name": "Minghui Li"
+        }
+      ],
+      "abstract": "The purpose of this study is to provide a modular building of steel structure to meet the requirements of internal construction and acoustics of the airport, improve the living environment and rest conditions of tower staff, relieve the daily work pressure of staff and improve work efficiency. The research of this subject has practical application value for the construction of staff dormitory of airport tower."
+    }
+  },
+  {
+    "paper_id": "04f49744e4feb22ea76af0ffd1622c31f369fd55",
+    "title": "Construction of Wireless Stethoscope with Noise Reduction Feature using Zigbee Module",
+    "authors": "",
+    "journal": "International Journal of Innovative Technology and Exploring Engineering",
+    "publish_year": "2019",
+    "abstract": "Stethoscope is the most generally employed tool in the health care. Sometimes hearing the patient’s heart sound or murmurs which are low in amplitude may lead to false diagnoses and this project helps to overcome several problems. The physician will be able to monitor his patient’s condition by the graph displayed using the MATLAB software in his laptop with the use of ZigBee module. MATLAB software is used for analyzing the heart sounds, so the doctor will be able to diagnoses the graph accurately. ZigBee module is employed for wireless transmission of data from the stethoscope to the doctors who are far away from the patients while the stethoscope is in contact with the patients. When immediate assistance is required i.e. when the readings cross the threshold level, a buzzer would alert the authorities for the immediate assistance. All the components could be built and controlled through the Arduino microcontroller which is easy and simple to implement. Thus our project aims at helping people and as well as doctors for easy and accurate diagnoses through the extensive use of embedded systems and wireless communication technology.",
+    "keywords": [],
+    "doi": "10.35940/ijitee.a1017.1191s19",
+    "url": "https://www.semanticscholar.org/paper/04f49744e4feb22ea76af0ffd1622c31f369fd55",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "04f49744e4feb22ea76af0ffd1622c31f369fd55",
+      "externalIds": {
+        "DOI": "10.35940/ijitee.a1017.1191s19",
+        "CorpusId": 242567570
+      },
+      "url": "https://www.semanticscholar.org/paper/04f49744e4feb22ea76af0ffd1622c31f369fd55",
+      "title": "Construction of Wireless Stethoscope with Noise Reduction Feature using Zigbee Module",
+      "year": 2019,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.35940/ijitee.a1017.1191s19",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35940/ijitee.a1017.1191s19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35940/ijitee.a1017.1191s19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "International Journal of Innovative Technology and Exploring Engineering"
+      },
+      "authors": [],
+      "abstract": "Stethoscope is the most generally employed tool in the health care. Sometimes hearing the patient’s heart sound or murmurs which are low in amplitude may lead to false diagnoses and this project helps to overcome several problems. The physician will be able to monitor his patient’s condition by the graph displayed using the MATLAB software in his laptop with the use of ZigBee module. MATLAB software is used for analyzing the heart sounds, so the doctor will be able to diagnoses the graph accurately. ZigBee module is employed for wireless transmission of data from the stethoscope to the doctors who are far away from the patients while the stethoscope is in contact with the patients. When immediate assistance is required i.e. when the readings cross the threshold level, a buzzer would alert the authorities for the immediate assistance. All the components could be built and controlled through the Arduino microcontroller which is easy and simple to implement. Thus our project aims at helping people and as well as doctors for easy and accurate diagnoses through the extensive use of embedded systems and wireless communication technology."
+    }
+  },
+  {
+    "paper_id": "9f7ed127d9469772fe583b20e38c0b867923a9b7",
+    "title": "A review of research on vibration and noise reduction in switched reluctance motors",
+    "authors": "Xiaoxiao You, Baojiang Sun, Tianyuan Zhang, Chunlin Chu",
+    "journal": "",
+    "publish_year": "2023",
+    "abstract": "Switched reluctance motors have many advantages over traditional adjustable speed drives, but vibration and noise problems are particularly acute due to their double salient pole construction and switching power supply. Therefore, taking effective measures and means to optimize the switched reluctance motor system to improve vibration and noise has important theoretical and practical significance for its promotion and application. In order to provide a clear solution to the problem of SRM vibration and noise reduction, this paper introduces the sources and theoretical research status of vibration and noise of switched reluctance motors and focuses on a series of research methods to reduce vibration and noise of switched reluctance motors from the aspects of motor body structure, parameters, and control strategy technology.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1117/12.2684576",
+    "url": "https://www.semanticscholar.org/paper/9f7ed127d9469772fe583b20e38c0b867923a9b7",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "9f7ed127d9469772fe583b20e38c0b867923a9b7",
+      "externalIds": {
+        "DOI": "10.1117/12.2684576",
+        "CorpusId": 264349816
+      },
+      "url": "https://www.semanticscholar.org/paper/9f7ed127d9469772fe583b20e38c0b867923a9b7",
+      "title": "A review of research on vibration and noise reduction in switched reluctance motors",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2684576?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2684576, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "journal": {
+        "pages": "127095M - 127095M-6",
+        "volume": "12709"
+      },
+      "authors": [
+        {
+          "authorId": "2217526560",
+          "name": "Xiaoxiao You"
+        },
+        {
+          "authorId": "49447283",
+          "name": "Baojiang Sun"
+        },
+        {
+          "authorId": "2146331691",
+          "name": "Tianyuan Zhang"
+        },
+        {
+          "authorId": "2217580695",
+          "name": "Chunlin Chu"
+        }
+      ],
+      "abstract": "Switched reluctance motors have many advantages over traditional adjustable speed drives, but vibration and noise problems are particularly acute due to their double salient pole construction and switching power supply. Therefore, taking effective measures and means to optimize the switched reluctance motor system to improve vibration and noise has important theoretical and practical significance for its promotion and application. In order to provide a clear solution to the problem of SRM vibration and noise reduction, this paper introduces the sources and theoretical research status of vibration and noise of switched reluctance motors and focuses on a series of research methods to reduce vibration and noise of switched reluctance motors from the aspects of motor body structure, parameters, and control strategy technology."
+    }
+  },
+  {
+    "paper_id": "a53030eb2a1417993f388a2605cf2749045f66de",
+    "title": "Study on Digital Image Processing (DIP) using Gamma Transformation and Noise Reduction Filters to Enhance Art Image Resolutions",
+    "authors": "Richard Kyung, M. Suh",
+    "journal": "2023 International Workshop on Artificial Intelligence and Image Processing (IWAIIP)",
+    "publish_year": "2023",
+    "abstract": "In the realm of digital art and image processing, the quest for higher resolution and enhanced visual quality has been a perennial pursuit. As technology continues to advance, digital image techniques have become increasingly popular, revolutionizing the way we create and manipulate visual art. This transformation method, rooted in mathematics and computer science, holds the key to elevating the resolution and overall quality of artworks in the digital realm. In this paper, the concept of Gamma Transformation was used to process an image. It serves as a powerful tool to breathe new life into digital artwork by adjusting brightness, reflecting the evolving landscape of artistic expression in the digital age. Another method in digital image construction requires filters that use computational and mathematical analysis and technology, such as discrete Fourier transforms. They are used to obtain frequency representations of the corresponding images. In this paper, various filters are then designed and applied to obtain frequency information. Low-frequency components or high-frequency components are used to smooth out or detect specific areas in an image. In this paper, a few alternative types of mathematical filters, such as the Gaussian filter and Boxcar filter were employed to produce images with better or different quality and to compare the processed images with one another.",
+    "keywords": [],
+    "doi": "10.1109/IWAIIP58158.2023.10462884",
+    "url": "https://www.semanticscholar.org/paper/a53030eb2a1417993f388a2605cf2749045f66de",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "a53030eb2a1417993f388a2605cf2749045f66de",
+      "externalIds": {
+        "DOI": "10.1109/IWAIIP58158.2023.10462884",
+        "CorpusId": 268545940
+      },
+      "url": "https://www.semanticscholar.org/paper/a53030eb2a1417993f388a2605cf2749045f66de",
+      "title": "Study on Digital Image Processing (DIP) using Gamma Transformation and Noise Reduction Filters to Enhance Art Image Resolutions",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IWAIIP58158.2023.10462884?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IWAIIP58158.2023.10462884, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "2023 International Workshop on Artificial Intelligence and Image Processing (IWAIIP)",
+        "pages": "376-379"
+      },
+      "authors": [
+        {
+          "authorId": "2292329952",
+          "name": "Richard Kyung"
+        },
+        {
+          "authorId": "2255381324",
+          "name": "M. Suh"
+        }
+      ],
+      "abstract": "In the realm of digital art and image processing, the quest for higher resolution and enhanced visual quality has been a perennial pursuit. As technology continues to advance, digital image techniques have become increasingly popular, revolutionizing the way we create and manipulate visual art. This transformation method, rooted in mathematics and computer science, holds the key to elevating the resolution and overall quality of artworks in the digital realm. In this paper, the concept of Gamma Transformation was used to process an image. It serves as a powerful tool to breathe new life into digital artwork by adjusting brightness, reflecting the evolving landscape of artistic expression in the digital age. Another method in digital image construction requires filters that use computational and mathematical analysis and technology, such as discrete Fourier transforms. They are used to obtain frequency representations of the corresponding images. In this paper, various filters are then designed and applied to obtain frequency information. Low-frequency components or high-frequency components are used to smooth out or detect specific areas in an image. In this paper, a few alternative types of mathematical filters, such as the Gaussian filter and Boxcar filter were employed to produce images with better or different quality and to compare the processed images with one another."
+    }
+  },
+  {
+    "paper_id": "e88384d8b0f9d529da2e27652b158bdb1cd588a9",
+    "title": "Radio Frequency Fingerprinting Improved by Statistical Noise Reduction",
+    "authors": "Weidong Wang, Lu Gan",
+    "journal": "IEEE Transactions on Cognitive Communications and Networking",
+    "publish_year": "2022",
+    "abstract": "Radio frequency (RF) fingerprinting as an important non-password authentication technology has received extensive attention in recent years. It can be used as an underlying intrusion detection component for various wireless networks to enhance their wireless security further. In order to achieve more robust RF fingerprinting with deep learning, this paper develops a practical signal data augmentation solution consisting of two steps: 1) construction of sampling points 2) smooth filtering, which enables to enhance discriminability for individual radio examples. The underlying idea is that using a relatively long signal can implicitly perform noise reduction in a statistical sense since noise is often uncorrelated or partially correlated. As more sampling points accumulated, RF fingerprints could be more discernible. Experimental results have demonstrated that our proposed data augmentation can significantly improve recognition accuracy, especially in low signal-to-noise ratio (SNR) and small example conditions.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/TCCN.2022.3171792",
+    "url": "https://www.semanticscholar.org/paper/e88384d8b0f9d529da2e27652b158bdb1cd588a9",
+    "citation_count": 33,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "e88384d8b0f9d529da2e27652b158bdb1cd588a9",
+      "externalIds": {
+        "DBLP": "journals/tccn/WangG22",
+        "DOI": "10.1109/TCCN.2022.3171792",
+        "CorpusId": 248632034
+      },
+      "url": "https://www.semanticscholar.org/paper/e88384d8b0f9d529da2e27652b158bdb1cd588a9",
+      "title": "Radio Frequency Fingerprinting Improved by Statistical Noise Reduction",
+      "year": 2022,
+      "citationCount": 33,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCCN.2022.3171792?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCCN.2022.3171792, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "IEEE Transactions on Cognitive Communications and Networking",
+        "pages": "1444-1452",
+        "volume": "8"
+      },
+      "authors": [
+        {
+          "authorId": "2108407564",
+          "name": "Weidong Wang"
+        },
+        {
+          "authorId": "2054414048",
+          "name": "Lu Gan"
+        }
+      ],
+      "abstract": "Radio frequency (RF) fingerprinting as an important non-password authentication technology has received extensive attention in recent years. It can be used as an underlying intrusion detection component for various wireless networks to enhance their wireless security further. In order to achieve more robust RF fingerprinting with deep learning, this paper develops a practical signal data augmentation solution consisting of two steps: 1) construction of sampling points 2) smooth filtering, which enables to enhance discriminability for individual radio examples. The underlying idea is that using a relatively long signal can implicitly perform noise reduction in a statistical sense since noise is often uncorrelated or partially correlated. As more sampling points accumulated, RF fingerprints could be more discernible. Experimental results have demonstrated that our proposed data augmentation can significantly improve recognition accuracy, especially in low signal-to-noise ratio (SNR) and small example conditions."
+    }
+  },
+  {
+    "paper_id": "b02bba0475842efdbe10148b510fc0886f696e96",
+    "title": "Coupled Noise Reduction in Distributed Acoustic Sensing Seismic Data Based on Convolutional Neural Network",
+    "authors": "Yuxing Zhao, Yue Li, N. Wu",
+    "journal": "IEEE Geoscience and Remote Sensing Letters",
+    "publish_year": "2022",
+    "abstract": "Distributed acoustic sensing (DAS) is widely recognized as a new technology to replace conventional geophones for the acquisition of seismic data. However, the collected data often contain a lot of coupled noise due to cable slapping and ringing along the borehole casing, which brings great difficulties to the interpretation of seismic data. The existing conventional coupled noise reduction methods often need to estimate the parameters of each coupled noise (such as amplitude, noise period, attenuation coefficient, etc.), which takes a lot of time and cannot meet the requirements for large-data-volume DAS seismic data processing. In addition, some deep learning-based denoising methods lack detailed analysis on coupled noise and have problems in the construction of training sets, resulting in insufficient generalization ability of the denoising model. To solve these problems, we propose a coupled noise reduction method based on the convolutional neural network (CNN). The proposed method does not need to estimate the parameters of coupled noise, and the denoising process is more convenient and efficient. In addition, through the analysis of DAS seismic data, we also construct a training set for coupled noise reduction using real data and synthetic data. The denoising results of both synthetic data and field data show that the proposed method can effectively reduce the coupled noise in DAS seismic data, and the effective signal has almost no energy loss. After processing, the signal affected by coupled noise becomes clear and continuous, providing high-quality data support for subsequent interpretation.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/lgrs.2022.3144421",
+    "url": "https://www.semanticscholar.org/paper/b02bba0475842efdbe10148b510fc0886f696e96",
+    "citation_count": 16,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "b02bba0475842efdbe10148b510fc0886f696e96",
+      "externalIds": {
+        "DBLP": "journals/lgrs/ZhaoLW22",
+        "DOI": "10.1109/lgrs.2022.3144421",
+        "CorpusId": 246053287
+      },
+      "url": "https://www.semanticscholar.org/paper/b02bba0475842efdbe10148b510fc0886f696e96",
+      "title": "Coupled Noise Reduction in Distributed Acoustic Sensing Seismic Data Based on Convolutional Neural Network",
+      "year": 2022,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/lgrs.2022.3144421?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/lgrs.2022.3144421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "IEEE Geoscience and Remote Sensing Letters",
+        "pages": "1-5",
+        "volume": "19"
+      },
+      "authors": [
+        {
+          "authorId": "2157351151",
+          "name": "Yuxing Zhao"
+        },
+        {
+          "authorId": "48513834",
+          "name": "Yue Li"
+        },
+        {
+          "authorId": "145650849",
+          "name": "N. Wu"
+        }
+      ],
+      "abstract": "Distributed acoustic sensing (DAS) is widely recognized as a new technology to replace conventional geophones for the acquisition of seismic data. However, the collected data often contain a lot of coupled noise due to cable slapping and ringing along the borehole casing, which brings great difficulties to the interpretation of seismic data. The existing conventional coupled noise reduction methods often need to estimate the parameters of each coupled noise (such as amplitude, noise period, attenuation coefficient, etc.), which takes a lot of time and cannot meet the requirements for large-data-volume DAS seismic data processing. In addition, some deep learning-based denoising methods lack detailed analysis on coupled noise and have problems in the construction of training sets, resulting in insufficient generalization ability of the denoising model. To solve these problems, we propose a coupled noise reduction method based on the convolutional neural network (CNN). The proposed method does not need to estimate the parameters of coupled noise, and the denoising process is more convenient and efficient. In addition, through the analysis of DAS seismic data, we also construct a training set for coupled noise reduction using real data and synthetic data. The denoising results of both synthetic data and field data show that the proposed method can effectively reduce the coupled noise in DAS seismic data, and the effective signal has almost no energy loss. After processing, the signal affected by coupled noise becomes clear and continuous, providing high-quality data support for subsequent interpretation."
+    }
+  },
+  {
+    "paper_id": "da774cc9a47ac982c959ba2349f6a2754821e163",
+    "title": "Long-Term Noise Reduction Performance Evaluation by Asphalt Pavement Method",
+    "authors": "Sang-hoon Choi, K. Lim, J. Lee",
+    "journal": "Journal of the Korean Society of Hazard Mitigation",
+    "publish_year": "2022",
+    "abstract": "This study compared the long-term noise reduction performance through field measurements using different asphalt pavement methods. The main variables were the type of pavement methods, including the porous, Stone Mastic Asphalt (SMA), and thin-layer. Noise data over the last 11 years was analyzed. Noise reduction performance of porous pavements continued to decrease due to pores filling over time and that maintenance is necessary three years post-construction. Since the intaglio surface was formed in SMA, a non-porous pavement, using thin-layer methods, the noise reduction performance could be maintained at a certain level for an extended period. Based on this study, further studies, including the effects of the traffic and the permeability of pavements, could establish the standardization of noise reduction pavement technology.",
+    "keywords": [],
+    "doi": "10.9798/kosham.2022.22.4.105",
+    "url": "https://www.semanticscholar.org/paper/da774cc9a47ac982c959ba2349f6a2754821e163",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "da774cc9a47ac982c959ba2349f6a2754821e163",
+      "externalIds": {
+        "DOI": "10.9798/kosham.2022.22.4.105",
+        "CorpusId": 251941261
+      },
+      "url": "https://www.semanticscholar.org/paper/da774cc9a47ac982c959ba2349f6a2754821e163",
+      "title": "Long-Term Noise Reduction Performance Evaluation by Asphalt Pavement Method",
+      "year": 2022,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "http://www.j-kosham.or.kr/upload/pdf/KOSHAM-2022-22-4-105.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9798/kosham.2022.22.4.105?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9798/kosham.2022.22.4.105, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of the Korean Society of Hazard Mitigation"
+      },
+      "authors": [
+        {
+          "authorId": "47407585",
+          "name": "Sang-hoon Choi"
+        },
+        {
+          "authorId": "113988697",
+          "name": "K. Lim"
+        },
+        {
+          "authorId": "2108358558",
+          "name": "J. Lee"
+        }
+      ],
+      "abstract": "This study compared the long-term noise reduction performance through field measurements using different asphalt pavement methods. The main variables were the type of pavement methods, including the porous, Stone Mastic Asphalt (SMA), and thin-layer. Noise data over the last 11 years was analyzed. Noise reduction performance of porous pavements continued to decrease due to pores filling over time and that maintenance is necessary three years post-construction. Since the intaglio surface was formed in SMA, a non-porous pavement, using thin-layer methods, the noise reduction performance could be maintained at a certain level for an extended period. Based on this study, further studies, including the effects of the traffic and the permeability of pavements, could establish the standardization of noise reduction pavement technology."
+    }
+  },
+  {
+    "paper_id": "aa3ab3da8a47d7889807418cbc11435e677324ec",
+    "title": "Construction and Probabilistic Analysis of the Observation Noise Model of the Earth's Deformation Based on Laplace Distribution",
+    "authors": "Boxu Zhu",
+    "journal": "2024 International Conference on Interactive Intelligent Systems and Techniques (IIST)",
+    "publish_year": "2024",
+    "abstract": "Observation of Earth's deformation plays a pivotal role in the analysis of Earth's tidal curves and the study of earthquake precursors, forming an integral part of Earth observation technology. Therefore, the anomaly detection and analysis of geodetic data are of paramount importance. This study primarily focuses on analyzing and modeling the geodetic data provided in the attachments. As part of the data preprocessing, a program was written in Python to read the data, revealing a significant number of missing values. These missing values were categorized into two types based on their location. To impute these missing values, we employed two techniques: spline interpolation and autoregressive prediction algorithms. Following the imputation process, a complete dataset was obtained. To isolate the noise components from the dataset, DB4 wavelet transform was utilized for noise reduction processing. The noise extracted from the data was then subjected to descriptive statistical analysis. A Laplace distribution was used to fit the probability distribution of the noise, resulting in an exact distribution of the noise within the data. Overall, this study demonstrates the utility of spline interpolation, autoregressive prediction, and DB4 wavelet transform in processing geodetic data and extracting noise. The Laplace distribution fitting provided an accurate representation of the noise distribution, offering valuable insights for the further enhancement of Earth's deformation observation techniques.",
+    "keywords": [],
+    "doi": "10.1109/IIST62526.2024.00085",
+    "url": "https://www.semanticscholar.org/paper/aa3ab3da8a47d7889807418cbc11435e677324ec",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "aa3ab3da8a47d7889807418cbc11435e677324ec",
+      "externalIds": {
+        "DOI": "10.1109/IIST62526.2024.00085",
+        "CorpusId": 273844548
+      },
+      "url": "https://www.semanticscholar.org/paper/aa3ab3da8a47d7889807418cbc11435e677324ec",
+      "title": "Construction and Probabilistic Analysis of the Observation Noise Model of the Earth's Deformation Based on Laplace Distribution",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IIST62526.2024.00085?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IIST62526.2024.00085, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2024 International Conference on Interactive Intelligent Systems and Techniques (IIST)",
+        "pages": "180-186"
+      },
+      "authors": [
+        {
+          "authorId": "2349402675",
+          "name": "Boxu Zhu"
+        }
+      ],
+      "abstract": "Observation of Earth's deformation plays a pivotal role in the analysis of Earth's tidal curves and the study of earthquake precursors, forming an integral part of Earth observation technology. Therefore, the anomaly detection and analysis of geodetic data are of paramount importance. This study primarily focuses on analyzing and modeling the geodetic data provided in the attachments. As part of the data preprocessing, a program was written in Python to read the data, revealing a significant number of missing values. These missing values were categorized into two types based on their location. To impute these missing values, we employed two techniques: spline interpolation and autoregressive prediction algorithms. Following the imputation process, a complete dataset was obtained. To isolate the noise components from the dataset, DB4 wavelet transform was utilized for noise reduction processing. The noise extracted from the data was then subjected to descriptive statistical analysis. A Laplace distribution was used to fit the probability distribution of the noise, resulting in an exact distribution of the noise within the data. Overall, this study demonstrates the utility of spline interpolation, autoregressive prediction, and DB4 wavelet transform in processing geodetic data and extracting noise. The Laplace distribution fitting provided an accurate representation of the noise distribution, offering valuable insights for the further enhancement of Earth's deformation observation techniques."
+    }
+  },
+  {
+    "paper_id": "2dc52cf453c30e0c15c6533b616f71cc489ff57e",
+    "title": "Research on design method of complex structure noise barrier based on BIM technology",
+    "authors": "Liang Chang",
+    "journal": "",
+    "publish_year": "2025",
+    "abstract": "As a key facility for noise reduction in high-speed railways, the design of full-enclosed noise barriers involves complex spatial structures and multi-disciplinary collaboration. To address the shortcomings of traditional 2D design in expressing complex structures and managing data, this paper proposes a design method for full-enclosed noise barriers based on BIM technology, focusing on the 3D modeling technology for complex structures and the classification method of design data structure. This study establishes a multi-disciplinary BIM model for full-enclosed noise barriers, employs 3D visualization and collision detection, develops construction simulation files to support on-site technical clarification, and uses the acoustic information data of the noise barrier in the BIM model for acoustic verification, expanding the application scenarios of the BIM model. This approach achieves efficiency and accuracy in noise barrier design, providing theoretical support and technical reference for engineering practice.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1117/12.3086583",
+    "url": "https://www.semanticscholar.org/paper/2dc52cf453c30e0c15c6533b616f71cc489ff57e",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "2dc52cf453c30e0c15c6533b616f71cc489ff57e",
+      "externalIds": {
+        "DOI": "10.1117/12.3086583",
+        "CorpusId": 283416015
+      },
+      "url": "https://www.semanticscholar.org/paper/2dc52cf453c30e0c15c6533b616f71cc489ff57e",
+      "title": "Research on design method of complex structure noise barrier based on BIM technology",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.3086583?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.3086583, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "pages": "139890Z - 139890Z-10",
+        "volume": "13989"
+      },
+      "authors": [
+        {
+          "authorId": "2323512351",
+          "name": "Liang Chang"
+        }
+      ],
+      "abstract": "As a key facility for noise reduction in high-speed railways, the design of full-enclosed noise barriers involves complex spatial structures and multi-disciplinary collaboration. To address the shortcomings of traditional 2D design in expressing complex structures and managing data, this paper proposes a design method for full-enclosed noise barriers based on BIM technology, focusing on the 3D modeling technology for complex structures and the classification method of design data structure. This study establishes a multi-disciplinary BIM model for full-enclosed noise barriers, employs 3D visualization and collision detection, develops construction simulation files to support on-site technical clarification, and uses the acoustic information data of the noise barrier in the BIM model for acoustic verification, expanding the application scenarios of the BIM model. This approach achieves efficiency and accuracy in noise barrier design, providing theoretical support and technical reference for engineering practice."
+    }
+  },
+  {
+    "paper_id": "8abac202a8cc96c9eae19e87346ff182530e932b",
+    "title": "Sound Absorption Coefficient of Different Green Materials Polymer on Noise Reduction",
+    "authors": "",
+    "journal": "International Journal of Innovative Technology and Exploring Engineering",
+    "publish_year": "2020",
+    "abstract": "One of the sources of noise pollution to environment is from the consumption of electrical and mechanical appliances usage at home and industries. Growth development and advancement of heavy equipment in construction work further emphasize the necessity used of new technologies for noise reduction. The best technique of control or reducing of noise is by using the materials that can absorb the noise by materials itself. Potential materials from agricultural waste as sound absorber were identified. There are two main objectives in this study; First is to produce acoustic absorber by using natural materials. Second is to identify their sound absorption coefficients. The samples were fabricated using the raw materials from banana stem, grass, palm oil leaves and lemongrass mixed with binding agents of polyurethane and hardener to the ratio of 1:4. The diameters of the samples consist of 28mm and 100mm and the thickness is 10mm. The samples sound absorption coefficients were measured according to standards ASTM E1050-98 / ISO 105342-2 (Impedance tube method). Sound absorption coefficient of the materials depends on frequencies choose. The frequencies values used in this study were in the range from 500Hz to 4500Hz. Material made from grass have a higher average sound absorption coefficient value which is 0.553. All tested samples also can be categories under class D type of materials based on sound absorption coefficient value.",
+    "keywords": [],
+    "doi": "10.35940/ijitee.c9208.019320",
+    "url": "https://www.semanticscholar.org/paper/8abac202a8cc96c9eae19e87346ff182530e932b",
+    "citation_count": 7,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "8abac202a8cc96c9eae19e87346ff182530e932b",
+      "externalIds": {
+        "DOI": "10.35940/ijitee.c9208.019320",
+        "CorpusId": 240699003
+      },
+      "url": "https://www.semanticscholar.org/paper/8abac202a8cc96c9eae19e87346ff182530e932b",
+      "title": "Sound Absorption Coefficient of Different Green Materials Polymer on Noise Reduction",
+      "year": 2020,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.35940/ijitee.c9208.019320",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35940/ijitee.c9208.019320?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35940/ijitee.c9208.019320, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "International Journal of Innovative Technology and Exploring Engineering"
+      },
+      "authors": [],
+      "abstract": "One of the sources of noise pollution to environment is from the consumption of electrical and mechanical appliances usage at home and industries. Growth development and advancement of heavy equipment in construction work further emphasize the necessity used of new technologies for noise reduction. The best technique of control or reducing of noise is by using the materials that can absorb the noise by materials itself. Potential materials from agricultural waste as sound absorber were identified. There are two main objectives in this study; First is to produce acoustic absorber by using natural materials. Second is to identify their sound absorption coefficients. The samples were fabricated using the raw materials from banana stem, grass, palm oil leaves and lemongrass mixed with binding agents of polyurethane and hardener to the ratio of 1:4. The diameters of the samples consist of 28mm and 100mm and the thickness is 10mm. The samples sound absorption coefficients were measured according to standards ASTM E1050-98 / ISO 105342-2 (Impedance tube method). Sound absorption coefficient of the materials depends on frequencies choose. The frequencies values used in this study were in the range from 500Hz to 4500Hz. Material made from grass have a higher average sound absorption coefficient value which is 0.553. All tested samples also can be categories under class D type of materials based on sound absorption coefficient value."
+    }
+  },
+  {
+    "paper_id": "1867946edcc3317135ab54b96e5a3e397ef77423",
+    "title": "Review on Current Applications of Metamaterial in Hong Kong Noise Control and its Potential Application in Construction Sites",
+    "authors": "Stephen Wai Tung Chong, Silver Cheuk Kiu Chan, Edward Chan, Joe Cho Shing Leung, Chee Kwan Lee, T. Tsang, Ho Yiu Mak, Tszpong Chow, Shuyu Chen, Min Yang",
+    "journal": "INTER-NOISE and NOISE-CON Congress and Conference Proceedings",
+    "publish_year": "2023",
+    "abstract": "During the past few years, construction works for infrastructure and housing developments in Hong Kong have been brisk with economic growth. There are nearly two construction sites in every square kilometer of our limited urban/built-up land. Hence, noise from construction works is\n one of the major concerns to our community. Striking a balance between ever-tightening construction programme and quieter living environments is crucial to support our sustainable development. Typical construction noise control pinned on using noise barriers for meeting both noise standards\n and rising public expectations. However, conventional material of noise barriers cannot effectively address and reduce construction machinery noise with a characteristic spectrum under various engineering constraints, e.g. loading, space, construction time and cost, etc. Recently, an emerging\n technology, acoustic metamaterials, takes a new approach that allows optimization of noise reduction targeting the characteristic spectrum within the said constraints. This paper will briefly introduce the principle of acoustic metamaterial and its current applications in noise control industries.\n Perspective applications of acoustic metamaterial for construction noise control and the potential benefits will also be discussed.",
+    "keywords": [],
+    "doi": "10.3397/in_2023_0174",
+    "url": "https://www.semanticscholar.org/paper/1867946edcc3317135ab54b96e5a3e397ef77423",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "1867946edcc3317135ab54b96e5a3e397ef77423",
+      "externalIds": {
+        "DOI": "10.3397/in_2023_0174",
+        "CorpusId": 265581097
+      },
+      "url": "https://www.semanticscholar.org/paper/1867946edcc3317135ab54b96e5a3e397ef77423",
+      "title": "Review on Current Applications of Metamaterial in Hong Kong Noise Control and its Potential Application in Construction Sites",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3397/in_2023_0174?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3397/in_2023_0174, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "journal": {
+        "name": "INTER-NOISE and NOISE-CON Congress and Conference Proceedings"
+      },
+      "authors": [
+        {
+          "authorId": "2269228931",
+          "name": "Stephen Wai Tung Chong"
+        },
+        {
+          "authorId": "2269201693",
+          "name": "Silver Cheuk Kiu Chan"
+        },
+        {
+          "authorId": "2054982958",
+          "name": "Edward Chan"
+        },
+        {
+          "authorId": "2269272036",
+          "name": "Joe Cho Shing Leung"
+        },
+        {
+          "authorId": "2269565146",
+          "name": "Chee Kwan Lee"
+        },
+        {
+          "authorId": "2137148558",
+          "name": "T. Tsang"
+        },
+        {
+          "authorId": "2135570138",
+          "name": "Ho Yiu Mak"
+        },
+        {
+          "authorId": "2127389565",
+          "name": "Tszpong Chow"
+        },
+        {
+          "authorId": "2295560422",
+          "name": "Shuyu Chen"
+        },
+        {
+          "authorId": "2313190055",
+          "name": "Min Yang"
+        }
+      ],
+      "abstract": "During the past few years, construction works for infrastructure and housing developments in Hong Kong have been brisk with economic growth. There are nearly two construction sites in every square kilometer of our limited urban/built-up land. Hence, noise from construction works is\n one of the major concerns to our community. Striking a balance between ever-tightening construction programme and quieter living environments is crucial to support our sustainable development. Typical construction noise control pinned on using noise barriers for meeting both noise standards\n and rising public expectations. However, conventional material of noise barriers cannot effectively address and reduce construction machinery noise with a characteristic spectrum under various engineering constraints, e.g. loading, space, construction time and cost, etc. Recently, an emerging\n technology, acoustic metamaterials, takes a new approach that allows optimization of noise reduction targeting the characteristic spectrum within the said constraints. This paper will briefly introduce the principle of acoustic metamaterial and its current applications in noise control industries.\n Perspective applications of acoustic metamaterial for construction noise control and the potential benefits will also be discussed."
+    }
+  },
+  {
+    "paper_id": "cf275d4187872414e5f1c3de0ae9cf9d4b5b2dc9",
+    "title": "Influence of tyre construction parameters on cavity noise amplification and its impact on electric vehicles",
+    "authors": "Mihar Mukesh Mavji Ved, B. Makwana",
+    "journal": "INTER-NOISE and NOISE-CON Congress and Conference Proceedings",
+    "publish_year": "2023",
+    "abstract": "When the tyre rolls over a macro uneven road surface, it starts to vibrate which is responsible for cavity noise excitation. This excitation range typically lies between 180-250 Hz for passenger car tyres. With the rise of electric vehicles in the market, vehicle interior noise is becoming\n a key demand from OEMs across the globe. It is therefore paramount to understand how tyre parameters such as cavity, construction, compounds and reinforcements excite this cavity noise under tyre operating conditions such as inflation pressure, pre-load and vehicle speeds. External cavity\n noise reduction methods such as foam technology in tyres can help reduce this excitation. However, this also leads to other challenges such as increased product costs. This investigation therefore, shows possible solutions to minimize the impact of cavity noise amplification.",
+    "keywords": [],
+    "doi": "10.3397/in_2023_0041",
+    "url": "https://www.semanticscholar.org/paper/cf275d4187872414e5f1c3de0ae9cf9d4b5b2dc9",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "cf275d4187872414e5f1c3de0ae9cf9d4b5b2dc9",
+      "externalIds": {
+        "DOI": "10.3397/in_2023_0041",
+        "CorpusId": 265586082
+      },
+      "url": "https://www.semanticscholar.org/paper/cf275d4187872414e5f1c3de0ae9cf9d4b5b2dc9",
+      "title": "Influence of tyre construction parameters on cavity noise amplification and its impact on electric vehicles",
+      "year": 2023,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3397/in_2023_0041?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3397/in_2023_0041, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "journal": {
+        "name": "INTER-NOISE and NOISE-CON Congress and Conference Proceedings"
+      },
+      "authors": [
+        {
+          "authorId": "2269342963",
+          "name": "Mihar Mukesh Mavji Ved"
+        },
+        {
+          "authorId": "69980075",
+          "name": "B. Makwana"
+        }
+      ],
+      "abstract": "When the tyre rolls over a macro uneven road surface, it starts to vibrate which is responsible for cavity noise excitation. This excitation range typically lies between 180-250 Hz for passenger car tyres. With the rise of electric vehicles in the market, vehicle interior noise is becoming\n a key demand from OEMs across the globe. It is therefore paramount to understand how tyre parameters such as cavity, construction, compounds and reinforcements excite this cavity noise under tyre operating conditions such as inflation pressure, pre-load and vehicle speeds. External cavity\n noise reduction methods such as foam technology in tyres can help reduce this excitation. However, this also leads to other challenges such as increased product costs. This investigation therefore, shows possible solutions to minimize the impact of cavity noise amplification."
+    }
+  },
+  {
+    "paper_id": "624dbde6cd425774916153c318e8f23ddbb2d744",
+    "title": "Application of Comprehensive Construction Technology for Steel Sheet Piles in High Water Level Highway Foundation Pit Engineering with Saline Soil in Confined Space",
+    "authors": "Xiyuan Liu, Shanzhi Fan",
+    "journal": "Proceedings of the 7th International Conference on Environmental Science and Civil Engineering",
+    "publish_year": "2024",
+    "abstract": ": This paper takes the foundation pit project of a highway reconstruction and expansion project in saline soil areas in western China as an example. In the process of dealing with foundation pits in highway engineering projects with high water levels and high salt content, the comprehensive construction technology of steel sheet piles has been successfully applied to address the impact of uneven distribution of soil pressure and salt expansion force on foundation pit excavation and support. Compared with the diaphragm wall and row - pile support schemes, the steel sheet pile support scheme applied in this project has obvious advantages. Steel sheet pile construction features high efficiency, good safety performance, and relatively low costs. Steel sheet piles can better meet the requirements of noise reduction, green energy conservation in highway engineering projects around urban areas. They are characterized by high utilization rate of urban space, good economy, safety, and stability, as well as convenient operation. They are suitable for comprehensive operations in space - restricted foundation pit construction around urban areas. At the same time, they can isolate salt migration and counteract salt expansion force in highway engineering projects. They are particularly suitable for foundation pit projects of highway projects around urban areas with high groundwater levels, high salt content, high construction risks, and limited space, providing valuable experience for similar engineering construction in the future.",
+    "keywords": [],
+    "doi": "10.5220/0013574000004671",
+    "url": "https://www.semanticscholar.org/paper/624dbde6cd425774916153c318e8f23ddbb2d744",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "624dbde6cd425774916153c318e8f23ddbb2d744",
+      "externalIds": {
+        "DOI": "10.5220/0013574000004671",
+        "CorpusId": 279887698
+      },
+      "url": "https://www.semanticscholar.org/paper/624dbde6cd425774916153c318e8f23ddbb2d744",
+      "title": "Application of Comprehensive Construction Technology for Steel Sheet Piles in High Water Level Highway Foundation Pit Engineering with Saline Soil in Confined Space",
+      "year": 2024,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5220/0013574000004671?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5220/0013574000004671, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "Proceedings of the 7th International Conference on Environmental Science and Civil Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "2110650147",
+          "name": "Xiyuan Liu"
+        },
+        {
+          "authorId": "2371007530",
+          "name": "Shanzhi Fan"
+        }
+      ],
+      "abstract": ": This paper takes the foundation pit project of a highway reconstruction and expansion project in saline soil areas in western China as an example. In the process of dealing with foundation pits in highway engineering projects with high water levels and high salt content, the comprehensive construction technology of steel sheet piles has been successfully applied to address the impact of uneven distribution of soil pressure and salt expansion force on foundation pit excavation and support. Compared with the diaphragm wall and row - pile support schemes, the steel sheet pile support scheme applied in this project has obvious advantages. Steel sheet pile construction features high efficiency, good safety performance, and relatively low costs. Steel sheet piles can better meet the requirements of noise reduction, green energy conservation in highway engineering projects around urban areas. They are characterized by high utilization rate of urban space, good economy, safety, and stability, as well as convenient operation. They are suitable for comprehensive operations in space - restricted foundation pit construction around urban areas. At the same time, they can isolate salt migration and counteract salt expansion force in highway engineering projects. They are particularly suitable for foundation pit projects of highway projects around urban areas with high groundwater levels, high salt content, high construction risks, and limited space, providing valuable experience for similar engineering construction in the future."
+    }
+  },
+  {
+    "paper_id": "ac8804c063bb4b4f9cacf962c4da09a358162d0d",
+    "title": "Dry mixes on gypsum and mixed bases in the construction of low-rise residential buildings using 3D printing technology",
+    "authors": "D. Kuznetsov, S. Klyuev, A. Ryazanov, D. Sinitsin, A. .. Pudovkin, E.V. Kobeleva, I. Nedoseko",
+    "journal": "Construction materials and products",
+    "publish_year": "2023",
+    "abstract": "3D-printed building construction technology is developing in most countries, such as France, China, Russia and others, and the dry mixes and equipment used are being improved. The development of 3D-printing construction technology is dictated by its many advantages: architectural diversity, speed and automation of the technological process of construction of buildings and structures with a noticeable reduction in the cost of production. However, there are a number of problems of this technology that are waiting for optimal solutions. The paper proposes solutions to two such problems: firstly, the choice of mixture with gypsum and gypsum-cement binders, ensuring the continuity of the 3D printing process of the building and allowing the construction of buildings up to three floors with sufficient safety margin, high seismic stability, as well as with good heat and noise insulation; secondly, the design of buildings with a rational structural and technological solution of the roof and floor, allowing the interface of these structures with load-bearing printed walls. Different compositions of dry mixes were tested in a series of field tests of large-sized wall blocks made with the use of a construction 3D-printer and filled with especially light porous expanded claydite, expanded clay concrete or heat-insulating foam gypsum with subsequent testing on press equipment of increased load-carrying capacity (with determination of bearing capacity and deformability of the large-sized block). When designing low-rise buildings, erected by additive technology, as an optimal design of floors, it is proposed to use frame-monolithic beam structures made of metal thin-walled steel galvanized profiles, filled with foam gypsum mix, providing heat and noise insulation and covered with a thin layer of high-strength self-leveling gypsum mix, providing the necessary structural strength of the floor and, accordingly, the minimum load on the foundation.",
+    "keywords": [],
+    "doi": "10.58224/2618-7183-2023-6-6-5",
+    "url": "https://www.semanticscholar.org/paper/ac8804c063bb4b4f9cacf962c4da09a358162d0d",
+    "citation_count": 17,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "ac8804c063bb4b4f9cacf962c4da09a358162d0d",
+      "externalIds": {
+        "DOI": "10.58224/2618-7183-2023-6-6-5",
+        "CorpusId": 268628328
+      },
+      "url": "https://www.semanticscholar.org/paper/ac8804c063bb4b4f9cacf962c4da09a358162d0d",
+      "title": "Dry mixes on gypsum and mixed bases in the construction of low-rise residential buildings using 3D printing technology",
+      "year": 2023,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58224/2618-7183-2023-6-6-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58224/2618-7183-2023-6-6-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Construction materials and products"
+      },
+      "authors": [
+        {
+          "authorId": "2259270945",
+          "name": "D. Kuznetsov"
+        },
+        {
+          "authorId": "96558746",
+          "name": "S. Klyuev"
+        },
+        {
+          "authorId": "144319703",
+          "name": "A. Ryazanov"
+        },
+        {
+          "authorId": "114336054",
+          "name": "D. Sinitsin"
+        },
+        {
+          "authorId": "1581956434",
+          "name": "A. .. Pudovkin"
+        },
+        {
+          "authorId": "2292860216",
+          "name": "E.V. Kobeleva"
+        },
+        {
+          "authorId": "98432489",
+          "name": "I. Nedoseko"
+        }
+      ],
+      "abstract": "3D-printed building construction technology is developing in most countries, such as France, China, Russia and others, and the dry mixes and equipment used are being improved. The development of 3D-printing construction technology is dictated by its many advantages: architectural diversity, speed and automation of the technological process of construction of buildings and structures with a noticeable reduction in the cost of production. However, there are a number of problems of this technology that are waiting for optimal solutions. The paper proposes solutions to two such problems: firstly, the choice of mixture with gypsum and gypsum-cement binders, ensuring the continuity of the 3D printing process of the building and allowing the construction of buildings up to three floors with sufficient safety margin, high seismic stability, as well as with good heat and noise insulation; secondly, the design of buildings with a rational structural and technological solution of the roof and floor, allowing the interface of these structures with load-bearing printed walls. Different compositions of dry mixes were tested in a series of field tests of large-sized wall blocks made with the use of a construction 3D-printer and filled with especially light porous expanded claydite, expanded clay concrete or heat-insulating foam gypsum with subsequent testing on press equipment of increased load-carrying capacity (with determination of bearing capacity and deformability of the large-sized block). When designing low-rise buildings, erected by additive technology, as an optimal design of floors, it is proposed to use frame-monolithic beam structures made of metal thin-walled steel galvanized profiles, filled with foam gypsum mix, providing heat and noise insulation and covered with a thin layer of high-strength self-leveling gypsum mix, providing the necessary structural strength of the floor and, accordingly, the minimum load on the foundation."
+    }
+  },
+  {
+    "paper_id": "a02fbddfd34c6b1884fe5b4075825816dc584d6e",
+    "title": "A noise reduction method for Ground Penetrating Radar signal based on wavelet transform and application in tunnel lining",
+    "authors": "Jianye Zhu, Yi-guo Xue, N. Zhang, Zhiqiang Li, Y. Tao, D. Qiu",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2017",
+    "abstract": "One of the major limitations that hinder the use of ground penetrating radar (GPR) in civil engineering is the inevitable noise interference associated with the GPR signal. This study proposes a noise reduction technology for a GPR signal by utilizing the excellent time-frequency localization properties of a wavelet and by analysing the characteristics of the wavelet function and the principles of wavelet noise reduction. A Daubechies wavelet is selected as the wavelet function, and the wavelet decomposition and re-construction is performed on a single channel radar signal. The images of tunnel lining from GPR are compared before and after wavelet transform, and the wavelet transform processing is proved to be capable of separating noise as well as of improving the signal-to-noise ratio. The results show that wavelet transform processing is found useful to improve the recognition of image and the accuracy of radar signal interpretation.",
+    "keywords": [
+      "Physics",
+      "Computer Science"
+    ],
+    "doi": "10.1088/1755-1315/61/1/012088",
+    "url": "https://www.semanticscholar.org/paper/a02fbddfd34c6b1884fe5b4075825816dc584d6e",
+    "citation_count": 11,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "a02fbddfd34c6b1884fe5b4075825816dc584d6e",
+      "externalIds": {
+        "MAG": "2607083986",
+        "DOI": "10.1088/1755-1315/61/1/012088",
+        "CorpusId": 196074995
+      },
+      "url": "https://www.semanticscholar.org/paper/a02fbddfd34c6b1884fe5b4075825816dc584d6e",
+      "title": "A noise reduction method for Ground Penetrating Radar signal based on wavelet transform and application in tunnel lining",
+      "year": 2017,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "https://iopscience.iop.org/article/10.1088/1755-1315/61/1/012088/pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/61/1/012088?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/61/1/012088, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "61"
+      },
+      "authors": [
+        {
+          "authorId": "2157261132",
+          "name": "Jianye Zhu"
+        },
+        {
+          "authorId": "46364591",
+          "name": "Yi-guo Xue"
+        },
+        {
+          "authorId": "9200859",
+          "name": "N. Zhang"
+        },
+        {
+          "authorId": "49970004",
+          "name": "Zhiqiang Li"
+        },
+        {
+          "authorId": "144784985",
+          "name": "Y. Tao"
+        },
+        {
+          "authorId": "144984603",
+          "name": "D. Qiu"
+        }
+      ],
+      "abstract": "One of the major limitations that hinder the use of ground penetrating radar (GPR) in civil engineering is the inevitable noise interference associated with the GPR signal. This study proposes a noise reduction technology for a GPR signal by utilizing the excellent time-frequency localization properties of a wavelet and by analysing the characteristics of the wavelet function and the principles of wavelet noise reduction. A Daubechies wavelet is selected as the wavelet function, and the wavelet decomposition and re-construction is performed on a single channel radar signal. The images of tunnel lining from GPR are compared before and after wavelet transform, and the wavelet transform processing is proved to be capable of separating noise as well as of improving the signal-to-noise ratio. The results show that wavelet transform processing is found useful to improve the recognition of image and the accuracy of radar signal interpretation."
+    }
+  },
+  {
+    "paper_id": "b8798e7ec607bb9f5495f0f922ae30adec002c32",
+    "title": "A Study on Noise Reduction of PTO Gear-box for Driving Pump of Large Excavator",
+    "authors": "Han-Ju Yoo, Jong-Jik Lee, Yong-Bum Lee, Byung-Oh Choi, Tae-Seok Kim",
+    "journal": "PHM Society Asia-Pacific Conference",
+    "publish_year": "2017",
+    "abstract": "A PTO gearbox (\"gearbox\") is designed to be mounted on a construction vehicle to convey power from the engine to multiple pumps. The gearbox uses oil bath lubrication, which often experiences a disruption in the supply oflubricant inside the gearbox. Poor lubrication in any gearing system is a major cause of a drop in its efficiency, which is often displayed in the form of heat or noise. This study describes a technology that can reduce noise by making splash lubricant inside the gearbox fall down along the wall like a curtain and measures its performance through comparison. Measurement of noise was made under no-load condition and load condition. For the former, measurement was made while the servo motor was used for driving to minimize noise from the equipment. For the load test, the noise from the equipment was unavoidable because an electrical dynamometer had to be used to control the load, but a comparison was made against the measured noise to determine where there had been any impact. If any impact was identified, a correction would be applied for the noise measured.",
+    "keywords": [],
+    "doi": "10.36001/phmap.2017.v1i1.1737",
+    "url": "https://www.semanticscholar.org/paper/b8798e7ec607bb9f5495f0f922ae30adec002c32",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "b8798e7ec607bb9f5495f0f922ae30adec002c32",
+      "externalIds": {
+        "DOI": "10.36001/phmap.2017.v1i1.1737",
+        "CorpusId": 268685689
+      },
+      "url": "https://www.semanticscholar.org/paper/b8798e7ec607bb9f5495f0f922ae30adec002c32",
+      "title": "A Study on Noise Reduction of PTO Gear-box for Driving Pump of Large Excavator",
+      "year": 2017,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://papers.phmsociety.org/index.php/phmap/article/download/1737/701",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36001/phmap.2017.v1i1.1737?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36001/phmap.2017.v1i1.1737, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "journal": {
+        "name": "PHM Society Asia-Pacific Conference"
+      },
+      "authors": [
+        {
+          "authorId": "2293325058",
+          "name": "Han-Ju Yoo"
+        },
+        {
+          "authorId": "2157120422",
+          "name": "Jong-Jik Lee"
+        },
+        {
+          "authorId": "2293618050",
+          "name": "Yong-Bum Lee"
+        },
+        {
+          "authorId": "2293648340",
+          "name": "Byung-Oh Choi"
+        },
+        {
+          "authorId": "2293315365",
+          "name": "Tae-Seok Kim"
+        }
+      ],
+      "abstract": "A PTO gearbox (\"gearbox\") is designed to be mounted on a construction vehicle to convey power from the engine to multiple pumps. The gearbox uses oil bath lubrication, which often experiences a disruption in the supply oflubricant inside the gearbox. Poor lubrication in any gearing system is a major cause of a drop in its efficiency, which is often displayed in the form of heat or noise. This study describes a technology that can reduce noise by making splash lubricant inside the gearbox fall down along the wall like a curtain and measures its performance through comparison. Measurement of noise was made under no-load condition and load condition. For the former, measurement was made while the servo motor was used for driving to minimize noise from the equipment. For the load test, the noise from the equipment was unavoidable because an electrical dynamometer had to be used to control the load, but a comparison was made against the measured noise to determine where there had been any impact. If any impact was identified, a correction would be applied for the noise measured."
+    }
+  }
+]

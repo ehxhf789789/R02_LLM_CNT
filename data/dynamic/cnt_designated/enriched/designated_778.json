@@ -1,0 +1,35 @@
+{
+  "tech_number": "778",
+  "tech_name": "T형 데크플레이트와 발포폴리스틸렌 경량중공재를 이용한 중공슬래브 공법",
+  "tech_field": "건축 > 철근콘크리트 > 기타 철근콘크리트",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=27&apntNo=778&frMenu=list&newtecId=29084",
+  "patents": [
+    {
+      "title": "데크플레이트용 중공부재를 이용한 중공식 슬래브구조 및 그 시공방법.",
+      "type": "특허등록",
+      "register_number": "100779900"
+    },
+    {
+      "title": "Ｔ형 데크플레이트에의 고정 설치를 위한 경량성형재 조립체 및 이를 이용한 경량 슬래브 구조체",
+      "type": "특허등록",
+      "register_number": "101176551"
+    },
+    {
+      "title": "중공슬래브의 원터치식 부력방지장치",
+      "type": "특허등록",
+      "register_number": "101321917"
+    },
+    {
+      "title": "경량성형재의 개량형 부력 방지구조",
+      "type": "특허등록",
+      "register_number": "101569707"
+    },
+    {
+      "title": "개량형 원터치식 중공슬래브 구조",
+      "type": "특허등록",
+      "register_number": "101604072"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 4
+}

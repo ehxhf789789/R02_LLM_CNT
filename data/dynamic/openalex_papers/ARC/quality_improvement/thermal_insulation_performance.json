@@ -1,0 +1,76 @@
+[
+  {
+    "openalex_id": "https://openalex.org/W4305042265",
+    "title": "Prediction of thermal insulation performance of vacuum glass based on extreme random forest model",
+    "authors": "Xiaoyang Liu, Lei Wang, Yanggang Hu, Shan Hua",
+    "journal": "",
+    "publish_year": "2022",
+    "abstract": "For the prediction of the U value of the heat transfer coefficient of vacuum glass, a new method is proposed in this paper. By constructing a prediction model of vacuum glass heat transfer coefficient based on extreme random forest and random forest algorithm, the prediction of U value of heat transfer coefficient is realized. This paper measures the excellence of the prediction model by using the MAE, MSE and 𝑅ଶ squared value parameters and plotting the observed curve between the predicted value and the actual value. Finally, the evaluation values of extreme forest are 0.0458, 0.0050, 0.9784, and the prediction curves are very consistent, which proves that the extreme forest prediction model has a good U value prediction ability. At the same time, by introducing the RMSE image curve, it is observed that compared with random forest, extreme forest has better generalization ability under smaller data. Aiming at the difficulty of collecting vacuum glass data sets, this paper introduces the feature importance analysis method, and the correlation between the temperature change rate and the heat transfer coefficient U is as high as 0.9882. It provides a new idea for further reducing the size of the dataset.",
+    "keywords": [
+      "Mean squared error",
+      "Correlation coefficient",
+      "Random forest",
+      "Generalization",
+      "Heat transfer",
+      "Heat transfer coefficient",
+      "Computer science",
+      "Mathematics",
+      "Algorithm",
+      "Statistics"
+    ],
+    "doi": "10.1117/12.2640729",
+    "url": "https://openalex.org/W4305042265",
+    "citation_count": 6,
+    "oa_url": null,
+    "source": "openalex",
+    "eval_dimension": "quality_improvement"
+  },
+  {
+    "openalex_id": "https://openalex.org/W3156712328",
+    "title": "Prediction and Performance Investigation of Polyurethane Foam as Thermal Insulation Material for Roofing Sheet Using Artificial Neural Network",
+    "authors": "V. B. Essien, Christian A. Bolu, Imhade P. Okokpujie, Joseph Azeta",
+    "journal": "Journal of Advanced Research in Fluid Mechanics and Thermal Sciences",
+    "publish_year": "2021",
+    "abstract": "The prediction and application of Polyurethane Foam in developing roofing sheets cannot be over-emphasized when considering the environmental changes coursed by thermal radiation. This paper presents an artificial neural network application to model and predict the indoor temperature resistance of polyurethane (PU) roofing in residential buildings. The study employed a data logger to measure the indoor and outdoor temperatures for three simulation environments (i.e., morning, afternoon, and evening) for two hours each. Furthermore, the authors employed the Levenberg-Marquardt algorithm to transform and predict the indoor temperature obtained in the residential building's polyurethane roofing house. The result shows that the PU roofing system could absorb the heat and reduce the house model's temperature with 6.9% in the morning, afternoon 15.8%, and 6.8% in the evening when compared with the temperature outdoor environment. The ANN was also able to train, test, and validate the experimental temperature results with 92.86%, 93.92%, and 95%, respectively. The mean square error and a testing error occurs at 0.1707 and 0.1689. Therefore, this study concluded that ANN's application in predicting the thermal insulation material such as the PU roofing system is highly efficient and will increase the manufacturer's performance evaluation. It has also created significant awareness of the community in employing the PU roofing system for residential buildings, which will reduce the rate of energy consumption in buildings.",
+    "keywords": [
+      "Environmental science",
+      "Polyurethane",
+      "Thermal comfort",
+      "Thermal",
+      "Artificial neural network",
+      "Morning",
+      "Engineering"
+    ],
+    "doi": "10.37934/arfmts.82.1.113125",
+    "url": "https://openalex.org/W3156712328",
+    "citation_count": 5,
+    "oa_url": "https://www.akademiabaru.com/submit/index.php/arfmts/article/download/2719/2807",
+    "source": "openalex",
+    "eval_dimension": "quality_improvement"
+  },
+  {
+    "openalex_id": "https://openalex.org/W4410057351",
+    "title": "Multiscale Pore-Structured Aerogel Fiber Metafabric for High-Performance Noise Reduction and Thermal Insulation",
+    "authors": "Lingling Huang, Yucheng Tian, Fan Wu, Xia Yin, Roman A. Surmenev, Jianyong Yu, Yi‐Tao Liu, Bin Ding",
+    "journal": "ACS Applied Polymer Materials",
+    "publish_year": "2025",
+    "abstract": "The accelerated progress of modern transportation and urbanization has resulted in severe environmental noise pollution, imposing an adverse impact on economic productivity and public health. Concurrently, the synergistic challenges of waste heat accumulation and extreme low-temperature conditions present critical threats to equipment reliability. Hence, a unique strategy, based on dual air-gelation, is developed to synthesize an aerogel-structured fiber metafabric for noise reduction and thermal insulation directly. By modulating the interactions among polymers, solvents, and water, the interaction of charged jets can be facilitated, which in turn promotes rapid phase separation and the formation of a fibrous 3D network composed of aerogel fibers with internal nanopores (size 30–80 nm). Owing to the presence of micro/nano multiscale pore structure, aerogel fiber metafabric exhibits lightweight (6 mg cm–3) and elastic characteristics while also demonstrating excellent thermal insulation performance (28.58 mW m–1 K–1) and sound absorption property (noise reduction coefficient of 0.57). Furthermore, the incorporation of hydrophobic agents and cross-linking agents endows superior mechanical property to the aerogel fiber metafabric (nearly 0% plastic deformation after 400 compression cycles) and hydrophobicity (water contact angle ∼134.3°). This work provides rich possibilities for the development of materials with both noise reduction and thermal insulation properties.",
+    "keywords": [
+      "Aerogel",
+      "Materials science",
+      "Thermal insulation",
+      "Fiber",
+      "Reduction (mathematics)",
+      "Noise reduction",
+      "Composite material",
+      "Thermal",
+      "Noise (video)"
+    ],
+    "doi": "10.1021/acsapm.5c00748",
+    "url": "https://openalex.org/W4410057351",
+    "citation_count": 1,
+    "oa_url": null,
+    "source": "openalex",
+    "eval_dimension": "quality_improvement"
+  }
+]

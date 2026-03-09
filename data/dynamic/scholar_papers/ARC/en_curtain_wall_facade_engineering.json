@@ -1,0 +1,288 @@
+[
+  {
+    "paper_id": "0e3b1eb938e988d4724ca3b60791acf492b466c8",
+    "title": "Heat Transfer Model of Curtain Wall Facade Systems under Insolation",
+    "authors": "A. Giyasov, S. Mirzoev",
+    "journal": "Light &amp; Engineering",
+    "publish_year": "2023",
+    "abstract": "This paper deals with the problem of creating the basis of microclimate regulations and increasing the energy efficiency of various types of curtain walls in relation to the building thermal air envelope. The aim of the study is to distribute the heat flux flowing through the experimental envelope and determine the minimum temperature on the inner surface of the facade to develop a heat transfer model and increase the energy efficiency of curtain walls.\nThe research methods are known scientific and technical results analytical generalization, the processes under study physical and mathematical modelling, the provisions theory of probability and mathematical statistics implementation, and fullscale experimental research.\nA computational model of heat transfer through curtain walls of various types is developed in relation to multiple reflections (absorption) of their surfaces in hot climatic conditions when the heat flux of beam and diffuse solar radiation passes through. Optimization of curtain wall with modern shading systems is considered. Comparison of the characteristics of similar experimental setup with traditional translucent curtain walls confirms the simulation. The proposed curtain wall with shading systems significantly improves the energy performance in the warm season compared to traditional curtain walls.\nA methodology based on modern computational methods that allow more accurate consideration of heat transfer through curtain walls in relation to the insolation of thermal building air envelope was developed. The methodology improves the quality of building design and microclimate and energy savings for indoor air conditioning.",
+    "keywords": [],
+    "doi": "10.33383/2023-014",
+    "url": "https://www.semanticscholar.org/paper/0e3b1eb938e988d4724ca3b60791acf492b466c8",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "bb7b0c832acfe9428d42ae336771da3864f8fb3e",
+    "title": "Integration of a 3D-Printed Façade Unit in a Curtain Wall System",
+    "authors": "Francesco Milano, Ringo Perez Gamote, Nik Eftekhar Olivo, V. Piccioni, Po Yen Chen, C. Gallagher, A. Schlueter, Benjamin Dillenburger, A. Luible, F. Gramazio, M. Kohler",
+    "journal": "Journal of Facade Design and Engineering",
+    "publish_year": "2024",
+    "abstract": "Plastic materials, known for their lightweight, formability, transparency, and durability, are the state of the art for building façade applications. Recent advances in Large-Scale Robotic 3D Printing (LSR3DP) have enabled the production of bespoke, translucent façade components. While research has largely focused on individual panel properties, there is a gap in developing a comprehensive strategy for integrating these components into a complete façade system. This paper explores the potential of combining custom 3D-printed façade elements with standard curtain wall connections. Quantitative analysis involves constructing and testing a 1 m x 1 m LSR3DP façade assembly for air and water tightness, benchmarking its performance against a conventional curtain wall. Qualitatively, the approach is evaluated through a mock-up, highlighting the architectural possibilities of blending standard and non-standard façade elements. The findings demonstrate that this hybrid system is both technically viable and opens new design possibilities for architects and façade engineers.",
+    "keywords": [],
+    "doi": "10.47982/jfde.2024.325",
+    "url": "https://www.semanticscholar.org/paper/bb7b0c832acfe9428d42ae336771da3864f8fb3e",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "d6953af5bbb68acd0bfada61c87f626b15f340f3",
+    "title": "The influence of the application of glass curtain walls on architectural style and architectural facade design techniques",
+    "authors": "Zhibei Mu",
+    "journal": "Applied and Computational Engineering",
+    "publish_year": "2024",
+    "abstract": "In recent years, with the increasingly rapid development of the glass curtain wall and its gradually mature use in architecture, many designers choose to use glass curtain walls when designing buildings in order to get the desired building facade effect. As a result, there are many new architectural styles and building facade effects. Against this background, this paper discusses how glass curtain wall is applied in architecture and how it helps and influences architectural design styles and techniques. To conclude, the glass curtain wall has been widely used in the design of high-rise buildings and public buildings at this stage, and it also helps designers to more conveniently adjust the virtual-real relationship of building facades and the overall architectural style. The use of large-area glass curtain walls in the design of facades can achieve special effects that cannot be replaced by other materials. At the same time, the application of glass facades also promotes the process of architectural design modernization.",
+    "keywords": [],
+    "doi": "10.54254/2755-2721/61/20240984",
+    "url": "https://www.semanticscholar.org/paper/d6953af5bbb68acd0bfada61c87f626b15f340f3",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "c2296d837d6e55894768e4457056b5e7fd8ba07b",
+    "title": "FULL-SCALE EXPERIMENTAL TESTING TO INVESTIGATE WIND-INDUCED VIBRATIONS ON CURTAIN WALL SYSTEMS",
+    "authors": "Krishna Sai Vutukuru, K. Alawode, A. Bakhtiari, A. Elawady, S. J. Lee, Arindam Gan Chowdhury, G. Lori",
+    "journal": "Proceedings of International Structural Engineering and Construction",
+    "publish_year": "2021",
+    "abstract": "Curtain walls are dominant cladding components of mid to high-rise buildings in modern architecture. However, the curtain wall systems have been observed highly susceptible to vibrations leading to component or system-level failure during recent extreme wind events. This paper studies the complex mechanisms of wind induced vibration (WIV) functionality at the system-and component-levels. A wind testing experiments for a full-scale single-skin façade panel was conducted at the Wall of Wind experimental facility (WOW EF) at Florida International University (FIU). Effect on the vibration of the curtain wall due to the addition of sunshade fin is also studied. The experimental protocol included testing the samples (with and without sunshade fins) at various wind speeds from 22.3 m/s to 40.1 m/s with 8.9 m/s intervals in open terrain. Effect of wind direction is also considered varying from 0 to 180 degrees with 45-degrees interval. The tests were performed on two sets of panels: (1) a polycarbonate panel (with the geometric properties maintained) to obtain dynamic wind pressure data; (2) actual glazing units that are instrumented with accelerometers and strain gauges at critical sensing locations. The experimental results indicate that the sunshade fins have a stiffening effect on the joints of the curtain walls while overall increasing the wind pressure on the panel. Dynamic amplifications on the glazing were in the order of 1.1 to 1.8 which underline the importance of studying dynamic effects on the façade systems.",
+    "keywords": [],
+    "doi": "10.14455/isec.2021.8(1).str-12",
+    "url": "https://www.semanticscholar.org/paper/c2296d837d6e55894768e4457056b5e7fd8ba07b",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "33624791d31ab1f5a419e4d12ebf9f84be77715a",
+    "title": "Numerical investigation on the seismic dissipation of glazed curtain wall equipped on high-rise buildings",
+    "authors": "L. Casagrande, A. Bonati, A. Occhiuzzi, N. Caterino, F. Auricchio",
+    "journal": "Engineering Structures",
+    "publish_year": "2019",
+    "abstract": "Abstract The dynamic interaction between glazed curtain wall stick systems and modern high-rise mega-frame buildings is investigated. In the present paper, four moment resisting frames (MRFs), consisting of thirty- and sixty-storey steel-based prototypes, are designed according to European standards: internal concentrically braced frame (CBF) core, outriggers and belt trusses are adopted to limit inter-storey drift and second order effects. Force-displacement relationships are derived from available full-scale test data performed on non-structural aluminium facade units. Therefore, 3D finite element (FE) models are developed to interpret the physical phenomena involved in facade dynamics: as a result, equivalent 1D nonlinear links are calibrated to simulate these phenomena independently. Nonlinear time history analyses (NLTHAs) are executed to investigate the potential combination of stiffness and strength of such hybrid systems, i.e. achieved through the integration of glazed curtain walls on the MRF lateral force resisting system (LFRs). Local and global performance will be shown in terms of inter-storey drifts and displacement peak profiles, forces and percentage peak variations, highlighting static-to-seismic load ratios in critical members and the sensitivity to the structural height. Conclusions point out that, even if accurately designed according to current standards, the facade omission from the seismic analyses of high-rise structures may lead to a crucial underestimation in the dissipation capacity of the building.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/J.ENGSTRUCT.2018.10.086",
+    "url": "https://www.semanticscholar.org/paper/33624791d31ab1f5a419e4d12ebf9f84be77715a",
+    "citation_count": 25,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "7e487a8b5296d3d2334804cd51baef9e034e2283",
+    "title": "Integrated shape memory alloy devices toward a high-performance glazed curtain wall seismic retrofit",
+    "authors": "L. Casagrande, Jessica Sisinni, A. Bonati, A. Occhiuzzi, F. Auricchio",
+    "journal": "Engineering Structures",
+    "publish_year": "2019",
+    "abstract": "Abstract Recent dynamic events, such as Alaska and San Fernando earthquakes, have shown shortcomings in contemporary facade design processes, exacerbated by the occurrence of non-structural component damage and failure when subjected to extreme wind loads or seismic events. Accordingly, in the present work the feasibility of an original and advanced dissipation technology is pursued investigating on the facade performance by testing and modeling strategies. Initially, based on the experimental activities performed at the Construction Technologies Institute (ITC) laboratories of the Italian National Research Council (CNR), numerical simulations are run to interpret and reproduce the experimentally tested response of two full-scale facade units. Thereafter, sophisticated 3D finite element models are calibrated acquiring information on the fundamental mechanisms accountable for the dynamics in facades. Subsequently, by virtue of the peculiar properties of Shape Memory Alloys (SMA), such as superelasticity and shape memory effect, innovative curtain wall joints are designed, focusing on the improvement of the facade energy dissipation performance and on the enhancement of the overall structural behavior. Finally, the improvements are demonstrated both globally and locally: on one hand, traditional and novel curtain wall force-drift capacity curves are compared; on the other hand, the effectiveness of the suggested device is shown, when built on a reference structure.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/J.ENGSTRUCT.2018.11.023",
+    "url": "https://www.semanticscholar.org/paper/7e487a8b5296d3d2334804cd51baef9e034e2283",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3f5996dd29d93fdcec6e965172d914566682bf29",
+    "title": "Installation Technology of Super Long Steel Hanger for Curtain Wall of Xi’an Silk Road International Convention and Exhibition Center",
+    "authors": "Y. Jiang, Z. Che, Xinyou Chen, Zhen Gong",
+    "journal": "Engineering and Applied Sciences",
+    "publish_year": "2019",
+    "abstract": "There are 268 pieces of super long steel hangers on the facade of the curtain wall project of Xi’an Silk Road International Convention and Exhibition Center. A single piece of steel hanger is 26m~44m long and 7t~34t heavy. The difference between this project and the conventional construction method of curtain wall lies in that during the installation of steel hangers, the complex deformation of the main steel structure can make it difficult to accurately install steel hangers. The construction steps are simulated with SAP2000. The simulation defines 84 construction steps. After an accurate calculation of the deformation of the main steel structure that each piece of steel hanger must adapt to, the super long steel hangers are assembled on site. The overhanging end of the metal roof is about 5m~20m from the mounting axis of steel hangers, so the conventional process of installation from up to down cannot be applied. A 180T crawler crane is utilized for overall lifting and installation on the side. This is a new construction method of curtain wall that can control the installation accuracy within 5mm, ensure the flatness of the structural facade, improve the construction and installation efficiency, and guarantee the construction safety. It can provide a technical reference for similar large-scale curtain wall projects in the future.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.11648/J.EAS.20190405.11",
+    "url": "https://www.semanticscholar.org/paper/3f5996dd29d93fdcec6e965172d914566682bf29",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "8b6e1a3ba5889059cd198483ad604c5f8fcab36e",
+    "title": "IN-PLANE SEISMIC RESPONSE OF A GLAZED CURTAIN WALL: FULL-SCALE LABORATORY TEST AND NON-LINEAR MODELLING",
+    "authors": "C. Aiello",
+    "journal": "Proceedings of the 7th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering (COMPDYN 2015)",
+    "publish_year": "2019",
+    "abstract": "Glass facades are one of the most used building envelope systems in contemporary architecture. Their increasing applications are basically driven by the research of aesthetic quality, trans-parency and natural illumination, which raises energy efficiency of buildings. However, after recent earthquakes, buildings designed by current seismic codes often presented the structural part completely intact, conversely several damages to non-structural components. Among the latter, the fall from a height of facade components, such as sharp pieces of glass or aluminum, cannot be overlooked. They, in fact, could represent a threat for occupant and pedestrian safety, as well as a significant economic loss due to downtime and their restoration or replacement. The present paper describes a cyclic experimental test performed at the Construction Technologies Institute (ITC) of the Italian National Research Council (CNR) for seismic performance assessment of a full-scale aluminum-glass façade, currently available on the market. A non-linear finite element model has been calibrated according to experimental results. Finally, an analytical procedure to simulate load-displacement relationship has been provided. This work aims at enhancing the knowledge about the experimental assessment of seismic performance of glazed systems and eventually suggesting improvements or changes in the code approaches in order to reduce the potential risks related to their damages during earthquakes.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.7712/120119.6918.19258",
+    "url": "https://www.semanticscholar.org/paper/8b6e1a3ba5889059cd198483ad604c5f8fcab36e",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "51163d328043e01481abb661320c56cb053a3db8",
+    "title": "Influence of design variables on seismic performance of unitized curtain walls: a parametric experimental study",
+    "authors": "Simona Bianchi, Guido Lori, Valerie Hayez, Mauro Overend, Giampiero Manara",
+    "journal": "Glass Structures & Engineering",
+    "publish_year": "2024",
+    "abstract": "Creating safer and more resilient building facades has become a primary concern in contemporary design, particularly in earthquake-prone regions, where there is a potentially high impact on financial, social and environmental losses. Glazed curtain wall systems are widely used in modern architecture. Yet, despite decades of research efforts aimed at enhancing the understanding of their seismic behaviour, it is not clear how design choices affect the response of glazed facades. This is crucial given the wide range of glass, framing and joint variations that are at our disposal. With a focus on unitized curtain walls, this paper provides insights into the influence of design variables on façade seismic response by means of an extensive experimental campaign and an associated parametric study to test alternative designs under both quasi-static and dynamic loading conditions. The variables considered included variations in unit dimensions, glass and joint aspect ratios, joint and framing detailing, and support conditions. This research delves into a statistical analysis of the experimental results, in order to define parameters such as glass and façade unit rotations, frame elongations and distortions, utilization factors at different intensity levels. The results provide insights that guide façade design decisions for achieving desired seismic performance levels.",
+    "keywords": [],
+    "doi": "10.1007/s40940-024-00255-2",
+    "url": "https://www.semanticscholar.org/paper/51163d328043e01481abb661320c56cb053a3db8",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f13875438ecb0e3af6501664810d2261c8336280",
+    "title": "Effect of Wind Pressure on Glass Facade",
+    "authors": "T. Shetty, D. Verma, Pushpraj Singh, R. Verma, D. Bhandari, Naveen Hanchinahal",
+    "journal": "International Journal of Innovations in Engineering and Science",
+    "publish_year": "2020",
+    "abstract": "Glass facade has gradually become main external wall material in high-rise buildings due to its multi functionalization and diversification. Nevertheless, glass is relatively fragile and prone to fracture when subjected to the coupling effect of fire and external wind load that inevitably significant influences the mechanical property of glass facades in high-rise buildings. Facades are the first aesthetical feature of a building that distinguishes one building from another. Its distinctive appearance is often the subject of controversial debate. Nowadays, Unitized glass facade system is usually used for new high-rise buildings; it becomes a major investment in both construction and long-term success of the building. Compared to reinforced concrete structure, unitized curtain wall is new technology in the construction industry. This dissertation will focus on the design and analysis of effect of wind pressure on glass façade for high-rise building. The wind loading calculations have a considerable have an effect on the sizing of glass facades elements; however there are substantial differences between wind loading codes in different countries. There are also significant differences between the wind loading data obtained from these codes. This document therefore reviews the nature and effects of wind loading on facades and compares the current simplified methods for predicting wind Loading provided in recent codes of practice. The main objective of this study to compare the performance of the façade based on Displacement. Analysis and design G+30 building using STADD Pro. Software The design involves load calculations manually and analyzing the whole structure by STAAD Pro. Keywords-Glass Facade, Diversification, Wind loading, STADD Pro.",
+    "keywords": [
+      "Environmental Science"
+    ],
+    "doi": "10.46335/ijies.2020.5.7.6",
+    "url": "https://www.semanticscholar.org/paper/f13875438ecb0e3af6501664810d2261c8336280",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "219c046426e7fdf3b7bc625a2b683cecaaf94850",
+    "title": "Study regarding adaptive envelopes based on origami",
+    "authors": "C. Mârza, Ana-Maria Graur, G. Corsiuc",
+    "journal": "Revista Romana de Inginerie Civila/Romanian Journal of Civil Engineering",
+    "publish_year": "2025",
+    "abstract": "This paper explores the integration of adaptive façade systems in curtain wall buildings as a means to enhance energy efficiency, thermal performance, and visual comfort. Starting from the geometric versatility of the hexagon and drawing inspiration from origami folding principles, the study proposes a kinetic external shading system capable of responding dynamically to variations in solar radiation. The design is inspired by principles of biomimicry and aims to contribute both aesthetically and functionally to the building envelope.",
+    "keywords": [],
+    "doi": "10.37789/rjce.2025.16.3.1",
+    "url": "https://www.semanticscholar.org/paper/219c046426e7fdf3b7bc625a2b683cecaaf94850",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2daacb9056346d593e4b55484b6397b621e819ec",
+    "title": "Application and sensitivity analysis of the phase change material hysteresis method in EnergyPlus: A case study",
+    "authors": "A. Al-janabi, M. Kavgic",
+    "journal": "Applied Thermal Engineering",
+    "publish_year": "2019",
+    "abstract": "Abstract Hysteresis is a crucial energy performance factor for the phase change material (PCM)-enhanced building envelope. This study aims to (1) compare a recently developed hysteresis method against its precursor enthalpy-temperature method, (2) perform local sensitivity analysis on hysteresis input parameters, and (3) investigate the feasibility of integrating PCMs within a suspended ceiling using the hysteresis method in EnergyPlus 8.9. Therefore, it provides new knowledge and information required for better comprehension and implementation of the hysteresis object in EnergyPlus. A building at the University of Manitoba is used as a case study because of its curtain-wall facade system, which is becoming popular worldwide despite increasing concerns over its lack of thermal storage properties. The results show a discrepancy between the hysteresis and enthalpy-temperature methods, which may vary considerably with the intensity and duration of the transmitted solar radiation. Furthermore, the peak melting and freezing temperatures, latent heat during the phase change process, solid-state density, and material thickness are essential hysteresis input parameters. Integration of PCMs resulted in heating and cooling energy savings ranging from 1.9% to 11.4% and 5.5% to 37.4%, respectively, as well as a reduction in discomfort hours from 10% to 29% depending on the zone and PCM type.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.APPLTHERMALENG.2019.114222",
+    "url": "https://www.semanticscholar.org/paper/2daacb9056346d593e4b55484b6397b621e819ec",
+    "citation_count": 64,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "eb429f4580a7f9edf1af7285d815db1978404f6a",
+    "title": "Prefab Facades – From Prototype to Product?",
+    "authors": "Lisa Rammig, A. Zani, Tim Murphy, Isabelle Paparo, Linda Hildebrand, Steve Abbring, Derick Kopreck, Chris Wu, Joyce Lee, Kate Turpin",
+    "journal": "Journal of Facade Design and Engineering",
+    "publish_year": "2023",
+    "abstract": "Building envelopes are not only the prime element of the exterior aesthetic quality of buildings; they have also become a major driver both for building construction cost and operational performance. The importance of prefabrication is growing in the building industry as it allows faster, high-quality, and cost-effective construction while reducing risks associated with onsite labour. Although prefabrication for structural components is a relatively recent development, it has been widely used in the manufacturing of building envelopes for many years, particularly in the case of unitized curtain wall systems. However, whether using prefabricated components or not, façade design development remains a challenge due to the need for façade engineers to rapidly develop technically viable and financially feasible solutions that achieve the desired architectural design intent. Particularly at the early stages of the design process, the turnaround for multiple iterations is often fast-paced, and abortive work is, therefore, not uncommon.\nThis paper outlines an approach to addressing this challenge, attempting to bridge the gap between façade design, fabrication, and installation. A new design approach and tools are presented that allow designers to iteratively validate concepts based on a pre-engineered system that is optimized for performance and take fabrication, transport, installation costs, maintenance, and circularity into account. As a result, the tool/design workflow will ensure consistent quality, meeting budgets and timelines while enhancing material efficiency and fostering energy-conscious and circular envelope design approaches.",
+    "keywords": [],
+    "doi": "10.47982/jfde.2023.1.04",
+    "url": "https://www.semanticscholar.org/paper/eb429f4580a7f9edf1af7285d815db1978404f6a",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "baad4859b1e3550c43c866fa895c43b8b1712616",
+    "title": "Renovating Modern Heritage",
+    "authors": "Rouven S. Grom, A. Putz",
+    "journal": "Journal of Facade Design and Engineering",
+    "publish_year": "2022",
+    "abstract": "The post-war building stock is increasingly being transformed. Even at objects protected as listed heritage, renovation usually results in a high degree of material exchange and replacement. This is especially the case in regard to historic curtain wall constructions. Based on the case study of the Commerzbank High-rise and original planning documents by Gartner, the paper focuses on the applied strategy of disassembling and reassembling the curtained aluminium sandwich elements, and the resulting upgrading of the original façade with a newly installed interlayer for insulation. The paper discusses the possible transfer of this strategy, which largely depended on the existing high quality of the aluminium components, their corrosion-resistant properties and low weight. The case study of the former Commerzbank High-rise indicates that a long-term preservation of post-war modern building stock can be achieved without wholesale replacement of original building components. The reuse of existing materials and components represents a promising approach.",
+    "keywords": [],
+    "doi": "10.47982/jfde.2022.powerskin.4",
+    "url": "https://www.semanticscholar.org/paper/baad4859b1e3550c43c866fa895c43b8b1712616",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "991af6bb0b3eaa1cd66868d1b84dbe04acc3c84f",
+    "title": "Experimental investigation of an innovative composite mullion made of aluminium and timber",
+    "authors": "S. Jiao, S. Gunalan, B. Gilbert, Balachandren Baleshan, H. Baillères",
+    "journal": "Journal of Building Engineering",
+    "publish_year": "2020",
+    "abstract": "Abstract The facade, as the exterior cladding of a building, is an essential element which provides waterproofing, thermal isolation and structural resistance against environmental actions. The vertical members in curtain wall facade systems, referred to as mullions, are the dominant load-bearing structural members. Despite aluminium being a durable material, conventional aluminium facade frames are weak in thermal performance, and hence thermal breaks are often used in the industry to provide the required insulation. In addition, timber frames may be preferred by building designers due to their aesthetic appearance and sustainability. Therefore, an innovative composite mullion was developed using aluminium and timber to combine the best features of both materials and is presented in this study. Experimental studies were also conducted to verify the structural performance of the composite mullion. The first series of tests was performed to investigate various aluminium-timber connections to ensure composite action. Four different connection types were considered in this study and the optimum connection was chosen and discussed. Four-point bending tests were performed next to investigate the bending behaviour and strength of the newly developed mullion as well as traditional aluminium mullions under positive and negative wind loading scenarios. It was found that the new composite mullions achieved higher section moment capacities than the traditional aluminium mullions, while being energy-efficient, aesthetically pleasing and more sustainable.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/j.jobe.2020.101907",
+    "url": "https://www.semanticscholar.org/paper/991af6bb0b3eaa1cd66868d1b84dbe04acc3c84f",
+    "citation_count": 10,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "47f11e7810da849df34273e96c44a987a5c459eb",
+    "title": "Novel Architectural Strategies to Support an nZEB Mediterranean School",
+    "authors": "Eva Crespo Sánchez, Juan Ramon Dacosta Diaz, K. Kampouropoulos",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "publish_year": "2019",
+    "abstract": "The Educational Department of Catalan Government has designed a new public school located at the center of Catalonia, in the town of Solsona. For this new construction model, they have set a main goal to minimize the energy demands, which are a key factor in reducing carbon dioxide emissions over the whole life of the building. Specifically, the objective is to increase the envelope performance, permitting to reduce, as much as possible, the implementation and use of active heating and cooling systems. The most representative strategy to do so is the use of brick curtain wall, designed in analogy with glass curtain walls as a facade. It allows the use of thermal mass to cool the building passively during the night in summer time and it helps to ensure airtightness in the envelope to minimize air leaks. This facade is complemented with an architectonical element that produces electricity based on photovoltaic panels. Based on the energy simulation results and waiting for the actual building’s construction, some relevant conclusions can be made. The role of the architecture has been crucial to ensure an optimal result, especially contributing on the reduction of the overheating hours, resulting to the minimization of the cooling energy demand. The building does not require any installation of mechanical cooling systems, even being located in the Mediterranean climate. In south orientations, the use of doubled glazing seems to be efficient enough to achieve a low energy demand, while it optimizes at the same time the total economic construction cost. Photovoltaic production in schools must be combined with some other actions. The energy exportation to the grid, as well as the use of the energy for the electric vehicle charging, are feasible options for the future.",
+    "keywords": [
+      "Physics",
+      "Computer Science"
+    ],
+    "doi": "10.1088/1757-899X/603/4/042012",
+    "url": "https://www.semanticscholar.org/paper/47f11e7810da849df34273e96c44a987a5c459eb",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "07e663485c18c0aee94fdcdd45b0c10bbe33400e",
+    "title": "CONSTRUCTION Process Analysis of Giant and Complex Steel Structures",
+    "authors": "Junjie Chen, Wei Luan, Ke Gong, Jun Ma",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "publish_year": "2020",
+    "abstract": "The main structure of Xi ’an Silk Road International Conference Centre is a giant steel braced frame structure. The façade of the structure is made up of huge suspended skirtlike suspended structure supported by cantilever roof trusses and steel suspensions, which adds up its complexity. In order to accurately control the installation precision and facilitate the installation of curtain wall glass in the later stage, the pre-chamber construction method is adopted in the roof truss installation to compensate the construction deformation of suspended structure. The static analysis is conducted by SAP2000 to propose a reasonable pre-camber value of the roof cantilever truss. The nonlinear simulation of the construction process is carried out. Through comparative analysis, the optimal sequence of the steel structure construction is obtained, which provides the theoretical basis for the construction of giant and complex steel structures.",
+    "keywords": [
+      "Physics",
+      "Materials Science"
+    ],
+    "doi": "10.1088/1757-899X/780/2/022006",
+    "url": "https://www.semanticscholar.org/paper/07e663485c18c0aee94fdcdd45b0c10bbe33400e",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4d346472670f956a9b5c148fbdd533c701845422",
+    "title": "Total Assembly Construction Technology of Ultra-long Variable Cross-section Spiral Aluminum Plate Unit of Qingdao Citizen Fitness Center Sports Stadium",
+    "authors": "Yongyong Liang, Z. Che, Xinyou Chen, Cipei Liu",
+    "journal": "Engineering and Applied Sciences",
+    "publish_year": "2019",
+    "abstract": "Qingdao Citizen Fitness Center Sports Stadium is saddle-shaped with a construction area of about 140,000m2. The rippled roof and facade are assembled with ultra-long variable cross-section spiral aluminum plate units. The largest aluminum plate unit is 1.5 tons heavy and 13 meters long. The main structure of this project is the steel structure that can deform due to the factors such as temperature and subsidence, thus making it difficult to accurately install the aluminum plate curtain wall. During construction, the total station is used several times for data acquisition to generate the BIM model, which is aligned, compared and analyzed with the theoretical 3D model for providing the accurate support for the construction process. A 1:1 main truss of the steel structure is erected on the facade to simulate the tire frame erection and assembly the ultra-long variable cross-section spiral aluminum plate units on site. The main steel structure, with the lowest point at 26 meters and the highest point at 49 meters, is lifted by the truck cranes and inserted for installation from up to down. This process is a new curtain wall construction method that increases the installation efficiency by 30%, improves the construction quality and guarantees the construction safety. It can provide the technical reference for the curtain wall work of other similar large sports stadium projects in the future.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.11648/J.EAS.20190405.12",
+    "url": "https://www.semanticscholar.org/paper/4d346472670f956a9b5c148fbdd533c701845422",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "dd24429b5500844fe7722591da4549806e335820",
+    "title": "Experimental study of the pull-out resistance of alternative high-strength fasteners for wood-based materials",
+    "authors": "J. Giese-Hinz, F. Jahn, B. Weller",
+    "journal": "Wood Material Science & Engineering",
+    "publish_year": "2018",
+    "abstract": "ABSTRACT More curtain-wall facings are fastened non-visibly to create a uniform building surface. As a consequence of bigger panels and the invisible attachment, the load effects on the fasteners and the fixing areas of the panels are increased. These include the tare weight and the tensile load due to the wind load. Therefore, this study assessed the tensile load of novel fasteners in two different wood materials. A new façade panel material is high-pressure laminate. It consists of cellulose layers soaked in epoxy resin. The second tested material was a modified pine wood, which is produced by impregnation and subsequent heat-curing. It is comparable to highly durable tropical wood. The survey focused on three alternative fixing materials such as screw inserts, drive-in nuts and undercut anchors. The pull-out resistance and failure pattern of the specimens with an alternative fastener are compared to those with wood screws. Furthermore, it was tested whether different temperatures between −20°C and +80°C have an impact on it. The results demonstrate that the alternative fasteners are much more effective than normal wood screws. The pull-out resistance out of the same thin plate material was up to four times higher.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1080/17480272.2018.1515246",
+    "url": "https://www.semanticscholar.org/paper/dd24429b5500844fe7722591da4549806e335820",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "326653227705a7d7921bb1c6dc73a289cdad2dae",
+    "title": "Constructional design of curtain wall façade inspired by hydraulics science",
+    "authors": "S. Asem, S. Mitra, S. Ghasem",
+    "journal": "",
+    "publish_year": "2014",
+    "abstract": "In recent years, the facade construction has been changed a lot. The use of curtain wall facades is the best solution to Supply the demands of the building engineering group. The curtain wall Facade has a capability to supply the expectations of the facade. There are large spectrums of construction system for curtain wall Facades that mainly concerned with the quality of their functions. Besides, we are able to mention the common points that can be seen among the facades such as: integration, lightness and particularly their transparency. The cable net façade is a new generation of Curtain wall Façade, having been previously used as a cable net structure to cover vast areas. According to the overall structure of the cable net Facade, there is a possibility that can be increased integration of façade. On the other, by increasing the façade’s area, other destructive factors such as vibration and large displacement are involved in the facade design. Many solutions have been proposed to eliminate these factors, mainly affecting the transparency of the facade. In this article, we are trying to offer a mention called ''hydraulics science'' as an appropriate solution. ''Damper'' is just one of their applications in the construction industry that is mainly used in the issue related to earthquake. Therefore, by using the structure and function of ''damper'' system as well as taking inspiration from industrial use of it, a new mention has been presented that can reduce the effects of vibration on the façade and correspondingly utilize its output energy.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.7456/1060ase/005",
+    "url": "https://www.semanticscholar.org/paper/326653227705a7d7921bb1c6dc73a289cdad2dae",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  }
+]

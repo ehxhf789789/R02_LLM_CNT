@@ -1,0 +1,35 @@
+{
+  "tech_number": "722",
+  "tech_name": "상온 저압의 스테틱 아지테이션 혼합방식으로 다공성 방수층을 형성하는 옥상 노출형 도막방수공법",
+  "tech_field": "건축 > 방수 > 일반방수",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=33&apntNo=722&frMenu=list&newtecId=26968",
+  "patents": [
+    {
+      "title": "상온 저압 정량 혼합 방식을 이용 에어셀 구조의 다공성 방수층을 형성하여 탈기 성능을 향상시키는 들뜸방지 방수막 형성장치",
+      "type": "특허등록",
+      "register_number": "100975122"
+    },
+    {
+      "title": "스프레이시스템",
+      "type": "특허등록",
+      "register_number": "101132326"
+    },
+    {
+      "title": "스프레이시스템용 분사장치",
+      "type": "특허등록",
+      "register_number": "101505596"
+    },
+    {
+      "title": "에어 충돌방식 및 스태틱 방식을 채택한 복합형 분사장치",
+      "type": "특허등록",
+      "register_number": "101828313"
+    },
+    {
+      "title": "폴리우레아 수지 도막 방수재 및 그 제조방법, 이를 이용한 방수 시공 방법 ",
+      "type": "특허등록",
+      "register_number": "101974533"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 2
+}

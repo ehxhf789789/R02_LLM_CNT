@@ -1,0 +1,25 @@
+{
+  "tech_number": "790",
+  "tech_name": "포장도로에서 전기발열선을 활용한 상향열 집중식 융설시스템 설치기술",
+  "tech_field": "토목 > 도로 > 도로안전시설",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=26&apntNo=790&frMenu=list&newtecId=29524",
+  "patents": [
+    {
+      "title": "전기발열선을 활용한 포장도로의 상향열 집중식 융설시스템 및 그의 설치방법",
+      "type": "특허등록",
+      "register_number": "102197761"
+    },
+    {
+      "title": "포장 도로의 제설장치 및 그의 설치방법",
+      "type": "특허등록",
+      "register_number": "100923663"
+    },
+    {
+      "title": "포장도로의 상향열 집중식 융설시스템에서 전기 발열선의 연결구조",
+      "type": "특허출원",
+      "register_number": "1020220123262"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 9
+}

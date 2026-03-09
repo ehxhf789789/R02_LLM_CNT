@@ -1,0 +1,181 @@
+[
+  {
+    "paper_id": "000a517f41e997bd3becb9827215b3a1e630b655",
+    "title": "Composite bridge deck slab crack design for erection with precast omnia plates",
+    "authors": "A. Vlašić, N. Mujkanović, M. Srbić, M. Kušter Marić",
+    "journal": "International Conference on Road and Rail Infrastructure",
+    "publish_year": "2024",
+    "abstract": "Limiting the crack width in reinforced concrete structures is essential to ensure a durable structure as it prevents accelerated corrosion of the reinforcement. For composite bridges, Eurocode HRN EN 1994-2 defines a very strict condition of a maximum crack width of 0.15-0.2 mm, which must be met for frequent combinations of actions. Since cracks in the deck slab of continuous girder composite bridges are to be expected and are unavoidable in the areas of middle supports, a considerable amount of reinforcement must be installed in a very limited deck slab thickness of only 25 to 30 cm. Depending on the local load bearing plate direction, the deck plate can be subjected to both, a very large longitudinal bending moment derived from the local behaviour, and an axial tensile force derived from the composite action of the main girder. The summation of these internal actions in the areas where the most unfavourable superposition occurs leads to a complex calculation and design procedure, that results in a very large reinforcement area. Omnia panels are often used instead of conventional formwork to enable a faster and more efficient erection process. In this case, additional reinforcement must be placed in the limited in-situ part of the slab thickness to allow a continuous action between the precast elements of the omnia slabs. This paper presents a numerical model investigation of such an example, used to determine the crack reinforcement in a continuous composite girder bridge with a deck slab erected using omnia panels, whose longitudinal load bearing direction coincides with the direction of the main girder span. The derived reinforcement must satisfy the ULD design and SLS crack verification, taking into account both the local behaviour of the deck slab and the global behaviour of the main girder simultaneously.",
+    "keywords": [],
+    "doi": "10.5592/co/cetra.2024.1657",
+    "url": "https://www.semanticscholar.org/paper/000a517f41e997bd3becb9827215b3a1e630b655",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4c0460f9ed6d728081c18b1d541a270ca47a1cde",
+    "title": "Seismic behavior of plate‐reinforced composite coupling beams with steel bar truss deck",
+    "authors": "Jianbo Tian, Gaoju Liu, Bolin Li, Yuanyuan Xia, Wenjing Zhou, Gang Liang",
+    "journal": "The Structural Design of Tall and Special Buildings",
+    "publish_year": "2024",
+    "abstract": "To better meet the evolving requirements of industrialized building system, this paper introduces a novel approach by proposing the utilization of a plate‐reinforced composite (PRC) coupling beam, which incorporates a steel bar truss deck as a substitute for the conventional reinforced concrete (RC) slab. In order to study the effect of different types of RC slabs on the performance of PRC coupling beams, the low‐cyclic reversed loading test was carried out on three PRC coupling beams. The differences of failure modes, load bearing capacity, stiffness degradation, and energy dissipation capacity of each coupling beam are analyzed. The finite element software ABAQUS is used to analyze the stress distribution in the concrete, steel plate, and reinforcement skeleton of the novel coupling beam. The results show that the incorporation of a steel bar truss deck in PRC coupling beams with a small span‐to‐depth ratio can effectively enhance their shear bearing capacity and energy dissipation capacity. The inclusion of a slab significantly enhances the load‐bearing capacity of the coupling beam, while the utilization of a steel bar truss deck in PRC coupling beams greatly improves their overall bearing capacity. The PRC coupling beams featuring a steel bar truss deck exhibit superior load capacity compared to those with conventional RC slabs. The cumulative energy dissipation at the damage point in PRC beams with a steel bar truss deck is 1.39 times greater than that of the coupling beam without slabs and 1.18 times higher than that of the coupling beam with traditional RC slabs.",
+    "keywords": [],
+    "doi": "10.1002/tal.2154",
+    "url": "https://www.semanticscholar.org/paper/4c0460f9ed6d728081c18b1d541a270ca47a1cde",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "7f9a0f66c625a490fc77de0f110601e5856777c1",
+    "title": "Research on fatigue performance of steel-plate-concrete composite slab",
+    "authors": "Ruyue Liu, Yong Yang",
+    "journal": "Thin-walled Structures",
+    "publish_year": "2021",
+    "abstract": "Abstract Fatigue has become one of the critical issues for bridge deck with the rapid development of bridge engineering. Steel-plate-concrete composite slab has been more and more applied as bridge deck for the advantages in high bearing capacity, good fire resistance and less demand on framework. In order to study the mechanical behavior and fatigue performance of steel-plate-concrete composite slab under low-cycle fatigue loads, static test and the constant amplitude fatigue test were performed. The effects of layout of studs, arrangement of steel plate with openings, shear ratio, as well as amplitude of fatigue load on the damage development and the failure mode of steel-plate-concrete composite slab were researched and discussed. During the test, indices such as the dynamic deflection, strain of concrete and steel plate, residual deflection and residual bearing capacity were measured. The results implied that the amplitude of fatigue stress of bottom steel plate had a direct influence on the fatigue life of composite slab, while the layout of studs and the number of steel plate with openings had little effect on the fatigue performance. No slippage on the interface between concrete and bottom steel plate was discovered and the distribution of strain generally agreed with the plane-section assumption. All the specimens experienced similar development of fatigue damage and finally failed in the mode of fatigue fracture of steel plate, followed by the concrete crush in compression region. Finally, the method for prediction of the stiffness development and fatigue life of steel-plate-concrete composite slab was preliminarily established.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/j.tws.2020.107339",
+    "url": "https://www.semanticscholar.org/paper/7f9a0f66c625a490fc77de0f110601e5856777c1",
+    "citation_count": 29,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f6e47214147f6ff890f664f0043d7f4d54c3ecf0",
+    "title": "Flexural Strength of Composite Deck Slab with Macro Synthetic Fiber Reinforced Concrete",
+    "authors": "D. Son, B. Bae, M. Lee, Moon-seok Lee, Chang-Sik Choi",
+    "journal": "Applied Sciences",
+    "publish_year": "2021",
+    "abstract": "In this research, flexural performance was evaluated using macro-synthetic fiber-reinforced concrete (MFRC) in structural deck plates. Material tests were performed to evaluate the mechanical properties of the MFRC, and the flexural strength evaluation was conducted in two experiments, positive and negative moment tests. In the material test results, compressive strength and modulus of elasticity of the MFRC were increased compared with normal concrete. Flexural tensile tests showed that, after achieving maximum strength, the deck plates had sufficient residual strength until fracture. Structural tests showed that flexural strength and cracking load of all specimens increased according to macro synthetic fiber dosage. According to the experimental results, we proposed a flexural strength model of a steel deck plate containing macro synthetic fiber. The model showed greater accuracy than the current standard compared with the experimental results. In addition, since it was confirmed that the MFRC steel decks had greater flexural stiffness until yielding, it will be necessary to quantitatively evaluate the effect of MFRC on the effective flexural stiffness of steel decking in future studies.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.3390/APP11041662",
+    "url": "https://www.semanticscholar.org/paper/f6e47214147f6ff890f664f0043d7f4d54c3ecf0",
+    "citation_count": 13,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "1780fabffefade9135e2965bb91bd87b78a58e80",
+    "title": "Improvements of steel-CA-UHPC composite wet joints in bridge deck system on resistance to negative bending moments: Static and fatigue tests",
+    "authors": "Yuqing Tan, Can Huang, Kaiwei Lu, JingJing Wang, Qizhi Xu, Jianan Qi, Zhao Cheng",
+    "journal": "Advances in Structural Engineering",
+    "publish_year": "2025",
+    "abstract": "This paper aims to promote the application of coarse aggregate ultra-high-performance concrete (CA-UHPC) wet joints for precast CA-UHPC bridge decks, advancing lightweight and long-durability bridges using accelerated bridge construction (ABC) technology. To enhance the crack resistance at the precast slab-wet joint interface, a steel-CA-UHPC composite wet joint including an attached steel plate at the end of the precast slab connected with the post-casting CA-UHPC by studs, was proposed. Eight static and one fatigue specimens were tested under negative moments on the effects of steel reinforcement lap-splice lengths and curing methods on failure modes, crack patterns, and load-displacement relationships. The improvements of attached steel plates in flexural strength, stiffness, crack resistance, and anti-fatigue behavior were discussed. The test results showed that the contact lap-splice length of steel bars of 10 d (d is the bar diameter) could provide comparable behavior to the welded reinforcements. The proposed wet joint increased the cracking and peak loads by 32.67% and 8.48%, respectively than those without steel plates. After 2 million cycles the maximum crack width was 0.13 mm and the residual strength was still maintained by 90%. These findings demonstrated that the precast CA-UHPC bridge decks with the composite wet joints had excellent service performance.",
+    "keywords": [],
+    "doi": "10.1177/13694332251344647",
+    "url": "https://www.semanticscholar.org/paper/1780fabffefade9135e2965bb91bd87b78a58e80",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f678d3ae01b5b3ef4866177b90f5c6723c4d1161",
+    "title": "Influence of profile deck sheet in composite slab system",
+    "authors": "J. R, P. V, Vignesh P.S, S. V.",
+    "journal": "International Research Journal of Multidisciplinary Technovation",
+    "publish_year": "2019",
+    "abstract": "Composite structures play a vital role in construction sector due to rapid completion of the projects. In composite structures, Plates are mostly used as a structural element for effective replacement of steel reinforcement. Normally the composite floor deck system involves a profile deck sheet as a bottom layer of slab system to take care of the tensile strength of the element. Concrete is poured over a deck sheet and with minimum reinforcement to take care of shrinkage stresses. Profile deck sheet plays a dual role as tensile reinforcement when concrete hardens and act as a temporary shuttering during fresh concreting. The main objective of this paper is to determine the vibration characteristics of profile deck sheet for various shapes of profile as composite slab system. Modal analysis is a technique in which vibration studies can be determined for various profile shapes by involving parameters such as mode shape, natural frequency, plate stresses and deformation by using finite element analysis.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.34256/irjmtcon71",
+    "url": "https://www.semanticscholar.org/paper/f678d3ae01b5b3ef4866177b90f5c6723c4d1161",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4ecb3a18fb21a1a30b3eea0ad453ff7bf3bd00f1",
+    "title": "Rehabilitation of orthotropic steel deck bridges using a modified Ortho-composite deck system",
+    "authors": "Mozhdeh Shirinzadeh",
+    "journal": "Results in Engineering",
+    "publish_year": "2024",
+    "abstract": ": Orthotropic steel deck bridge consists of a deck plate, longitudinal stiffeners under the deck plate, cross beams and the main longitudinal girders. Due to the several advantages, Orthotropic Steel Deck (OSD) systems have been utilized in many bridges worldwide. The significant feature of this structural system is its high load-bearing capacity while having relatively low dead weight. In addition, cost efficiency and the ability of rapid field erection have made the orthotropic steel deck a popular type of bridge worldwide. However, OSD bridges are highly susceptible to fatigue damage. A large number of welded joints can be regarded as the main weakness of this system. This problem is, in particular, evident in the bridges which were built before 1994 when the fatigue design criteria had not been introduced in the bridge design codes. Recently, an Orthotropic-composite slab (OCS) for road bridges has been experimentally and numerically evaluated and developed at Technische Universität Dresden as a part of AIF-FOSTA research project P1265. The results of the project have provided a solid foundation for the design and analysis of Orthotropic-composite decks with dowel strips as a durable alternative to conventional steel or reinforced concrete decks. In continuation, while using the achievements of that project, the application of a modified Ortho-composite deck for an existing typical OSD bridge is investigated. Composite action is obtained by using rows of dowel strips in a clothoid (CL) shape. Regarding Eurocode criteria for different fatigue detail categories of an OSD bridge, the effect of the proposed modification approach is assessed. Moreover, a numerical parametric study is carried out utilizing finite element software to determine the impact of different variables, such as the size and arrangement of dowel strips, the application of transverse or longitudinal rows of dowel strips, and local wheel loads. For the verification of the simulation technique, experimental results of a segment of an OCS deck are used conducted in project P1265. Fatigue assessment is performed based on the last draft of Eurocode 1993-2 (2024) for the most probable detail categories (Hot-Spots) that have been reported in the previous statistical studies. Then, an analytical comparison is provided between the typical orthotropic steel deck and the modified Ortho-composite deck bridge in terms of fatigue issues and durability. The load-bearing capacity of the bridge, the critical deflections, and the composite behavior are also evaluated and compared. Results give a comprehensive overview of the efficiency of the rehabilitation method considering the required design service life of the bridge. Moreover, the proposed approach is assessed with regard to the construction method, details and practical aspects, as well as the economic point of view.",
+    "keywords": [],
+    "doi": "10.1016/j.rineng.2024.102087",
+    "url": "https://www.semanticscholar.org/paper/4ecb3a18fb21a1a30b3eea0ad453ff7bf3bd00f1",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "de5aa1de914a3905c9d030e3909af4886e319232",
+    "title": "Innovative composite deck slab for railway bridges: Experimental investigations on the fatigue resistance of the dowel strips",
+    "authors": "P. Takács, J. Fink, H. Pardatscher, T. Petraschek",
+    "journal": "ce/papers",
+    "publish_year": "2019",
+    "abstract": "At TU Wien, Institute of Structural Engineering, Research Centre of Steel Structures, a new, extremely slender steel‐concrete‐steel composite (SCSC) plate is under investigation to meet the requirements of today's standards related to the geometric conditions and noise emission in the substitution of old railway bridges. The multi‐layer structure of the plate consists of two steel cover plates with an unreinforced concrete core, hence the name sandwich plate. Perforated shear connectors, welded alternately to only one of the outer steel plates, work together to ensure the transmission of the shear flow between the outer plates, by the activation of diagonal concrete compression struts between neighboring dowel bars. After the examination of the static load‐bearing capacity in former research programs (1), the current investigations are focussed on the fatigue behaviour of the SCSC plate, whereby the main focus lies on the investigation of the relation between the amplitude of the traffic load and the bearable number of load cycles of the SCSC plate till crack initiation in the shear connectors.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1002/cepa.1108",
+    "url": "https://www.semanticscholar.org/paper/de5aa1de914a3905c9d030e3909af4886e319232",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "65c4d6e2240f40b37940ccc777c99ba4daee56db",
+    "title": "Parametric Analysis of Structural Noise of Steel-Concrete Composite Slab Beams",
+    "authors": "Xiao Liu, Nan Zhang, Qikai Sun, Kunpeng Wang, Zhaozhi Wu",
+    "journal": "Shock and Vibration",
+    "publish_year": "2022",
+    "abstract": "In this study, the vibration acceleration and radiation structure noise in specific points, 30 cm away from the center surface of each plate of the concrete deck, web, and flange of the steel beam, are measured via the hammering test. The test is conducted on the middle concrete deck of an 8.5 m steel-concrete composite slab beam. The accuracy of the numerical model is then carefully justified. The influence of the number of shear studs, spacing, and arrangement of ribs on the concerning results is methodically examined and discussed by employing the numerical model. In the center frequency of 10–1000 Hz, the total sound power level of the structure can be lessened by improving the concrete deck thickness as well as the number of shear studs. The reduction of the rib spacing can effectively lessen the sound power level as well. The noise reduction of the plate with rib arrangement in the midspan zone is more influential than the case with uniform layout in the whole span.",
+    "keywords": [],
+    "doi": "10.1155/2022/3176793",
+    "url": "https://www.semanticscholar.org/paper/65c4d6e2240f40b37940ccc777c99ba4daee56db",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3f057994c5a9a98aadc1afe5a6ed6b1b565a9be6",
+    "title": "An Experimental Study on the Flexural Performance of a Steel-ECC Composite Bridge Deck Sheet in the Negative Moment Zone",
+    "authors": "Zhuoyi Chen, S. Wang, Zhenhai Zeng, Chuanxi Li",
+    "journal": "Applied Sciences",
+    "publish_year": "2023",
+    "abstract": "This paper seeks to solve the problem of orthotropic anisotropic steel deck pavement being prone to damage and fatigue, and to study the negative moment performance of steel-ECC concrete composite deck slabs. In this work, four groups of eight specimens were designed for the negative moment four-point bending test study, which included four variables of two ECC slab thicknesses and two bolt spacings. By analyzing the damage mode, crack distribution characteristics, bending load capacity, load-deflection curve, and load-strain curve, the effects of different ECC slab thicknesses and bolt spacings on the bending performance, deformation capacity, and cracking behavior of the steel-ECC composite bridge deck were investigated. The test showed that the combined structure of the ECC and steel plate showed good integrity and good ductility under a negative bending moment, and the damage mode of the member was pure bending of a section of the ECC with concrete cracking damage. When the thickness of the ECC plate increased from 50 mm to 75 mm, the ultimate flexural load capacity of the specimen increased by 92.6%, and when the distance between bolts was reduced from 200 mm to 150 mm, the ultimate flexural load capacity of the specimen increased by 13.4%. The increase in the ECC layer thickness increases the ultimate bearing capacity of the specimen significantly, and the decrease in the bolt spacing increases the ultimate bearing capacity of the specimen less.",
+    "keywords": [],
+    "doi": "10.3390/app13063777",
+    "url": "https://www.semanticscholar.org/paper/3f057994c5a9a98aadc1afe5a6ed6b1b565a9be6",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "42f4e97b5bcd8f8f060b3f304949f1db8d1682ed",
+    "title": "Footbridges with a composite orthotropic deck",
+    "authors": "C. Moga, Crina Feneșan, M. Suciu",
+    "journal": "Ovidius University Annals of Constanta - Series Civil Engineering",
+    "publish_year": "2023",
+    "abstract": "Abstract For average spans, the composite structures such as steel plate beams or box sections, with a monolithic or prefabricated concrete slab at the top flange used for the construction of footbridges are nowadays widely utilized. The use of composite orthotropic deck can be an advantageous solution, taking into account the following consideration: increases the structure’s stiffness to bending and torsion; the steel deck has the function of bracing and ensures the lateral stability; the parameters regarding the dynamic behaviour of the structure are improved. In the case study, a working example and an analysis for the structure of a footbridge built over the Someș River in city of Cluj-Napoca are presented.",
+    "keywords": [],
+    "doi": "10.2478/ouacsce-2023-0003",
+    "url": "https://www.semanticscholar.org/paper/42f4e97b5bcd8f8f060b3f304949f1db8d1682ed",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "abd53dadd4d9b7a32c0c7ae118e8126ebb0c4267",
+    "title": "Flexural capacity of steel-UHTCC (ultra-high toughness cementitious composite) bridge deck considering different shear connection degrees",
+    "authors": "Qing-Hua Li, Guo-Zhong Wang, Jing Tong, Shi-lang Xu",
+    "journal": "Advances in Structural Engineering",
+    "publish_year": "2022",
+    "abstract": "Due to the excellent cracking prevention behavior of ultra-high toughness cementitious composite (UHTCC), the stud number and reinforcement ratio of composite bridge decks could be reduced, and hence the fatigue properties could be improved. In this study, a theoretical model was proposed to predict ultimate flexural capacity of steel-UHTCC composite bridge decks with different shear connection degrees. To evaluate the accuracy of the theoretical model, 10 examples were designed for finite element (FE) validation and parametric study, and the results indicated that the theoretical model can predict the ultimate flexural capacity of steel-UHTCC composite bridge decks with satisfactory accuracy. Then, quantitative analysis was conducted to reveal the effect of key design parameters on the ultimate flexural capacity. The design parameters involved in the parametric study included: (1) normalized stud number; (2) shear span length; (3) thickness of UHTCC slab; (4) reinforcement ratio; and (5) the number of longitudinal plate ribs. The reasonable range of the normalized stud number in a shear span can be determined between 0.5 and 1 in practical design and increasing of longitudinal reinforcement ratio has limited effect on ultimate flexural capacity of steel-UHTCC composite bridge decks.",
+    "keywords": [],
+    "doi": "10.1177/13694332221080611",
+    "url": "https://www.semanticscholar.org/paper/abd53dadd4d9b7a32c0c7ae118e8126ebb0c4267",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "65be09cfe2a6b37214d29076f4df76fa84a4d642",
+    "title": "Analytical Comparison of Composite and Non-Composite through Type and Deck Type Steel Truss Bridges",
+    "authors": "Abhishek Sharma, Krishankant Pathak, P. K. Singh",
+    "journal": "Civil Engineering and Architecture",
+    "publish_year": "2021",
+    "abstract": "In trusses, deck type and through type truss systems are generally provided with various member arrangements. To utilize the materials used in the trusses more efficiently, RCC decks are nowadays made composite with the truss members. In this paper, analysis of 72.0 m deck type and through type, non-composite and composite bridges is presented. The bridges are modelled using STAAD. Pro v8i software with truss members as beam element and deck slab modelled as four noded plate element. The loading on the bridge is done as per the provisions of IRC-6 and IRC-24. The composite deck effectively reduces the horizontal deflections due to lateral seismic and wind loads in both the truss systems. Decrement in vertical deflection of the truss system was also observed making the structure mode stiffer. Stresses in the members made composite with the deck slab were also reduced and hence resulted in material saving and decreased steel offtake. In the case of composite deck type bridges due to load sharing by the deck slab, the stresses in the top chord are reduced significantly hence eliminating the chances of buckling. Advantages of composite deck are better utilized in deck type bridge system compared to through type bridge system.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.13189/CEA.2021.090401",
+    "url": "https://www.semanticscholar.org/paper/65be09cfe2a6b37214d29076f4df76fa84a4d642",
+    "citation_count": 1,
+    "source": "semantic_scholar"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "tech_number": "833",
+  "tech_name": "철근간격 변경 및 데크판재의 호환이 가능한 탈부착 슬래브 거푸집 공법",
+  "tech_field": "건축 > 철근콘크리트 > 거푸집",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=22&apntNo=833&frMenu=list&newtecId=21538",
+  "patents": [
+    {
+      "title": "슬래브 성형용 탈형 데크 및 이를 이용한 슬래브 시공방법",
+      "type": "특허등록",
+      "register_number": "1014394880000"
+    },
+    {
+      "title": "단열재 데크 및 단열재 데크 설치 방법",
+      "type": "특허등록",
+      "register_number": "1016282550000"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 6
+}

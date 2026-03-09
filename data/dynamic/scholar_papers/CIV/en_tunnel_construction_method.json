@@ -1,0 +1,264 @@
+[
+  {
+    "paper_id": "c06615ff97704e00dcc32b4f19c1dd3c06fa8d9c",
+    "title": "Study of the stability of tunnel construction based on double-heading advance construction method",
+    "authors": "Zhanping Song, Guilin Shi, Baoyun Zhao, K. Zhao, Junbao Wang",
+    "journal": "Advances in Mechanical Engineering",
+    "publish_year": "2020",
+    "abstract": "The deformation and significant settlement of surrounding rock often occur during tunnel construction with the condition of abundant water and weak cementing sand. In order to study the construction method and stability under such soft stratum, this article takes Taoshuping tunnel as the engineering background and puts forward a new tunnel construction method—double-heading advance construction method by comparing the advantages and disadvantages of various traditional construction schemes. The numerical simulation of tunnel construction process using this method is carried out to illustrate the rationality and feasibility of the method. The conclusions are drawn by comparing the numerical simulation results with the field monitoring data analysis. The numerical simulation results show that the maximum settlement value caused by excavation construction is in the parts 5 and 6 of the upper half-section and the part 7 of the central section. The settlement values of parts 5, 6, and 7 accounted for 32.4%, 24.3%, and 18.9% of the total settlement values, respectively. So, the supporting measures for double-heading advance excavation construction of these three parts should be strengthened properly. The stress of the right hance changes greatly before and after the demolition of temporary support. The maximum positive value of stress is 23 kPa and the maximum negative value of stress is −32 kPa. Therefore, the length of temporary bracing should be strictly controlled during construction and the monitoring of the right hance area should be strengthened. Furthermore, it is necessary to strengthen the supporting measures and monitoring in the right spandrel area as the surrounding rock pressure in the right spandrel area is higher than the left spandrel area. The optimum excavation height of the upper half-section in Taoshuping tunnel is determined to be 5.4 m and the reasonable excavation distance between parts 1 and 5 is determined to be 25–30 m by parameter optimization. Finally, the variation law of numerical simulation and field monitoring results is consistent, which shows that the double-heading advance construction method has a better effect on the stability control of surrounding rock, and the rationality and feasibility of this method are validated effectively. Therefore, the double-heading advance method is suitable for tunnel construction in the sand stratum with rich water and weak cementation, and the successful implementation of this method in Taoshuping tunnel also provides a reference for subsequent tunnel construction in the sand stratum with rich water and weak cementation.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1177/1687814019896964",
+    "url": "https://www.semanticscholar.org/paper/c06615ff97704e00dcc32b4f19c1dd3c06fa8d9c",
+    "citation_count": 41,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "5f731a4f694b4430579945bc4860de2dcc70cd63",
+    "title": "Advancing Shallow Tunnel Construction in Soft Ground: The Pipe-Umbrella Box Jacking Method",
+    "authors": "Xi Jiang, Xuehui Zhang, Xiao Zhang, Luyuan Long, Yun Bai, Baoshan Huang",
+    "journal": "Transportation Research Record",
+    "publish_year": "2024",
+    "abstract": "The development of modern cities has often led to increased traffic congestion and limited usable space. One effective solution to these problems is to construct roadway tunnels, which can expand urban space and alleviate traffic congestion. However, building large underpass tunnels in urban areas, especially in soft ground, presents technical challenges owing to its extensive environmental disturbance. The pipe-umbrella box jacking method offers a promising solution to these challenges as this method does not require breaking the ground from the surface or disrupting surface traffic. This study reviews the key techniques of the pipe-umbrella box jacking method for constructing large rectangular tunnels with small burial depths in soft ground. The study focuses on three main technical issues: pipe umbrella installation, soil face excavation, and box jacking control. Furthermore, two tunnel projects in Shanghai, China, are presented as case studies to showcase the construction challenges and countermeasures during box jacking tunneling with pipe-umbrella. Practical construction experience has revealed that the installation of the pipe umbrella before box jacking serves as an effective method of ground pre-support. However, its performance can be influenced by factors such as pipe installation deviation and inter-pipe connection design. Both open-face steel grid extrusion (SGE) shields and closed-face earth pressure balanced (EPB) shields can be used for soil excavation during box jacking, with different work modes resulting in distinct ground deformation patterns. Additionally, lubrication grouting has been found to effectively reduce friction resistance and affect vertical ground deformation. The study also examines the lessons learned from case studies and proposes optimization measures. This study can serve as a valuable reference for the tunneling industry, providing insights into the pipe-umbrella box jacking method and its application in constructing large rectangular tunnels in soft ground.",
+    "keywords": [],
+    "doi": "10.1177/03611981231225430",
+    "url": "https://www.semanticscholar.org/paper/5f731a4f694b4430579945bc4860de2dcc70cd63",
+    "citation_count": 23,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "bdcdb44cf37de90a6568fa6688b67b1af26237bf",
+    "title": "Risk analysis in underground tunnel construction with tunnel boring machines using the Best–Worst method and data envelopment analysis",
+    "authors": "Nitidetch Koohathongsumrit, W. Meethom",
+    "journal": "Heliyon",
+    "publish_year": "2023",
+    "abstract": "Background The use of tunnel boring machines is continuously increasing; however, this activity faces many risks, resulting in negative events. Methods A novel approach using the best–worst method and a data envelopment analysis model was proposed to analyze the risks of underground tunnel construction with tunnel boring machines. The proposed approach was validated using a realistic case study of metro construction in Thailand. Results The proposed approach efficiently analyzed the risks and produced more solid findings. The most critical and least affected risks can be identified according to risk scores in descending order. Implication This study contributes a new method of risk analysis that benefits project managers and stakeholders who design risk management plans to reduce the occurrence and mitigate the severity of metro works. Originality The new risk analysis can obtain the best compromise ranking of risks based on decision-makers’ preferences, probabilities, and various consequences under different circumstances.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1016/j.heliyon.2023.e23486",
+    "url": "https://www.semanticscholar.org/paper/bdcdb44cf37de90a6568fa6688b67b1af26237bf",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f5cfddb66734ea640e211cb6ef8a0f4451c1b639",
+    "title": "A Finite Element Method Integrated with Terzaghi’s Principle to Estimate Settlement of a Building Due to Tunnel Construction",
+    "authors": "César A. Rodríguez, Á. M. Rodríguez-Pérez, Raúl López, J. A. Hernández-Torres, J. J. Caparrós-Mancera",
+    "journal": "Buildings",
+    "publish_year": "2023",
+    "abstract": "This study presents the application of the finite element method integrated with Terzaghi’s principle. The definition of a model in oedometric or confinement conditions for settlement estimation of a building after the construction of a tunnel, including the effect of Terzaghi’s principle, is an unresolved problem. The objectives of this work include the demonstration of the need for a minimum of three methodological states to estimate said settlement. For this, a specific methodology is applied to a case study, with eight load steps and four types of coarse-grained soils. In the studied case, two layers of 50 m and 5 m with different degrees of saturation are overlaying an assumed impermeable rock layer. The excavation of a tunnel of 15 m in diameter at a depth of 30 m with drainage lining inside the tunnel is assumed. The minimum distance from the tunnel’s outline to the mat foundation is 15.8 m. It is determined that the settlement, according to Terzaghi’s principle, is around 11% of the total settlement for the most compacted soil types, reaching 35% for the loose soil type, from the tunnel’s outline. In the mat foundation, it implies an increase in the differential settlement of up to 12%. It shows a nonlinear relationship between some of the variables in the analysis. To detect the collapse due to uplifting the tunnel invert, it was determined that it was not appropriate to model in oedometric conditions. The novelty of the investigation relies on identifying and determining the need for a minimum of three states for methodological purposes for a proper quantification of the total settlement: (i) before the construction of the tunnel, (ii) immediately after the excavation of the tunnel, but without groundwater inflow into the tunnel, and (iii) after the tunnelling, with stabilised groundwater inflow into the tunnel.",
+    "keywords": [],
+    "doi": "10.3390/buildings13051343",
+    "url": "https://www.semanticscholar.org/paper/f5cfddb66734ea640e211cb6ef8a0f4451c1b639",
+    "citation_count": 22,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "90d11b2e62aa4b7daa3b13b6c49822ff7ec5fb3a",
+    "title": "Research on the Stability of Shallow-Buried Large Cross-Section Tunnel by Construction Method Conversion",
+    "authors": "Zhi Zhang, Chenyang Zhao, Long Peng, Xiaohui Zhang, Ming-feng Lei",
+    "journal": "",
+    "publish_year": "2022",
+    "abstract": "The blind and random use of the combined construction method may have a great impact on tunnel stability. To determine the influence of construction method conversion on tunnel deformation and the reasonable conversion condition, a numerical model is established to simulate the construction method transforms from central diaphragm method to the benching tunneling method based on Jiaoweiqin Tunnel. The conversion condition is determined based on the results of tunnel geological prediction and in-site monitoring, and the temporary two-bench tunneling method is adopted to ensure the success of construction method conversion. Besides, the parameter analysis is done to analyze the influence of mechanical properties of surrounding rock mass and bench length on tunnel stability. Research results indicate that the construction safety should be evaluated before construction method conversion is carried out by analyzing the design blueprint, tunnel geological prediction results, geological survey reports, rock mass conditions in front of tunnel face, in-site monitoring data, and numerical simulation results. Meanwhile, the construction method conversion can be carried out in the order of central diaphragm method, two-bench tunneling method, and bench tunneling method. Parameter analysis results reveal that the deformation of primary support decreases in a negative exponential form with the increase in elasticity modulus and increases approximately linearly with the increase in bench length. For shallow buried and large cross-section tunnels, the tunnel deformation is in a small state when the elastic modulus of rock mass reaches a certain value. The construction method conversion can be carried out when the rock mass has a certain stability, and the length of construction method conversion should be small to ensure construction safety.",
+    "keywords": [],
+    "doi": "10.3389/feart.2022.831169",
+    "url": "https://www.semanticscholar.org/paper/90d11b2e62aa4b7daa3b13b6c49822ff7ec5fb3a",
+    "citation_count": 15,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f0da844811a1f2883fdd8e4e508ac4a5a1d0686a",
+    "title": "Study on Spraying Construction Method of a Non-Water Reacting Polymer Layer in the Tunnel",
+    "authors": "Bo Sun, Chengchao Guo, Yu Chen, Xuanxuan Chu, Xue Ma",
+    "journal": "Materials",
+    "publish_year": "2022",
+    "abstract": "Non-water reacting double-component foamed polyurethane has been increasingly used in the field of transportation. Particularly, it is recognized that a polymer damping layer between tunnel linings and surrounding rocks can improve the seismic performance of tunnels. To facilitate the application of this polymer in tunnels, a spraying construction method of polymer damping layers was proposed. The polymer damping layer was prepared with hydraulic spraying equipment, and the construction process included the pre-treatment of the tunnel base surface, the pressure control of the spraying equipment, the adjustment of the spray gun working parameters and spraying quality control. In this paper, the effects of material ratio, material temperature, environmental factors (i.e., temperature, humidity and wind speed), spraying pressure and spray gun parameters (i.e., speed, distance from the sprayed surface and spray angle) on the layer formation were investigated. Thus, spraying parameters for better spraying performance were recommended. This study will provide technical support for polymer damping layer construction in the seismic design of tunnels.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma15124138",
+    "url": "https://www.semanticscholar.org/paper/f0da844811a1f2883fdd8e4e508ac4a5a1d0686a",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "8ac34f8aad282842159d0d1cadd2b8bde64725e4",
+    "title": "Research on Tunnel Construction Monitoring Method Based on 3D Laser Scanning Technology",
+    "authors": "Zheng Wei, Yinze Wang, W. Weng, Zhenfeng Zhou, Zhenguo Li",
+    "journal": "Symmetry",
+    "publish_year": "2022",
+    "abstract": "A tunnel is a symmetric structure working under uncertain load. In the traditional method of monitoring and measurement of tunnel deformation, only a small number of symmetric measuring point displacements are engaged to represent the overall deformation of the tunnel, and it is difficult to fully reflect the displacement changes of the tunnel during the construction process. In this paper, a deformation monitoring method is proposed for the tunnel construction process based on 3D laser scanning technology. Initially, 3D laser scanning was used to obtain scattered clouds of irregular structures considering the New Austrian Tunneling Method (NATM). Afterward, the modified B-spline interpolation and greedy triangulation were used to fit the surfaces. Moreover, the normal vector matrix was innovatively applied to express the deformation of the tunnel fitting surface, which solved the problem of scattered point clouds in 3D laser scanning. A normal vector was obtained by the intersection of the normal of one fitted surface with the other. Subsequently, the maximum entropy method was introduced to form the probability density function of the normal vector, and the 1% and 5% probability eigenvalues were used to analyze the overall deformation trend of the tunnel. Finally, the eigenvalue of 5% probability, which was less affected by construction uncertainties, was selected for analysis. This way, the analysis and prediction method for overall tunnel deformation was established.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3390/sym14102065",
+    "url": "https://www.semanticscholar.org/paper/8ac34f8aad282842159d0d1cadd2b8bde64725e4",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "635a89f84c24b3b352576ca8a5fff1469bc7366a",
+    "title": "Construction Method Optimization for Transfer Section Between Cross Passage and Main Tunnel of Metro Station",
+    "authors": "P. Zhou, J. B. Wang, Z. P. Song, Z. Cao, Z. Pei",
+    "journal": "",
+    "publish_year": "2022",
+    "abstract": "The transfer section between the cross passage and the main tunnel is the part that needs to be paid attention to during the underground excavation construction of the subway. Due to complex stress, the collapse of the horsehead gate and excessive surface settlement often occur. In order to determine the construction scheme of the transfer section between the cross passage and the main tunnel of Guanshui Road Station of Metro Line two in Guiyang, China, the numerical simulation method was used to analyze the “double-holes interval pillar method,” “sector expansion method,” and “gate climbing method,”, respectively. The mechanical response of the surrounding rock and supporting structure under each method was compared. The comparisons showed that the surface settlement, the displacement of the cave, and the plastic zone caused by the double-holes interval pillar method were the smallest, and the method can reduce the construction risk, shorten the construction period, and reduce the project cost. Therefore, it was recommended to use the double-holes interval pillar method to construct the transfer section. The comparison between the measured data and the numerical simulation results of the double-holes interval pillar method showed that the numerical simulation results were smaller than the measured data at each point, and the surface settlement and horizontal displacement in the tunnel both met the safety control standard.",
+    "keywords": [],
+    "doi": "10.3389/feart.2022.770888",
+    "url": "https://www.semanticscholar.org/paper/635a89f84c24b3b352576ca8a5fff1469bc7366a",
+    "citation_count": 23,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3fd9f05e368a77043c147dbff593b07321006986",
+    "title": "Detection method of karst features around tunnel construction by multi-resistivity data-fusion pseudo-3D-imaging based on the PCA approach",
+    "authors": "Maoxin Su, Liu Yimin, Yi-guo Xue, C. Kai, Ning Zexu, Guangkun Li, Zhang Kai",
+    "journal": "Engineering Geology",
+    "publish_year": "2021",
+    "abstract": "Abstract During tunnel construction, large groundwater influx poses serious safety hazards. To ensure construction safety, effective measures such as early warning, grouting, and framework support are needed to counteract potential water hazards. It is also critical to clarify the spatial location and size of the water-bearing geological structures before construction to avoid catastrophe. Electrical resistivity tomography (ERT) operates at a high resolution and is sensitive to low-resistivity targets such as water. Thus, it has strong application potential for the detection of karst geomorphology around tunnel construction. However, the use of a single-ERT method may not be sufficient to accurately locate the spatial distribution of karst features. Therefore, it is necessary to carry out multiple-ERT data fusion to generate a comprehensive interpretation of karst geohazards. According to the spatial distribution of different karst caves, we established four geoelectric models for numerical simulation based on the method of principal component analysis. Studies have shown that data fusion is superior to conventional comparative analysis of geophysical data results and creates a more accurate comprehensive description of the same target. For example, inversion data fusion improves poor imaging of the cross-hole ERT near the borehole and reduces the distribution of pseudo-anomalies near the electrode. In this study, the vertical resolution of the surface ERT, and the horizontal resolution of the cross-hole ERT were both improved, while the imaging ability of the borehole-surface ERT in the peripheral low-sensitivity area was enhanced. Moreover, a three-dimensional (3D) conversion method of two-dimensional (2D) detection data in the tunnel environment was employed. An interpolation 3D-imaging of the 2D detection data was carried out, rendering the interpretation of the results more intuitive and comprehensive. Finally, we applied this method in the Daba Tunnel Water Governance Project in Hunan Province, China, and demonstrated that it could overcome the limitations of the single-ERT survey. We were able to accurately delineate the distribution range of the main water-rich bodies around the tunnel. Our findings provide key guidance for the successful implementation of tunnel water-inrush treatment.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1016/J.ENGGEO.2021.106127",
+    "url": "https://www.semanticscholar.org/paper/3fd9f05e368a77043c147dbff593b07321006986",
+    "citation_count": 26,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "aae5c86e8d3a2b71660e1be3cb27fd215e7ae5c4",
+    "title": "Impact of Construction Method and Ground Composition on Headrace Tunnel Stability in the Neelum–Jhelum Hydroelectric Project: A Case Study Review from Pakistan",
+    "authors": "H. Rehman, A. Naji, Kyoung-Min Nam, Saeed Ahmad, Khan Muhammad, H. Yoo",
+    "journal": "Applied Sciences",
+    "publish_year": "2021",
+    "abstract": "During underground construction, the behavior of the ground is influenced by characteristics of the rock mass with situ stresses and ground water, cross section of the excavation area, excavation method, and the rate of excavation. These fundamental features are considered to ensure the support and stability of underground excavations and achieve long-term successful operation. However, the ground composition of the Himalayas hinders tunnel excavation, especially in case of mechanized tunneling; this causes time and cost overruns. This study has reviewed the recently completed Neelum–Jhelum Hydroelectric Project; the project complexities, geological environments involving significant overburden and tectonic stresses, and effects of the excavation method on tunnel stability were analyzed. The major challenges that were encountered during construction are discussed herein along with their countermeasures. An analysis of project-related data reveals that latest techniques and approaches considering rock mechanics were used to complete the project; the existing approaches and methods were accordingly verified and extended. Apart from ground composition, the excavation methods used play an important role in the occurrence of severe rock bursts. Thus, the findings of this study are expected to be helpful for future tunneling projects in the Himalayas.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.3390/APP11041655",
+    "url": "https://www.semanticscholar.org/paper/aae5c86e8d3a2b71660e1be3cb27fd215e7ae5c4",
+    "citation_count": 22,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "7bcd4db1d094184ca9e95b29a13b8fbd0422111b",
+    "title": "Numerical analysis and application of the construction method for the small interval tunnel in the turn line of metro",
+    "authors": "Zhanping Song, Xiaoxu Tian, Qi Liu, Yuwei Zhang, Heng Li, Guannan Zhou",
+    "journal": "Science Progress",
+    "publish_year": "2020",
+    "abstract": "The surrounding rock may become unstable or even fall down and the initial support may crack and be destroyed when the construction method of the underground excavation tunnel is not properly selected in the turn line of metro. . A section of the Santunbei turn line of Urumqi Metro Line 1# was taken as the engineering background. The proposed construction method was analyzed by numerical simulation. Numerical analysis shows that the final surface settlement caused by the proposed construction method is 3.0 mm and the horizontal convergence is 3.2 mm. It also turns out that the proposed construction method causes less deformation, and the method can be applied to the construction of the small interval tunnel in the Santunbei turn line of metro. The rationality of the method and numerical model was further verified by comparison between the monitored data of surface settlement, horizontal convergence and vault sinking, and numerical simulation results. Finally, the deformation and stress of the six construction methods were compared. The deformation and stress caused by the six construction methods are almost the same. It indicates that the construction spacing between the left and right tunnels does not affect the safety of tunnel construction. Therefore, the appropriate construction spacing could be selected according to the resource configuration, instead of deformation and stress.",
+    "keywords": [
+      "Geology",
+      "Medicine"
+    ],
+    "doi": "10.1177/0036850420932067",
+    "url": "https://www.semanticscholar.org/paper/7bcd4db1d094184ca9e95b29a13b8fbd0422111b",
+    "citation_count": 23,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "abf32f6e2f31df2de2d0be8437f624e0bc3c54f2",
+    "title": "A Comprehensive Assessment Method for Safety\nRisk of Gas Tunnel Construction Based on Fuzzy\nBayesian Network",
+    "authors": "D. Qiu, C. Qu, Yi-guo Xue, Binghua Zhou, Xin Li, Xinmin Ma, Jiuhua Cui",
+    "journal": "Polish Journal of Environmental Studies",
+    "publish_year": "2020",
+    "abstract": "Currently, gas disasters in tunnels occur frequently and cause severe casualties and property losses. However, there are few studies on the risk assessment of gas tunnels, especially comprehensive analysis of the safety risk of gas tunnels considering multiple factors. This paper presents a comprehensive assessment method for safety risk of gas tunnel construction based on fuzzy Bayesian network. The results of safety risk assessment are determined by two aspects: risk probability and risk hazard. In the process of assessment, 12 risk indicators were extracted from 32 important factors by the principal component analysis method, and a fuzzy interpretative structural modeling was established and converted into a fuzzy Bayesian network to evaluate the risk probability. The risk index weight was obtained through principal component analysis, and the risk hazard level was calculated by using the fuzzy comprehensive assessment method in combination with the hazard degree of the risk index. After a comprehensive assessment of gas concentration and other field conditions, the relevant parameters such as the fuzzy interpretative structural modeling and fuzzy Bayesian network are determined. This paper selects two construction segments of the Like tunnel as case studies to verify the feasibility and application prospects of this method. The method establishes a safety risk assessment model for gas tunnels, which can allow management personnel to fully evaluate gas tunnel risk and provides a safe construction environment.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.15244/pjoes/115979",
+    "url": "https://www.semanticscholar.org/paper/abf32f6e2f31df2de2d0be8437f624e0bc3c54f2",
+    "citation_count": 21,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "cce5c2fb7090c6f88bed43e0e4f393a965eb543f",
+    "title": "Research on construction method and deformation control technology of high ground stress interbedded soft rock tunnel",
+    "authors": "Zhichun Fang, Zhen Zhu, Xinyu Chen",
+    "journal": "Journal of Intelligent & Fuzzy Systems",
+    "publish_year": "2020",
+    "abstract": "The construction of tunnels is often long and deep buried tunnels, and the geological conditions are more complex. Based on Jianshan tunnel in Gansu Province, the special geological conditions such as high ground stress and weak interbedded surrounding rock make the excavation of tunnel easy to produce large deformation. In this article, the software finite difference software FLAC3D was used to establish numerical models and select the best construction method by comparing the deformation of the tunnel under different construction methods. Aiming at the deformation characteristics of soft rock tunnels in highland interbedded layers, the control measures of tunnel deformation are discussed. Mainly consider the two aspects of the bolt support plan and the second lining construction time, comprehensively compare the deformation characteristics of the tunnel, and select the best working condition. The research results show that the combination of three-step temporary invert method and three-step ultra short bench method is recommended for the tunnel construction; when the bench length is 4 m, the deformation control effect of the tunnel is the best; by improving the length and angle of the anchor rod, the deformation of the tunnel can also be well controlled.",
+    "keywords": [
+      "Geology",
+      "Computer Science"
+    ],
+    "doi": "10.3233/JIFS-189455",
+    "url": "https://www.semanticscholar.org/paper/cce5c2fb7090c6f88bed43e0e4f393a965eb543f",
+    "citation_count": 12,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "d9d636d05b33c192797ea6cd90018d6f16036442",
+    "title": "A Theoretical Calculation Method of Influence Radius of Settlement Based on the Slices Method in Tunnel Construction",
+    "authors": "Xiaoxu Tian, Zhanping Song, B. Wang, Guannan Zhou",
+    "journal": "Mathematical Problems in Engineering",
+    "publish_year": "2020",
+    "abstract": "At present, the empirical formula is used to calculate the influence radius of surface settlement and the width of settlement trough, which lacks theoretical support. Aiming at this problem, this paper derived the theoretical calculation formula for predicting the influence radius of formation settlement based on the slices method. Then, the expression of the width of settlement trough was obtained according to the relationship between the settlement influence radius and the settlement trough width. The rationality of the formula was verified by the Heathrow Express tunnel and the Green Park tunnel. Through analysis and discussion, it was found that in the clay stratum, the settlement calculation formula can more accurately predict the surface settlement, while there is a big error in predicting the stratum settlement within 4d near the tunnel vault. In the sand layer, the internal friction angle is less than 40°, and the reinforcement surface is applied to the unsupported face to reduce the radius of influence; in the clay formation, when the cohesion is less than 50 kPa, the influence radius can be reduced by applying reinforcement measure to the unsupported face.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1155/2020/5804823",
+    "url": "https://www.semanticscholar.org/paper/d9d636d05b33c192797ea6cd90018d6f16036442",
+    "citation_count": 34,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "cdbbc8efe43b59da29724942855c6b7741ba9a31",
+    "title": "An Improved Method for Predicting the Greenfield Stratum Movements Caused by Shield Tunnel Construction",
+    "authors": "X. Tan, Heng Zhang, Gang Zhang, Yimo Zhu, Peng Tu",
+    "journal": "Applied Sciences",
+    "publish_year": "2019",
+    "abstract": "Shield tunneling is becoming the preferred construction scheme for metro construction because of its advantages of fast construction speed and small disturbance. However, limited by process defects, the stratum movements induced by the construction of shield tunnels still affects the safety of nearby underground structures and aboveground buildings. Therefore, the reliable prediction of stratum movements is important. Described in this paper is an analysis method of the Greenfield stratum movements (Greenfield is an area of land that has not yet had buildings on it, stratum movements means the movement of various soil layers) caused by shield tunnel construction combining an elastic half-space model of mirror source–sink method with the use of modified analytical method. Based on the theoretical formula in this paper, not only can the curve of surface settlement trough be calculated, but also the three-dimensional displacement field of deep soil can be obtained. By comparing vertical and horizontal contour maps of Greenfield stratum movements, good consistency between theoretical formula results and centrifugal test results are shown. This solves the defects and limitations of existing two-dimensional formulas; furthermore, based on this, it is convenient to evaluate the effect on the other skewed underground structures through the elastic foundation beam and other similar methods; therefore, this paper can provide a wide guidance and service for the design and construction of underground engineering in the future.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.3390/app9214522",
+    "url": "https://www.semanticscholar.org/paper/cdbbc8efe43b59da29724942855c6b7741ba9a31",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "1d213df3b4f0ebcda79d010a15178141f9d79e1c",
+    "title": "The deployable element, a new closure joint construction method for immersed tunnel",
+    "authors": "Ming Lin, Wei-Tzuo Lin, Qiang Wang, Xiaodong Wang",
+    "journal": "Tunnelling and Underground Space Technology",
+    "publish_year": "2018",
+    "abstract": "Abstract A new closure joint construction of immersed tunnel, the deployable element, was developed in Island and Tunnel Project of Hong Kong-Zhuhai-Macao Bridge. The method shortens installation time at sea, enables positive connection and waterstop under water, and makes the work reversible. In this paper, the author presents the concept and critical issues of design and construction of this method. Further, its improvements for future application were discussed.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1016/J.TUST.2018.07.028",
+    "url": "https://www.semanticscholar.org/paper/1d213df3b4f0ebcda79d010a15178141f9d79e1c",
+    "citation_count": 51,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4684abc29fe357071c4f37a144ace9da048bd639",
+    "title": "Analytical Method for Evaluating the Ground Surface Settlement Caused by Tail Void Grouting Pressure in Shield Tunnel Construction",
+    "authors": "Changsheng Wu, Zhiduo Zhu",
+    "journal": "Advances in Civil Engineering",
+    "publish_year": "2018",
+    "abstract": "The tail void grouting is a key step in shield tunnel construction and has an important influence on the loading on the surrounding soil and on the resulting settlement. In order to estimate the ground surface settlement caused by tail void grouting pressure in tunnel construction, the loading on the surrounding soil is simplified as an expansion problem of the cylindrical cavity in semi-infinite elastic space. A simple analytical formula is deduced by using the virtual image technique and Fourier transform solutions. The effectiveness of the proposed method is verified by case studies. The effects of elastic modulus, tail void grouting pressure, tunnel radius, and tunnel depth on the ground surface heave are conducted. The results indicate that the computed results are in accordance with Ye’s solution and it is more rational to consider the ground surface heave induced by tail void grouting pressure in the prediction of ground settlement due to shield excavation. Moreover, the ground surface heave owing to tail void grouting pressure resembled a Gaussian distributed curve. Thus, no matter the ground surface subsidence or ground surface heave can be predicted by means of adding the presented empirical formula to the Peck formula which cannot predict the ground surface heave. The ground surface heave decreases with an increase in elastic modulus. On the contrary, as the tail void grouting pressure and tunnel radius increase, the ground surface heave increases, respectively. The ground surface heave first steadily increases and then declines gradually with the tunnel depth increase.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1155/2018/3729143",
+    "url": "https://www.semanticscholar.org/paper/4684abc29fe357071c4f37a144ace9da048bd639",
+    "citation_count": 20,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "95b2db72f6c7b4af932fcafc797cd6ba94b35bd1",
+    "title": "The Safety Risk Assessment of Mine Metro Tunnel Construction Based on Fuzzy Bayesian Network",
+    "authors": "Qiankun Wang, Jiaji Zhang, Ke Zhu, Peiwen Guo, Chuxiong Shen, Z. Xiong",
+    "journal": "Buildings",
+    "publish_year": "2023",
+    "abstract": "With the acceleration of urbanization, the construction of urban subway tunnel networks is advancing towards deeper, denser, and larger subterranean forms. Currently, there is a lack of systematic identification and dynamic reasoning analysis of factors throughout the entire process of subway tunnel construction using the mining method. To reduce the probability of accidents and improve safety risk management in the whole process of subway tunnel construction using the mining method, we propose a dynamic safety evaluation method based on Fuzzy Set Theory (FST) and Bayesian Network (BN). Firstly, based on the identification of main stages of the construction process using the Work Breakdown Structure, a safety risk evaluation index system for subway tunnel construction using the mining method was constructed according to the Risk Breakdown Structure. Secondly, by combining Fuzzy Set Theory, the Analytic Hierarchy Process, and the Bayesian Network, we established a dynamic safety risk evaluation model for subway tunnel construction using the mining method, based on FBN. Lastly, taking a large-section tunnel project using the mining method as an example, the effectiveness and accuracy of this model were verified. The results showed: (1) Causal reasoning analysis indicated that, under the condition of known prior probability, if the case reasoning result is greater than 5%, there is a significant possibility of a safety risk incident. The evaluation results of the model are basically consistent with the actual situation. (2) Diagnostic reasoning analysis revealed that factors such as the tunnel excavation method, the quality of the main waterproof construction, the quality of the detailed construction waterproofing, the design of the monitoring and measurement plan, and the results of the monitoring and measurements, are the main influences on the safety of subway tunnel construction using the mining method. (3) Secondary diagnostic reasoning demonstrated that repeated diagnostic reasoning for the main influencing factors, leading to an investigation path dominated by critical risk factors, can effectively reduce the overall project risk. This research is expected to provide useful insights for the scientific management of safety risks in the construction of subway tunnels using the mining method.",
+    "keywords": [],
+    "doi": "10.3390/buildings13071605",
+    "url": "https://www.semanticscholar.org/paper/95b2db72f6c7b4af932fcafc797cd6ba94b35bd1",
+    "citation_count": 17,
+    "source": "semantic_scholar"
+  }
+]

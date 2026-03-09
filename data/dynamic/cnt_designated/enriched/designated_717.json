@@ -1,0 +1,50 @@
+{
+  "tech_number": "717",
+  "tech_name": "다이아몬드 와이어쏘를 이용한 냉각수단이 필요없는 콘크리트 구조물의 건식 절단공법 (E.D.C.S)",
+  "tech_field": "토목 > 교량 > 교량 유지.보수건축 > 해체 > 기계식 해체",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=33&apntNo=717&frMenu=list&newtecId=26903",
+  "patents": [
+    {
+      "title": "다이아몬드 와이어쏘를 이용한 콘크리트 구조물 절단용집진시스템",
+      "type": "특허등록",
+      "register_number": "100711059"
+    },
+    {
+      "title": "입체 형상의 비드를 구비한 와이어 쏘",
+      "type": "특허등록",
+      "register_number": "100958992"
+    },
+    {
+      "title": "입체 형상의 비드와 사이클론 집진기를 이용한 구조물 해체장치 및 그를 이용한 해체공법",
+      "type": "특허등록",
+      "register_number": "101011115"
+    },
+    {
+      "title": "구조물 해체용 자주식 사이클론 집진기",
+      "type": "특허등록",
+      "register_number": "101147323"
+    },
+    {
+      "title": "건식절단용 다이아몬드 와이어 쏘 및 이를 이용한 구조물 친환경 건식 절단공법",
+      "type": "특허등록",
+      "register_number": "101213654"
+    },
+    {
+      "title": "원전구조물 해체용 건식 와이어쏘를 이용한 절단시스템과 이의 절단 및 해체공법",
+      "type": "특허등록",
+      "register_number": "101662588"
+    },
+    {
+      "title": "원전구조물 해체용 건식 와이어쏘를 이용한 절단시스템과 이의 절단 및 해체공법",
+      "type": "특허등록",
+      "register_number": "101696876"
+    },
+    {
+      "title": "원전구조물 해체용 건식 와이어쏘를 이용한 절단시스템과 이의 절단 및 해체공법",
+      "type": "특허등록",
+      "register_number": "101696878"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 2
+}

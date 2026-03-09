@@ -1,0 +1,45 @@
+{
+  "tech_number": "928",
+  "tech_name": "석재 분진 집진 기능이 있는 건식 바닥확대면 홀 형성 기기와 돌출형 스프링 앵커볼트 및 상대변위 대응 기능이 있는 앵글세트를 이용한 외장석재 설치공법",
+  "tech_field": "건축 > 마감 > 석공",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=12&apntNo=928&frMenu=list&newtecId=26684",
+  "patents": [
+    {
+      "title": "타공장치",
+      "type": "특허등록",
+      "register_number": "100887950"
+    },
+    {
+      "title": "타공장치",
+      "type": "특허등록",
+      "register_number": "100981679"
+    },
+    {
+      "title": "타공장치",
+      "type": "특허등록",
+      "register_number": "101141414"
+    },
+    {
+      "title": "타공용 드릴날",
+      "type": "특허등록",
+      "register_number": "100991826"
+    },
+    {
+      "title": "앵커볼트",
+      "type": "특허등록",
+      "register_number": "102105751"
+    },
+    {
+      "title": "앵커볼트 삽입구 타공장치",
+      "type": "특허등록",
+      "register_number": "102278237"
+    },
+    {
+      "title": "집진부를 포함한 고정볼트 삽입구 타공장치",
+      "type": "특허등록",
+      "register_number": "102357464"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 5
+}

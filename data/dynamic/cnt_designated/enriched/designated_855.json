@@ -1,0 +1,20 @@
+{
+  "tech_number": "855",
+  "tech_name": "물순환 경화장치가 적용된 보일러 시스템을 이용한 하수관로 비굴착 전체보수공법",
+  "tech_field": "토목 > 상.하수도 > 하수도 관로 설치 및 유지 보수",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=20&apntNo=855&frMenu=list&newtecId=22121",
+  "patents": [
+    {
+      "title": "하수관 비굴착 전체보수시스템 및 이를 이용한 하수관 비굴착 전체보수방법",
+      "type": "특허등록",
+      "register_number": "101729227"
+    },
+    {
+      "title": "비굴착 현장경화관의 침입수 차단을 위한 지수재를 이용한 관로보수장치 및 공법",
+      "type": "특허등록",
+      "register_number": "101802965"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 4
+}

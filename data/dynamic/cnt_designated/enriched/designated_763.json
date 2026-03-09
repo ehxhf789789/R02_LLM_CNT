@@ -1,0 +1,20 @@
+{
+  "tech_number": "763",
+  "tech_name": "접합부에 횡방향 연결재를 설치하고 횡방향으로 긴장한 바닥판 일체식 프리캐스트 PSC 박스거더",
+  "tech_field": "토목 > 교량 > 교량거더",
+  "detail_url": "/portal/newtec/nView.do?menuNo=200076&cate1=&cate2=&cate3=&tecCat1=&tecCat2=&tecCat3=&frApntYear=&dvlprNm=&searchWrd=&frApntNo=&toApntNo=&newtecNm=&newtecCts=&newtecScope=&consNm=&frConstFrom=&toConstFrom=&ctrtType=&orgNm=&addr1=&frEstPoint=&toEstPoint=&sortType=&pageUnit=10&smartyn=&dateStatus=&pageIndex=29&apntNo=763&frMenu=list&newtecId=28544",
+  "patents": [
+    {
+      "title": "접합성능 및 시공성을 향상시킬 수 있는 접합 구조를 갖는 콘크리트 거더",
+      "type": "특허등록",
+      "register_number": "101149314"
+    },
+    {
+      "title": "거더를 이용한 라멘교 시공방법",
+      "type": "특허등록",
+      "register_number": "101469150"
+    }
+  ],
+  "extracted_texts": {},
+  "file_count": 4
+}

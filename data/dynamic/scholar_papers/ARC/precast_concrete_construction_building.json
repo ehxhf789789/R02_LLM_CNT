@@ -1,0 +1,1009 @@
+[
+  {
+    "paper_id": "034cd255d2364c97a595a36b024e64abeb03f9a4",
+    "title": "Concentric Compressive Performance of Precast Concrete Filled Steel Tube with Intermediate Construction Connection Made of High-Performance Concretes",
+    "authors": "A. Hamoda, A. Abadel, A. Baktheer, Mohamed R. Emara",
+    "journal": "International Journal of Concrete Structures and Materials",
+    "publish_year": "2025",
+    "abstract": "Abstract\n          Precast concrete-filled steel tubular (CFST) circular columns assembled with connecting joints are commonly employed in building structures. However, there is a lack of research regarding the behavior of precast CFST columns that are connected with construction joints made of high-performance concrete (HPC), such as engineered cementitious composites (ECC) as well as high-strength fiber-reinforced concrete (HSFRC). This paper presents an experimental investigation of precast CFST circular columns subjected to axial loads, tubed with galvanized steel sheets (GSS) and connected with joints made of ECC, HSFRC and normal concrete (NC). Ten slender columns are tested until collapse. The primary studied parameters include the development length along with the connection concrete type. The experimental results reveal that an increase in the development length of the reinforcement, i.e., the length of the connecting concrete joint significantly enhances both the cracking and the load-bearing capacity of slender CFST precast columns that are connected with an intermediate concrete joint. Moreover, the combination of GSS tubes with ECC and HSFRC joints markedly enhances the ultimate load, demonstrating an impressive increase of 115% and 247%, respectively, over the precast NC control column. In addition, three-dimensional nonlinear finite element modeling is performed considering the initially existing imperfection within the precast CFST columns which is validated against the experimentally obtained data. These models are utilized to further investigate parameters, such as GSS thickness and longitudinal reinforcement ratio.",
+    "keywords": [],
+    "doi": "10.1186/s40069-025-00785-1",
+    "url": "https://www.semanticscholar.org/paper/034cd255d2364c97a595a36b024e64abeb03f9a4",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "034cd255d2364c97a595a36b024e64abeb03f9a4",
+      "externalIds": {
+        "DOI": "10.1186/s40069-025-00785-1",
+        "CorpusId": 281143040
+      },
+      "url": "https://www.semanticscholar.org/paper/034cd255d2364c97a595a36b024e64abeb03f9a4",
+      "title": "Concentric Compressive Performance of Precast Concrete Filled Steel Tube with Intermediate Construction Connection Made of High-Performance Concretes",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s40069-025-00785-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s40069-025-00785-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "International Journal of Concrete Structures and Materials",
+        "volume": "19"
+      },
+      "authors": [
+        {
+          "authorId": "146083386",
+          "name": "A. Hamoda"
+        },
+        {
+          "authorId": "98234861",
+          "name": "A. Abadel"
+        },
+        {
+          "authorId": "101697826",
+          "name": "A. Baktheer"
+        },
+        {
+          "authorId": "2071791553",
+          "name": "Mohamed R. Emara"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "paper_id": "f5199d46ab939037425ffc8bc003b54b07014049",
+    "title": "Sustainability model for precast concrete buildings. Case study: Commercial building in Reggio Calabria (Italy)",
+    "authors": "I. Josa, Andrea Monserrat‐López, S. Bianchi, J. Ciurlanti, Simone D’Amore, S. Pampanin, A. de la Fuente",
+    "journal": "Structural Concrete",
+    "publish_year": "2025",
+    "abstract": "The construction industry, a major economic driver, is also a significant environmental polluter. Prefabrication emerges as a sustainable alternative due to its reduced resource consumption, waste generation, and energy use. This study proposes a MIVES‐based model to assess the sustainability of precast concrete buildings compared to traditional concrete, considering environmental, economic, and social factors. A five‐story commercial building in Reggio Calabria, Italy, was used as a case study. Two construction methods were compared: traditional cast‐in‐place reinforced concrete and a low‐damage precast concrete alternative. Criteria and indicators were defined for each sustainability pillar, weighting them based on importance. Value functions converted indicator values into comparable scores. By combining these scores, a final sustainability index was calculated for each building. Precast concrete showed potential benefits in construction time, reduced emissions, and less construction disturbance. A sensitivity analysis confirmed the results. While this study highlights the potential advantages of precast construction over traditional methods, it is crucial to acknowledge the context‐specific nature of the findings. The model's applicability is limited by factors such as building materials, structural conditions, and regional regulations. However, its adaptable framework can be tailored to evaluate diverse construction methods in different settings. By carefully adjusting parameters and functions, the model can offer valuable insights into the relative sustainability of various construction approaches.",
+    "keywords": [],
+    "doi": "10.1002/suco.70061",
+    "url": "https://www.semanticscholar.org/paper/f5199d46ab939037425ffc8bc003b54b07014049",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "f5199d46ab939037425ffc8bc003b54b07014049",
+      "externalIds": {
+        "DOI": "10.1002/suco.70061",
+        "CorpusId": 277708905
+      },
+      "url": "https://www.semanticscholar.org/paper/f5199d46ab939037425ffc8bc003b54b07014049",
+      "title": "Sustainability model for precast concrete buildings. Case study: Commercial building in Reggio Calabria (Italy)",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/suco.70061?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/suco.70061, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Structural Concrete",
+        "pages": "3937 - 3959",
+        "volume": "26"
+      },
+      "authors": [
+        {
+          "authorId": "98054732",
+          "name": "I. Josa"
+        },
+        {
+          "authorId": "2213368877",
+          "name": "Andrea Monserrat‐López"
+        },
+        {
+          "authorId": "50977040",
+          "name": "S. Bianchi"
+        },
+        {
+          "authorId": "1572277668",
+          "name": "J. Ciurlanti"
+        },
+        {
+          "authorId": "2203720187",
+          "name": "Simone D’Amore"
+        },
+        {
+          "authorId": "2262320576",
+          "name": "S. Pampanin"
+        },
+        {
+          "authorId": "1388270185",
+          "name": "A. de la Fuente"
+        }
+      ],
+      "abstract": "The construction industry, a major economic driver, is also a significant environmental polluter. Prefabrication emerges as a sustainable alternative due to its reduced resource consumption, waste generation, and energy use. This study proposes a MIVES‐based model to assess the sustainability of precast concrete buildings compared to traditional concrete, considering environmental, economic, and social factors. A five‐story commercial building in Reggio Calabria, Italy, was used as a case study. Two construction methods were compared: traditional cast‐in‐place reinforced concrete and a low‐damage precast concrete alternative. Criteria and indicators were defined for each sustainability pillar, weighting them based on importance. Value functions converted indicator values into comparable scores. By combining these scores, a final sustainability index was calculated for each building. Precast concrete showed potential benefits in construction time, reduced emissions, and less construction disturbance. A sensitivity analysis confirmed the results. While this study highlights the potential advantages of precast construction over traditional methods, it is crucial to acknowledge the context‐specific nature of the findings. The model's applicability is limited by factors such as building materials, structural conditions, and regional regulations. However, its adaptable framework can be tailored to evaluate diverse construction methods in different settings. By carefully adjusting parameters and functions, the model can offer valuable insights into the relative sustainability of various construction approaches."
+    }
+  },
+  {
+    "paper_id": "c757e2955409d51b2972387bb4a48cfc035448fa",
+    "title": "Carbon emission analysis of precast concrete building Construction: A study on component transportation phase using Artificial Neural Network",
+    "authors": "Haining Wang, Liang Zhao, Hong Zhang, Yuchong Qian, Yiming Xiang, Zhixing Luo, Zixiao Wang",
+    "journal": "Energy and Buildings",
+    "publish_year": "2023",
+    "abstract": "15 Off-site construction has been widely adopted for its carbon reduction potential. However, the 16 emissions from its transportation stage are not fully explored. Given the rising prominence of Battery 17 Electric Vehicles (BEVs), this study explores their potential carbon reduction benefits during the 18 transportation of prefabricated components by comparing emissions from Fossil Vehicles (FVs) and 19 BEVs. An Artificial-Neural-Network-based emission model is developed to estimate the carbon 20 emissions of both vehicle types. Specifically, the model collects the real-time carbon emission 21 dynamics across varying external conditions, encompassing diverse transportation constraints, 22 vehicle operational statuses, and road conditions. By employing a supervised learning framework, 23 the transportation carbon emission coefficient of prefabricated components is determined. 24 Comparative analysis reveals that BEVs consistently outperforms FVs, achieving a peak reduction 25 rate of 47.76%. The negative correlation between the reduction rate of BEVs and factors like average 26 speed and load rate underscores BEVs' advantage in urban transportation scenarios, where these 27 factors tend to be low. Hence, the integration of BEVs in the transportation of prefabricated 28 components is advocated. This study provides robust carbon emissions coefficients for BEVs in the 29 transportation of prefabricated components, filling the gap in current estimation methods. These 30 coefficients present a valuable tool for researchers, aiding in the accurate estimation of transportation 31 carbon emissions and fostering the conceptualization of innovative carbon reduction tactics through 32 BEV adoption. 33",
+    "keywords": [],
+    "doi": "10.1016/j.enbuild.2023.113708",
+    "url": "https://www.semanticscholar.org/paper/c757e2955409d51b2972387bb4a48cfc035448fa",
+    "citation_count": 27,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "c757e2955409d51b2972387bb4a48cfc035448fa",
+      "externalIds": {
+        "DOI": "10.1016/j.enbuild.2023.113708",
+        "CorpusId": 265014476
+      },
+      "url": "https://www.semanticscholar.org/paper/c757e2955409d51b2972387bb4a48cfc035448fa",
+      "title": "Carbon emission analysis of precast concrete building Construction: A study on component transportation phase using Artificial Neural Network",
+      "year": 2023,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.enbuild.2023.113708?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.enbuild.2023.113708, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Energy and Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "2261891008",
+          "name": "Haining Wang"
+        },
+        {
+          "authorId": "2116733910",
+          "name": "Liang Zhao"
+        },
+        {
+          "authorId": "2265432414",
+          "name": "Hong Zhang"
+        },
+        {
+          "authorId": "2146525872",
+          "name": "Yuchong Qian"
+        },
+        {
+          "authorId": "2171136286",
+          "name": "Yiming Xiang"
+        },
+        {
+          "authorId": "2265351939",
+          "name": "Zhixing Luo"
+        },
+        {
+          "authorId": "2221311747",
+          "name": "Zixiao Wang"
+        }
+      ],
+      "abstract": "15 Off-site construction has been widely adopted for its carbon reduction potential. However, the 16 emissions from its transportation stage are not fully explored. Given the rising prominence of Battery 17 Electric Vehicles (BEVs), this study explores their potential carbon reduction benefits during the 18 transportation of prefabricated components by comparing emissions from Fossil Vehicles (FVs) and 19 BEVs. An Artificial-Neural-Network-based emission model is developed to estimate the carbon 20 emissions of both vehicle types. Specifically, the model collects the real-time carbon emission 21 dynamics across varying external conditions, encompassing diverse transportation constraints, 22 vehicle operational statuses, and road conditions. By employing a supervised learning framework, 23 the transportation carbon emission coefficient of prefabricated components is determined. 24 Comparative analysis reveals that BEVs consistently outperforms FVs, achieving a peak reduction 25 rate of 47.76%. The negative correlation between the reduction rate of BEVs and factors like average 26 speed and load rate underscores BEVs' advantage in urban transportation scenarios, where these 27 factors tend to be low. Hence, the integration of BEVs in the transportation of prefabricated 28 components is advocated. This study provides robust carbon emissions coefficients for BEVs in the 29 transportation of prefabricated components, filling the gap in current estimation methods. These 30 coefficients present a valuable tool for researchers, aiding in the accurate estimation of transportation 31 carbon emissions and fostering the conceptualization of innovative carbon reduction tactics through 32 BEV adoption. 33"
+    }
+  },
+  {
+    "paper_id": "a9116e573a9d8a75aa1a2ae7e98948288672cb41",
+    "title": "Impact of BIM and 3D printing technologies on production process and productivity of precast concrete in construction project",
+    "authors": "M. Berawi, M. Sari, Astiti Dana Oktaviani, P. Miraj, Bambang Susantono, Roy Woodhead",
+    "journal": "International Journal of Construction Management",
+    "publish_year": "2024",
+    "abstract": "Abstract Precast concrete (PC) has emerged as a major contributor to this trend, particularly with regard to the construction of tall buildings. While advanced technologies such as Building Information Modelling (BIM) and 3D printing have the potential to increase productivity, their use in the PC production process remains limited. This study seeks to assess the practical implementation of BIM and 3D printing in PC production, as well as their effects on the production process and productivity. A qualitative approach involving benchmarking, observations, site documentation, and semi-structured interviews were conducted. According to the results, the integration of BIM and 3D printing in PC production may increases the precision and accuracy of the finalized elements. The findings showed that 3D-printed PC production could reduce production time by 24% to 53%, highlighting the productivity increases these technologies offer. However, structural strength, integration with MEP installations, and architectural elements must be addressed for widespread adoption.",
+    "keywords": [],
+    "doi": "10.1080/15623599.2024.2349831",
+    "url": "https://www.semanticscholar.org/paper/a9116e573a9d8a75aa1a2ae7e98948288672cb41",
+    "citation_count": 6,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "a9116e573a9d8a75aa1a2ae7e98948288672cb41",
+      "externalIds": {
+        "DOI": "10.1080/15623599.2024.2349831",
+        "CorpusId": 269995838
+      },
+      "url": "https://www.semanticscholar.org/paper/a9116e573a9d8a75aa1a2ae7e98948288672cb41",
+      "title": "Impact of BIM and 3D printing technologies on production process and productivity of precast concrete in construction project",
+      "year": 2024,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15623599.2024.2349831?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15623599.2024.2349831, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "International Journal of Construction Management",
+        "pages": "650 - 660",
+        "volume": "25"
+      },
+      "authors": [
+        {
+          "authorId": "1983492",
+          "name": "M. Berawi"
+        },
+        {
+          "authorId": "143681472",
+          "name": "M. Sari"
+        },
+        {
+          "authorId": "2151929552",
+          "name": "Astiti Dana Oktaviani"
+        },
+        {
+          "authorId": "71825563",
+          "name": "P. Miraj"
+        },
+        {
+          "authorId": "95219076",
+          "name": "Bambang Susantono"
+        },
+        {
+          "authorId": "2244516678",
+          "name": "Roy Woodhead"
+        }
+      ],
+      "abstract": "Abstract Precast concrete (PC) has emerged as a major contributor to this trend, particularly with regard to the construction of tall buildings. While advanced technologies such as Building Information Modelling (BIM) and 3D printing have the potential to increase productivity, their use in the PC production process remains limited. This study seeks to assess the practical implementation of BIM and 3D printing in PC production, as well as their effects on the production process and productivity. A qualitative approach involving benchmarking, observations, site documentation, and semi-structured interviews were conducted. According to the results, the integration of BIM and 3D printing in PC production may increases the precision and accuracy of the finalized elements. The findings showed that 3D-printed PC production could reduce production time by 24% to 53%, highlighting the productivity increases these technologies offer. However, structural strength, integration with MEP installations, and architectural elements must be addressed for widespread adoption."
+    }
+  },
+  {
+    "paper_id": "36e2cc731a4d52ef453cce01e5a809f708fb2b75",
+    "title": "Barriers to Adoption of Precast Concrete Construction in Buildings",
+    "authors": "A. V. Ittyeipe, Anu V. Thomas",
+    "journal": "",
+    "publish_year": "2021",
+    "abstract": "The increasing demands for housing the burgeoning urban population in developing countries like India has impelled the need to shift to mechanised construction practices like Precast Concrete Construction (PCCon) for faster supply of projects. PCCon has been successfully implemented in developed countries to meet the once prevalent housing shortages and is still being adopted extensively in high rise residential building projects in these countries. PCCon offers several benefits compared to cast in situ construction practices such as reduced construction time, time and cost certainty, improved quality control and improved health and safety. PCCon also promotes environment friendly construction, addresses shortage of skills and results in minimisation of life cycle costs.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.21467/PROCEEDINGS.112.2",
+    "url": "https://www.semanticscholar.org/paper/36e2cc731a4d52ef453cce01e5a809f708fb2b75",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "36e2cc731a4d52ef453cce01e5a809f708fb2b75",
+      "externalIds": {
+        "MAG": "3135277429",
+        "DOI": "10.21467/PROCEEDINGS.112.2",
+        "CorpusId": 234884340
+      },
+      "url": "https://www.semanticscholar.org/paper/36e2cc731a4d52ef453cce01e5a809f708fb2b75",
+      "title": "Barriers to Adoption of Precast Concrete Construction in Buildings",
+      "year": 2021,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.21467/proceedings.112.2",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21467/PROCEEDINGS.112.2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21467/PROCEEDINGS.112.2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "2100862303",
+          "name": "A. V. Ittyeipe"
+        },
+        {
+          "authorId": "144445660",
+          "name": "Anu V. Thomas"
+        }
+      ],
+      "abstract": "The increasing demands for housing the burgeoning urban population in developing countries like India has impelled the need to shift to mechanised construction practices like Precast Concrete Construction (PCCon) for faster supply of projects. PCCon has been successfully implemented in developed countries to meet the once prevalent housing shortages and is still being adopted extensively in high rise residential building projects in these countries. PCCon offers several benefits compared to cast in situ construction practices such as reduced construction time, time and cost certainty, improved quality control and improved health and safety. PCCon also promotes environment friendly construction, addresses shortage of skills and results in minimisation of life cycle costs."
+    }
+  },
+  {
+    "paper_id": "63623ba362cc3d043d021c140ad3ae64be2cb5fc",
+    "title": "Seismic Assessment of Precast Concrete Hospital Structures Integrated with Building Information Modeling (BIM) in Indonesia",
+    "authors": "Jessica Sjah, Ryan Sulistian, A. Rarasati, B. Trigunarsyah",
+    "journal": "Journal of Civil Engineering Research &amp; Technology",
+    "publish_year": "2024",
+    "abstract": "In earthquake-prone regions, it's crucial for hospitals to be well-prepared to ensure that medical care continues without interruption for the victims. The utilization of precast structural systems in construction, particularly in earthquake-prone areas like Indonesia, offers numerous advantages including enhanced construction efficiency and resilience against seismic loads.",
+    "keywords": [],
+    "doi": "10.47363/jcert/2024(6)161",
+    "url": "https://www.semanticscholar.org/paper/63623ba362cc3d043d021c140ad3ae64be2cb5fc",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "63623ba362cc3d043d021c140ad3ae64be2cb5fc",
+      "externalIds": {
+        "DOI": "10.47363/jcert/2024(6)161",
+        "CorpusId": 269161423
+      },
+      "url": "https://www.semanticscholar.org/paper/63623ba362cc3d043d021c140ad3ae64be2cb5fc",
+      "title": "Seismic Assessment of Precast Concrete Hospital Structures Integrated with Building Information Modeling (BIM) in Indonesia",
+      "year": 2024,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.47363/jcert/2024(6)161",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47363/jcert/2024(6)161?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47363/jcert/2024(6)161, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Journal of Civil Engineering Research &amp; Technology"
+      },
+      "authors": [
+        {
+          "authorId": "2296829012",
+          "name": "Jessica Sjah"
+        },
+        {
+          "authorId": "2296836682",
+          "name": "Ryan Sulistian"
+        },
+        {
+          "authorId": "97611588",
+          "name": "A. Rarasati"
+        },
+        {
+          "authorId": "9147384",
+          "name": "B. Trigunarsyah"
+        }
+      ],
+      "abstract": "In earthquake-prone regions, it's crucial for hospitals to be well-prepared to ensure that medical care continues without interruption for the victims. The utilization of precast structural systems in construction, particularly in earthquake-prone areas like Indonesia, offers numerous advantages including enhanced construction efficiency and resilience against seismic loads."
+    }
+  },
+  {
+    "paper_id": "e109e6254eff160f940d4f86cdd2d104bccccd6e",
+    "title": "Comparative Analysis of Precast Construction and Conventional Construction of Small-scale Concrete Building in Terms of Cost",
+    "authors": "T. D. Denagama, J. Jayasooriya",
+    "journal": "International Journal for Research in Applied Science and Engineering Technology",
+    "publish_year": "2023",
+    "abstract": "Abstract: Building a house is one of the basic needs of humans. To build a house with high durability and low cost, engineer A.N.S. Kulasinghe introduced the pre-cast concrete technology in late 1940’s. According to past studies, National Engineering Research and Development (NERD) Centre precast items are used in housing and other constructions and those details were collected by literature review. Objective of this study is updating the cost effectiveness of pre-cast concrete construction of a small-scale building. Data were collected from the NERD Centre and few pre-stressed concrete yards during the months of June to July 2019 by using face-to-face interviews. After the analysis of obtained data, it was found that there were differences between the costs of items among pre-cast concrete technology and conventional concrete construction technology. Overall cost comparison was done to single story building and two story building separately using cost rates of conventional method and pre-cast method. The outcome of the analysis revealed that, 30% - 38% of cost effectiveness can be obtained using pre-cast methods for single story building and using those methods for two story building, 29% - 32% of cost effectiveness can be gained.",
+    "keywords": [],
+    "doi": "10.22214/ijraset.2023.49049",
+    "url": "https://www.semanticscholar.org/paper/e109e6254eff160f940d4f86cdd2d104bccccd6e",
+    "citation_count": 4,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "e109e6254eff160f940d4f86cdd2d104bccccd6e",
+      "externalIds": {
+        "DOI": "10.22214/ijraset.2023.49049",
+        "CorpusId": 256889491
+      },
+      "url": "https://www.semanticscholar.org/paper/e109e6254eff160f940d4f86cdd2d104bccccd6e",
+      "title": "Comparative Analysis of Precast Construction and Conventional Construction of Small-scale Concrete Building in Terms of Cost",
+      "year": 2023,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.22214/ijraset.2023.49049",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22214/ijraset.2023.49049?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22214/ijraset.2023.49049, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "International Journal for Research in Applied Science and Engineering Technology"
+      },
+      "authors": [
+        {
+          "authorId": "2188612761",
+          "name": "T. D. Denagama"
+        },
+        {
+          "authorId": "104717456",
+          "name": "J. Jayasooriya"
+        }
+      ],
+      "abstract": "Abstract: Building a house is one of the basic needs of humans. To build a house with high durability and low cost, engineer A.N.S. Kulasinghe introduced the pre-cast concrete technology in late 1940’s. According to past studies, National Engineering Research and Development (NERD) Centre precast items are used in housing and other constructions and those details were collected by literature review. Objective of this study is updating the cost effectiveness of pre-cast concrete construction of a small-scale building. Data were collected from the NERD Centre and few pre-stressed concrete yards during the months of June to July 2019 by using face-to-face interviews. After the analysis of obtained data, it was found that there were differences between the costs of items among pre-cast concrete technology and conventional concrete construction technology. Overall cost comparison was done to single story building and two story building separately using cost rates of conventional method and pre-cast method. The outcome of the analysis revealed that, 30% - 38% of cost effectiveness can be obtained using pre-cast methods for single story building and using those methods for two story building, 29% - 32% of cost effectiveness can be gained."
+    }
+  },
+  {
+    "paper_id": "08c9f9595a38bd859bfa477b35abdd691f4ccb7b",
+    "title": "Building an Information Modeling-Based System for Automatically Generating the Assembly Sequence of Precast Concrete Components Using a Genetic Algorithm",
+    "authors": "Subin Bae, Heesung Cha, Shaohua Jiang",
+    "journal": "Applied Sciences",
+    "publish_year": "2024",
+    "abstract": "Facing a significant decrease in economic working processes, Off-Site Construction (OSC) methods have been frequently adopted in response to challenges such as declining productivity and labor shortages in the construction industry. Currently, in most OSC applications, the assembly phase is traditionally managed based on the personal experience and judgment of the site managers. This approach can lead to inaccuracies or omissions, particularly when dealing with a large amount of information on large, complex construction sites. Additionally, there are limitations in exploring more efficient and productive alternatives for rapidly adapting to changing on-site conditions. Given that the assembly phase significantly affects the OSC productivity, a systematic management approach is crucial for expanding OSC methods. Some initial studies used computer algorithms to determine the optimal assembly sequences. However, these studies often focused on geometrical characteristics, such as component weight or spatial occupancy, neglecting crucial factors in actual site planning, such as the work radius and component installation status. Moreover, these studies tended to prioritize the generation of initial assembly sequences rather than providing alternatives for adapting to evolving on-site conditions. In response to these limitations, this study presents a systematic framework utilizing a Building Information Modeling (BIM)–Genetic Algorithm (GA) approach to generate Precast Concrete (PC) component installation sequences. The developed system employs Genetic Algorithms to objectively explore diverse assembly plans, emphasizing the flexibility of accommodating evolving on-site conditions. Real on-site scenarios were simulated using this framework to explore multiple assembly plan alternatives and validate their applicability. Comprehensive interviews were conducted to validate the research and confirm the system’s potential contributions, especially at just-in-time-focused PC sites. Acknowledging a broader range of variables such as equipment and manpower, this study anticipates fostering more systematic on-site management within the context of a digitized construction environment. The proposed algorithm contributes to improving both productivity and sustainability of the construction industry by optimizing the management process of the off-site construction projects.",
+    "keywords": [],
+    "doi": "10.3390/app14041358",
+    "url": "https://www.semanticscholar.org/paper/08c9f9595a38bd859bfa477b35abdd691f4ccb7b",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "08c9f9595a38bd859bfa477b35abdd691f4ccb7b",
+      "externalIds": {
+        "DOI": "10.3390/app14041358",
+        "CorpusId": 267556323
+      },
+      "url": "https://www.semanticscholar.org/paper/08c9f9595a38bd859bfa477b35abdd691f4ccb7b",
+      "title": "Building an Information Modeling-Based System for Automatically Generating the Assembly Sequence of Precast Concrete Components Using a Genetic Algorithm",
+      "year": 2024,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2076-3417/14/4/1358/pdf?version=1707289532",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app14041358?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app14041358, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Applied Sciences"
+      },
+      "authors": [
+        {
+          "authorId": "2283367293",
+          "name": "Subin Bae"
+        },
+        {
+          "authorId": "2308360203",
+          "name": "Heesung Cha"
+        },
+        {
+          "authorId": "2279436728",
+          "name": "Shaohua Jiang"
+        }
+      ],
+      "abstract": "Facing a significant decrease in economic working processes, Off-Site Construction (OSC) methods have been frequently adopted in response to challenges such as declining productivity and labor shortages in the construction industry. Currently, in most OSC applications, the assembly phase is traditionally managed based on the personal experience and judgment of the site managers. This approach can lead to inaccuracies or omissions, particularly when dealing with a large amount of information on large, complex construction sites. Additionally, there are limitations in exploring more efficient and productive alternatives for rapidly adapting to changing on-site conditions. Given that the assembly phase significantly affects the OSC productivity, a systematic management approach is crucial for expanding OSC methods. Some initial studies used computer algorithms to determine the optimal assembly sequences. However, these studies often focused on geometrical characteristics, such as component weight or spatial occupancy, neglecting crucial factors in actual site planning, such as the work radius and component installation status. Moreover, these studies tended to prioritize the generation of initial assembly sequences rather than providing alternatives for adapting to evolving on-site conditions. In response to these limitations, this study presents a systematic framework utilizing a Building Information Modeling (BIM)–Genetic Algorithm (GA) approach to generate Precast Concrete (PC) component installation sequences. The developed system employs Genetic Algorithms to objectively explore diverse assembly plans, emphasizing the flexibility of accommodating evolving on-site conditions. Real on-site scenarios were simulated using this framework to explore multiple assembly plan alternatives and validate their applicability. Comprehensive interviews were conducted to validate the research and confirm the system’s potential contributions, especially at just-in-time-focused PC sites. Acknowledging a broader range of variables such as equipment and manpower, this study anticipates fostering more systematic on-site management within the context of a digitized construction environment. The proposed algorithm contributes to improving both productivity and sustainability of the construction industry by optimizing the management process of the off-site construction projects."
+    }
+  },
+  {
+    "paper_id": "16e15bfd2a4608a6dbcaac25c62b30d1d1518c14",
+    "title": "Precast Concrete Building Construction and Envelope Thermal Behavior: A Case Study on Portuguese Public Social Housing",
+    "authors": "Pedro I. Brandão, J. Lanzinha",
+    "journal": "CivilEng",
+    "publish_year": "2021",
+    "abstract": "A considerable part of Southern European countries building stock was constructed before the implementation of national thermal regulations, and as such, it is currently exposed to challenges such as energy poverty and climate change. Portuguese public social housing presents a significant variety of construction systems and applied typologies. Among them, the “Novobra NK1”, a precast concrete construction system that exploits some innovative features in envelope components, has been used in several projects. Considering the importance of retrofitting to improve and adapt the thermal behaviors of buildings to face the aforementioned challenges, this article aims to provide an understanding of the behavior of a NK1 thermal envelope of a dwelling located in Covilhã, Portugal, and the impact of some constructive envelope retrofit measures applied. Results show that existing opaque envelope elements and glazed areas present characteristics that are no longer able to provide proper responses to contemporary building constructive requirements. External insulation was identified as a key retrofit measure, window replacement also being an advised solution for rigorous heating seasons. Improvements from the internal side of windows, such as roller shades, may provide few benefits during cooling seasons, and applying solar films is not advised without a proper thermal repercussion analysis.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3390/CIVILENG2020015",
+    "url": "https://www.semanticscholar.org/paper/16e15bfd2a4608a6dbcaac25c62b30d1d1518c14",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "16e15bfd2a4608a6dbcaac25c62b30d1d1518c14",
+      "externalIds": {
+        "MAG": "3153400971",
+        "DOI": "10.3390/CIVILENG2020015",
+        "CorpusId": 234806253
+      },
+      "url": "https://www.semanticscholar.org/paper/16e15bfd2a4608a6dbcaac25c62b30d1d1518c14",
+      "title": "Precast Concrete Building Construction and Envelope Thermal Behavior: A Case Study on Portuguese Public Social Housing",
+      "year": 2021,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2673-4109/2/2/15/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/CIVILENG2020015?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/CIVILENG2020015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "CivilEng",
+        "pages": "271-289",
+        "volume": "2"
+      },
+      "authors": [
+        {
+          "authorId": "2100434510",
+          "name": "Pedro I. Brandão"
+        },
+        {
+          "authorId": "95752050",
+          "name": "J. Lanzinha"
+        }
+      ],
+      "abstract": "A considerable part of Southern European countries building stock was constructed before the implementation of national thermal regulations, and as such, it is currently exposed to challenges such as energy poverty and climate change. Portuguese public social housing presents a significant variety of construction systems and applied typologies. Among them, the “Novobra NK1”, a precast concrete construction system that exploits some innovative features in envelope components, has been used in several projects. Considering the importance of retrofitting to improve and adapt the thermal behaviors of buildings to face the aforementioned challenges, this article aims to provide an understanding of the behavior of a NK1 thermal envelope of a dwelling located in Covilhã, Portugal, and the impact of some constructive envelope retrofit measures applied. Results show that existing opaque envelope elements and glazed areas present characteristics that are no longer able to provide proper responses to contemporary building constructive requirements. External insulation was identified as a key retrofit measure, window replacement also being an advised solution for rigorous heating seasons. Improvements from the internal side of windows, such as roller shades, may provide few benefits during cooling seasons, and applying solar films is not advised without a proper thermal repercussion analysis."
+    }
+  },
+  {
+    "paper_id": "190e757d5f2b3ef17b3877bae0c840e6ffd14642",
+    "title": "A New Steel-Joint Precast Concrete Frame Structure: The Design, Key Construction Techniques, and Building Energy Efficiency",
+    "authors": "Xiaona Shi, Xian Rong, Lin Nan, Lida Wang, Jianxin Zhang",
+    "journal": "Buildings",
+    "publish_year": "2022",
+    "abstract": "Assembled methods play a critical role in the construction of precast concrete structures. However, conventional dry-connections-like sleeve grouting joints in precast concrete structures lagged at a low construction and management efficiency with poor quality control. In this study, a novel steel joint for precast reinforced concrete beam-column components is proposed to improve constructability. New joints transform the assembled method from reinforced concrete members into a steel structure by setting a pre-embedded steel connector at both ends of reinforced concrete beams and columns, showing outstanding economic, durability, and fire resistance capabilities. The construction process, construction efficiency, economy, and energy consumption were discussed based on the material, structure, and construction hybrid characteristics. Numerical simulation and structural health monitoring methods are used to monitor and evaluate the deformation and stress state of the proposed system in the whole construction process, so as to optimize the construction scheme and ensure safe and orderly construction. The results reveal that the FEA-simulated values of key building components during construction are in good agreement with the actual monitoring values, which verifies the feasibility of the FEM models and provides a guarantee for construction safety; the construction period of the proposed assemble system is reduced by approximately 56% and 40%, compared with the conventional reinforced concrete frame structure and cast-in-place joints in the precast concrete frame structure, respectively. Meanwhile, the energy consumption of buildings decreases by 20%. This research provides a theoretical basis for the design, calculation, and application of assembled precast structural systems.",
+    "keywords": [],
+    "doi": "10.3390/buildings12111974",
+    "url": "https://www.semanticscholar.org/paper/190e757d5f2b3ef17b3877bae0c840e6ffd14642",
+    "citation_count": 8,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "190e757d5f2b3ef17b3877bae0c840e6ffd14642",
+      "externalIds": {
+        "DOI": "10.3390/buildings12111974",
+        "CorpusId": 253558833
+      },
+      "url": "https://www.semanticscholar.org/paper/190e757d5f2b3ef17b3877bae0c840e6ffd14642",
+      "title": "A New Steel-Joint Precast Concrete Frame Structure: The Design, Key Construction Techniques, and Building Energy Efficiency",
+      "year": 2022,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-5309/12/11/1974/pdf?version=1668420384",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings12111974?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings12111974, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "8714282",
+          "name": "Xiaona Shi"
+        },
+        {
+          "authorId": "40225048",
+          "name": "Xian Rong"
+        },
+        {
+          "authorId": "2190988162",
+          "name": "Lin Nan"
+        },
+        {
+          "authorId": "2164730530",
+          "name": "Lida Wang"
+        },
+        {
+          "authorId": "2144175092",
+          "name": "Jianxin Zhang"
+        }
+      ],
+      "abstract": "Assembled methods play a critical role in the construction of precast concrete structures. However, conventional dry-connections-like sleeve grouting joints in precast concrete structures lagged at a low construction and management efficiency with poor quality control. In this study, a novel steel joint for precast reinforced concrete beam-column components is proposed to improve constructability. New joints transform the assembled method from reinforced concrete members into a steel structure by setting a pre-embedded steel connector at both ends of reinforced concrete beams and columns, showing outstanding economic, durability, and fire resistance capabilities. The construction process, construction efficiency, economy, and energy consumption were discussed based on the material, structure, and construction hybrid characteristics. Numerical simulation and structural health monitoring methods are used to monitor and evaluate the deformation and stress state of the proposed system in the whole construction process, so as to optimize the construction scheme and ensure safe and orderly construction. The results reveal that the FEA-simulated values of key building components during construction are in good agreement with the actual monitoring values, which verifies the feasibility of the FEM models and provides a guarantee for construction safety; the construction period of the proposed assemble system is reduced by approximately 56% and 40%, compared with the conventional reinforced concrete frame structure and cast-in-place joints in the precast concrete frame structure, respectively. Meanwhile, the energy consumption of buildings decreases by 20%. This research provides a theoretical basis for the design, calculation, and application of assembled precast structural systems."
+    }
+  },
+  {
+    "paper_id": "44e4588008a8856836e061b03d1dd898aa52a6fd",
+    "title": "Using LCA to research carbon footprint for precast concrete piles during the building construction stage: A China study",
+    "authors": "Xiao-Juan Li, Yan Zheng",
+    "journal": "Journal of Cleaner Production",
+    "publish_year": "2020",
+    "abstract": "Abstract Due to the rapid development of the construction industry, large construction projects consume a significant amount of energy, and emit large amounts of carbon dioxide into the atmosphere, which has received extensive attention from the society. According to statistics, 30% of the energy losses and 40% of the solid wastes of the construction industry are generated during the construction phase. In addition, 40% of the solid waste generated by the construction industry is generated during the construction phase. Therefore, it is an important large potential research value in the construction stage emission reduction. As a result, this study aims to investigate precast concrete pile products and their carbon footprint at the construction stage based on the life cycle assessment (LCA) method. Based on the Intergovernmental Panel on Climate Change (IPCC), the Chinese Life Cycle Database (CLCD) databases, a database of mechanical equipment carbon emission factors was compiled. The carbon footprint of precast concrete piles was divided into three sources: material transportation, construction equipment, and office area. The carbon footprint calculation model of precast concrete pile during the construction stage was established. Lastly, a detailed case study was conducted to verify the empirical findings. Pile foundation area, pile foundation cost, and pile foundation number were analyzed as independent variables, through SPSS(Statistical Product and Service Solutions) software for regression analysis. Based on research result, the carbon emissions of construction machinery reached 73% of the total carbon emissions during the construction of precast concrete piles, and the carbon emissions of pile drivers are more than half of the carbon emissions of construction machinery. And there is a strong linear relationship between the area of pile foundation, the cost of pile foundation and the number of pile foundation and the total carbon emission during the construction of precast concrete piles. This study contributes to the body of knowledge by providing the carbon footprint calculation and establishing the trend of carbon emissions for precast concrete pile construction. In addition to that, the findings of this study can be used to improve construction management plans and select energy-saving technologies. The results can also provide a theoretical support for the formulation of regulations and emission reduction policies based on building energy conservation and carbon emission reduction.",
+    "keywords": [
+      "Environmental Science"
+    ],
+    "doi": "10.1016/j.jclepro.2019.118754",
+    "url": "https://www.semanticscholar.org/paper/44e4588008a8856836e061b03d1dd898aa52a6fd",
+    "citation_count": 88,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "44e4588008a8856836e061b03d1dd898aa52a6fd",
+      "externalIds": {
+        "MAG": "2981371555",
+        "DOI": "10.1016/j.jclepro.2019.118754",
+        "CorpusId": 211445809
+      },
+      "url": "https://www.semanticscholar.org/paper/44e4588008a8856836e061b03d1dd898aa52a6fd",
+      "title": "Using LCA to research carbon footprint for precast concrete piles during the building construction stage: A China study",
+      "year": 2020,
+      "citationCount": 88,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jclepro.2019.118754?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jclepro.2019.118754, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Environmental Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Cleaner Production",
+        "pages": "118754",
+        "volume": "245"
+      },
+      "authors": [
+        {
+          "authorId": "2116338727",
+          "name": "Xiao-Juan Li"
+        },
+        {
+          "authorId": "2111093434",
+          "name": "Yan Zheng"
+        }
+      ],
+      "abstract": "Abstract Due to the rapid development of the construction industry, large construction projects consume a significant amount of energy, and emit large amounts of carbon dioxide into the atmosphere, which has received extensive attention from the society. According to statistics, 30% of the energy losses and 40% of the solid wastes of the construction industry are generated during the construction phase. In addition, 40% of the solid waste generated by the construction industry is generated during the construction phase. Therefore, it is an important large potential research value in the construction stage emission reduction. As a result, this study aims to investigate precast concrete pile products and their carbon footprint at the construction stage based on the life cycle assessment (LCA) method. Based on the Intergovernmental Panel on Climate Change (IPCC), the Chinese Life Cycle Database (CLCD) databases, a database of mechanical equipment carbon emission factors was compiled. The carbon footprint of precast concrete piles was divided into three sources: material transportation, construction equipment, and office area. The carbon footprint calculation model of precast concrete pile during the construction stage was established. Lastly, a detailed case study was conducted to verify the empirical findings. Pile foundation area, pile foundation cost, and pile foundation number were analyzed as independent variables, through SPSS(Statistical Product and Service Solutions) software for regression analysis. Based on research result, the carbon emissions of construction machinery reached 73% of the total carbon emissions during the construction of precast concrete piles, and the carbon emissions of pile drivers are more than half of the carbon emissions of construction machinery. And there is a strong linear relationship between the area of pile foundation, the cost of pile foundation and the number of pile foundation and the total carbon emission during the construction of precast concrete piles. This study contributes to the body of knowledge by providing the carbon footprint calculation and establishing the trend of carbon emissions for precast concrete pile construction. In addition to that, the findings of this study can be used to improve construction management plans and select energy-saving technologies. The results can also provide a theoretical support for the formulation of regulations and emission reduction policies based on building energy conservation and carbon emission reduction."
+    }
+  },
+  {
+    "paper_id": "763adc331d4c37a44744406b3931b64844a3f1c5",
+    "title": "Comparative analysis on composite construction (structural steel and concrete) and precast concrete construction WRT cost and time",
+    "authors": "M. Teja, K. S. Chamberlin",
+    "journal": "Materials Today: Proceedings",
+    "publish_year": "2020",
+    "abstract": "Abstract The current scenario in India has restricted horizontal growth, especially in cities, the crystal rectifier for building construction to the vertical growth. India's construction industry is an important development indicator, as it creates opportunities for investment across numerous connected sectors. Today, fast track construction is a fast-growing economy, with rising costs and therefore time savings in construction can compensate for vital proportions of overall construction costs. This paper presents a study on time and cost-wise feasibility between two construction systems, Structural Steel and Concrete, precast concrete construction. A case study considered for this work is a 16-storied building, which consists of six stilt floors meant for parking, and the rest of floors are meant for office space. The Primavera P6-2017 used for time scheduling and the optimum time required at different stages of all these two buildings are calculated. The cost of structure is calculated considering the above two systems of construction and details presented here with. On the time basis, the composite structure will be an option for the client as it will reduce the time about 33 days and coming to the cost point of view structural steel is a bit of cost material. While coming to the precast structure it may take more than the time required for the composite structure, but cost analysis reveals that it will be economical than composite structure.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.matpr.2020.03.742",
+    "url": "https://www.semanticscholar.org/paper/763adc331d4c37a44744406b3931b64844a3f1c5",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "763adc331d4c37a44744406b3931b64844a3f1c5",
+      "externalIds": {
+        "MAG": "3015909970",
+        "DOI": "10.1016/j.matpr.2020.03.742",
+        "CorpusId": 216353459
+      },
+      "url": "https://www.semanticscholar.org/paper/763adc331d4c37a44744406b3931b64844a3f1c5",
+      "title": "Comparative analysis on composite construction (structural steel and concrete) and precast concrete construction WRT cost and time",
+      "year": 2020,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.matpr.2020.03.742?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.matpr.2020.03.742, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Materials Today: Proceedings",
+        "pages": "170-178",
+        "volume": "33"
+      },
+      "authors": [
+        {
+          "authorId": "30968578",
+          "name": "M. Teja"
+        },
+        {
+          "authorId": "40458633",
+          "name": "K. S. Chamberlin"
+        }
+      ],
+      "abstract": "Abstract The current scenario in India has restricted horizontal growth, especially in cities, the crystal rectifier for building construction to the vertical growth. India's construction industry is an important development indicator, as it creates opportunities for investment across numerous connected sectors. Today, fast track construction is a fast-growing economy, with rising costs and therefore time savings in construction can compensate for vital proportions of overall construction costs. This paper presents a study on time and cost-wise feasibility between two construction systems, Structural Steel and Concrete, precast concrete construction. A case study considered for this work is a 16-storied building, which consists of six stilt floors meant for parking, and the rest of floors are meant for office space. The Primavera P6-2017 used for time scheduling and the optimum time required at different stages of all these two buildings are calculated. The cost of structure is calculated considering the above two systems of construction and details presented here with. On the time basis, the composite structure will be an option for the client as it will reduce the time about 33 days and coming to the cost point of view structural steel is a bit of cost material. While coming to the precast structure it may take more than the time required for the composite structure, but cost analysis reveals that it will be economical than composite structure."
+    }
+  },
+  {
+    "paper_id": "a159c5d3cf4ad0ff970e1593f4c67323e622dd4d",
+    "title": "Thermal comfort practices for precast concrete building construction projects: towards BIM and IOT integration",
+    "authors": "Z. Ismail",
+    "journal": "Engineering, Construction and Architectural Management",
+    "publish_year": "2021",
+    "abstract": "PurposeImproper evaluation and information mismanagement concerning thermal comfort appears to negatively affect occupants' satisfaction and building energy consumption in precast concrete (PC) building contexts. Predictive models are particularly problematic in PC building construction projects where natural ventilation levels do not coincide with occupants' thermal comfort and thermal sensation specifications.Design/methodology/approachA systematic literature review is undertaken to explore the viability and benefits of a new ICT-based approach for meeting social and environmental objectives.FindingsSophisticated thermal comfort system solutions are essential for optimising thermal comfort and saving energy in PC building construction projects.Originality/valueIt is imperative that designers and manufacturers are kept up-to-date with the possibilities and potentials associated with new and nascent technologies so that building projects can meet key sustainability criteria.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1108/ECAM-09-2020-0767",
+    "url": "https://www.semanticscholar.org/paper/a159c5d3cf4ad0ff970e1593f4c67323e622dd4d",
+    "citation_count": 16,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "a159c5d3cf4ad0ff970e1593f4c67323e622dd4d",
+      "externalIds": {
+        "MAG": "3159596926",
+        "DOI": "10.1108/ECAM-09-2020-0767",
+        "CorpusId": 235546664
+      },
+      "url": "https://www.semanticscholar.org/paper/a159c5d3cf4ad0ff970e1593f4c67323e622dd4d",
+      "title": "Thermal comfort practices for precast concrete building construction projects: towards BIM and IOT integration",
+      "year": 2021,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/ECAM-09-2020-0767?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/ECAM-09-2020-0767, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering"
+      ],
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "Engineering, Construction and Architectural Management",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "46206920",
+          "name": "Z. Ismail"
+        }
+      ],
+      "abstract": "PurposeImproper evaluation and information mismanagement concerning thermal comfort appears to negatively affect occupants' satisfaction and building energy consumption in precast concrete (PC) building contexts. Predictive models are particularly problematic in PC building construction projects where natural ventilation levels do not coincide with occupants' thermal comfort and thermal sensation specifications.Design/methodology/approachA systematic literature review is undertaken to explore the viability and benefits of a new ICT-based approach for meeting social and environmental objectives.FindingsSophisticated thermal comfort system solutions are essential for optimising thermal comfort and saving energy in PC building construction projects.Originality/valueIt is imperative that designers and manufacturers are kept up-to-date with the possibilities and potentials associated with new and nascent technologies so that building projects can meet key sustainability criteria."
+    }
+  },
+  {
+    "paper_id": "426e7cc37931e5308c4238ccadb7116e005136f0",
+    "title": "An improved carbon emission calculation framework of precast concrete column in construction stage based on LCA",
+    "authors": "Lian Xue, Chaoran Li, Yimin Jin",
+    "journal": "Journal of the Chinese Institute of Engineers",
+    "publish_year": "2023",
+    "abstract": "ABSTRACT The abundant carbon emissions generated by the construction industry have gradually become a significant problem. Rather than employing traditional construction methods, the industrialized building system adopts the efficient on-site assembly of prefabricated components, which provides a new solution for reducing industry carbon emissions. Currently, great differences exist in the life cycle assessment schemes for prefabricated buildings and components, which requires considering many different factors. The accuracy and applicability of the results must therefore be improved. In this study, an improved life cycle calculation framework is proposed to assess the carbon emissions of prefabricated concrete columns in the construction stage. Based on the commonly used calculation methods of carbon emission factors, the framework uses a new calculation method with more considerations for vehicle transportation and uses the consumer lifestyle method to estimate construction workers’ carbon emissions. The framework also fully considers the loss of components in the transportation process. The calculated results are compared with the traditional carbon emission factor calculation methods. Overall, the results for the framework are relatively significant because they more comprehensively consider various factors when compared to results using the traditional calculation methods.",
+    "keywords": [],
+    "doi": "10.1080/02533839.2023.2170924",
+    "url": "https://www.semanticscholar.org/paper/426e7cc37931e5308c4238ccadb7116e005136f0",
+    "citation_count": 11,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "426e7cc37931e5308c4238ccadb7116e005136f0",
+      "externalIds": {
+        "DOI": "10.1080/02533839.2023.2170924",
+        "CorpusId": 256656397
+      },
+      "url": "https://www.semanticscholar.org/paper/426e7cc37931e5308c4238ccadb7116e005136f0",
+      "title": "An improved carbon emission calculation framework of precast concrete column in construction stage based on LCA",
+      "year": 2023,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/02533839.2023.2170924?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/02533839.2023.2170924, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of the Chinese Institute of Engineers",
+        "pages": "220 - 228",
+        "volume": "46"
+      },
+      "authors": [
+        {
+          "authorId": "2114050966",
+          "name": "Lian Xue"
+        },
+        {
+          "authorId": "2185256902",
+          "name": "Chaoran Li"
+        },
+        {
+          "authorId": "48932559",
+          "name": "Yimin Jin"
+        }
+      ],
+      "abstract": "ABSTRACT The abundant carbon emissions generated by the construction industry have gradually become a significant problem. Rather than employing traditional construction methods, the industrialized building system adopts the efficient on-site assembly of prefabricated components, which provides a new solution for reducing industry carbon emissions. Currently, great differences exist in the life cycle assessment schemes for prefabricated buildings and components, which requires considering many different factors. The accuracy and applicability of the results must therefore be improved. In this study, an improved life cycle calculation framework is proposed to assess the carbon emissions of prefabricated concrete columns in the construction stage. Based on the commonly used calculation methods of carbon emission factors, the framework uses a new calculation method with more considerations for vehicle transportation and uses the consumer lifestyle method to estimate construction workers’ carbon emissions. The framework also fully considers the loss of components in the transportation process. The calculated results are compared with the traditional carbon emission factor calculation methods. Overall, the results for the framework are relatively significant because they more comprehensively consider various factors when compared to results using the traditional calculation methods."
+    }
+  },
+  {
+    "paper_id": "36f96c55de6a461c20e193644cb389a79f067f59",
+    "title": "Conversion Challenges: A Case Study of Converting a Post and Lintel Structure to a Precast Concrete Structure Using Building Information Modeling (BIM)",
+    "authors": "Chavanont Khosakitchalert, N. Yabuki",
+    "journal": "Nakhara : Journal of Environmental Design and Planning",
+    "publish_year": "2023",
+    "abstract": "Building Information Modeling (BIM) is now a widely accepted tool in the construction industry for designing and managing construction projects. However, converting a BIM model from one type of structure to another can be challenging. This case report aims to document the problems and challenges encountered when an engineer team attempted to create a precast concrete structural BIM model from an architectural BIM model that was initially designed to use a post and lintel system. The architect worked with the engineer team, facing several challenges when changing the structural system. One of the main challenges during the conversion process was redesigning structural elements as the structural behavior of the building changed significantly. The architectural layout and design of the building had to be altered to accommodate the new structural system. Additionally, the mechanical, electrical, and plumbing (MEP) systems had to be planned for installation within the precast concrete structure. These changes required significant effort and coordination between the different teams involved in the project. In conclusion, the case study demonstrates that converting a BIM model from one type of structure to another can be a challenging task that requires significant effort, coordination, and planning. It also shows that BIM models are not just a design tool but also a powerful tool for construction management and coordination.",
+    "keywords": [],
+    "doi": "10.54028/nj202322316",
+    "url": "https://www.semanticscholar.org/paper/36f96c55de6a461c20e193644cb389a79f067f59",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "36f96c55de6a461c20e193644cb389a79f067f59",
+      "externalIds": {
+        "DOI": "10.54028/nj202322316",
+        "CorpusId": 265422695
+      },
+      "url": "https://www.semanticscholar.org/paper/36f96c55de6a461c20e193644cb389a79f067f59",
+      "title": "Conversion Challenges: A Case Study of Converting a Post and Lintel Structure to a Precast Concrete Structure Using Building Information Modeling (BIM)",
+      "year": 2023,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://ph01.tci-thaijo.org/index.php/nakhara/article/download/252872/171542",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.54028/nj202322316?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54028/nj202322316, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Nakhara : Journal of Environmental Design and Planning"
+      },
+      "authors": [
+        {
+          "authorId": "100461599",
+          "name": "Chavanont Khosakitchalert"
+        },
+        {
+          "authorId": "2125140796",
+          "name": "N. Yabuki"
+        }
+      ],
+      "abstract": "Building Information Modeling (BIM) is now a widely accepted tool in the construction industry for designing and managing construction projects. However, converting a BIM model from one type of structure to another can be challenging. This case report aims to document the problems and challenges encountered when an engineer team attempted to create a precast concrete structural BIM model from an architectural BIM model that was initially designed to use a post and lintel system. The architect worked with the engineer team, facing several challenges when changing the structural system. One of the main challenges during the conversion process was redesigning structural elements as the structural behavior of the building changed significantly. The architectural layout and design of the building had to be altered to accommodate the new structural system. Additionally, the mechanical, electrical, and plumbing (MEP) systems had to be planned for installation within the precast concrete structure. These changes required significant effort and coordination between the different teams involved in the project. In conclusion, the case study demonstrates that converting a BIM model from one type of structure to another can be a challenging task that requires significant effort, coordination, and planning. It also shows that BIM models are not just a design tool but also a powerful tool for construction management and coordination."
+    }
+  },
+  {
+    "paper_id": "4686c88e09dd77b64f986c8c2782aebfed2f1c8b",
+    "title": "Additive Formwork in Precast Construction - Agent-based Methods for Fabrication-aware Modularization of Concrete Building Elements",
+    "authors": "David Stieler, Tobias Schwinn, A. Menges",
+    "journal": "CAADRIA proceedings",
+    "publish_year": "2022",
+    "abstract": ". This paper presents the geometric foundations for an agent-based modeling (ABM) approach to modularize concrete building elements for prefabrication via additive formwork. The method presented extends the functionality of existing planning tools for concrete prefabrication to addresses the manufacturing characteristics of additive formwork production using fused deposition modeling (FDM), and negotiates these with the structural requirements of its underlying building geometry. First, a method to classify building components according to fabrication methods using a probabilistic feature-based Naive Bayes classifier is presented. This classification allows to automatically assign the most suitable production method to every individual building element within a given building model. Following this classification, elements identified for the production using additive formwork are modularized in an automated, agent-based process. The modularization process utilizing a voxel-representation of the initial building element geometry is described in detail. An agent-based method to simulate multiple modularization variants is presented and the integration of feedback from iterative negotiation processes between fabrication expenditures and structural behaviour outlined. The approach presented fosters material-saving construction and production processes in planning and therefore directly addresses crucial issues of the agenda for global Sustainable Development Goals (SDGs).",
+    "keywords": [],
+    "doi": "10.52842/conf.caadria.2022.2.081",
+    "url": "https://www.semanticscholar.org/paper/4686c88e09dd77b64f986c8c2782aebfed2f1c8b",
+    "citation_count": 5,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "4686c88e09dd77b64f986c8c2782aebfed2f1c8b",
+      "externalIds": {
+        "DOI": "10.52842/conf.caadria.2022.2.081",
+        "CorpusId": 250056165
+      },
+      "url": "https://www.semanticscholar.org/paper/4686c88e09dd77b64f986c8c2782aebfed2f1c8b",
+      "title": "Additive Formwork in Precast Construction - Agent-based Methods for Fabrication-aware Modularization of Concrete Building Elements",
+      "year": 2022,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "http://papers.cumincad.org/data/works/att/caadria2022_435.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52842/conf.caadria.2022.2.081?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52842/conf.caadria.2022.2.081, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "CAADRIA proceedings"
+      },
+      "authors": [
+        {
+          "authorId": "2082293921",
+          "name": "David Stieler"
+        },
+        {
+          "authorId": "3476704",
+          "name": "Tobias Schwinn"
+        },
+        {
+          "authorId": "1714012",
+          "name": "A. Menges"
+        }
+      ],
+      "abstract": ". This paper presents the geometric foundations for an agent-based modeling (ABM) approach to modularize concrete building elements for prefabrication via additive formwork. The method presented extends the functionality of existing planning tools for concrete prefabrication to addresses the manufacturing characteristics of additive formwork production using fused deposition modeling (FDM), and negotiates these with the structural requirements of its underlying building geometry. First, a method to classify building components according to fabrication methods using a probabilistic feature-based Naive Bayes classifier is presented. This classification allows to automatically assign the most suitable production method to every individual building element within a given building model. Following this classification, elements identified for the production using additive formwork are modularized in an automated, agent-based process. The modularization process utilizing a voxel-representation of the initial building element geometry is described in detail. An agent-based method to simulate multiple modularization variants is presented and the integration of feedback from iterative negotiation processes between fabrication expenditures and structural behaviour outlined. The approach presented fosters material-saving construction and production processes in planning and therefore directly addresses crucial issues of the agenda for global Sustainable Development Goals (SDGs)."
+    }
+  },
+  {
+    "paper_id": "173f78715abe1232d09b209c9d2d049a5af1df84",
+    "title": "Hybrid intelligent vehicle system for managing construction supply chain in precast concrete building construction projects",
+    "authors": "Z. Ismail",
+    "journal": "World Journal of Engineering",
+    "publish_year": "2020",
+    "abstract": "\nPurpose\nWhile the adversarial nature of precast concrete (PC) building construction is frequently cited in the PC building construction press, only a few researchers have investigated construction supply chain management within the construction industry. Due to the interdisciplinary transportation environment, which inevitably results in disruption, the uses of construction supply chain and recovery from construction supply chain risk must be a subject of real interest, yet transportation management research in this area is scarce.\n\n\nDesign/methodology/approach\nThe purpose of this study is to discuss the weakness in system approaches and their application for managing precast concrete building in the context of construction supply chain practice and how to overcome it. As a precursor to this paper, the paper reviews current construction supply chain management occurrence on PC building construction and explores the hybrid intelligent vehicle tools and techniques currently being used on such management. This paper also presents the new hybrid intelligent vehicle-based approach to manage construction supply chain risk and reduce associated tension on PC building construction schemes.\n\n\nFindings\nThe findings reveal the need for more sophisticated construction supply chain management solutions which accord with the needs of PC building construction schemes.\n\n\nOriginality/value\nThe paper concludes by presenting a research framework for developing such a system in the future.\n",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1108/WJE-08-2020-0361",
+    "url": "https://www.semanticscholar.org/paper/173f78715abe1232d09b209c9d2d049a5af1df84",
+    "citation_count": 9,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "173f78715abe1232d09b209c9d2d049a5af1df84",
+      "externalIds": {
+        "MAG": "3089722658",
+        "DOI": "10.1108/WJE-08-2020-0361",
+        "CorpusId": 224935474
+      },
+      "url": "https://www.semanticscholar.org/paper/173f78715abe1232d09b209c9d2d049a5af1df84",
+      "title": "Hybrid intelligent vehicle system for managing construction supply chain in precast concrete building construction projects",
+      "year": 2020,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/WJE-08-2020-0361?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/WJE-08-2020-0361, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "Review"
+      ],
+      "journal": {
+        "name": "World Journal of Engineering",
+        "volume": ""
+      },
+      "authors": [
+        {
+          "authorId": "46206920",
+          "name": "Z. Ismail"
+        }
+      ],
+      "abstract": "\nPurpose\nWhile the adversarial nature of precast concrete (PC) building construction is frequently cited in the PC building construction press, only a few researchers have investigated construction supply chain management within the construction industry. Due to the interdisciplinary transportation environment, which inevitably results in disruption, the uses of construction supply chain and recovery from construction supply chain risk must be a subject of real interest, yet transportation management research in this area is scarce.\n\n\nDesign/methodology/approach\nThe purpose of this study is to discuss the weakness in system approaches and their application for managing precast concrete building in the context of construction supply chain practice and how to overcome it. As a precursor to this paper, the paper reviews current construction supply chain management occurrence on PC building construction and explores the hybrid intelligent vehicle tools and techniques currently being used on such management. This paper also presents the new hybrid intelligent vehicle-based approach to manage construction supply chain risk and reduce associated tension on PC building construction schemes.\n\n\nFindings\nThe findings reveal the need for more sophisticated construction supply chain management solutions which accord with the needs of PC building construction schemes.\n\n\nOriginality/value\nThe paper concludes by presenting a research framework for developing such a system in the future.\n"
+    }
+  },
+  {
+    "paper_id": "40c51dd4c898382786add9b95b118519e1f36038",
+    "title": "Evaluation of Characteristics and Building Applications of Multi-Recycled Concrete Aggregates from Precast Concrete Rejects",
+    "authors": "Á. Salesa, L. M. Esteban, P. López-Julián, José Ángel Pérez-Benedicto, Alejandro Acero-Oliete, Alfredo Pons-Ruiz",
+    "journal": "Materials",
+    "publish_year": "2022",
+    "abstract": "The construction industry must meet current environmental requirements, mostly those pertaining to the reduction in construction and demolition waste and the consumption of raw materials. The use of recycled concrete aggregates can be part of the solution, but one question that arises is how many times recyclables can be recycled. This unknown involves other related queries regarding the properties and possible uses of repeated recycled concrete aggregates. This research is derived from the precast concrete industry, where multi-recycling is a pressing need. From good-quality parent concretes, three cycles of recycled concrete aggregates were produced and analysed. The final results are promising due to the good quality of the recycled and multi-recycled concrete aggregates obtained. Not only can they be used in low-level applications (backfilling) as usual, but they can also be used for more demanding purposes, such as graded aggregates, cement-treated road bases and concrete pavements. Their use in structural concrete is feasible, but it will be dependent on the water absorption level and the amount of recycled aggregate substitution. This research proves the viability of multi-recycled concrete aggregates with all of the associated environmental benefits.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma15165714",
+    "url": "https://www.semanticscholar.org/paper/40c51dd4c898382786add9b95b118519e1f36038",
+    "citation_count": 14,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "40c51dd4c898382786add9b95b118519e1f36038",
+      "externalIds": {
+        "PubMedCentral": "9416735",
+        "DOI": "10.3390/ma15165714",
+        "CorpusId": 251751987,
+        "PubMed": "36013850"
+      },
+      "url": "https://www.semanticscholar.org/paper/40c51dd4c898382786add9b95b118519e1f36038",
+      "title": "Evaluation of Characteristics and Building Applications of Multi-Recycled Concrete Aggregates from Precast Concrete Rejects",
+      "year": 2022,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1944/15/16/5714/pdf?version=1660894843",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9416735, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Materials",
+        "volume": "15"
+      },
+      "authors": [
+        {
+          "authorId": "118024188",
+          "name": "Á. Salesa"
+        },
+        {
+          "authorId": "2065751743",
+          "name": "L. M. Esteban"
+        },
+        {
+          "authorId": "2105130185",
+          "name": "P. López-Julián"
+        },
+        {
+          "authorId": "1468559786",
+          "name": "José Ángel Pérez-Benedicto"
+        },
+        {
+          "authorId": "2167415942",
+          "name": "Alejandro Acero-Oliete"
+        },
+        {
+          "authorId": "2182489296",
+          "name": "Alfredo Pons-Ruiz"
+        }
+      ],
+      "abstract": "The construction industry must meet current environmental requirements, mostly those pertaining to the reduction in construction and demolition waste and the consumption of raw materials. The use of recycled concrete aggregates can be part of the solution, but one question that arises is how many times recyclables can be recycled. This unknown involves other related queries regarding the properties and possible uses of repeated recycled concrete aggregates. This research is derived from the precast concrete industry, where multi-recycling is a pressing need. From good-quality parent concretes, three cycles of recycled concrete aggregates were produced and analysed. The final results are promising due to the good quality of the recycled and multi-recycled concrete aggregates obtained. Not only can they be used in low-level applications (backfilling) as usual, but they can also be used for more demanding purposes, such as graded aggregates, cement-treated road bases and concrete pavements. Their use in structural concrete is feasible, but it will be dependent on the water absorption level and the amount of recycled aggregate substitution. This research proves the viability of multi-recycled concrete aggregates with all of the associated environmental benefits."
+    }
+  }
+]

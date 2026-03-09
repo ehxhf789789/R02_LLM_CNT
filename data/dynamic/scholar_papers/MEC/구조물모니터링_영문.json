@@ -1,0 +1,1096 @@
+[
+  {
+    "paper_id": "b3dfde5580b4d99f8b863a5521b7891d7976d519",
+    "title": "An advanced structural health monitoring IoT platform for offshore wind turbine blades",
+    "authors": "Xingguo Zhou, Yankang Tian, Yi Qin, C. Charitidis, Tanja K. Milickovic, Stefania Termine",
+    "journal": "Manufacturing Review",
+    "publish_year": "2025",
+    "abstract": "Wind energy is renewable and is an essential ingredient in the move towards carbon neutrality and net zero emissions Compared with onshore wind turbines, offshore wind turbines generally experience higher wind speed, thus producing more electricity. However, the increasing dimensions of turbine blades and demands in economic requirements of wind turbines' life cycles, together with the harsh marine environment, including high winds, wave-induced vibrations, sea and rain corrosion and erosion, pose challenges for structural integrity, operational efficiency and maintenance cost. This paper presents a novel Internet of Things (IoT) platform for structural health monitoring (SHM) of the offshore wind turbine's key components, the wind turbine blades, taking the design and manufacturing of turbine blades into account. This research focuses on developing a comprehensive, real-time monitoring system that utilises advanced sensor networks and edge computing, empowering advanced predictive algorithms to strengthen in-time maintenance of turbine blades, improving operational efficiency and reducing maintenance cost.",
+    "keywords": [],
+    "doi": "10.1051/mfreview/2025008",
+    "url": "https://www.semanticscholar.org/paper/b3dfde5580b4d99f8b863a5521b7891d7976d519",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "b3dfde5580b4d99f8b863a5521b7891d7976d519",
+      "externalIds": {
+        "DOI": "10.1051/mfreview/2025008",
+        "CorpusId": 278113609
+      },
+      "url": "https://www.semanticscholar.org/paper/b3dfde5580b4d99f8b863a5521b7891d7976d519",
+      "title": "An advanced structural health monitoring IoT platform for offshore wind turbine blades",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/mfreview/2025008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/mfreview/2025008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Manufacturing Review"
+      },
+      "authors": [
+        {
+          "authorId": "2319315054",
+          "name": "Xingguo Zhou"
+        },
+        {
+          "authorId": "48391647",
+          "name": "Yankang Tian"
+        },
+        {
+          "authorId": "2320476906",
+          "name": "Yi Qin"
+        },
+        {
+          "authorId": "49035390",
+          "name": "C. Charitidis"
+        },
+        {
+          "authorId": "2357622843",
+          "name": "Tanja K. Milickovic"
+        },
+        {
+          "authorId": "2357618212",
+          "name": "Stefania Termine"
+        }
+      ],
+      "abstract": "Wind energy is renewable and is an essential ingredient in the move towards carbon neutrality and net zero emissions Compared with onshore wind turbines, offshore wind turbines generally experience higher wind speed, thus producing more electricity. However, the increasing dimensions of turbine blades and demands in economic requirements of wind turbines' life cycles, together with the harsh marine environment, including high winds, wave-induced vibrations, sea and rain corrosion and erosion, pose challenges for structural integrity, operational efficiency and maintenance cost. This paper presents a novel Internet of Things (IoT) platform for structural health monitoring (SHM) of the offshore wind turbine's key components, the wind turbine blades, taking the design and manufacturing of turbine blades into account. This research focuses on developing a comprehensive, real-time monitoring system that utilises advanced sensor networks and edge computing, empowering advanced predictive algorithms to strengthen in-time maintenance of turbine blades, improving operational efficiency and reducing maintenance cost."
+    }
+  },
+  {
+    "paper_id": "e3bb8c4279371d9c9623057d99e511686c44ca45",
+    "title": "A Critical Review of IoT-Based Structural Health Monitoring for Dams",
+    "authors": "Aajid Khan, S. Mishra, S. Pandey, T. Sardar, A. Mishra, Manish Mudgal, S. Singhai",
+    "journal": "IEEE Internet of Things Journal",
+    "publish_year": "2025",
+    "abstract": "Structural health monitoring (SHM) is a modern and innovative method used to assess the integrity, safety, and performance of structures without causing any damage. The need for SHM is particularly critical for infrastructure, such as dams, where timely detection of damage allows for the implementation of remedial safety measures. Structural integrity can be compromised by events, such as earthquakes, floods, and other disasters, which create significant disturbances in man-made constructions. The longevity of a structure is influenced by construction methods and the quality of materials used. Researchers have developed various techniques to evaluate the lifespan of constructed structures and propose safety measures. Recent advancements in technology, including the Internet of Things (IoT), artificial intelligence (AI), and wireless integrated sensor devices, have revolutionized the field of SHM. IoT-based wireless sensors monitor different structural parameters and transmit data to cloud-based storage systems in real-time. AI techniques, particularly machine learning, analyze this data to predict potential issues and provide actionable insights to user agencies, researchers, and administrative bodies, such as Dam Monitoring Centers (DMCs). The ability of these technologies to monitor dam behavior in real-time has garnered significant attention. This study reviews current research on real-time SHM of dams using AI and IoT cloud-based sensor techniques, aiming to support researchers and practitioners in advancing SHM methodologies.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/JIOT.2024.3488290",
+    "url": "https://www.semanticscholar.org/paper/e3bb8c4279371d9c9623057d99e511686c44ca45",
+    "citation_count": 10,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "e3bb8c4279371d9c9623057d99e511686c44ca45",
+      "externalIds": {
+        "DBLP": "journals/iotj/KhanMPSMMS25",
+        "DOI": "10.1109/JIOT.2024.3488290",
+        "CorpusId": 273724079
+      },
+      "url": "https://www.semanticscholar.org/paper/e3bb8c4279371d9c9623057d99e511686c44ca45",
+      "title": "A Critical Review of IoT-Based Structural Health Monitoring for Dams",
+      "year": 2025,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2024.3488290?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2024.3488290, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "journal": {
+        "name": "IEEE Internet of Things Journal",
+        "pages": "1368-1379",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "2339547645",
+          "name": "Aajid Khan"
+        },
+        {
+          "authorId": "2313727864",
+          "name": "S. Mishra"
+        },
+        {
+          "authorId": "2339663238",
+          "name": "S. Pandey"
+        },
+        {
+          "authorId": "2339480886",
+          "name": "T. Sardar"
+        },
+        {
+          "authorId": "2341667466",
+          "name": "A. Mishra"
+        },
+        {
+          "authorId": "2339480843",
+          "name": "Manish Mudgal"
+        },
+        {
+          "authorId": "2339480991",
+          "name": "S. Singhai"
+        }
+      ],
+      "abstract": "Structural health monitoring (SHM) is a modern and innovative method used to assess the integrity, safety, and performance of structures without causing any damage. The need for SHM is particularly critical for infrastructure, such as dams, where timely detection of damage allows for the implementation of remedial safety measures. Structural integrity can be compromised by events, such as earthquakes, floods, and other disasters, which create significant disturbances in man-made constructions. The longevity of a structure is influenced by construction methods and the quality of materials used. Researchers have developed various techniques to evaluate the lifespan of constructed structures and propose safety measures. Recent advancements in technology, including the Internet of Things (IoT), artificial intelligence (AI), and wireless integrated sensor devices, have revolutionized the field of SHM. IoT-based wireless sensors monitor different structural parameters and transmit data to cloud-based storage systems in real-time. AI techniques, particularly machine learning, analyze this data to predict potential issues and provide actionable insights to user agencies, researchers, and administrative bodies, such as Dam Monitoring Centers (DMCs). The ability of these technologies to monitor dam behavior in real-time has garnered significant attention. This study reviews current research on real-time SHM of dams using AI and IoT cloud-based sensor techniques, aiming to support researchers and practitioners in advancing SHM methodologies."
+    }
+  },
+  {
+    "paper_id": "534c24e7d9273c7e6901fdc46cc09b8a51c773dc",
+    "title": "Efficient edge intelligence for onboard data anomaly classification in wireless structural health monitoring using knowledge distillation on low-cost IoT nodes",
+    "authors": "Xiao Yu, Yuqing Zhao, Shuaiwen Cui, Xinhao He, Yugang Fu, Qun Yang",
+    "journal": "Structural Health Monitoring",
+    "publish_year": "2025",
+    "abstract": "\n Internet of Things (IoTs) systems with wireless data transmission have been increasingly adopted by structural health monitoring. However, sensor malfunctions and data anomalies have been identified frequently in these systems for long-term deployment, especially in harsh environments. Advances in machine learning (ML) offer promising solutions for effectively detecting, classifying and recovering data anomalies. Most state-of-the-art ML-based solutions rely on powerful workstations or cloud servers, where large amounts of datasets are assumed to be transmitted to a centralized station, leading to the issues of heavy load of data transmission and long delay of subsequent data analytics. To address the issues, this article proposed a novel decentralized approach integrating machine learning with edge computing, aka, edge intelligence, for efficient onboard data anomaly classification. The key innovations lie in the development of an effective ML-based feature extractor adapted to low-cost IoT nodes and an efficient edge computing deployment for ML execution suitable for resource-constrained microcontroller unit-based devices. The proposed solution has been successfully deployed on a newly developed IoT node,\n LiftNode\n , which is by first time to realize low-cost onboard data anomaly classification in structural health monitoring (SHM) community. Using the dataset collected from a real long-span cable-stayed bridge in China, the proposed solution is found to achieve the accuracy of 96.37% in PC with the model size of 0.29 MB, and comparably, the accuracy of 96.36% in\n LiftNode\n . The framework and deployment strategies are elaborated, highlighting the potential of edge intelligence for improving SHM systems’ responsiveness and resource utilization.\n",
+    "keywords": [],
+    "doi": "10.1177/14759217251349533",
+    "url": "https://www.semanticscholar.org/paper/534c24e7d9273c7e6901fdc46cc09b8a51c773dc",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "534c24e7d9273c7e6901fdc46cc09b8a51c773dc",
+      "externalIds": {
+        "DOI": "10.1177/14759217251349533",
+        "CorpusId": 280465623
+      },
+      "url": "https://www.semanticscholar.org/paper/534c24e7d9273c7e6901fdc46cc09b8a51c773dc",
+      "title": "Efficient edge intelligence for onboard data anomaly classification in wireless structural health monitoring using knowledge distillation on low-cost IoT nodes",
+      "year": 2025,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/14759217251349533?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/14759217251349533, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Structural Health Monitoring"
+      },
+      "authors": [
+        {
+          "authorId": "2266827336",
+          "name": "Xiao Yu"
+        },
+        {
+          "authorId": "2342019089",
+          "name": "Yuqing Zhao"
+        },
+        {
+          "authorId": "2336165953",
+          "name": "Shuaiwen Cui"
+        },
+        {
+          "authorId": "2346383412",
+          "name": "Xinhao He"
+        },
+        {
+          "authorId": "2218882227",
+          "name": "Yugang Fu"
+        },
+        {
+          "authorId": "2145216256",
+          "name": "Qun Yang"
+        }
+      ],
+      "abstract": "\n Internet of Things (IoTs) systems with wireless data transmission have been increasingly adopted by structural health monitoring. However, sensor malfunctions and data anomalies have been identified frequently in these systems for long-term deployment, especially in harsh environments. Advances in machine learning (ML) offer promising solutions for effectively detecting, classifying and recovering data anomalies. Most state-of-the-art ML-based solutions rely on powerful workstations or cloud servers, where large amounts of datasets are assumed to be transmitted to a centralized station, leading to the issues of heavy load of data transmission and long delay of subsequent data analytics. To address the issues, this article proposed a novel decentralized approach integrating machine learning with edge computing, aka, edge intelligence, for efficient onboard data anomaly classification. The key innovations lie in the development of an effective ML-based feature extractor adapted to low-cost IoT nodes and an efficient edge computing deployment for ML execution suitable for resource-constrained microcontroller unit-based devices. The proposed solution has been successfully deployed on a newly developed IoT node,\n LiftNode\n , which is by first time to realize low-cost onboard data anomaly classification in structural health monitoring (SHM) community. Using the dataset collected from a real long-span cable-stayed bridge in China, the proposed solution is found to achieve the accuracy of 96.37% in PC with the model size of 0.29 MB, and comparably, the accuracy of 96.36% in\n LiftNode\n . The framework and deployment strategies are elaborated, highlighting the potential of edge intelligence for improving SHM systems’ responsiveness and resource utilization.\n"
+    }
+  },
+  {
+    "paper_id": "11db051d8c910c5dee737b0f80924682b636d715",
+    "title": "Framework for a practical and cost-effective IoT-enhanced structural health monitoring and damage diagnostics system with digital twinning",
+    "authors": "Jack Huang, A. Broekman, George Markou, Hua-peng Chen",
+    "journal": "Journal of Civil Structural Health Monitoring",
+    "publish_year": "2025",
+    "abstract": "Structural Health Monitoring (SHM) has emerged as a viable alternative to traditional visual and non-destructive assessment methods for civil infrastructure. The integration of sensor systems, the Internet of Things (IoT), and advanced data processing has further digitised SHM, leading to the development of Digital Twin (DT) technology, enabling dynamic, real-time simulations for proactive risk prediction and asset management. However, many existing DT-based SHM systems are costly, complex, and resource-intensive, limiting their practicality for small-scale implementations. This study investigates the feasibility of a practical and cost-effective SHM framework enhanced by DT technology for civil infrastructure. The hardware system explored two low-cost displacement sensors: a potentiometer contact sensor and an infrared non-contact sensor. During the static load testing, the potentiometer demonstrated high accuracy and stability, whilst the infrared sensor, despite higher noise, was effective for submillimetre measurements. These sensors were integrated with an IoT-enabled Arduino Nano 33 microcontroller for remote access via the cloud platform. The software system, “ReConTwin”, developed using open-source resources, provides near real-time updates, analysis, and damage diagnosis through an automated post-processing system. The calibrated DT replicated the force–displacement response, accurately estimated the applied load, and closely predicted mid-span strain and crack formations of a Reinforced Concrete (RC) beam specimen subjected to short-term static three-point bending loads in a controlled laboratory setting. The user-friendly design and compatibility with standard commercial computers enhance the accessibility and feasibility of the proposed DT-SHM framework, making it a promising scalable solution for widespread adoption in real-world civil infrastructure applications.",
+    "keywords": [],
+    "doi": "10.1007/s13349-025-00927-9",
+    "url": "https://www.semanticscholar.org/paper/11db051d8c910c5dee737b0f80924682b636d715",
+    "citation_count": 2,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "11db051d8c910c5dee737b0f80924682b636d715",
+      "externalIds": {
+        "DOI": "10.1007/s13349-025-00927-9",
+        "CorpusId": 276912917
+      },
+      "url": "https://www.semanticscholar.org/paper/11db051d8c910c5dee737b0f80924682b636d715",
+      "title": "Framework for a practical and cost-effective IoT-enhanced structural health monitoring and damage diagnostics system with digital twinning",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/s13349-025-00927-9",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13349-025-00927-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13349-025-00927-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Journal of Civil Structural Health Monitoring",
+        "pages": "2059 - 2084",
+        "volume": "15"
+      },
+      "authors": [
+        {
+          "authorId": "2110302521",
+          "name": "Jack Huang"
+        },
+        {
+          "authorId": "1379984528",
+          "name": "A. Broekman"
+        },
+        {
+          "authorId": "2349527828",
+          "name": "George Markou"
+        },
+        {
+          "authorId": "2242888546",
+          "name": "Hua-peng Chen"
+        }
+      ],
+      "abstract": "Structural Health Monitoring (SHM) has emerged as a viable alternative to traditional visual and non-destructive assessment methods for civil infrastructure. The integration of sensor systems, the Internet of Things (IoT), and advanced data processing has further digitised SHM, leading to the development of Digital Twin (DT) technology, enabling dynamic, real-time simulations for proactive risk prediction and asset management. However, many existing DT-based SHM systems are costly, complex, and resource-intensive, limiting their practicality for small-scale implementations. This study investigates the feasibility of a practical and cost-effective SHM framework enhanced by DT technology for civil infrastructure. The hardware system explored two low-cost displacement sensors: a potentiometer contact sensor and an infrared non-contact sensor. During the static load testing, the potentiometer demonstrated high accuracy and stability, whilst the infrared sensor, despite higher noise, was effective for submillimetre measurements. These sensors were integrated with an IoT-enabled Arduino Nano 33 microcontroller for remote access via the cloud platform. The software system, “ReConTwin”, developed using open-source resources, provides near real-time updates, analysis, and damage diagnosis through an automated post-processing system. The calibrated DT replicated the force–displacement response, accurately estimated the applied load, and closely predicted mid-span strain and crack formations of a Reinforced Concrete (RC) beam specimen subjected to short-term static three-point bending loads in a controlled laboratory setting. The user-friendly design and compatibility with standard commercial computers enhance the accessibility and feasibility of the proposed DT-SHM framework, making it a promising scalable solution for widespread adoption in real-world civil infrastructure applications."
+    }
+  },
+  {
+    "paper_id": "6955c9f506f31914947b3e60523c99657ad0d9df",
+    "title": "Lifetime Extension of Wind Farms by a Low-Cost Energy-Autonomous IoT-Based Structural Health Monitoring System",
+    "authors": "A. Lopez-Martin, C. Castellano, M. Živanović, X. Iriarte, A. Carlosena",
+    "journal": "RE&amp;PQJ",
+    "publish_year": "2025",
+    "abstract": "The latest results of a research project pursuing an energy-autonomous Structural Health Monitoring (SHM) system for wind farms are presented. The SHM system is based on the development of low-power IoT wireless nodes and electromagnetic harvesters to capture energy from low-frequency vibrations of wind towers. Computationally efficient operational modal analysis methods suited to the low-cost IoT edge nodes are also explored. The work carried out aims to extend the lifetime of existing wind farms by properly monitoring their structural integrity.",
+    "keywords": [],
+    "doi": "10.52152/4527",
+    "url": "https://www.semanticscholar.org/paper/6955c9f506f31914947b3e60523c99657ad0d9df",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "6955c9f506f31914947b3e60523c99657ad0d9df",
+      "externalIds": {
+        "DOI": "10.52152/4527",
+        "CorpusId": 280431024
+      },
+      "url": "https://www.semanticscholar.org/paper/6955c9f506f31914947b3e60523c99657ad0d9df",
+      "title": "Lifetime Extension of Wind Farms by a Low-Cost Energy-Autonomous IoT-Based Structural Health Monitoring System",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52152/4527?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52152/4527, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "RE&amp;PQJ"
+      },
+      "authors": [
+        {
+          "authorId": "2374560760",
+          "name": "A. Lopez-Martin"
+        },
+        {
+          "authorId": "2374572507",
+          "name": "C. Castellano"
+        },
+        {
+          "authorId": "2374565034",
+          "name": "M. Živanović"
+        },
+        {
+          "authorId": "2374570024",
+          "name": "X. Iriarte"
+        },
+        {
+          "authorId": "2374561647",
+          "name": "A. Carlosena"
+        }
+      ],
+      "abstract": "The latest results of a research project pursuing an energy-autonomous Structural Health Monitoring (SHM) system for wind farms are presented. The SHM system is based on the development of low-power IoT wireless nodes and electromagnetic harvesters to capture energy from low-frequency vibrations of wind towers. Computationally efficient operational modal analysis methods suited to the low-cost IoT edge nodes are also explored. The work carried out aims to extend the lifetime of existing wind farms by properly monitoring their structural integrity."
+    }
+  },
+  {
+    "paper_id": "c6d4d16b31bb967a4bc5e2357e75c70fde30a355",
+    "title": "Proposal of a Sensor and IoT-Based Structural Health Monitoring System for Marine Fenders",
+    "authors": "Luiz Augusto Almeida Santos, Mariana Amorim Fraga",
+    "journal": "2025 Symposium on Internet of Things (SIoT)",
+    "publish_year": "2025",
+    "abstract": "Marine fenders play a critical role in protecting both vessels and port structures by absorbing the kinetic energy during berthing operations. However, mechanical stress, material fatigue, and environmental exposure can lead to gradual degradation, compromising safety and operational efficiency. This study proposes a sensor and Internet of Things (IoT)-based monitoring system for real-time structural health monitoring of marine fenders. The system integrates ultrasonic sensors, strain gauges, and piezoelectric sensors, all interfaced with an IoT controller that transmits the data wirelessly via a LoRaWAN gateway to a cloud-based platform. The architecture is being designed to measure impact forces, detect mechanical deformation, and monitor vibrations during vessel docking. Laboratory tests are currently being conducted to validate the sensing and communication architecture. Field deployment on a marine fender at the Port of Santos (Brazil) is planned for the next project phase. The proposed solution aims to improve predictive maintenance strategies and enhance port safety",
+    "keywords": [],
+    "doi": "10.1109/SIoT68426.2025.11368830",
+    "url": "https://www.semanticscholar.org/paper/c6d4d16b31bb967a4bc5e2357e75c70fde30a355",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "c6d4d16b31bb967a4bc5e2357e75c70fde30a355",
+      "externalIds": {
+        "DOI": "10.1109/SIoT68426.2025.11368830",
+        "CorpusId": 285316245
+      },
+      "url": "https://www.semanticscholar.org/paper/c6d4d16b31bb967a4bc5e2357e75c70fde30a355",
+      "title": "Proposal of a Sensor and IoT-Based Structural Health Monitoring System for Marine Fenders",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SIoT68426.2025.11368830?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SIoT68426.2025.11368830, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "2025 Symposium on Internet of Things (SIoT)",
+        "pages": "1-4"
+      },
+      "authors": [
+        {
+          "authorId": "2409961823",
+          "name": "Luiz Augusto Almeida Santos"
+        },
+        {
+          "authorId": "2312773880",
+          "name": "Mariana Amorim Fraga"
+        }
+      ],
+      "abstract": "Marine fenders play a critical role in protecting both vessels and port structures by absorbing the kinetic energy during berthing operations. However, mechanical stress, material fatigue, and environmental exposure can lead to gradual degradation, compromising safety and operational efficiency. This study proposes a sensor and Internet of Things (IoT)-based monitoring system for real-time structural health monitoring of marine fenders. The system integrates ultrasonic sensors, strain gauges, and piezoelectric sensors, all interfaced with an IoT controller that transmits the data wirelessly via a LoRaWAN gateway to a cloud-based platform. The architecture is being designed to measure impact forces, detect mechanical deformation, and monitor vibrations during vessel docking. Laboratory tests are currently being conducted to validate the sensing and communication architecture. Field deployment on a marine fender at the Port of Santos (Brazil) is planned for the next project phase. The proposed solution aims to improve predictive maintenance strategies and enhance port safety"
+    }
+  },
+  {
+    "paper_id": "923e2d8f8c3b2cd61957cdc60e924be0a3030c37",
+    "title": "Edge AI for Structural Health Monitoring: An FPGA-Based Approach on IoT Sensor Nodes",
+    "authors": "Jeong-Hun Lee, Jaehyung Park",
+    "journal": "2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)",
+    "publish_year": "2025",
+    "abstract": "This paper presents an FPGA-accelerated on-device AI framework for Structural Health Monitoring (SHM), enabling real-time vibration analysis using IoT sensor nodes. By integrating hardware-optimized deep learning inference, the proposed system addresses key limitations of server-based SHM approaches, including latency, power consumption, and network dependency. A deep neural network (DNN) was trained on structural vibration data and deployed to an FPGA-based inference engine using quantization and parallel processing techniques to ensure efficient execution at the edge. Experimental validation on a pedestrian bridge testbed demonstrated that the FPGAbased approach achieves classification accuracy comparable to software-based on-device AI (e.g., TensorFlow Lite), while significantly reducing inference time and improving energy efficiency.",
+    "keywords": [],
+    "doi": "10.1109/DCOSS-IoT65416.2025.00085",
+    "url": "https://www.semanticscholar.org/paper/923e2d8f8c3b2cd61957cdc60e924be0a3030c37",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "923e2d8f8c3b2cd61957cdc60e924be0a3030c37",
+      "externalIds": {
+        "DOI": "10.1109/DCOSS-IoT65416.2025.00085",
+        "CorpusId": 280540374
+      },
+      "url": "https://www.semanticscholar.org/paper/923e2d8f8c3b2cd61957cdc60e924be0a3030c37",
+      "title": "Edge AI for Structural Health Monitoring: An FPGA-Based Approach on IoT Sensor Nodes",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DCOSS-IoT65416.2025.00085?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DCOSS-IoT65416.2025.00085, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)",
+        "pages": "515-522"
+      },
+      "authors": [
+        {
+          "authorId": "2158293640",
+          "name": "Jeong-Hun Lee"
+        },
+        {
+          "authorId": "2116812703",
+          "name": "Jaehyung Park"
+        }
+      ],
+      "abstract": "This paper presents an FPGA-accelerated on-device AI framework for Structural Health Monitoring (SHM), enabling real-time vibration analysis using IoT sensor nodes. By integrating hardware-optimized deep learning inference, the proposed system addresses key limitations of server-based SHM approaches, including latency, power consumption, and network dependency. A deep neural network (DNN) was trained on structural vibration data and deployed to an FPGA-based inference engine using quantization and parallel processing techniques to ensure efficient execution at the edge. Experimental validation on a pedestrian bridge testbed demonstrated that the FPGAbased approach achieves classification accuracy comparable to software-based on-device AI (e.g., TensorFlow Lite), while significantly reducing inference time and improving energy efficiency."
+    }
+  },
+  {
+    "paper_id": "807d8e3235faadd419b7871f2cc25a78f0d085cf",
+    "title": "Design of a Low-cost IoT-based Wireless Strain Monitoring System for Structural Health Monitoring in Port Portal Cranes",
+    "authors": "Zhaojie Fu, Xiaoxu Dong, Weili Zhao, Song Xue, Hualin Yang, Haizhou Chen",
+    "journal": "2025 IEEE International Conference on Prognostics and Health Management (ICPHM)",
+    "publish_year": "2025",
+    "abstract": "Structural Health Monitoring (SHM) of port portal cranes is critical for ensuring operational safety and longevity. However, traditional wired strain monitoring systems face challenges such as complex installation, high costs, and susceptibility to environmental interference. To overcome these limitations, this paper proposes a low-cost, IoT-based wireless strain monitoring system specifically designed for SHM in port portal cranes. The system adopts a distributed architecture and employs full-bridge strain measurement circuits to achieve high-precision strain sensing. A low-power STM32 microcontroller serves as the core of the data acquisition unit, integrating a dual-layer communication framework that combines LoRa for reliable local transmission and 4G for seamless remote data access. Strain data is transmitted to the Alibaba Cloud platform for real-time storage, analysis, and management. By significantly reducing wiring complexity and maintenance costs while ensuring stable and accurate strain monitoring, the proposed system provides an efficient solution for enhancing the structural integrity assessment of port cranes, demonstrating substantial engineering applicability and value.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/ICPHM65385.2025.11061820",
+    "url": "https://www.semanticscholar.org/paper/807d8e3235faadd419b7871f2cc25a78f0d085cf",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "807d8e3235faadd419b7871f2cc25a78f0d085cf",
+      "externalIds": {
+        "DBLP": "conf/icphm/FuDZXYC25",
+        "DOI": "10.1109/ICPHM65385.2025.11061820",
+        "CorpusId": 279899543
+      },
+      "url": "https://www.semanticscholar.org/paper/807d8e3235faadd419b7871f2cc25a78f0d085cf",
+      "title": "Design of a Low-cost IoT-based Wireless Strain Monitoring System for Structural Health Monitoring in Port Portal Cranes",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICPHM65385.2025.11061820?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICPHM65385.2025.11061820, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 IEEE International Conference on Prognostics and Health Management (ICPHM)",
+        "pages": "1-8"
+      },
+      "authors": [
+        {
+          "authorId": "2371253650",
+          "name": "Zhaojie Fu"
+        },
+        {
+          "authorId": "2345736043",
+          "name": "Xiaoxu Dong"
+        },
+        {
+          "authorId": "2366328844",
+          "name": "Weili Zhao"
+        },
+        {
+          "authorId": "2341495136",
+          "name": "Song Xue"
+        },
+        {
+          "authorId": "2265721592",
+          "name": "Hualin Yang"
+        },
+        {
+          "authorId": "2267194084",
+          "name": "Haizhou Chen"
+        }
+      ],
+      "abstract": "Structural Health Monitoring (SHM) of port portal cranes is critical for ensuring operational safety and longevity. However, traditional wired strain monitoring systems face challenges such as complex installation, high costs, and susceptibility to environmental interference. To overcome these limitations, this paper proposes a low-cost, IoT-based wireless strain monitoring system specifically designed for SHM in port portal cranes. The system adopts a distributed architecture and employs full-bridge strain measurement circuits to achieve high-precision strain sensing. A low-power STM32 microcontroller serves as the core of the data acquisition unit, integrating a dual-layer communication framework that combines LoRa for reliable local transmission and 4G for seamless remote data access. Strain data is transmitted to the Alibaba Cloud platform for real-time storage, analysis, and management. By significantly reducing wiring complexity and maintenance costs while ensuring stable and accurate strain monitoring, the proposed system provides an efficient solution for enhancing the structural integrity assessment of port cranes, demonstrating substantial engineering applicability and value."
+    }
+  },
+  {
+    "paper_id": "4c201170e3161ba6ec6f885d50cb0daf71d3a212",
+    "title": "Deep at the Edge: AI-Driven Signal Compression for Structural Health Monitoring in Symbiotic IoT Systems",
+    "authors": "I. Bisio, Chiara Garibotto, F. Lavagetto, A. Sciarrone, Matteo Zerbino",
+    "journal": "IEEE Internet of Things Journal",
+    "publish_year": "2025",
+    "abstract": "The convergence of Symbiotic Internet of Things (IoT), artificial intelligence (AI) foundational models, and 6G is ushering in a new era of intelligent connectivity, where networks, devices, and algorithms operate in close coordination to enable real-time, adaptive, and efficient systems. In the context of structural health monitoring (SHM), this integrated vision provides a powerful framework to tackle challenges, such as limited resources, harsh environments, and the need for timely, high-fidelity data. By enabling intelligent, collaborative processing across edge and network layers, it supports efficient data compression, transmission, and decision-making—ensuring robust and adaptive monitoring even in complex structural settings. In this work, we investigate the use of AI for data compression in an IoT-based SHM scenario. Specifically, we evaluate and compare the performance of four different convolutional autoencoder (convolutional AEs (CAEs)) in compressing and reconstructing inertial signals collected from various structural systems, aiming to enable adaptive and context-aware processing directly at the edge. By testing across heterogeneous sources, we assess the generalizability and robustness of each CAE model, providing insights into the potential of deep learning-based compression techniques for SHM applications.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1109/JIOT.2025.3603739",
+    "url": "https://www.semanticscholar.org/paper/4c201170e3161ba6ec6f885d50cb0daf71d3a212",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "4c201170e3161ba6ec6f885d50cb0daf71d3a212",
+      "externalIds": {
+        "DBLP": "journals/iotj/BisioGLSZ25",
+        "DOI": "10.1109/JIOT.2025.3603739",
+        "CorpusId": 281035091
+      },
+      "url": "https://www.semanticscholar.org/paper/4c201170e3161ba6ec6f885d50cb0daf71d3a212",
+      "title": "Deep at the Edge: AI-Driven Signal Compression for Structural Health Monitoring in Symbiotic IoT Systems",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2025.3603739?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2025.3603739, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "IEEE Internet of Things Journal",
+        "pages": "41538-41549",
+        "volume": "12"
+      },
+      "authors": [
+        {
+          "authorId": "1704641",
+          "name": "I. Bisio"
+        },
+        {
+          "authorId": "1868840",
+          "name": "Chiara Garibotto"
+        },
+        {
+          "authorId": "1678799",
+          "name": "F. Lavagetto"
+        },
+        {
+          "authorId": "3091510",
+          "name": "A. Sciarrone"
+        },
+        {
+          "authorId": "2261550809",
+          "name": "Matteo Zerbino"
+        }
+      ],
+      "abstract": "The convergence of Symbiotic Internet of Things (IoT), artificial intelligence (AI) foundational models, and 6G is ushering in a new era of intelligent connectivity, where networks, devices, and algorithms operate in close coordination to enable real-time, adaptive, and efficient systems. In the context of structural health monitoring (SHM), this integrated vision provides a powerful framework to tackle challenges, such as limited resources, harsh environments, and the need for timely, high-fidelity data. By enabling intelligent, collaborative processing across edge and network layers, it supports efficient data compression, transmission, and decision-making—ensuring robust and adaptive monitoring even in complex structural settings. In this work, we investigate the use of AI for data compression in an IoT-based SHM scenario. Specifically, we evaluate and compare the performance of four different convolutional autoencoder (convolutional AEs (CAEs)) in compressing and reconstructing inertial signals collected from various structural systems, aiming to enable adaptive and context-aware processing directly at the edge. By testing across heterogeneous sources, we assess the generalizability and robustness of each CAE model, providing insights into the potential of deep learning-based compression techniques for SHM applications."
+    }
+  },
+  {
+    "paper_id": "cbfa145f152ac8afa26b6273abfeba2747e397a2",
+    "title": "Integrating Electromagnetic NDT and IoT for Enhanced Structural Health Monitoring of Corrosion in Reinforced Concrete as a Key to Sustainable Smart Cities",
+    "authors": "P. Frankowski, Sebastian Matysik",
+    "journal": "Sustainability",
+    "publish_year": "2025",
+    "abstract": "The paper addresses a critical gap in early-stage corrosion detection in reinforced concrete, a leading cause of structural failures with significant impacts on humans, the economy, and the environment. It presents the M5 (Magnetic Force-Induced Vibration Evaluation) method, an innovative Structural Health Monitoring (SHM) approach that avoids damping in concrete by using electromagnetic excitation and transferring rebar vibrations through magnetic coupling over the sample. By inducing and analyzing natural vibrations directly in reinforcement, M5 enables sensitive, non-destructive evaluation (NDE) of corrosion before deterioration occurs. The study follows a systematic literature review based on PRISMA standards and utilizes EmbedSLR v1.0 free software. The methodology combines NDE with IoT deployment using Low-Power Wide Area Networks (LPWANs) and advanced machine learning (ARA) to detect frequency changes caused by corrosion, ensuring continuous monitoring. Findings suggest that M5 has the potential to enhance sustainable asset management by extending infrastructure lifespan, optimizing maintenance, and reducing waste. Its practical implications are significant for urban planners and engineers aiming to align infrastructure management with smart city strategies. The originality of this work lies in integrating electromagnetic NDT with IoT and data-driven decision-making, offering new insights at the intersection of engineering and sustainable smart city management.",
+    "keywords": [],
+    "doi": "10.3390/su172210307",
+    "url": "https://www.semanticscholar.org/paper/cbfa145f152ac8afa26b6273abfeba2747e397a2",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "cbfa145f152ac8afa26b6273abfeba2747e397a2",
+      "externalIds": {
+        "DOI": "10.3390/su172210307",
+        "CorpusId": 283115313
+      },
+      "url": "https://www.semanticscholar.org/paper/cbfa145f152ac8afa26b6273abfeba2747e397a2",
+      "title": "Integrating Electromagnetic NDT and IoT for Enhanced Structural Health Monitoring of Corrosion in Reinforced Concrete as a Key to Sustainable Smart Cities",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su172210307?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su172210307, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "journal": {
+        "name": "Sustainability"
+      },
+      "authors": [
+        {
+          "authorId": "2336983945",
+          "name": "P. Frankowski"
+        },
+        {
+          "authorId": "2396870164",
+          "name": "Sebastian Matysik"
+        }
+      ],
+      "abstract": "The paper addresses a critical gap in early-stage corrosion detection in reinforced concrete, a leading cause of structural failures with significant impacts on humans, the economy, and the environment. It presents the M5 (Magnetic Force-Induced Vibration Evaluation) method, an innovative Structural Health Monitoring (SHM) approach that avoids damping in concrete by using electromagnetic excitation and transferring rebar vibrations through magnetic coupling over the sample. By inducing and analyzing natural vibrations directly in reinforcement, M5 enables sensitive, non-destructive evaluation (NDE) of corrosion before deterioration occurs. The study follows a systematic literature review based on PRISMA standards and utilizes EmbedSLR v1.0 free software. The methodology combines NDE with IoT deployment using Low-Power Wide Area Networks (LPWANs) and advanced machine learning (ARA) to detect frequency changes caused by corrosion, ensuring continuous monitoring. Findings suggest that M5 has the potential to enhance sustainable asset management by extending infrastructure lifespan, optimizing maintenance, and reducing waste. Its practical implications are significant for urban planners and engineers aiming to align infrastructure management with smart city strategies. The originality of this work lies in integrating electromagnetic NDT with IoT and data-driven decision-making, offering new insights at the intersection of engineering and sustainable smart city management."
+    }
+  },
+  {
+    "paper_id": "24b64c4d94ffb01051470551d16e081aef8afd96",
+    "title": "Synergy between Embedded and Non-Embedded Sensors in IoT Networks for Structural Health Monitoring of Concrete Structures: A Literature Review",
+    "authors": "Oumayma Najem, M. Benbrahim, M. Kabbaj, J. Boumhidi",
+    "journal": "E3S Web of Conferences",
+    "publish_year": "2025",
+    "abstract": "The natural aging process of civil constructions results in material degradation, which lowers the structure’s resilience and serviceability. To prevent tragic malfunctions, this natural eventuality needs to be monitored closely. While in situ, non-intrusive, periodic techniques have become more popular, however, a remote and continuous monitoring solution is still required. Structural Health Monitoring (SHM) is increasingly embraced thanks to advancements in the Internet of Things (IoT) and Artificial Intelligence (AI) being combined and infused. The main topics of this review are the foundations of SHM as a form of Non-intrusive evaluations and how it connects to the Internet of Things (IoT) for civil constructions. This paper also covers the numerous kinds of sensors that are utilized for SHM, namely embedded sensors including piezoelectric and fiber optic sensors, and non-embedded sensors such as accelerometers and strain gauges. Through case studies, the practical applications of SHM are illustrated, emphasizing its effectiveness in real-world scenarios. Additionally, this review also discusses the difficulties of the automatic damage detection of structures, and the need for innovative solutions. Ultimately, this study emphasizes the economic advantages linked to the application of SHM.",
+    "keywords": [],
+    "doi": "10.1051/e3sconf/202560100028",
+    "url": "https://www.semanticscholar.org/paper/24b64c4d94ffb01051470551d16e081aef8afd96",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "24b64c4d94ffb01051470551d16e081aef8afd96",
+      "externalIds": {
+        "DOI": "10.1051/e3sconf/202560100028",
+        "CorpusId": 275702710
+      },
+      "url": "https://www.semanticscholar.org/paper/24b64c4d94ffb01051470551d16e081aef8afd96",
+      "title": "Synergy between Embedded and Non-Embedded Sensors in IoT Networks for Structural Health Monitoring of Concrete Structures: A Literature Review",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1051/e3sconf/202560100028",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/e3sconf/202560100028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/e3sconf/202560100028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "journal": {
+        "name": "E3S Web of Conferences"
+      },
+      "authors": [
+        {
+          "authorId": "2341073786",
+          "name": "Oumayma Najem"
+        },
+        {
+          "authorId": "1869465",
+          "name": "M. Benbrahim"
+        },
+        {
+          "authorId": "21238322",
+          "name": "M. Kabbaj"
+        },
+        {
+          "authorId": "2948029",
+          "name": "J. Boumhidi"
+        }
+      ],
+      "abstract": "The natural aging process of civil constructions results in material degradation, which lowers the structure’s resilience and serviceability. To prevent tragic malfunctions, this natural eventuality needs to be monitored closely. While in situ, non-intrusive, periodic techniques have become more popular, however, a remote and continuous monitoring solution is still required. Structural Health Monitoring (SHM) is increasingly embraced thanks to advancements in the Internet of Things (IoT) and Artificial Intelligence (AI) being combined and infused. The main topics of this review are the foundations of SHM as a form of Non-intrusive evaluations and how it connects to the Internet of Things (IoT) for civil constructions. This paper also covers the numerous kinds of sensors that are utilized for SHM, namely embedded sensors including piezoelectric and fiber optic sensors, and non-embedded sensors such as accelerometers and strain gauges. Through case studies, the practical applications of SHM are illustrated, emphasizing its effectiveness in real-world scenarios. Additionally, this review also discusses the difficulties of the automatic damage detection of structures, and the need for innovative solutions. Ultimately, this study emphasizes the economic advantages linked to the application of SHM."
+    }
+  },
+  {
+    "paper_id": "a0e6e89c0d99e24fb66599cd1154807d41e51118",
+    "title": "Structural Health Monitoring Using IoT and Cloud Computing",
+    "authors": "Kailash Shaw, Amruta Amune, N. Rajas, Ruhi Tendulkar, Serenaa Mangade, V. Dubal, Ishika Mahajan, M. Patil, M. Rout",
+    "journal": "2025 OITS International Conference on Information Technology (OCIT)",
+    "publish_year": "2025",
+    "abstract": "This project presents a cloud-connected structural health monitoring system that seamlessly integrates IoT technologies with data visualization tools for real-time analysis of infrastructure conditions. A prototype bridge structure is developed to simulate load monitoring and other stress indicators. Sensor data is collected using an ESP8266 microcontroller and processed through the Arduino IDE. This data is then transmitted to Firebase, which acts as a real-time cloud database. Subsequently, the data is extracted and processed using Python to generate structured SQL files, which are managed within a MySQL database. This enables advanced data handling capabilities, including the incorporation of additional attributes, roles, and triggers. Finally, the processed data is visualized through interactive dashboards using Microsoft Power BI, enabling comprehensive monitoring and analysis. The end-to-end pipeline facilitates efficient structural health tracking, offering a cost-effective, scalable, and real-time solution for proactive infrastructure maintenance and management.",
+    "keywords": [],
+    "doi": "10.1109/OCIT66168.2025.11400070",
+    "url": "https://www.semanticscholar.org/paper/a0e6e89c0d99e24fb66599cd1154807d41e51118",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "a0e6e89c0d99e24fb66599cd1154807d41e51118",
+      "externalIds": {
+        "DOI": "10.1109/OCIT66168.2025.11400070",
+        "CorpusId": 286245020
+      },
+      "url": "https://www.semanticscholar.org/paper/a0e6e89c0d99e24fb66599cd1154807d41e51118",
+      "title": "Structural Health Monitoring Using IoT and Cloud Computing",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/OCIT66168.2025.11400070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/OCIT66168.2025.11400070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 OITS International Conference on Information Technology (OCIT)",
+        "pages": "966-972"
+      },
+      "authors": [
+        {
+          "authorId": "2265675537",
+          "name": "Kailash Shaw"
+        },
+        {
+          "authorId": "70162625",
+          "name": "Amruta Amune"
+        },
+        {
+          "authorId": "2261180925",
+          "name": "N. Rajas"
+        },
+        {
+          "authorId": "2421859872",
+          "name": "Ruhi Tendulkar"
+        },
+        {
+          "authorId": "2421861221",
+          "name": "Serenaa Mangade"
+        },
+        {
+          "authorId": "2283504282",
+          "name": "V. Dubal"
+        },
+        {
+          "authorId": "2333876019",
+          "name": "Ishika Mahajan"
+        },
+        {
+          "authorId": "2407924235",
+          "name": "M. Patil"
+        },
+        {
+          "authorId": "2182553",
+          "name": "M. Rout"
+        }
+      ],
+      "abstract": "This project presents a cloud-connected structural health monitoring system that seamlessly integrates IoT technologies with data visualization tools for real-time analysis of infrastructure conditions. A prototype bridge structure is developed to simulate load monitoring and other stress indicators. Sensor data is collected using an ESP8266 microcontroller and processed through the Arduino IDE. This data is then transmitted to Firebase, which acts as a real-time cloud database. Subsequently, the data is extracted and processed using Python to generate structured SQL files, which are managed within a MySQL database. This enables advanced data handling capabilities, including the incorporation of additional attributes, roles, and triggers. Finally, the processed data is visualized through interactive dashboards using Microsoft Power BI, enabling comprehensive monitoring and analysis. The end-to-end pipeline facilitates efficient structural health tracking, offering a cost-effective, scalable, and real-time solution for proactive infrastructure maintenance and management."
+    }
+  },
+  {
+    "paper_id": "ee6de0b3f79be12b8975f6435a3a927dab1893d1",
+    "title": "Advanced Structural Health Monitoring Using IoT: Integrating Predictive Analytics, Edge Computing, and Multi-Sensor Systems for Early Detection of Structural Irregularities",
+    "authors": "Arun Kumar Katkoori, Amireddy Srinish Reddy, Koteswararao Seelam, D. LaxmiPrasanna, J. Lakshmi",
+    "journal": "2025 7th International Conference on Signal Processing, Computing and Control (ISPCC)",
+    "publish_year": "2025",
+    "abstract": "The importance of structure integrity is one of the key determinants to infrastructure and buildings’ preservation and security. The traditional means of monitoring structures do not allow for continuous feedback to be captured in real time. This paper describes the new advancement made in IoT based structural health monitoring system that makes use of predictive analytics and edge analytics computing for the preliminary indication of anomalies in concrete beams. The examination of the flexural behavior of the beam is conducted using a flexible sensor array in conjunction with vibration and acoustic emission sensors that operate in real-time. Predictive models process data in alerts, as well as predictions, in real-time through the Thingspeak enabled ESP8266 microcontroller. Cloud stored historical data enables real-time alerts and future failure predictions via Thingspeak’s web services. For further enhancement of communication, low power and long-range propagation is achieved by LoRaWAN. As the system can be monitored from remote locations, the new technology enables a reasonable cost solution for effective predictive structural health monitoring. With modern sensor fusion and advanced analytics, it is now possible to provide robust and cost-effective solutions for real-time and predictive structural health monitoring.",
+    "keywords": [],
+    "doi": "10.1109/ISPCC66872.2025.11039334",
+    "url": "https://www.semanticscholar.org/paper/ee6de0b3f79be12b8975f6435a3a927dab1893d1",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "ee6de0b3f79be12b8975f6435a3a927dab1893d1",
+      "externalIds": {
+        "DOI": "10.1109/ISPCC66872.2025.11039334",
+        "CorpusId": 279595675
+      },
+      "url": "https://www.semanticscholar.org/paper/ee6de0b3f79be12b8975f6435a3a927dab1893d1",
+      "title": "Advanced Structural Health Monitoring Using IoT: Integrating Predictive Analytics, Edge Computing, and Multi-Sensor Systems for Early Detection of Structural Irregularities",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISPCC66872.2025.11039334?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISPCC66872.2025.11039334, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 7th International Conference on Signal Processing, Computing and Control (ISPCC)",
+        "pages": "1021-1026"
+      },
+      "authors": [
+        {
+          "authorId": "2324113022",
+          "name": "Arun Kumar Katkoori"
+        },
+        {
+          "authorId": "2292316269",
+          "name": "Amireddy Srinish Reddy"
+        },
+        {
+          "authorId": "69379581",
+          "name": "Koteswararao Seelam"
+        },
+        {
+          "authorId": "2368453442",
+          "name": "D. LaxmiPrasanna"
+        },
+        {
+          "authorId": "2071314770",
+          "name": "J. Lakshmi"
+        }
+      ],
+      "abstract": "The importance of structure integrity is one of the key determinants to infrastructure and buildings’ preservation and security. The traditional means of monitoring structures do not allow for continuous feedback to be captured in real time. This paper describes the new advancement made in IoT based structural health monitoring system that makes use of predictive analytics and edge analytics computing for the preliminary indication of anomalies in concrete beams. The examination of the flexural behavior of the beam is conducted using a flexible sensor array in conjunction with vibration and acoustic emission sensors that operate in real-time. Predictive models process data in alerts, as well as predictions, in real-time through the Thingspeak enabled ESP8266 microcontroller. Cloud stored historical data enables real-time alerts and future failure predictions via Thingspeak’s web services. For further enhancement of communication, low power and long-range propagation is achieved by LoRaWAN. As the system can be monitored from remote locations, the new technology enables a reasonable cost solution for effective predictive structural health monitoring. With modern sensor fusion and advanced analytics, it is now possible to provide robust and cost-effective solutions for real-time and predictive structural health monitoring."
+    }
+  },
+  {
+    "paper_id": "d07312a33d63803180e7a2e603ec6e17e02e5487",
+    "title": "AI-Driven Predictive Maintenance Models for Structural Health Monitoring in Civil Engineering Using Deep Learning and IoT Sensors",
+    "authors": "M. B. Ananthayya, Nandan N Shenoy, J. N., A. T, Ananda V R, Amar R",
+    "journal": "2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)",
+    "publish_year": "2025",
+    "abstract": "By enabling predictive maintenance systems that can contribute to the safety of infrastructure development, dependability and longevity of structures, the combination of artificial intelligence (AI), deep learning and Internet of Things (IoT) sensors are making waves in structural health monitoring (SHM) in civil engineering. There are various SHM methods in use that are frequently based on reactive maintenance and/or a cycle-based method of inspection which may be expensive and inefficient. AI-driven predictive maintenance, on the other hand, takes real-time data from IoT-enabled sensors installed in a civil structure and uses the data to monitor variables, such as displacement, temperature, stress and vibration. Convolutional neural networks (CNNs) and recurrent neural networks (RNNs) are two types of DL algorithms that are used to analyse complex data from sensors to help identify trends, as well as potential structural problems before they happen. Proactive method of maintenance and detection of anomalies in the past are made easier thanks to the continuous learning and accuracy of such models. This way, as there is an improvement in terms of public safety, reduction in maintenance costs, least downtime. The integration of DL and IoT in SHM is delivering a datadriven and scalable architecture that allows bridges, buildings, dams and other important infrastructures to be managed intelligently. To illustrate the revolutionary implication of intelligent SHM in the contemporary civil engineering application, this paper will discuss the architecture of the AI-based predictive maintenance system, elaborate on the issues of implementation and the latest development.",
+    "keywords": [],
+    "doi": "10.1109/ICONSTEM65670.2025.11374705",
+    "url": "https://www.semanticscholar.org/paper/d07312a33d63803180e7a2e603ec6e17e02e5487",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "d07312a33d63803180e7a2e603ec6e17e02e5487",
+      "externalIds": {
+        "DOI": "10.1109/ICONSTEM65670.2025.11374705",
+        "CorpusId": 285734038
+      },
+      "url": "https://www.semanticscholar.org/paper/d07312a33d63803180e7a2e603ec6e17e02e5487",
+      "title": "AI-Driven Predictive Maintenance Models for Structural Health Monitoring in Civil Engineering Using Deep Learning and IoT Sensors",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICONSTEM65670.2025.11374705?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICONSTEM65670.2025.11374705, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)",
+        "pages": "1-7"
+      },
+      "authors": [
+        {
+          "authorId": "2334145573",
+          "name": "M. B. Ananthayya"
+        },
+        {
+          "authorId": "2077240760",
+          "name": "Nandan N Shenoy"
+        },
+        {
+          "authorId": "2334160227",
+          "name": "J. N."
+        },
+        {
+          "authorId": "2126581050",
+          "name": "A. T"
+        },
+        {
+          "authorId": "2420902605",
+          "name": "Ananda V R"
+        },
+        {
+          "authorId": "2420902607",
+          "name": "Amar R"
+        }
+      ],
+      "abstract": "By enabling predictive maintenance systems that can contribute to the safety of infrastructure development, dependability and longevity of structures, the combination of artificial intelligence (AI), deep learning and Internet of Things (IoT) sensors are making waves in structural health monitoring (SHM) in civil engineering. There are various SHM methods in use that are frequently based on reactive maintenance and/or a cycle-based method of inspection which may be expensive and inefficient. AI-driven predictive maintenance, on the other hand, takes real-time data from IoT-enabled sensors installed in a civil structure and uses the data to monitor variables, such as displacement, temperature, stress and vibration. Convolutional neural networks (CNNs) and recurrent neural networks (RNNs) are two types of DL algorithms that are used to analyse complex data from sensors to help identify trends, as well as potential structural problems before they happen. Proactive method of maintenance and detection of anomalies in the past are made easier thanks to the continuous learning and accuracy of such models. This way, as there is an improvement in terms of public safety, reduction in maintenance costs, least downtime. The integration of DL and IoT in SHM is delivering a datadriven and scalable architecture that allows bridges, buildings, dams and other important infrastructures to be managed intelligently. To illustrate the revolutionary implication of intelligent SHM in the contemporary civil engineering application, this paper will discuss the architecture of the AI-based predictive maintenance system, elaborate on the issues of implementation and the latest development."
+    }
+  },
+  {
+    "paper_id": "fd2a7fd96ae79b2e78793b7f72cb45f195099b05",
+    "title": "Conceptual Framework for IoT-Based Structural Health Monitoring of RC Bridges for Maintenance Decision-Making",
+    "authors": "Farrukh Arif, L. Ayub, F. A. Khan, Asad-ur-Rehman Khan",
+    "journal": "Construction Technologies and Architecture",
+    "publish_year": "2025",
+    "abstract": "Infrastructure development serves as an indicator of a country’s social and economic growth. Bridges are the key assets of infrastructure projects that are built for a design life of more than 50 years. During their lifespan, they are subjected to defects and deterioration due to physical changes, chemical attacks, internal reactions, etc. that are required to be addressed by timely inspection and monitoring. Inspection practices have a great impact on maintenance planning and decision-making. Since bridges are public infrastructure the budget allocated to their repair and maintenance is limited. Therefore, there arises a need for accurate, measurable, reliable, and cost-effective technologies for bridge health monitoring that can be incorporated into decision-making tools to prioritize repair and maintenance strategies. In recent years the trend has shifted from visual inspection to IoT-based condition assessment. This technique evaluates the bridge’s global and localized, and static and dynamic responses. However, there is a need to develop a systematic structure for a bridge health monitoring system, standardizing the data acquisition, processing, and transmission from a group of sensors to evaluate the existing condition of the bridge. This study proposes a conceptual IoT-based framework for structural health monitoring of existing reinforced concrete bridges for informed decision-making along with development of data acquisition system.",
+    "keywords": [],
+    "doi": "10.4028/p-q8nkQW",
+    "url": "https://www.semanticscholar.org/paper/fd2a7fd96ae79b2e78793b7f72cb45f195099b05",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "fd2a7fd96ae79b2e78793b7f72cb45f195099b05",
+      "externalIds": {
+        "DOI": "10.4028/p-q8nkQW",
+        "CorpusId": 275480555
+      },
+      "url": "https://www.semanticscholar.org/paper/fd2a7fd96ae79b2e78793b7f72cb45f195099b05",
+      "title": "Conceptual Framework for IoT-Based Structural Health Monitoring of RC Bridges for Maintenance Decision-Making",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4028/p-q8nkQW?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4028/p-q8nkQW, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": null,
+      "journal": {
+        "name": "Construction Technologies and Architecture",
+        "pages": "19 - 26",
+        "volume": "15"
+      },
+      "authors": [
+        {
+          "authorId": "2318791308",
+          "name": "Farrukh Arif"
+        },
+        {
+          "authorId": "2180406877",
+          "name": "L. Ayub"
+        },
+        {
+          "authorId": "2339995605",
+          "name": "F. A. Khan"
+        },
+        {
+          "authorId": "2339981532",
+          "name": "Asad-ur-Rehman Khan"
+        }
+      ],
+      "abstract": "Infrastructure development serves as an indicator of a country’s social and economic growth. Bridges are the key assets of infrastructure projects that are built for a design life of more than 50 years. During their lifespan, they are subjected to defects and deterioration due to physical changes, chemical attacks, internal reactions, etc. that are required to be addressed by timely inspection and monitoring. Inspection practices have a great impact on maintenance planning and decision-making. Since bridges are public infrastructure the budget allocated to their repair and maintenance is limited. Therefore, there arises a need for accurate, measurable, reliable, and cost-effective technologies for bridge health monitoring that can be incorporated into decision-making tools to prioritize repair and maintenance strategies. In recent years the trend has shifted from visual inspection to IoT-based condition assessment. This technique evaluates the bridge’s global and localized, and static and dynamic responses. However, there is a need to develop a systematic structure for a bridge health monitoring system, standardizing the data acquisition, processing, and transmission from a group of sensors to evaluate the existing condition of the bridge. This study proposes a conceptual IoT-based framework for structural health monitoring of existing reinforced concrete bridges for informed decision-making along with development of data acquisition system."
+    }
+  },
+  {
+    "paper_id": "acffc36c071d3b63afcf97110e72d8d781bacf74",
+    "title": "Enhancing Structural Health Monitoring with Fog and Cloud Computing Integration in IoT Systems",
+    "authors": "S. Rajkumar, N. Shanmugapriya, R. Sankar Ganesh, U. Pravin",
+    "journal": "2025 International Conference on Knowledge Engineering and Communication Systems (ICKECS)",
+    "publish_year": "2025",
+    "abstract": "This paper introduces a new approach in SHM, one that takes advantage of cloud computing, fog technology, and IoT to overcome the constraints of traditional monitoring systems. The setup involves high-performance IoT sensors that collect data in real-time, low-latency fog computing processes the data, and long-term storage and analysis are performed on the cloud. The technology applies advanced signal processing techniques, such as deep learning models and wavelet transformations, to identify accurately the anomalies in structural integrity. Peripheral devices, such as the NVIDIA Jetson AGX Orin, are utilized further to ensure predictive analysis and efficient processing. Results indicate major improvements in data transfer speed, accuracy of anomaly detection in structures, and processing speed relative to more traditional approaches. The proposed framework therefore presents a real-time and scalable solution that is proactively maintained and allows early detection of failure, which enhances safety and longevity for any infrastructure.",
+    "keywords": [],
+    "doi": "10.1109/ICKECS65700.2025.11035548",
+    "url": "https://www.semanticscholar.org/paper/acffc36c071d3b63afcf97110e72d8d781bacf74",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "acffc36c071d3b63afcf97110e72d8d781bacf74",
+      "externalIds": {
+        "DOI": "10.1109/ICKECS65700.2025.11035548",
+        "CorpusId": 279597882
+      },
+      "url": "https://www.semanticscholar.org/paper/acffc36c071d3b63afcf97110e72d8d781bacf74",
+      "title": "Enhancing Structural Health Monitoring with Fog and Cloud Computing Integration in IoT Systems",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICKECS65700.2025.11035548?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICKECS65700.2025.11035548, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 International Conference on Knowledge Engineering and Communication Systems (ICKECS)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2353259071",
+          "name": "S. Rajkumar"
+        },
+        {
+          "authorId": "2260030666",
+          "name": "N. Shanmugapriya"
+        },
+        {
+          "authorId": "2368455115",
+          "name": "R. Sankar Ganesh"
+        },
+        {
+          "authorId": "2368457725",
+          "name": "U. Pravin"
+        }
+      ],
+      "abstract": "This paper introduces a new approach in SHM, one that takes advantage of cloud computing, fog technology, and IoT to overcome the constraints of traditional monitoring systems. The setup involves high-performance IoT sensors that collect data in real-time, low-latency fog computing processes the data, and long-term storage and analysis are performed on the cloud. The technology applies advanced signal processing techniques, such as deep learning models and wavelet transformations, to identify accurately the anomalies in structural integrity. Peripheral devices, such as the NVIDIA Jetson AGX Orin, are utilized further to ensure predictive analysis and efficient processing. Results indicate major improvements in data transfer speed, accuracy of anomaly detection in structures, and processing speed relative to more traditional approaches. The proposed framework therefore presents a real-time and scalable solution that is proactively maintained and allows early detection of failure, which enhances safety and longevity for any infrastructure."
+    }
+  },
+  {
+    "paper_id": "8344baa2453d56bbe817d6bac1f3f47254067cd8",
+    "title": "Hybrid IoT–Edge AI Framework for Ultra-Low Latency Structural Health Monitoring in Smart Buildings",
+    "authors": "S. Banupriya, R. Ruthra, Rakesh Kanna R, V. S, Abirami K, Srimathi S",
+    "journal": "2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+    "publish_year": "2025",
+    "abstract": "SHM is undergoing fast evolution in the smart city era due to advancements in the IoT, AI, and big data analytics. These advancements pave the way for smart building SHM with ultra-low latency, which in turn enables analysis of data in real-time and responsive maintenance. The flexibility and resilience of AI-based solutions to tackle complicated structural and environmental problems have made them a hot topic in SHM. Because of their sensitivity to degradation, transportation assets like bridges are best served by SHM systems that function continuously throughout the asset's lifetime. Focussing on deep data modelling and effective data preprocessing areas that have frequently been overlooked in favour of model training this study provides an analytical overview of current advancements in AI-driven SHM. In order to improve the performance of SHM applications in terms of feature extraction, selection, and prediction, a hybrid model called CatBoost-Deep Cross Network is suggested. Results from comparisons show that the CatBoost-DCN model outperforms the state-of-the-art algorithms, reaching a precision of 94.02%. Intelligent, adaptable, and resilient SHM systems in smart buildings are made possible through the integration of AI with ultra-low latency IoT frameworks. This integration greatly improves the sustainability and safety of current urban infrastructures.",
+    "keywords": [],
+    "doi": "10.1109/ICICNIS66685.2025.11315775",
+    "url": "https://www.semanticscholar.org/paper/8344baa2453d56bbe817d6bac1f3f47254067cd8",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "8344baa2453d56bbe817d6bac1f3f47254067cd8",
+      "externalIds": {
+        "DOI": "10.1109/ICICNIS66685.2025.11315775",
+        "CorpusId": 284376568
+      },
+      "url": "https://www.semanticscholar.org/paper/8344baa2453d56bbe817d6bac1f3f47254067cd8",
+      "title": "Hybrid IoT–Edge AI Framework for Ultra-Low Latency Structural Health Monitoring in Smart Buildings",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICICNIS66685.2025.11315775?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICICNIS66685.2025.11315775, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference",
+        "Review"
+      ],
+      "journal": {
+        "name": "2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+        "pages": "1883-1888"
+      },
+      "authors": [
+        {
+          "authorId": "2360751489",
+          "name": "S. Banupriya"
+        },
+        {
+          "authorId": "2281353241",
+          "name": "R. Ruthra"
+        },
+        {
+          "authorId": null,
+          "name": "Rakesh Kanna R"
+        },
+        {
+          "authorId": "2123897844",
+          "name": "V. S"
+        },
+        {
+          "authorId": null,
+          "name": "Abirami K"
+        },
+        {
+          "authorId": "2297150035",
+          "name": "Srimathi S"
+        }
+      ],
+      "abstract": "SHM is undergoing fast evolution in the smart city era due to advancements in the IoT, AI, and big data analytics. These advancements pave the way for smart building SHM with ultra-low latency, which in turn enables analysis of data in real-time and responsive maintenance. The flexibility and resilience of AI-based solutions to tackle complicated structural and environmental problems have made them a hot topic in SHM. Because of their sensitivity to degradation, transportation assets like bridges are best served by SHM systems that function continuously throughout the asset's lifetime. Focussing on deep data modelling and effective data preprocessing areas that have frequently been overlooked in favour of model training this study provides an analytical overview of current advancements in AI-driven SHM. In order to improve the performance of SHM applications in terms of feature extraction, selection, and prediction, a hybrid model called CatBoost-Deep Cross Network is suggested. Results from comparisons show that the CatBoost-DCN model outperforms the state-of-the-art algorithms, reaching a precision of 94.02%. Intelligent, adaptable, and resilient SHM systems in smart buildings are made possible through the integration of AI with ultra-low latency IoT frameworks. This integration greatly improves the sustainability and safety of current urban infrastructures."
+    }
+  },
+  {
+    "paper_id": "50163118318fd76a91b0b19b1bd74d61565d589b",
+    "title": "Innovative Structural Health Monitoring Systems Through Cloud Computing Within IoT Framework",
+    "authors": "G. G, Dharmap Prakash R",
+    "journal": "2025 International Conference on Computing and Communications (COMPUTINGCON)",
+    "publish_year": "2025",
+    "abstract": "Aging buildings are increasingly vulnerable to structural deterioration due to climatic conditions, material degradation, and prolonged wear, posing significant safety concerns. Traditional inspection methods are reactive, laborintensive, and lack real-time monitoring, leading to delays in detecting critical structural issues. This project proposes an advanced automated system utilizing a Raspberry Pi 4 microcontroller integrated with an ADXL345 accelerometer and a DHT11 temperature and humidity sensor to monitor building health. The system collects vibration data, environmental parameters, and structural stability metrics, transmitting them to a cloud-based platform like WiFiIOT for continuous remote monitoring. Additionally, a Convolutional Neural Network (CNN) model, built using Keras and TensorFlow, is deployed on the Raspberry Pi 4 to determine building age based on a trained dataset of building images. The STL decomposition technique is applied to analyze time-series data trends, identifying structural anomalies and predicting potential failures. By leveraging historical and real-time data, this system enhances safety, reduces maintenance costs, and enables proactive decisionmaking in building management, offering a scalable and efficient solution for structural health monitoring.",
+    "keywords": [],
+    "doi": "10.1109/COMPUTINGCON64838.2025.11377434",
+    "url": "https://www.semanticscholar.org/paper/50163118318fd76a91b0b19b1bd74d61565d589b",
+    "citation_count": 0,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "50163118318fd76a91b0b19b1bd74d61565d589b",
+      "externalIds": {
+        "DOI": "10.1109/COMPUTINGCON64838.2025.11377434",
+        "CorpusId": 285803298
+      },
+      "url": "https://www.semanticscholar.org/paper/50163118318fd76a91b0b19b1bd74d61565d589b",
+      "title": "Innovative Structural Health Monitoring Systems Through Cloud Computing Within IoT Framework",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMPUTINGCON64838.2025.11377434?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMPUTINGCON64838.2025.11377434, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "2025 International Conference on Computing and Communications (COMPUTINGCON)",
+        "pages": "1-6"
+      },
+      "authors": [
+        {
+          "authorId": "2287972072",
+          "name": "G. G"
+        },
+        {
+          "authorId": "2413083187",
+          "name": "Dharmap Prakash R"
+        }
+      ],
+      "abstract": "Aging buildings are increasingly vulnerable to structural deterioration due to climatic conditions, material degradation, and prolonged wear, posing significant safety concerns. Traditional inspection methods are reactive, laborintensive, and lack real-time monitoring, leading to delays in detecting critical structural issues. This project proposes an advanced automated system utilizing a Raspberry Pi 4 microcontroller integrated with an ADXL345 accelerometer and a DHT11 temperature and humidity sensor to monitor building health. The system collects vibration data, environmental parameters, and structural stability metrics, transmitting them to a cloud-based platform like WiFiIOT for continuous remote monitoring. Additionally, a Convolutional Neural Network (CNN) model, built using Keras and TensorFlow, is deployed on the Raspberry Pi 4 to determine building age based on a trained dataset of building images. The STL decomposition technique is applied to analyze time-series data trends, identifying structural anomalies and predicting potential failures. By leveraging historical and real-time data, this system enhances safety, reduces maintenance costs, and enables proactive decisionmaking in building management, offering a scalable and efficient solution for structural health monitoring."
+    }
+  }
+]

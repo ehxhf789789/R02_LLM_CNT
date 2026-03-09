@@ -1,0 +1,821 @@
+[
+  {
+    "paper_id": "45e4e8a5bb89b7d456f6f414e1e52bb75c08de5a",
+    "title": "Design and key construction technology of steel-concrete-steel sandwich composite pylon for a large span cable-stayed bridge",
+    "authors": "Bida Pei, Aixiu Chong, Huanliang Xia, X. Kang",
+    "journal": "Scientific Reports",
+    "publish_year": "2023",
+    "abstract": "This paper introduces a new type of steel-concrete composite pylon that has been applied to Nanjing Fifth Yangtze River Bridge (a three-pylon cable-stayed bridge with a main span of 600 m). For this new type of pylon, the steel shells are connected with concrete through PBL shear connectors and studs, and the inner steel shells are connected with the outer steel shells by angle steels. Numerical analysis and full-scale model tests show that the pylon structure exhibits excellent mechanical properties and construction performance. The application of BIM technology, the research and development of special spreaders and construction platforms ensure the precise installation of structures. Highly factory-manufactured modular assembly of the reinforced steel shell structure can effectively reduce the intensity and difficulty of on-site operations, and improve the quality of the project, with low construction risks. Whereas, the successful application of this steel-concrete-steel sandwich composite pylon marks the formation of a complete set of construction technology of steel-concrete-steel sandwich composite pylon, which can be widely used in similar bridges.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.1038/s41598-023-33316-7",
+    "url": "https://www.semanticscholar.org/paper/45e4e8a5bb89b7d456f6f414e1e52bb75c08de5a",
+    "citation_count": 18,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "45e4e8a5bb89b7d456f6f414e1e52bb75c08de5a",
+      "externalIds": {
+        "PubMedCentral": "10125975",
+        "DOI": "10.1038/s41598-023-33316-7",
+        "CorpusId": 258310811,
+        "PubMed": "37095167"
+      },
+      "url": "https://www.semanticscholar.org/paper/45e4e8a5bb89b7d456f6f414e1e52bb75c08de5a",
+      "title": "Design and key construction technology of steel-concrete-steel sandwich composite pylon for a large span cable-stayed bridge",
+      "year": 2023,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41598-023-33316-7.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10125975, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Medicine"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Scientific Reports",
+        "volume": "13"
+      },
+      "authors": [
+        {
+          "authorId": "121936832",
+          "name": "Bida Pei"
+        },
+        {
+          "authorId": "2215277600",
+          "name": "Aixiu Chong"
+        },
+        {
+          "authorId": "97997753",
+          "name": "Huanliang Xia"
+        },
+        {
+          "authorId": "2016298627",
+          "name": "X. Kang"
+        }
+      ],
+      "abstract": "This paper introduces a new type of steel-concrete composite pylon that has been applied to Nanjing Fifth Yangtze River Bridge (a three-pylon cable-stayed bridge with a main span of 600 m). For this new type of pylon, the steel shells are connected with concrete through PBL shear connectors and studs, and the inner steel shells are connected with the outer steel shells by angle steels. Numerical analysis and full-scale model tests show that the pylon structure exhibits excellent mechanical properties and construction performance. The application of BIM technology, the research and development of special spreaders and construction platforms ensure the precise installation of structures. Highly factory-manufactured modular assembly of the reinforced steel shell structure can effectively reduce the intensity and difficulty of on-site operations, and improve the quality of the project, with low construction risks. Whereas, the successful application of this steel-concrete-steel sandwich composite pylon marks the formation of a complete set of construction technology of steel-concrete-steel sandwich composite pylon, which can be widely used in similar bridges."
+    }
+  },
+  {
+    "paper_id": "0a9722ca13f6ab431b3519e1de02bcfc77e1d5f9",
+    "title": "Risk Assessment with Monte Carlo Simulation to Improve Bridge Construction Safety",
+    "authors": "Widi Hartono, S. Kristiawan, Dewi Handayani, W. Sutopo",
+    "journal": "The 8th Mechanical Engineering, Science and Technology International Conference",
+    "publish_year": "2025",
+    "abstract": ": The safety of bridge construction has become a special concern for the Indonesian government since many bridge construction accidents occurred in 2017 and 2018. Construction projects involve a small number of contractor employees, so when conducting accident risk assessments, the results become less accurate. Monte Carlo simulation is a method that can be applied to conduct risk analysis with limited available data. This research began with the identification of potential risks that might occur in bridge construction, resulting in 24 types of risks. Risk assessment was conducted based on the list of risks identified by the contractor’s employees who were working on a bridge project. The results of the risk assessment were then analyzed and prepared for the Monte Carlo simulation process. The simulation results showed accurate outcomes with a total of 10,000 simulations. The greatest risks occur when a worker falls, which has a risk index of 12.5961, and a girder collapses during installation, which has a risk index of 16.1873.",
+    "keywords": [],
+    "doi": "10.3390/engproc2025084056",
+    "url": "https://www.semanticscholar.org/paper/0a9722ca13f6ab431b3519e1de02bcfc77e1d5f9",
+    "citation_count": 5,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "0a9722ca13f6ab431b3519e1de02bcfc77e1d5f9",
+      "externalIds": {
+        "DOI": "10.3390/engproc2025084056",
+        "CorpusId": 276374386
+      },
+      "url": "https://www.semanticscholar.org/paper/0a9722ca13f6ab431b3519e1de02bcfc77e1d5f9",
+      "title": "Risk Assessment with Monte Carlo Simulation to Improve Bridge Construction Safety",
+      "year": 2025,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/engproc2025084056",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/engproc2025084056?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/engproc2025084056, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "The 8th Mechanical Engineering, Science and Technology International Conference"
+      },
+      "authors": [
+        {
+          "authorId": "2301095102",
+          "name": "Widi Hartono"
+        },
+        {
+          "authorId": "2302923059",
+          "name": "S. Kristiawan"
+        },
+        {
+          "authorId": "2342761009",
+          "name": "Dewi Handayani"
+        },
+        {
+          "authorId": "2425076",
+          "name": "W. Sutopo"
+        }
+      ],
+      "abstract": ": The safety of bridge construction has become a special concern for the Indonesian government since many bridge construction accidents occurred in 2017 and 2018. Construction projects involve a small number of contractor employees, so when conducting accident risk assessments, the results become less accurate. Monte Carlo simulation is a method that can be applied to conduct risk analysis with limited available data. This research began with the identification of potential risks that might occur in bridge construction, resulting in 24 types of risks. Risk assessment was conducted based on the list of risks identified by the contractor’s employees who were working on a bridge project. The results of the risk assessment were then analyzed and prepared for the Monte Carlo simulation process. The simulation results showed accurate outcomes with a total of 10,000 simulations. The greatest risks occur when a worker falls, which has a risk index of 12.5961, and a girder collapses during installation, which has a risk index of 16.1873."
+    }
+  },
+  {
+    "paper_id": "02bdd3b08c38e75c608d0df79a33a44c731002a0",
+    "title": "Analysis of key points of road and bridge foundation construction technology",
+    "authors": "Ma Hongguanga, Wang Jing",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2021",
+    "abstract": "In the process of road and bridge construction, basic construction technology is most the important. Only when the basic construction technology is improved can the overall quality of the road and bridge be improved. Therefore, the relevant construction units must strengthen the research of basic construction technology and master the technical points to accelerate road and bridge construction. In view of this, this paper mainly analyzes the key points of road and bridge foundation construction technology.",
+    "keywords": [
+      "Physics",
+      "Engineering"
+    ],
+    "doi": "10.1088/1755-1315/638/1/012046",
+    "url": "https://www.semanticscholar.org/paper/02bdd3b08c38e75c608d0df79a33a44c731002a0",
+    "citation_count": 1,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "02bdd3b08c38e75c608d0df79a33a44c731002a0",
+      "externalIds": {
+        "MAG": "3132019380",
+        "DOI": "10.1088/1755-1315/638/1/012046",
+        "CorpusId": 234018003
+      },
+      "url": "https://www.semanticscholar.org/paper/02bdd3b08c38e75c608d0df79a33a44c731002a0",
+      "title": "Analysis of key points of road and bridge foundation construction technology",
+      "year": 2021,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1755-1315/638/1/012046",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/638/1/012046?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/638/1/012046, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "638"
+      },
+      "authors": [
+        {
+          "authorId": "2089650151",
+          "name": "Ma Hongguanga"
+        },
+        {
+          "authorId": "145920088",
+          "name": "Wang Jing"
+        }
+      ],
+      "abstract": "In the process of road and bridge construction, basic construction technology is most the important. Only when the basic construction technology is improved can the overall quality of the road and bridge be improved. Therefore, the relevant construction units must strengthen the research of basic construction technology and master the technical points to accelerate road and bridge construction. In view of this, this paper mainly analyzes the key points of road and bridge foundation construction technology."
+    }
+  },
+  {
+    "paper_id": "5b5997931971e0dbcbbb1c7acaf809a7fb2cafec",
+    "title": "Compatible Soft‐Templated Deposition and Surface Molecular Bridge Construction of SnO2 Enable Air‐Fabricated Perovskite Solar Cells with Efficiency Exceeding 25.7%",
+    "authors": "Yingying Yang, Hao Huang, Luyao Yan, Pengle Cui, Zhi-Shui Lan, Changxu Sun, Shuxian Du, Xinxin Wang, Chuanmin Yao, Shujie Qu, Qiang Zhang, Min Wang, Xing Zhao, Meicheng Li",
+    "journal": "Advanced Energy Materials",
+    "publish_year": "2024",
+    "abstract": "Metal‐halide perovskite solar cells (PSCs) have emerged as a promising photovoltaic technology. Fabricating PSCs in ambient air can accelerate their low‐cost commercialization, since it can remove the reliance on atmosphere‐controlled equipment. However, the power conversion efficiency (PCE) of air‐fabricated PSCs still lags behind those fabricated in glovebox. Here, based on a technology to fabricate high‐quality perovskite film in ambient air, a compatible optimization is performed on electron transport layer (ETL) to further enhance the photovoltaic performance of PSCs. A soft‐templated deposition strategy is proposed that utilizes tetrasodium glutamate diacetate (GLDA) to finely regulate the chemical bath deposition process, leading to an ideal SnO2 ETL with no additive residual. Adopting this feature of no residual, a molecular bridge using β‐guanidinopropionic acid (βA) is constructed at the buried interface (SnO2/perovskite), which effectively enhances the electron extraction and decreases electron losses. The resulting PSCs (0.08 cm2) achieve an impressive PCE of 25.74% (certificated 25.43%), which is the highest among the air‐fabricated PSCs reported to date. A PCE of 24.61% in 1 cm2‐PSCs is also obtained, exhibiting the scalable potential of the technology. In addition, the excellent operational stability of these PSCs is also demonstrated.",
+    "keywords": [],
+    "doi": "10.1002/aenm.202400416",
+    "url": "https://www.semanticscholar.org/paper/5b5997931971e0dbcbbb1c7acaf809a7fb2cafec",
+    "citation_count": 56,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "5b5997931971e0dbcbbb1c7acaf809a7fb2cafec",
+      "externalIds": {
+        "DOI": "10.1002/aenm.202400416",
+        "CorpusId": 268763025
+      },
+      "url": "https://www.semanticscholar.org/paper/5b5997931971e0dbcbbb1c7acaf809a7fb2cafec",
+      "title": "Compatible Soft‐Templated Deposition and Surface Molecular Bridge Construction of SnO2 Enable Air‐Fabricated Perovskite Solar Cells with Efficiency Exceeding 25.7%",
+      "year": 2024,
+      "citationCount": 56,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/aenm.202400416?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/aenm.202400416, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Advanced Energy Materials",
+        "volume": "14"
+      },
+      "authors": [
+        {
+          "authorId": "2249257614",
+          "name": "Yingying Yang"
+        },
+        {
+          "authorId": "2143568552",
+          "name": "Hao Huang"
+        },
+        {
+          "authorId": "102409908",
+          "name": "Luyao Yan"
+        },
+        {
+          "authorId": "88654148",
+          "name": "Pengle Cui"
+        },
+        {
+          "authorId": "2106570592",
+          "name": "Zhi-Shui Lan"
+        },
+        {
+          "authorId": "2292714132",
+          "name": "Changxu Sun"
+        },
+        {
+          "authorId": "2248201242",
+          "name": "Shuxian Du"
+        },
+        {
+          "authorId": "2108021510",
+          "name": "Xinxin Wang"
+        },
+        {
+          "authorId": "2294273677",
+          "name": "Chuanmin Yao"
+        },
+        {
+          "authorId": "31962581",
+          "name": "Shujie Qu"
+        },
+        {
+          "authorId": "2230254033",
+          "name": "Qiang Zhang"
+        },
+        {
+          "authorId": "2283598462",
+          "name": "Min Wang"
+        },
+        {
+          "authorId": "2248835514",
+          "name": "Xing Zhao"
+        },
+        {
+          "authorId": "2155995253",
+          "name": "Meicheng Li"
+        }
+      ],
+      "abstract": "Metal‐halide perovskite solar cells (PSCs) have emerged as a promising photovoltaic technology. Fabricating PSCs in ambient air can accelerate their low‐cost commercialization, since it can remove the reliance on atmosphere‐controlled equipment. However, the power conversion efficiency (PCE) of air‐fabricated PSCs still lags behind those fabricated in glovebox. Here, based on a technology to fabricate high‐quality perovskite film in ambient air, a compatible optimization is performed on electron transport layer (ETL) to further enhance the photovoltaic performance of PSCs. A soft‐templated deposition strategy is proposed that utilizes tetrasodium glutamate diacetate (GLDA) to finely regulate the chemical bath deposition process, leading to an ideal SnO2 ETL with no additive residual. Adopting this feature of no residual, a molecular bridge using β‐guanidinopropionic acid (βA) is constructed at the buried interface (SnO2/perovskite), which effectively enhances the electron extraction and decreases electron losses. The resulting PSCs (0.08 cm2) achieve an impressive PCE of 25.74% (certificated 25.43%), which is the highest among the air‐fabricated PSCs reported to date. A PCE of 24.61% in 1 cm2‐PSCs is also obtained, exhibiting the scalable potential of the technology. In addition, the excellent operational stability of these PSCs is also demonstrated."
+    }
+  },
+  {
+    "paper_id": "d2bc26e7808b78335f469b1445a0e06cae886981",
+    "title": "Emulative seismic resistant technology for Accelerated Bridge Construction",
+    "authors": "M. Mashal, A. Palermo",
+    "journal": "Soil Dynamics and Earthquake Engineering",
+    "publish_year": "2019",
+    "abstract": "Abstract Accelerated Bridge Construction (ABC) offers advantages such as rapid construction, limited traffic disruption, fast project delivery, cost savings for the formwork, more accuracy in construction due to prefabrication, better quality control, higher durability, reduced weight of the bridge structure, enhanced safety, and less environmental impacts. ABC has been successfully deployed in low seismic regions. However, given the uncertainty about the adequate performance of connections between precast elements, application of ABC in high seismic regions has been limited. The research investigates the use of two types of emulative connections in a precast bent. The column-to-footing connection consists of member socket, while the column-to-cap beam connection is grouted ducts. These connections intend to emulate the traditional formation of plastic hinges in the bridge columns during an earthquake. A half-scale specimens with emulative connections was tested under quasi-static cyclic loading. Experimental results showed adequate seismic performance of the specimen compared to cast-in-place construction.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/J.SOILDYN.2018.12.016",
+    "url": "https://www.semanticscholar.org/paper/d2bc26e7808b78335f469b1445a0e06cae886981",
+    "citation_count": 52,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "d2bc26e7808b78335f469b1445a0e06cae886981",
+      "externalIds": {
+        "MAG": "2922005191",
+        "DOI": "10.1016/J.SOILDYN.2018.12.016",
+        "CorpusId": 133802673
+      },
+      "url": "https://www.semanticscholar.org/paper/d2bc26e7808b78335f469b1445a0e06cae886981",
+      "title": "Emulative seismic resistant technology for Accelerated Bridge Construction",
+      "year": 2019,
+      "citationCount": 52,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.SOILDYN.2018.12.016?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.SOILDYN.2018.12.016, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Soil Dynamics and Earthquake Engineering"
+      },
+      "authors": [
+        {
+          "authorId": "107770913",
+          "name": "M. Mashal"
+        },
+        {
+          "authorId": "143766216",
+          "name": "A. Palermo"
+        }
+      ],
+      "abstract": "Abstract Accelerated Bridge Construction (ABC) offers advantages such as rapid construction, limited traffic disruption, fast project delivery, cost savings for the formwork, more accuracy in construction due to prefabrication, better quality control, higher durability, reduced weight of the bridge structure, enhanced safety, and less environmental impacts. ABC has been successfully deployed in low seismic regions. However, given the uncertainty about the adequate performance of connections between precast elements, application of ABC in high seismic regions has been limited. The research investigates the use of two types of emulative connections in a precast bent. The column-to-footing connection consists of member socket, while the column-to-cap beam connection is grouted ducts. These connections intend to emulate the traditional formation of plastic hinges in the bridge columns during an earthquake. A half-scale specimens with emulative connections was tested under quasi-static cyclic loading. Experimental results showed adequate seismic performance of the specimen compared to cast-in-place construction."
+    }
+  },
+  {
+    "paper_id": "9f647e2e8ef030a4e695c8b90226721b9feb788e",
+    "title": "The application of BIM technology in road and bridge construction management",
+    "authors": "Shen Jian",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2020",
+    "abstract": "In the whole construction process of highway and bridge, strict engineering quality and safety management, to some extent, is to help promote the long-term development of highway and bridge technology, at the same time, can effectively guarantee the overall safety of bridge and highway construction projects, and reduce the occurrence of safety accidents. In this paper, the application of BIM technology in the safety management of highways and bridges is analyzed to effectively improve the quality and efficiency of construction safety management measures, in order to provide important reference value for bridge construction management safety.",
+    "keywords": [
+      "Engineering",
+      "Physics"
+    ],
+    "doi": "10.1088/1755-1315/587/1/012002",
+    "url": "https://www.semanticscholar.org/paper/9f647e2e8ef030a4e695c8b90226721b9feb788e",
+    "citation_count": 14,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "9f647e2e8ef030a4e695c8b90226721b9feb788e",
+      "externalIds": {
+        "MAG": "3094185948",
+        "DOI": "10.1088/1755-1315/587/1/012002",
+        "CorpusId": 226338585
+      },
+      "url": "https://www.semanticscholar.org/paper/9f647e2e8ef030a4e695c8b90226721b9feb788e",
+      "title": "The application of BIM technology in road and bridge construction management",
+      "year": 2020,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1755-1315/587/1/012002",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/587/1/012002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/587/1/012002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Engineering",
+        "Physics"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "587"
+      },
+      "authors": [
+        {
+          "authorId": "92463604",
+          "name": "Shen Jian"
+        }
+      ],
+      "abstract": "In the whole construction process of highway and bridge, strict engineering quality and safety management, to some extent, is to help promote the long-term development of highway and bridge technology, at the same time, can effectively guarantee the overall safety of bridge and highway construction projects, and reduce the occurrence of safety accidents. In this paper, the application of BIM technology in the safety management of highways and bridges is analyzed to effectively improve the quality and efficiency of construction safety management measures, in order to provide important reference value for bridge construction management safety."
+    }
+  },
+  {
+    "paper_id": "cb8c075766c121e28a7eaf8f52eb2101c6c62674",
+    "title": "A Novel Construction Technology for Self-Anchored Suspension Bridge Considering Safety and Sustainability Performance",
+    "authors": "Xiaoming Wang, Xudong Wang, You Dong, Chengshu Wang",
+    "journal": "Sustainability",
+    "publish_year": "2020",
+    "abstract": "To promote sustainable development of civil infrastructures, minimizing environmental impact and mobility disruptions have been elevated to a higher priority during decision-making for bridge construction scheme. This study presents a novel temporary pylon-anchor (TPA) technology for construction of self-anchored suspension bridges by considering not only safety performance, but also environmental impacts. A practical assessment method and index of sustainability associated with bridge construction technology are established to facilitate the selection of construction schemes. The sustainability index takes the environmental impact, traffic disruption, onsite construction materials and equipment, onsite construction cost, and onsite construction risk into consideration. The sustainability index associated with both conventional and novel construction methods is assessed and compared in this paper. Specifically, a novel girder-pylon antithrust system (GPAS) is proposed, which is the crucial component of the TPA technology in engineering application. In addition, an analytical approach is developed, considering both global load-carrying capacity and local stress distribution within the design and construction of the GPAS. The applicability and rationality of the proposed construction technology are illustrated by the successful application in real-world engineering. The field tests and sustainability assessment during the construction stage reveal that the proposed sustainability assessment method and analytical approach can facilitate the implementation of sustainable construction for self-anchored suspension bridges by considering both construction safety and sustainability.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.3390/su12072973",
+    "url": "https://www.semanticscholar.org/paper/cb8c075766c121e28a7eaf8f52eb2101c6c62674",
+    "citation_count": 12,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "cb8c075766c121e28a7eaf8f52eb2101c6c62674",
+      "externalIds": {
+        "MAG": "3015221187",
+        "DOI": "10.3390/su12072973",
+        "CorpusId": 216294306
+      },
+      "url": "https://www.semanticscholar.org/paper/cb8c075766c121e28a7eaf8f52eb2101c6c62674",
+      "title": "A Novel Construction Technology for Self-Anchored Suspension Bridge Considering Safety and Sustainability Performance",
+      "year": 2020,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2071-1050/12/7/2973/pdf?version=1586345538",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su12072973?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su12072973, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Sustainability"
+      },
+      "authors": [
+        {
+          "authorId": "2049637126",
+          "name": "Xiaoming Wang"
+        },
+        {
+          "authorId": "2144671610",
+          "name": "Xudong Wang"
+        },
+        {
+          "authorId": "144147453",
+          "name": "You Dong"
+        },
+        {
+          "authorId": "2336099466",
+          "name": "Chengshu Wang"
+        }
+      ],
+      "abstract": "To promote sustainable development of civil infrastructures, minimizing environmental impact and mobility disruptions have been elevated to a higher priority during decision-making for bridge construction scheme. This study presents a novel temporary pylon-anchor (TPA) technology for construction of self-anchored suspension bridges by considering not only safety performance, but also environmental impacts. A practical assessment method and index of sustainability associated with bridge construction technology are established to facilitate the selection of construction schemes. The sustainability index takes the environmental impact, traffic disruption, onsite construction materials and equipment, onsite construction cost, and onsite construction risk into consideration. The sustainability index associated with both conventional and novel construction methods is assessed and compared in this paper. Specifically, a novel girder-pylon antithrust system (GPAS) is proposed, which is the crucial component of the TPA technology in engineering application. In addition, an analytical approach is developed, considering both global load-carrying capacity and local stress distribution within the design and construction of the GPAS. The applicability and rationality of the proposed construction technology are illustrated by the successful application in real-world engineering. The field tests and sustainability assessment during the construction stage reveal that the proposed sustainability assessment method and analytical approach can facilitate the implementation of sustainable construction for self-anchored suspension bridges by considering both construction safety and sustainability."
+    }
+  },
+  {
+    "paper_id": "ae3a2ae2432d75638087c4a72787d75993beac62",
+    "title": "Construction Technology of Warm and Hot Mix Epoxy Asphalt Paving for Long-Span Steel Bridge",
+    "authors": "S. Luo, Ziming Liu, Xu Yang, Qing Lu, Yin Jun",
+    "journal": "Journal of Construction Engineering and Management-asce",
+    "publish_year": "2019",
+    "abstract": "AbstractEpoxy asphalt concrete (EAC) is widely used in long-span steel bridge paving due to its good performance. It can be classified into two types of materials based on its construction temperat...",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1061/(asce)co.1943-7862.0001716",
+    "url": "https://www.semanticscholar.org/paper/ae3a2ae2432d75638087c4a72787d75993beac62",
+    "citation_count": 58,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "ae3a2ae2432d75638087c4a72787d75993beac62",
+      "externalIds": {
+        "MAG": "2974062976",
+        "DOI": "10.1061/(asce)co.1943-7862.0001716",
+        "CorpusId": 203994512
+      },
+      "url": "https://www.semanticscholar.org/paper/ae3a2ae2432d75638087c4a72787d75993beac62",
+      "title": "Construction Technology of Warm and Hot Mix Epoxy Asphalt Paving for Long-Span Steel Bridge",
+      "year": 2019,
+      "citationCount": 58,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1061/(asce)co.1943-7862.0001716?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1061/(asce)co.1943-7862.0001716, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Materials Science"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Journal of Construction Engineering and Management-asce",
+        "pages": "04019074",
+        "volume": "145"
+      },
+      "authors": [
+        {
+          "authorId": "5808453",
+          "name": "S. Luo"
+        },
+        {
+          "authorId": "46271255",
+          "name": "Ziming Liu"
+        },
+        {
+          "authorId": "72347292",
+          "name": "Xu Yang"
+        },
+        {
+          "authorId": "50447879",
+          "name": "Qing Lu"
+        },
+        {
+          "authorId": "2067672316",
+          "name": "Yin Jun"
+        }
+      ],
+      "abstract": "AbstractEpoxy asphalt concrete (EAC) is widely used in long-span steel bridge paving due to its good performance. It can be classified into two types of materials based on its construction temperat..."
+    }
+  },
+  {
+    "paper_id": "d3c24b3bb16c7e4e7ea9f3c25833065a375cd782",
+    "title": "Research and application of large diameter steel cylinder island construction technology in Hong Kong-Zhuhai-Macao Bridge project",
+    "authors": "Aimin Liu, Bin Li, Junhao Chen, Chao Gao",
+    "journal": "Ships and Offshore Structures",
+    "publish_year": "2020",
+    "abstract": "ABSTRACT The large diameter deep inserted steel cylinder is used for the first time in the artificial island project of Hong Kong-Zhuhai-Macao Bridge. Through the ingenious conception of the scheme of large diameter deep inserted steel cylinder, this paper analyzes the working mechanism, design key points and construction key points of large diameter deep inserted steel cylinder structure, and introduces the research and application of large diameter deep inserted steel cylinder technology in foundation pit support engineering of East–West artificial island of Hong Kong Zhuhai Macao Bridge. Two arc-shaped steel plate auxiliary grids are used to connect and seal the adjacent cylinders. The arc steel plate can be manufactured in the factory and transported to the site for construction, which greatly reduces the construction difficulty and material cost. The formed cofferdam Island wall has good water stop performance and good structural stability.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1080/17445302.2020.1843844",
+    "url": "https://www.semanticscholar.org/paper/d3c24b3bb16c7e4e7ea9f3c25833065a375cd782",
+    "citation_count": 7,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "d3c24b3bb16c7e4e7ea9f3c25833065a375cd782",
+      "externalIds": {
+        "MAG": "3106910902",
+        "DOI": "10.1080/17445302.2020.1843844",
+        "CorpusId": 229496491
+      },
+      "url": "https://www.semanticscholar.org/paper/d3c24b3bb16c7e4e7ea9f3c25833065a375cd782",
+      "title": "Research and application of large diameter steel cylinder island construction technology in Hong Kong-Zhuhai-Macao Bridge project",
+      "year": 2020,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/17445302.2020.1843844?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/17445302.2020.1843844, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Geology"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "Ships and Offshore Structures",
+        "pages": "33 - 41",
+        "volume": "16"
+      },
+      "authors": [
+        {
+          "authorId": "2118791977",
+          "name": "Aimin Liu"
+        },
+        {
+          "authorId": "2156072825",
+          "name": "Bin Li"
+        },
+        {
+          "authorId": "2260819815",
+          "name": "Junhao Chen"
+        },
+        {
+          "authorId": "2114087052",
+          "name": "Chao Gao"
+        }
+      ],
+      "abstract": "ABSTRACT The large diameter deep inserted steel cylinder is used for the first time in the artificial island project of Hong Kong-Zhuhai-Macao Bridge. Through the ingenious conception of the scheme of large diameter deep inserted steel cylinder, this paper analyzes the working mechanism, design key points and construction key points of large diameter deep inserted steel cylinder structure, and introduces the research and application of large diameter deep inserted steel cylinder technology in foundation pit support engineering of East–West artificial island of Hong Kong Zhuhai Macao Bridge. Two arc-shaped steel plate auxiliary grids are used to connect and seal the adjacent cylinders. The arc steel plate can be manufactured in the factory and transported to the site for construction, which greatly reduces the construction difficulty and material cost. The formed cofferdam Island wall has good water stop performance and good structural stability."
+    }
+  },
+  {
+    "paper_id": "b67513d76fa581baffd7e227bee509bb189c62d7",
+    "title": "Accelerated Bridge Construction Case: A Novel Low-Carbon and Assembled Composite Bridge Scheme",
+    "authors": "Ling Kang, Jinhua Xu, Tingmin Mu, Huan Wang, Ping Zhao",
+    "journal": "Buildings",
+    "publish_year": "2024",
+    "abstract": "Modern bridge construction towards a higher degree of low carbonization and assembly has been the general trend, while developing and broadening the low-carbon and assembled-oriented Accelerated Bridge Construction (ABC) technology can better realize the trade-offs between construction quality, efficiency, cost and sustainability. In the current mainstream ABC technologies such as precast-assembled concrete bridge and assembled steel bridge schemes, it is difficult to achieve an excellent balance between the above multicriterion trade-offs. To this end, this paper proposes a novel low-carbon and assembled composite bridge scheme as an innovative case of ABC technology based on a 26.7 km-length urban viaduct project in China with urgent environmental protection and assembly demands. Construction sustainability, the comprehensive economy and low-carbon performance are well balanced by the collaborative application of new steel–concrete composite structures, the rapid assembly interface design and low-carbon material technologies. The proposed scheme has been applied to a completed real-scale bridge, and the whole construction process only experienced 105 days of effective time, accompanied with slight environmental interference and construction noise and a small amount of labor and equipment input. In addition, the safety of the bridge, the rationality of the design concept and the calculation method have been verified by the static and dynamic loading tests of the real-scale bridge.",
+    "keywords": [],
+    "doi": "10.3390/buildings14061855",
+    "url": "https://www.semanticscholar.org/paper/b67513d76fa581baffd7e227bee509bb189c62d7",
+    "citation_count": 5,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "b67513d76fa581baffd7e227bee509bb189c62d7",
+      "externalIds": {
+        "DOI": "10.3390/buildings14061855",
+        "CorpusId": 270629382
+      },
+      "url": "https://www.semanticscholar.org/paper/b67513d76fa581baffd7e227bee509bb189c62d7",
+      "title": "Accelerated Bridge Construction Case: A Novel Low-Carbon and Assembled Composite Bridge Scheme",
+      "year": 2024,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-5309/14/6/1855/pdf?version=1718791717",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/buildings14061855?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/buildings14061855, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "Buildings"
+      },
+      "authors": [
+        {
+          "authorId": "2307519808",
+          "name": "Ling Kang"
+        },
+        {
+          "authorId": "2397992328",
+          "name": "Jinhua Xu"
+        },
+        {
+          "authorId": "2307487288",
+          "name": "Tingmin Mu"
+        },
+        {
+          "authorId": "2307725443",
+          "name": "Huan Wang"
+        },
+        {
+          "authorId": "2191241387",
+          "name": "Ping Zhao"
+        }
+      ],
+      "abstract": "Modern bridge construction towards a higher degree of low carbonization and assembly has been the general trend, while developing and broadening the low-carbon and assembled-oriented Accelerated Bridge Construction (ABC) technology can better realize the trade-offs between construction quality, efficiency, cost and sustainability. In the current mainstream ABC technologies such as precast-assembled concrete bridge and assembled steel bridge schemes, it is difficult to achieve an excellent balance between the above multicriterion trade-offs. To this end, this paper proposes a novel low-carbon and assembled composite bridge scheme as an innovative case of ABC technology based on a 26.7 km-length urban viaduct project in China with urgent environmental protection and assembly demands. Construction sustainability, the comprehensive economy and low-carbon performance are well balanced by the collaborative application of new steel–concrete composite structures, the rapid assembly interface design and low-carbon material technologies. The proposed scheme has been applied to a completed real-scale bridge, and the whole construction process only experienced 105 days of effective time, accompanied with slight environmental interference and construction noise and a small amount of labor and equipment input. In addition, the safety of the bridge, the rationality of the design concept and the calculation method have been verified by the static and dynamic loading tests of the real-scale bridge."
+    }
+  },
+  {
+    "paper_id": "061f46875c41daf0e8942123f6b3d149b3615bc4",
+    "title": "The key quality control technology of main cable erection in long-span suspension bridge construction",
+    "authors": "Yongrui Chen, Wei Wei, Jie Dai",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2017",
+    "abstract": "Main cable is one of the most important structure of suspension Bridges, which bear all the dead and live load from upper structure. Cable erection is one of the most critical process in suspension bridge construction. Key points about strand erection are studied in this paper, including strand traction, lateral movement, section adjustment, placing into saddle, anchoring, line shape adjustment and keeping, and tension control. The technology has helped a long-span suspension bridge in Yunnan Province, China get a ideal finished state.",
+    "keywords": [
+      "Physics",
+      "Engineering"
+    ],
+    "doi": "10.1088/1755-1315/61/1/012124",
+    "url": "https://www.semanticscholar.org/paper/061f46875c41daf0e8942123f6b3d149b3615bc4",
+    "citation_count": 11,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "061f46875c41daf0e8942123f6b3d149b3615bc4",
+      "externalIds": {
+        "MAG": "2606907186",
+        "DOI": "10.1088/1755-1315/61/1/012124",
+        "CorpusId": 114562320
+      },
+      "url": "https://www.semanticscholar.org/paper/061f46875c41daf0e8942123f6b3d149b3615bc4",
+      "title": "The key quality control technology of main cable erection in long-span suspension bridge construction",
+      "year": 2017,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1755-1315/61/1/012124",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/61/1/012124?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/61/1/012124, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Engineering"
+      ],
+      "publicationTypes": null,
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "61"
+      },
+      "authors": [
+        {
+          "authorId": "2419900907",
+          "name": "Yongrui Chen"
+        },
+        {
+          "authorId": "2149191687",
+          "name": "Wei Wei"
+        },
+        {
+          "authorId": "2118795154",
+          "name": "Jie Dai"
+        }
+      ],
+      "abstract": "Main cable is one of the most important structure of suspension Bridges, which bear all the dead and live load from upper structure. Cable erection is one of the most critical process in suspension bridge construction. Key points about strand erection are studied in this paper, including strand traction, lateral movement, section adjustment, placing into saddle, anchoring, line shape adjustment and keeping, and tension control. The technology has helped a long-span suspension bridge in Yunnan Province, China get a ideal finished state."
+    }
+  },
+  {
+    "paper_id": "ffaee776ff38eeb3ff74b176afea5be442e4177c",
+    "title": "A dynamic holographic modelling method of digital twin scenes for bridge construction",
+    "authors": "Jianli Wu, Jun Zhu, Jinbin Zhang, Pei Dang, Weilian Li, Yukun Guo, Lin Fu, Jianbo Lai, Jigang You, Yakun Xie, Ce Liang",
+    "journal": "International Journal of Digital Earth",
+    "publish_year": "2023",
+    "abstract": "ABSTRACT Holographic projection technology can provide a more intuitive and efficient visualization effect for a digital twin bridge construction scene. However, pre-rendering methods in the existing research work are usually used to implement holographic visualization, which is static display. The above-mentioned methods for static display have many shortcomings, such as poor adaptability, low rendering efficiency and lack of real-time. A dynamic holographic modelling approach is proposed for the augmented visualization of digital twin scenes for bridge construction. Firstly, a dynamic segmentation algorithm with adaptive screen size was designed to high-efficiently generate holographic scenes. Secondly, a motion blur control method was designed to improve the rendering efficiency of holographic scenes according to human visual characteristics. Finally, a prototype system was developed, and the corresponding experimental analysis was completed. The experimental results show that the method proposed in this article can support adaptive screen size image segmentation and real-time generation of holographic scenes for bridge construction. The amount of scene data can be reduced to more than 30%, which significantly improves rendering efficiency and reduces glare.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1080/17538947.2023.2229792",
+    "url": "https://www.semanticscholar.org/paper/ffaee776ff38eeb3ff74b176afea5be442e4177c",
+    "citation_count": 44,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "ffaee776ff38eeb3ff74b176afea5be442e4177c",
+      "externalIds": {
+        "DBLP": "journals/digearth/WuZZDLGFLYXL23",
+        "DOI": "10.1080/17538947.2023.2229792",
+        "CorpusId": 259743320
+      },
+      "url": "https://www.semanticscholar.org/paper/ffaee776ff38eeb3ff74b176afea5be442e4177c",
+      "title": "A dynamic holographic modelling method of digital twin scenes for bridge construction",
+      "year": 2023,
+      "citationCount": 44,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/17538947.2023.2229792?needAccess=true&role=button",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/17538947.2023.2229792?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/17538947.2023.2229792, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Computer Science"
+      ],
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "journal": {
+        "name": "International Journal of Digital Earth",
+        "pages": "2404 - 2425",
+        "volume": "16"
+      },
+      "authors": [
+        {
+          "authorId": "1993165392",
+          "name": "Jianli Wu"
+        },
+        {
+          "authorId": "2146279860",
+          "name": "Jun Zhu"
+        },
+        {
+          "authorId": "2117997794",
+          "name": "Jinbin Zhang"
+        },
+        {
+          "authorId": "2119095633",
+          "name": "Pei Dang"
+        },
+        {
+          "authorId": "50135589",
+          "name": "Weilian Li"
+        },
+        {
+          "authorId": "2124915678",
+          "name": "Yukun Guo"
+        },
+        {
+          "authorId": "2116845071",
+          "name": "Lin Fu"
+        },
+        {
+          "authorId": "8123660",
+          "name": "Jianbo Lai"
+        },
+        {
+          "authorId": "2089175498",
+          "name": "Jigang You"
+        },
+        {
+          "authorId": "1698883648",
+          "name": "Yakun Xie"
+        },
+        {
+          "authorId": "2179134354",
+          "name": "Ce Liang"
+        }
+      ],
+      "abstract": "ABSTRACT Holographic projection technology can provide a more intuitive and efficient visualization effect for a digital twin bridge construction scene. However, pre-rendering methods in the existing research work are usually used to implement holographic visualization, which is static display. The above-mentioned methods for static display have many shortcomings, such as poor adaptability, low rendering efficiency and lack of real-time. A dynamic holographic modelling approach is proposed for the augmented visualization of digital twin scenes for bridge construction. Firstly, a dynamic segmentation algorithm with adaptive screen size was designed to high-efficiently generate holographic scenes. Secondly, a motion blur control method was designed to improve the rendering efficiency of holographic scenes according to human visual characteristics. Finally, a prototype system was developed, and the corresponding experimental analysis was completed. The experimental results show that the method proposed in this article can support adaptive screen size image segmentation and real-time generation of holographic scenes for bridge construction. The amount of scene data can be reduced to more than 30%, which significantly improves rendering efficiency and reduces glare."
+    }
+  },
+  {
+    "paper_id": "59752e81de61ccce9d7b3b941d4eb099e8a49bd4",
+    "title": "Research on Bridge Construction Control Technology Based on Mobile Formwork",
+    "authors": "Hanlin Zhou",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2018",
+    "abstract": "After years of development and exploration of bridge construction technology, new construction methods have emerged. Relevant researchers continue to deepen the research and exploration of mobile formwork. The application of this method to bridge construction has only been developed in recent years. Because of this bridge construction method has many advantages, it is selected in modern bridge construction. The scope of application is more and more extensive. The construction method of the movable formwork construction method is procedural, which can greatly reduce the construction period, it has a relatively small impact on normal traffic, does not require a large amount of basic treatment work before the construction and can make the construction period to a large extent. shorten. These advantages make the construction method of mobile formwork developed and applied relatively quickly, especially in the construction of medium and small span bridges, the advantages of its application are more obvious. In the construction of large-scale bridges, large-scale movable formworks are needed. There are still many problems that need to be solved in the construction of large-scale movable formworks for construction bridges, such as crack control, faulty stage control, and construction safety guarantee. In the study of this paper, the application technology of mobile formwork in bridge construction was discussed from aspects of construction design, construction control, etc., through the moving formwork structure. In terms of force analysis, load, etc., the key technologies for control of construction box girders are studied. From the aspects of abutment structure processing, pre-compression of movable formwork and intermediate-outside formwork adjustment, the key construction technology of “one-mold double beam” movable formwork was studied. The passage provides practical reference for relevant technical personnel of bridge construction and provide method cases for researchers in the field of mobile formwork construction control technology.",
+    "keywords": [
+      "Physics",
+      "Engineering"
+    ],
+    "doi": "10.1088/1755-1315/189/2/022040",
+    "url": "https://www.semanticscholar.org/paper/59752e81de61ccce9d7b3b941d4eb099e8a49bd4",
+    "citation_count": 3,
+    "source": "semantic_scholar",
+    "raw": {
+      "paperId": "59752e81de61ccce9d7b3b941d4eb099e8a49bd4",
+      "externalIds": {
+        "MAG": "2900057513",
+        "DOI": "10.1088/1755-1315/189/2/022040",
+        "CorpusId": 115523173
+      },
+      "url": "https://www.semanticscholar.org/paper/59752e81de61ccce9d7b3b941d4eb099e8a49bd4",
+      "title": "Research on Bridge Construction Control Technology Based on Mobile Formwork",
+      "year": 2018,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1088/1755-1315/189/2/022040",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/189/2/022040?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/189/2/022040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "fieldsOfStudy": [
+        "Physics",
+        "Engineering"
+      ],
+      "publicationTypes": [
+        "Conference"
+      ],
+      "journal": {
+        "name": "IOP Conference Series: Earth and Environmental Science",
+        "volume": "189"
+      },
+      "authors": [
+        {
+          "authorId": "2111824964",
+          "name": "Hanlin Zhou"
+        }
+      ],
+      "abstract": "After years of development and exploration of bridge construction technology, new construction methods have emerged. Relevant researchers continue to deepen the research and exploration of mobile formwork. The application of this method to bridge construction has only been developed in recent years. Because of this bridge construction method has many advantages, it is selected in modern bridge construction. The scope of application is more and more extensive. The construction method of the movable formwork construction method is procedural, which can greatly reduce the construction period, it has a relatively small impact on normal traffic, does not require a large amount of basic treatment work before the construction and can make the construction period to a large extent. shorten. These advantages make the construction method of mobile formwork developed and applied relatively quickly, especially in the construction of medium and small span bridges, the advantages of its application are more obvious. In the construction of large-scale bridges, large-scale movable formworks are needed. There are still many problems that need to be solved in the construction of large-scale movable formworks for construction bridges, such as crack control, faulty stage control, and construction safety guarantee. In the study of this paper, the application technology of mobile formwork in bridge construction was discussed from aspects of construction design, construction control, etc., through the moving formwork structure. In terms of force analysis, load, etc., the key technologies for control of construction box girders are studied. From the aspects of abutment structure processing, pre-compression of movable formwork and intermediate-outside formwork adjustment, the key construction technology of “one-mold double beam” movable formwork was studied. The passage provides practical reference for relevant technical personnel of bridge construction and provide method cases for researchers in the field of mobile formwork construction control technology."
+    }
+  }
+]

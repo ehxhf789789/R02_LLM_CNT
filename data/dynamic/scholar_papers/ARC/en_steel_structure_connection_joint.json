@@ -1,0 +1,296 @@
+[
+  {
+    "paper_id": "37c74f2c5a3f4781acf169a2700b6a98e92cf919",
+    "title": "Study on the Bending Performance of Connection Joints in a New Type of Modular Steel Structure Emergency Repair Pier",
+    "authors": "Xingwang Liu, Wenyan Sun, Hongtao Li, Yang Liu, Liwen Xu, Fan Liu",
+    "journal": "Buildings",
+    "publish_year": "2025",
+    "abstract": "The pier-type repair equipment for bridges is a crucial branch of bridge emergency repair. However, the existing bridge pier repair equipment predominantly utilizes rod systems, which require substantial assembly work, hindering the rapid restoration of damaged bridges. Modular steel structure buildings, as a highly integrated form of prefabricated construction, can play a significant role in emergency rescue operations. Based on the modular architectural design concept, this paper proposes a new type of modular steel structure emergency repair pier joint that facilitates rapid assembly and connection between modular units. Using ABAQUS 2022 software to establish a finite element model of the joint, the bending performance under lateral displacement loads perpendicular to the joint opening direction (X-direction in the model coordinate system) and parallel to the joint opening direction (Z-direction in the model coordinate system) is analyzed. The influence of the width-to-thickness ratio of the upper corner piece base plate D/t1 (where D is the width of the upper corner piece base plate and t1 is the thickness of the upper corner plate), the height-to-thickness ratio of the lower corner piece top plate h/t2 (where h is the height of the protrusion of the lower corner piece and t2 is the thickness of the lower corner piece top plate), the height of the protrusion of the lower corner piece (h), and the bolt diameter (d) on the bending performance of the joint is investigated. Recommendations for the design values of the joint are provided. Then, the flexural behavior of the joint under 0.1, 0.2, and 0.3 axial compression ratios is studied, respectively. The results show that with the increase of axial compression ratio, the yield rotation angle and ultimate rotation angle of the joint decrease, and the bearing capacity decreases faster after the joint reaches the ultimate bearing capacity. When the joint is subjected to the X-direction horizontal lateral displacement load, the initial flexural stiffness and flexural capacity of the joint increase with an increase in the axial compression ratio. When subjected to the horizontal lateral displacement load in the Z-direction, the initial bending stiffness of the joint increases with an increase in the axial compression ratio, and the bending capacity does not change much. In addition, the joint is classified; from the perspective of load-bearing capacity, it is a partially resistant joint, and from the perspective of stiffness, it is a semi-rigid joint. Finally, a simplified calculation model for the joint is proposed based on the component method.",
+    "keywords": [],
+    "doi": "10.3390/buildings15060930",
+    "url": "https://www.semanticscholar.org/paper/37c74f2c5a3f4781acf169a2700b6a98e92cf919",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4bd27a1e457a552fbdf51b9d2d077d12e9caed93",
+    "title": "Numerical Study on Mechanical Behaviors of New Type of Steel Shear-Connection Horizontal Joint in Prefabricated Shear Wall Structure",
+    "authors": "Xiaohui Wu, Yanfeng Wang, Shaofeng Ji, Meng Liu, Dayang Wang",
+    "journal": "Buildings",
+    "publish_year": "2023",
+    "abstract": "The shear connection joint is an important component of the prefabricated shear wall structure system, which plays a dual role in ensuring reasonable force transmission and structural integrity. A new type of steel shear-connection horizontal joint was proposed in this study. In order to verify the effectiveness of the proposed new joint, the established numerical model and its constitutive relationship were first verified based on the existing experimental results. Then, the influence effect on the mechanical behaviors of this new type of joint was further investigated with 20 computational cases. The corresponding influencing laws were established, and optimal parameter ranges were suggested. Finally, a simplified constitutive model—namely, a bilinear constitutive model based on the M-θ relationship—of the new steel shear-connection joint is further advanced and deduced. The results show that the proposed new joint can provide stable shear capacity and superior energy dissipation capacity. The interlocking slot in the new steel shear-connection joint is suggested to be designed with a slot length of 20~30 mm, a slot number of two or three, and a slot thickness of 20~30 mm so as to guarantee superior mechanical behaviors. The advanced bilinear constitutive model can effectively capture the mechanical characteristics of the new joints, in which the maximum error is only 7.67% between theory and simulation.",
+    "keywords": [],
+    "doi": "10.3390/buildings13123000",
+    "url": "https://www.semanticscholar.org/paper/4bd27a1e457a552fbdf51b9d2d077d12e9caed93",
+    "citation_count": 9,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "5325abc6a332eb92d1c231edcdc6638e6a23b80a",
+    "title": "Study on Mechanical Performance of Connection jointsIn Novel Modular Steel Structure Buildings",
+    "authors": "Q. Hu, B. Lin, Yonglan Xie, Wenqiang Chen",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2020",
+    "abstract": "The overall mechanical performance of modular steel structure buildings are largely determined by the mechanical performance of the connection joints between the adjacent modules. In this paper, a novel connection joints between the adjacent modules is taken as research object, which has the advantages of convenient construction and assembly. By means of FEA, three models including the joint model, the model of adding ribs and the model of increasing beam height are calculated, and the experimental results were compared. The finite element model uses solid elements to simulate the detail structure of joints and contact elements to the contact relationship between components. The research results show that the results of finite element analysis are in good agreement with the experimental results in terms of deformation state and bearing capacity, and the accuracy of the finite element model is verified. The finite element model established in this paper can simulate the stress state of various parts of the joint which can make up for the shortage of the experimental measurement.",
+    "keywords": [
+      "Physics",
+      "Engineering"
+    ],
+    "doi": "10.1088/1755-1315/605/1/012015",
+    "url": "https://www.semanticscholar.org/paper/5325abc6a332eb92d1c231edcdc6638e6a23b80a",
+    "citation_count": 5,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "e9c7d568f5e9ea1f437e40783f141f5338e2db9b",
+    "title": "Test and Finite Element Analysis of a New Type of Double-Limb Double-Plate Connection Joint in Narrow Base Tower",
+    "authors": "H. Yan, Xianze Nie, Lei Zhang, Feng Yang, Mojia Huang, Tengfei Zhao",
+    "journal": "Materials",
+    "publish_year": "2021",
+    "abstract": "The connection between the leg members and diagonal members of the urban transmission line tower is mostly in the form of single-limb connection. This paper puts forward a new connection form of pipe double-limb double-plate connection joint, which is based on the model of key joints in an urban narrow base tower structure. The traditional pipe single-limb single-plate and new pipe double-limb double-plate joint are analyzed and studied from three aspects of theory, numerical simulation and experimental study. Through finite element analysis, it is obtained that the section stress of angle steel under eccentric load is 2.05 times of that under axial load, which is basically consistent with the 2.5 times of the theoretical calculation. This shows that the stress of the angle steel in the pipe double-limb double-plate joint is greatly reduced as the axial stress component, which can ensure the safety of the angle steel. Based on the theoretical analysis of the tensile force of two kinds of joints, through the test research and corresponding numerical simulation of pipe single-limb single-plate and pipe double-limb double-plate joints, under the same load, compared with pipe single-limb single-plate joints, the pipe double-limb double-plate joints designed in this paper can greatly reduce the stress of connection plates and members, and compared with the existing joint forms, the bending stress of joint plates can be reduced by about four times, which greatly improves the bearing capacity of the joint. The research on the pipe double-limb double-plate connection joint will provide the basis for the design of new connection joints of narrow base towers in urban areas.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma14205936",
+    "url": "https://www.semanticscholar.org/paper/e9c7d568f5e9ea1f437e40783f141f5338e2db9b",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "dc6f36877d3ba432e29452182d7d2c655e04293b",
+    "title": "Seismic Performance of the Pre-Fabricated Steel Frame Infilled with AAC Wall Panels and their Joint Connection: Full-Scale Shaking Table Test",
+    "authors": "D. Du, Shu-guang Wang, Weiwei Li, Feng Xu, Weiqing Liu",
+    "journal": "Journal of Earthquake and Tsunami",
+    "publish_year": "2019",
+    "abstract": "A series of shaking table tests were performed to investigate the seismic behavior of the pre-fabricated steel frame structure infilled with autoclaved aerated concrete (AAC) external wall panels. The reliability of a new type of joint connections adopted in the structure between the steel frame and the wall panels was particularly validated during the test. Dynamic tests were carried out on a two-story full-scaled steel frame, considering seismic loading of three earthquake waves with different imposed peak accelerations in the range of 70[Formula: see text]cm/s2 to 400[Formula: see text]cm/s2. The experimental analyses encompassed cracking patterns, failure mechanisms, dynamic property and seismic response of the structure. The results show that the structural components, including the joint connections between the steel frame and the walls, behaved well even under the rare earthquake at 8∘. The structural stiffness of the steel frame infilled with wall panels was increased by 56%, compared with the steel frame infilled without wall panels. The damping ratio of the undamaged steel frame installed with wall panels was 7.25%.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1142/S1793431119400049",
+    "url": "https://www.semanticscholar.org/paper/dc6f36877d3ba432e29452182d7d2c655e04293b",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "8b6b60a58ddff83e4d559cef085a44553f975cd0",
+    "title": "Research on Seismic Behavior of Beam-Column Joints of New Prefabricated Steel Structure",
+    "authors": "Zhan Ni",
+    "journal": "IOP Conference Series: Earth and Environmental Science",
+    "publish_year": "2020",
+    "abstract": "The advancement of technology has changed the function and structure of the building space. The prefabricated steel structure is in a period of vigorous development, which is an important way for the development of industrialization of buildings. Therefore, the key technology of prefabricated assembled steel structure is a key problem that needs to be solved urgently. It is particularly important in the optimization and upgrading of the form of the building structure. At the same time, the design and construction of the beam-column connection node is also crucial, which directly affects the construction process and speed. In this paper, a new type of assembled steel structure beam-column joint is designed, and the seismic behavior of the structure is analyzed through experiments. Experiments show that the structure has good seismic behavior, which not only effectively solves the problem of structural interference, but also reduces the construction process and improves the construction speed.",
+    "keywords": [
+      "Materials Science",
+      "Physics"
+    ],
+    "doi": "10.1088/1755-1315/560/1/012010",
+    "url": "https://www.semanticscholar.org/paper/8b6b60a58ddff83e4d559cef085a44553f975cd0",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "5b631092420a17d5fac341b9960e3cd918616f06",
+    "title": "Pull-out behavior of non-prestressed steel strands in novel beam-to-column connection",
+    "authors": "Xing Li, Ji-wen Zhang, Bei Liu, Hailou Jiang",
+    "journal": "Construction and Building Materials",
+    "publish_year": "2021",
+    "abstract": "Abstract The Precast Prestressed Assembled Structural (PPAS) system frame structure has been gradually applied in building and storage structures. In this building system, the 15.2-mm high-strength steel strands are used as the bottom longitudinal reinforcement of the precast beam, and a certain length of non-prestressed steel strands reserved at the beam ends are anchored into the concrete column to form a novel beam-to-column connection. For a reliable design of the connection joint, the mechanical behavior of this connection should be taken into account. This paper summarized the results obtained in the pull-out tests of the steel strands with different research variables, including anchorage form, anchorage position, and embedment length, and it was found that the use of the steel strand with 90-degree hooked anchorage form in the concrete column significantly affected the pull-out behavior of steel strand, such as failure mode, pull-out load versus slip curve, and ultimate load, etc. In particular, compared to the specimens of steel strands with straight-line form, the specimens having steel strands with 90-degree hooked form shows a 62% increase in ultimate load in average.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.CONBUILDMAT.2021.122538",
+    "url": "https://www.semanticscholar.org/paper/5b631092420a17d5fac341b9960e3cd918616f06",
+    "citation_count": 13,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "60ea1751ed49c193aecf72eff81e5a43c13a3a5d",
+    "title": "Experimental study of earthquake-resilient prefabricated steel beam-column joints with different connection forms",
+    "authors": "Zhang Ailin, Qi Wang, Zi-qin Jiang, Xiao-feng Yang, Hang Zhang",
+    "journal": "Engineering Structures",
+    "publish_year": "2019",
+    "abstract": "Abstract Prefabricated steel structure is widely used as a kind of green building structure with life cycle significance. As the key link in steel structure design, the beam-column joint design has been deeply studied. Based on this, the paper proposes earthquake-resilient prefabricated steel beam-column joints (PSBCJs) with different connection forms. The main components of the joints are circle tubular steel column with cantilever beam and common I-beam, and the differences are the change of connection forms of flanges and webs. In this paper, five specimens were designed, and the low-cycle reciprocating test and numerical simulation were carried out on these specimens and the corresponding repaired specimens. The parameters such as the forms of flange cover plates, the forms of connecting plates, the middle bolts interval and the influence of the earthquake-resilient behavior on the mechanical properties of the joints are investigated, and the load-displacement curves, skeleton curves and damage models of each specimen are obtained. Test results and numerical analysis were mutually verified. The results of the tests showed that the new PSBCJs can effectively dissipate energy through the plastic deformation of the flange cover plates; the middle bolts interval has a great influence on the bearing capacity and energy dissipation performance of the joints; under the premise of the same main structure, the reasonable changes of the connection forms of the flange cover plates and the web connectors have little effect on the deformation mode of PSBCJs; after the completion of the loading, the main components such as beams and columns are basically kept elastic, and the seismic performance of the joints after replacing the connection devices are still favorable.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.ENGSTRUCT.2019.02.071",
+    "url": "https://www.semanticscholar.org/paper/60ea1751ed49c193aecf72eff81e5a43c13a3a5d",
+    "citation_count": 63,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "520e98ed19a2fedce405348d049adb826968c2d3",
+    "title": "Structural analysis of steel-concrete composite beam bridges utilizing the shear connection model",
+    "authors": "Thang Phung Ba, Anh Lai Van",
+    "journal": "Transport and Communications Science Journal",
+    "publish_year": "2021",
+    "abstract": "Shear connector (typically shear studs) plays a vital role as a transfer zone between steel and concrete in steel-concrete composite bridge girder. In the previous studies, the connection between steel beam and reinforced concrete slab were considered as continuous joint. However, in practice, this connection is discrete, which allows the slipping and peeling phenomenon between two layers (the influence of peeling is usually very small and could be ignored). To reflect this actual working mechanism, this study proposed a model of shear connection in the form of discrete points at the actual positions of studs for structural analysis. The model was simulated utilizing Timoshenko beam theory considering transverse shear effects. The numerical applications are carried out in order to compare two types of connections. The obtained results indicated that the proposed model properly reflected the actual performance of the structure and in some necessary cases, we should consider discrete connection for more accurate local results.",
+    "keywords": [],
+    "doi": "10.47869/tcsj.72.7.4",
+    "url": "https://www.semanticscholar.org/paper/520e98ed19a2fedce405348d049adb826968c2d3",
+    "citation_count": 6,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "f14d1b741ef1d91fe69c777ed3b96b85a5862896",
+    "title": "Analytical model for precast wall equipped with U-shaped steel channel connection",
+    "authors": "R. Vaghei, F. Hejazi, A. A. Firoozi",
+    "journal": "Structures",
+    "publish_year": "2021",
+    "abstract": "Abstract The stability and safety of precast concrete structures furnished with different types of connections has been a focus of researchers and engineers in the recent decade. In this study, the new design for connection of precast walls has been proposed by implementing and installing a pair of U-shape steel channels to each wall as male and female parts and tie to each other using bolts and nuts as a dry joint. The high damping rubber sheet has been implemented within the male and female U-shaped channel in order to dissipate vibration transferring within two precast wall when structure subjected to ground motion. The analytical model is developed in order to implement for numerical simulation of precast reinforced concrete (RC) structure with U-shaped wall connection using finite element method and evaluate the performance of proposed joint as energy dissipation systems for reduction of effect of earthquakes on precast structure. Therefore, the constitutive law and finite element (FE) model for proposed wall connection element have been formulated and the FE algorithm is developed to carry out inelastic analysis for precast RC structures equipped with proposed U-shaped connection under dynamic loading. The values for stiffness of connection were achieved by a series of experimental setup. Experimental results showed that the proposed connection failure mechanisms exception made for the specimen subjected to loading in X-direction for first degree of freedom demonstrates less damage in the connection zone due to huge stiffness of precast wall in that direction. This desired failure mechanism led to semi ductile failure in the structure. Finally, the efficiency of precast wall connections on performance of the RC building was carried during static and dynamic loading.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/J.ISTRUC.2021.02.054",
+    "url": "https://www.semanticscholar.org/paper/f14d1b741ef1d91fe69c777ed3b96b85a5862896",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "19ac585103031f7d7ae7432fb08f58601ef41a48",
+    "title": "Development of latticed structures with bolted steel sleeve and plate connection and hollow section GFRP members",
+    "authors": "F. Luo, Yuan Huang, Xuhui He, Y. Qi, Yu Bai",
+    "journal": "Thin-Walled Structures",
+    "publish_year": "2019",
+    "abstract": "Abstract An innovative nodal joint system with thin-walled steel sleeve and plate is examined for development of latticed shell structures using hollow section glass fiber reinforced polymer (GFRP) members. In the proposed system, the GFRP members were connected to a steel gusset-plate space node through bolted sleeve joints (BSJs). The mechanical performance of BSJs was first examined through cantilever bending experiments. Then, the performance of the entire nodal joint system incorporating the space node was examined in bending for both in-plane and out-of-plane stiffness. Its performance was then characterized by nonlinear springs and evaluated at a structural level based on a space latticed structure configuration through finite element (FE) analysis and the resulting structural performance satisfied the ultimate limit state (ULS) and serviceability limit state (SLS) requirements as per relevant standards. A parametric study was also conducted to understand the effect of joint rotational stiffness on the overall structural performances.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.TWS.2018.12.036",
+    "url": "https://www.semanticscholar.org/paper/19ac585103031f7d7ae7432fb08f58601ef41a48",
+    "citation_count": 20,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "08cb44fc4b17112d1dd554f95991e294586a952f",
+    "title": "Finite Element Analysis of Proposed Self-Locking Joint for Modular Steel Structures",
+    "authors": "G. Nadeem, N. A. Safiee, Nabilah Abu Bakar, Izian Abd Karim, N. A. Mohd. Nasir",
+    "journal": "Applied Sciences",
+    "publish_year": "2021",
+    "abstract": "The intermodular connection between modules plays a vital role in the overall performance of modular structures. The separation between a column and connection is possible due to the absence of links (welding or bolting) since limited space is available between modules. This study proposed a self-locking joint to be used in a modular steel structure, connecting columns with a connection without need of extra space between modules. The behavior of the proposed connection subjected to monotonic load was evaluated using a finite element approach using ABAQUS software. The influencing factors contributed to the behavior of the self-locking connection and columns observed using a parametric study. The parametric study was conducted by varying beam thickness, bolt pretension force and friction coefficient µ. Results indicate that the proposed connection can be classified as a semirigid connection according to Eurocode 3 and special moment frame (SMF) as recommended by AISC.",
+    "keywords": [],
+    "doi": "10.3390/app11199277",
+    "url": "https://www.semanticscholar.org/paper/08cb44fc4b17112d1dd554f95991e294586a952f",
+    "citation_count": 23,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "8bf39054a4c6266212abca0894aeeb33a13d2637",
+    "title": "Feasibility research on the application of self-piercing riveted connection in cold-formed steel structures",
+    "authors": "Song Linlin, W. Yan, Xueming Zhang, Cheng Yu, Xie Zhiqiang",
+    "journal": "Journal of Constructional Steel Research",
+    "publish_year": "2020",
+    "abstract": "Abstract This paper presents an investigation of the feasibility of self-piercing rivet (SPR) technology for use in cold-formed steel (CFS) structures. The mechanical properties of the joints, floor trusses and prefabricated CFS composite floor modules connected by SPR and self-drilling screws (SDSs) were compared. The failure mode, bearing capacity, stiffness, ductility, ultimate deformation and other performance of CFS specimens connected with SDS and SPR were analyzed. Considering the construction method of CFS structure and the particularity of SPR connection technology, the construction feasibility of SPR connection was analyzed. The results showed that under the same condition, the stiffness and ductility of the SPR joint specimens are significantly better than those of the SDS joint specimens, the bearing capacity of the two are similar, and the ultimate mid-span deflection of the composite floor with SPR specimens is significantly greater than that with SDS specimens. It is highly feasible to use the SPR connection instead of the SDS connection for prefabricated light steel floor system with high stiffness requirements",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/j.jcsr.2020.105957",
+    "url": "https://www.semanticscholar.org/paper/8bf39054a4c6266212abca0894aeeb33a13d2637",
+    "citation_count": 9,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "7ef430a031fd02b09c85e82621b70950f7f79cb0",
+    "title": "IMPROVING THE QUALITY CONDITION OF THE STRUCTURE OF WELDED JOINTS MADE OF ROTOR STEEL",
+    "authors": "V. Dmytryk, V. Skulsky, I. V. Kasyanenko, O. Vavilov, O. Kantor",
+    "journal": "Problems of Atomic Science and Technology",
+    "publish_year": "2022",
+    "abstract": "The solution to the problem of increasing the reliability and service life of the welded joint of the rotor involved obtaining its original structure with improved quality characteristics. Obtaining was achieved by improving the technology of automatic welding. This improvement was based on the performing the welding process on the optimized parameters of the mode, which provided the appropriate temperature regime of the one-piece connection that is made. Thus, the welding heat provided the formation of the original structure with higher quality characteristics in comparison with a similar structure obtained by the normal mode of welding. It was found that austenitic grains in the structure of the heat affected zone of the welded joint, which is heated above АС3, are smaller in size compared to similar grains in the structure of the standard technology. Accordingly, the new decay products of austenite in the area of heat affected zone, which is heated to the temperature range AC1–AC3, were sorbitol and troostite. In general, by obtaining a better structure allowed to increase the reliability and increase the service life of the rotor by 10…15%.",
+    "keywords": [],
+    "doi": "10.46813/2022-137-212",
+    "url": "https://www.semanticscholar.org/paper/7ef430a031fd02b09c85e82621b70950f7f79cb0",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "5272ba2fdcc05490cf04cde657ff6ea0a49a9c0f",
+    "title": "Study on connection and properties of green assembled building steel structures",
+    "authors": "Jun-yan Dong, Tiantian Zhang, Yupi Fu, Bomin Zheng, Yusheng Chai",
+    "journal": "Results in Physics",
+    "publish_year": "2019",
+    "abstract": "Abstract In order to meet the research and industrialization application needs of green building integration technology and key technology of green building envelope structure in affordable housing projects, the effects of laser power and welding speed on the forming quality, microstructure and hardness of welded joints of heterogeneous steels with unequal thickness in steel structures were studied. The results showed that, for the front weld width, the influence of laser power on the back weld width is more obvious, and the influence of welding speed on the back weld width is greater than that of the front weld width. With the increase of laser power, coarse lath martensite and ferrite are formed in laser welded joints; with the increase of welding speed, heat input decreases, heat dissipation speed increases, grain growth time shortens, and grain refinement occurs. With the increase of laser power and welding speed, the tensile strength of laser welded joint has little change compared with base metal, but the elongation of welded joint is lower than that of base metal. With the increase of laser power, the fracture position of welded joint will shift from base metal to heat-affected softening zone. With the increase of welding speed, the fracture position of welded joint will shift from heat-affected softening zone to base metal. The suitable laser power for HC550/DP780 heterogeneous steel plate is 1.2 KW and the welding speed is 2400 mm/min. At this time, the welded joint has good welding forming quality, the hardness of weld zone is high and there is no softening point in heat affected zone.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/J.RINP.2018.12.088",
+    "url": "https://www.semanticscholar.org/paper/5272ba2fdcc05490cf04cde657ff6ea0a49a9c0f",
+    "citation_count": 6,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "8a0b01a8525b4d7284c43241b02e57d4cca63c25",
+    "title": "Connection looseness detection of steel grid structures using piezoceramic transducers",
+    "authors": "Shi Yan, Weiling Liu, G. Song, P. Zhao, Shuai Zhang",
+    "journal": "International Journal of Distributed Sensor Networks",
+    "publish_year": "2018",
+    "abstract": "Connection looseness phenomena of steel grid structures might induce issues of lowering integrity, large deformation, even total collapse of the structures. The goal of this article is to propose an evaluation method for bolt-sphere joint looseness of steel grid structures using piezoceramic guided wave–based method through experiments and numerical simulations. A single bolt-sphere joint looseness experimental model is established and tested, considering grid member connection angles of 0°, 45°, 90°, and 180°, respectively. Then, multiple bolt-sphere joint looseness detection tests by selecting six kinds of cases for a steel grid structure model are performed. Piezoceramic patch arrays bonded on the surface of grid members are used as transducers to generate and receive detection guided waves, and external torques are applied to indirectly simulate the bolt-sphere joint looseness effect. The experimental results show that the bolt-sphere joint looseness impact on the ultrasonic wave energy attenuation has a nonlinear regularity. Based on the regularity, an evaluation method and key techniques for the bolt-sphere joint looseness detection based on guided wave energy are proposed and experimentally validated. To further clarify the bolt-sphere joint looseness detection mechanism, the ABAQUS software is used for a finite element analysis of the single bolt-sphere joint looseness evaluation. The numerical and experimental results match well, verifying the feasibility of the proposed method.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1177/1550147718759234",
+    "url": "https://www.semanticscholar.org/paper/8a0b01a8525b4d7284c43241b02e57d4cca63c25",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2b59c5a7ae0b626641adcd4bd0b774b06a5398d0",
+    "title": "Design theory of earthquake-resilient prefabricated beam-column steel joint with double flange cover plates",
+    "authors": "Zi-qin Jiang, Xiao-feng Yang, C. Dou, Y. Pi, Ran Li",
+    "journal": "Engineering Structures",
+    "publish_year": "2020",
+    "abstract": "Abstract Prefabricated steel structure with earthquake-resilience has become one of the hot topics in the field of seismic engineering. Based on the idea of damage control, this paper proposes a new type of earthquake-resilient prefabricated beam-column steel joint (PBCSJ) with double flange cover plates (FCPs), which is formed by a circle tubular steel column with a cantilever beam, an independent beam and a set of connecting devices in between. After the comprehensive analysis of the mechanical behaviour of PBCSJ, the formulas are derived from three aspects: the thickness of FCPs, the number of flange connection bolts and the middle bolts interval. Then the design theory of earthquake-resilient PBCSJ with double FCPs is established in this paper, and its rationality and applicability are verified by 11 groups of 57 numerical examples. The study shows that the design theory can be used to accurately calculate the yield load of PBCSJ. The sliding moment of flange connection bolts and the ultimate load of PBCSJ also can be controlled effectively. The joints designed according to this theory have superior bearing capacity and ductility, which ensures that the beams and columns are kept in elastic stage and provides preconditions for post-earthquake repair of PBCSJ.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1016/j.engstruct.2019.110005",
+    "url": "https://www.semanticscholar.org/paper/2b59c5a7ae0b626641adcd4bd0b774b06a5398d0",
+    "citation_count": 30,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "6603be8744a845f019b438d2ada132048f06c82a",
+    "title": "Health Monitoring of Bolted Spherical Joint Connection Based on Active Sensing Technique Using Piezoceramic Transducers",
+    "authors": "Jing Xu, Chenyu Wang, Hongnan Li, Chunwei Zhang, Jiajia Hao, Shuli Fan",
+    "journal": "Sensors (Basel, Switzerland)",
+    "publish_year": "2018",
+    "abstract": "Bolted spherical joints are widely used to form space steel structures. The stiffness and load capacity of the structures are affected by the looseness of bolted spherical joint connections in the structures. The looseness of the connections, which can be caused by fabrication error, low modeling accuracy, and “false twist” in the installation process, may negatively impact the load capacity of the structure and even lead to severe accidents. Furthermore, it is difficult to detect bolted spherical joint connection looseness from the outside since the bolts connect spheres with rods together from the inside. Active sensing methods are proposed in this paper to monitor the tightness status of the bolted spherical connection using piezoceramic transducers. A triangle-on-triangle offset grid composed of bolted spherical joints and steel tube bars was fabricated as the specimen and was used to validate the active sensing methods. Lead Zirconate Titanate (PZT) patches were used as sensors and actuators to monitor the bolted spherical joint tightness status. One PZT patch mounted on the central bolted sphere at the upper chord was used as an actuator to generate a stress wave. Another PZT patch mounted on the bar was used as a sensor to detect the propagated waves through the bolted spherical connection. The looseness of the connection can impact the energy of the stress wave propagated through the connection. The wavelet packet analysis and time reversal (TR) method were used to quantify the energy of the transmitted signal between the PZT patches by which the tightness status of the connection can be detected. In order to verify the effectiveness, repeatability, and consistency of the proposed methods, the experiments were repeated six times in different bolted spherical connection positions. The experimental results showed that the wavelet packet analysis and TR method are effective in detecting the tightness status of the connections. The proposed active monitoring method using PZT transducers can monitor the tightness levels of bolted spherical joint connections efficiently and shows its potential to guarantee the safety of space steel structures in construction and service.",
+    "keywords": [
+      "Computer Science",
+      "Materials Science",
+      "Medicine"
+    ],
+    "doi": "10.3390/s18061727",
+    "url": "https://www.semanticscholar.org/paper/6603be8744a845f019b438d2ada132048f06c82a",
+    "citation_count": 72,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "7c4d8585c187ecf6f3f98be8fbe9b9f115dcaedb",
+    "title": "Experimental study on fatigue performance of Q420qD high-performance steel cross joint in complex environment",
+    "authors": "Haigen Cheng, Cong Hu, Yong Jiang",
+    "journal": "Asian Journal of Civil Engineering",
+    "publish_year": "2021",
+    "abstract": "The steel structure under the action of alternating load for a long time is prone to fatigue failure and affects the safety of the engineering structure. For steel structures in complex environments such as corrosive media and fires, the remaining fatigue life is more difficult to predict theoretically. To this end, the article carried out fatigue tests on Q420qD high-performance steel cross joints under three different working conditions, established a 95% survival rate S-N\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$S{ - }N$$\\end{document} curves, and analyzed the effects of corrosive media and high fire temperatures on its fatigue performance. And refer to the current specifications to evaluate its fatigue performance. The results show that the fatigue performance of the cross joint connection is reduced under the influence of corrosive medium, and the fatigue performance of the cross joint connection is improved under the high temperature of fire. When the number of cycles is more than 200,000 times, the design curves of EN code, GBJ code, and GB code can better predict the fatigue life of cross joints without treatment, only corrosion treatment, and corrosion and fire treatment, and all have sufficient safety reserve.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.1007/s42107-021-00351-6",
+    "url": "https://www.semanticscholar.org/paper/7c4d8585c187ecf6f3f98be8fbe9b9f115dcaedb",
+    "citation_count": 5,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "c994f98a126fb6647336e59ec6d94b6909a0c02c",
+    "title": "Experimental Study on A Novel Dry Connection for a Precast Concrete Beam-To-Column Joint",
+    "authors": "Y. Zhong, F. Xiong, Jiang Chen, A. Deng, Wen Chen, Xulong Zhu",
+    "journal": "Sustainability",
+    "publish_year": "2019",
+    "abstract": "At present, precast buildings have become the focus of the building industrialization, and the precast concrete frame structure has been widely used in the construction industry. On this background, a novel precast concrete frame with a bolt connection joint was proposed in this paper. The novel connections include connection steel plates, bolts and rubber layers. To investigate the seismic performance of the precast structure, two full-scale, precast, cruciform, reinforced concrete specimens, and a monolithic counterpart, are tested under reversed cyclic loading. For the precast specimens, two different thickness rubber layers are applied in the connection region, respectively. Seismic behavior was evaluated based on failure mode, hysteretic behavior, stiffness degeneration, ductility and energy dissipation. The results indicated that precast specimens had almost the same ultimate bearing capacity as the cast-in-place ones, and the failure mode is also the same. The precast specimens satisfied the strong column-weak beam design concept. Additionally, the initial stiffness is obviously decreased by adding rubber washers at the joint region, showing a semi-rigid characteristic. At the end of this paper, an equivalent stiffness computation method of the precast joint is discussed.",
+    "keywords": [
+      "Economics"
+    ],
+    "doi": "10.3390/SU11174543",
+    "url": "https://www.semanticscholar.org/paper/c994f98a126fb6647336e59ec6d94b6909a0c02c",
+    "citation_count": 28,
+    "source": "semantic_scholar"
+  }
+]

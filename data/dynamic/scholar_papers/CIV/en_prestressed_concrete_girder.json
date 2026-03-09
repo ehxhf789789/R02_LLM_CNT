@@ -1,0 +1,217 @@
+[
+  {
+    "paper_id": "0570772703318b8720a4d9b7f0296135b1f66ff1",
+    "title": "Progressive collapse analysis of prestressed concrete girder bridges using improved applied element method",
+    "authors": "M. Abdelaziz, M. Gomaa, H. El-Ghazaly",
+    "journal": "Advances in Bridge Engineering",
+    "publish_year": "2022",
+    "abstract": "In this paper, the Improved Applied Element Method (IAEM), which was originally developed as an effective analysis technique for large-scale bonded and unbonded prestressed structures, is utilized to carry out failure modeling of prestressed bridges under different hazard loads. A typical prestressed concrete girder bridge is analyzed under two hazardous loading scenarios. The first one is applying a detonation charge located in the middle of the central span, while the second scenario is a sudden failure of a column representing a truck or a vessel colliding with the bridge pier. For both scenarios, the collapse analyses of the bridge structure after damage are explored. In addition, the mechanism and severity of damage in the bridge pier and deck are investigated. Both material and geometric nonlinearities are considered in the analysis. Moreover, it considers contact-impact, re-contact, and inertia effects, and hence, it can track the collapse stages of the structure as well as debris movement until the complete collapse of the structure. The results show a strong capability for simulating the total performance of the bridges from early the stages of loading until the total collapse, with a clear graphic representation of the collapse phenomena.",
+    "keywords": [],
+    "doi": "10.1186/s43251-022-00075-w",
+    "url": "https://www.semanticscholar.org/paper/0570772703318b8720a4d9b7f0296135b1f66ff1",
+    "citation_count": 10,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "63a2f5766015038225fcbeba89a23dfd736133d1",
+    "title": "Deflection-based multilevel structural condition assessment of long-span prestressed concrete girder bridges using a connected pipe system",
+    "authors": "Junyong Zhou, Zhuo Sun, Bin Wei, Liwen Zhang, P. Zeng",
+    "journal": "Measurement",
+    "publish_year": "2021",
+    "abstract": "Abstract Several long-span prestressed concrete (PSC) girder bridges have exhibited excessive deflection over time that can affect their normal use and safety. Thus, monitoring the time-dependent deflections of PSC girder bridges is required to ensure a timely warning of deficient bridge conditions. This study measured the deflections of a PSC box-girder bridge using a connected pipe system to provide health monitoring and condition assessment. A deflection-based, multilevel assessment approach was proposed wherein the individual deflection components (traffic-induced, temperature-induced, and long term) were used to evaluate the bridge state. The assessments of each component were fused using the Dempster–Shafer evidence theory to achieve an integrated outcome. Results show that a connected pipe system can accurately monitor the real-time deflection of long-span girder bridges. The proposed multilevel assessment approach makes full use of the structural condition information from the acquired deflection data, demonstrating the effectiveness and practicality of the fusion algorithm.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.measurement.2020.108352",
+    "url": "https://www.semanticscholar.org/paper/63a2f5766015038225fcbeba89a23dfd736133d1",
+    "citation_count": 43,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "0547745a59c84627486249a4c413f4381ebb3fc2",
+    "title": "Structural effects of temperature gradient on a continuous prestressed concrete girder bridge: analysis and field measurements",
+    "authors": "T. Hossain, S. Segura, A. Okeil",
+    "journal": "Structure and Infrastructure Engineering",
+    "publish_year": "2020",
+    "abstract": "Abstract The temperature of a structure exposed to the atmosphere depends on many factors such as geographical location, climatological condition, structure’s orientation, materials and surface condition, and its surroundings. In this paper, the temperature distribution at a particular segment of a prestressed concrete girder bridge from the John James Audubon Bridge Project in Louisiana is quantified for different days of the year. Computed temperatures, actual observed temperature at the bridge site, and AASHTO specified gradients are presented and compared. It was found that AASHTO temperature gradient matches the measured temperature well at the site with some exceptions. The restraint moment caused by the temperature gradient was quantified and compared with the cracking moment of girder ends. Primary and secondary thermally induced stresses were then calculated for different girders. It was found that temperature gradient alone does not produce stresses that exceed the girder section’s cracking limits for the investigated bridge. However, the cumulative effect of the primary thermal stresses and additional positive restraint moment due to thermal gradients and other long-term effects may well exceed the tensile strength of concrete and cause cracking.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1080/15732479.2020.1713167",
+    "url": "https://www.semanticscholar.org/paper/0547745a59c84627486249a4c413f4381ebb3fc2",
+    "citation_count": 43,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "c9c107fef5f7211ecee331ff6a927543129eef48",
+    "title": "Experimental study on protection of prestressed concrete box girder under vehicle explosion of bridge deck",
+    "authors": "Qixin Sun, Chao Liu",
+    "journal": "Structural Concrete",
+    "publish_year": "2024",
+    "abstract": "This paper presents a study on the explosion protection of prestressed concrete box girder, which is a commonly used in concrete bridges. The explosion protection tests of four prestressed box beams were designed with 1:5 scale. In order to evaluate the explosion performance of different protective layers, steel plate, ultra‐high‐performance concrete (UHPC) layer, and composite protective layer were used to protect the box girder. The experimental results revealed that under the effect of deck explosion, local penetrating failure occurred in the top plate of the box girder, which exhibited characteristics of punching failure. The web and bottom plate of the box girder as a whole exhibited bending characteristic. Compared with the unprotected box girder, the damage of the top plate of the protected box girder was less severe, whereas the damage of the bottom plate was greater. In working conditions 2–4, the UHPC protective box girder suffered less damage to the top plate, whereas the other protective box girders suffered more. The explosion dynamic responses of the box girder were compared, and the influences of different protective layers on the explosion dynamic response of box girder were studied. Based on the box girder damage, the protective efficiency of each protective layer under near‐explosion was studied. Based on the explosion tests, three‐dimensional numerical analysis model of box girder explosion was established. The accuracy of the numerical simulations of the box girder explosion were verified by comparing with the experimental failure data. Through the numerical results, the explosive energy dissipation capacity of different protective materials was compared and analyzed. Finally, based on the dynamic response of the box girder under different working conditions, the sensitivity of the protective layer to the dynamic responses of the box girder were studied. The analysis showed that the UHPC layer was sensitive to the change of prestress and explosion damage area of the box girder but had little influence on the rebars stress and the overall response of the box girder.",
+    "keywords": [],
+    "doi": "10.1002/suco.202300737",
+    "url": "https://www.semanticscholar.org/paper/c9c107fef5f7211ecee331ff6a927543129eef48",
+    "citation_count": 5,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2729afb8607aee1fc846790101bfc487a956e85d",
+    "title": "Analysis Of Bonded Link Slabs In Precast, Prestressed Concrete Girder Bridges",
+    "authors": "A. Gergess",
+    "journal": "PCI Journal",
+    "publish_year": "2019",
+    "abstract": "■ The paper investigates the structural behavior of the bonded link slab and identifies a step-by-step procedure for the design of bonded link slabs for bridge structures in the medium-span-length range. Precast, prestressed concrete girders offer a cost-effective solution for the construction of bridge structures in the medium-span-length range (between 12 and 42 m [40 and 140 ft]). Generally, the precast concrete girders are erected as simply supported (Fig. 1) and the reinforced concrete deck slab is placed afterward (either cast in place or by using precast concrete slab units). In multiple-span construction (Fig. 1), the deck slab is made continuous over the intermediate supports to minimize the use of expansion joints. The portion of the deck slab connecting two adjacent simple-span girders is referred to as the link slab (Fig. 1). The link slab can be cast with the deck slab or separately after all dead loads are placed.",
+    "keywords": [],
+    "doi": "10.15554/pcij64.3-03",
+    "url": "https://www.semanticscholar.org/paper/2729afb8607aee1fc846790101bfc487a956e85d",
+    "citation_count": 10,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "8dae9129bddb21367fe7bf2f137e50fd4ecc5736",
+    "title": "Seismic Retrofit of a Multispan Prestressed Concrete Girder Bridge with Friction Pendulum Devices",
+    "authors": "A. M. Avossa, D. D. Giacinto, P. Malangone, F. Rizzo",
+    "journal": "Shock and Vibration",
+    "publish_year": "2018",
+    "abstract": "The paper deals with the proposal and application of a procedure for the seismic retrofit of an existing multispan prestressed concrete girder bridge defined explicitly for the use of friction pendulum devices as an isolation system placed between piers top and deck. First, the outcomes of the seismic risk assessment of the existing bridge, performed using an incremental noniterative Nonlinear Static Procedure, based on the Capacity Spectrum Method as well as the Inelastic Demand Response Spectra, are described and discussed. Then, a specific multilevel design process, based on a proper application of the hierarchy of strength considerations and the Direct Displacement-Based Design approach, is adopted to dimension the FPD devices. Furthermore, to assess the impact of the FPD nonlinear behaviour on the bridge seismic response, a device model that reproduces the variation of the normal force and friction coefficient, the bidirectional coupling, and the large deformation effects during nonlinear dynamic analyses was used. Finally, the paper examines the effects of the FPD modelling parameters on the behaviour of the retrofitted bridge and assesses its seismic response with the results pointing out the efficiency of the adopted seismic retrofit solution.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1155/2018/5679480",
+    "url": "https://www.semanticscholar.org/paper/8dae9129bddb21367fe7bf2f137e50fd4ecc5736",
+    "citation_count": 18,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "0cf93f9727f6f6e9a64356360651f6dbc8bb22f5",
+    "title": "Residual performance and damage mechanism of prestressed concrete box girder bridge subjected to falling heavy object impact",
+    "authors": "Jingfeng Zhang, Rui Wang, Zhichao Zhang, Chao Tong, Yu Zhang, Liang Feng, W. Han",
+    "journal": "Structure and Infrastructure Engineering",
+    "publish_year": "2022",
+    "abstract": "Abstract Extreme vertical impact loading from dropped heavy cargo or falling rocks threatens the safety of bridge structures. The impact behavior and post-impact performance of a multi-piece prestressed concrete (PC) box girder bridge were investigated through numerical simulation. The moment-curvature analysis was performed to explain the damage mechanism and to predict the residual capacity of the girder under impact. The results demonstrate that the impacted girder suffers the most severe flexural failure whereas the other un-impacted girders exhibit flexural-torsional combined damage type. The impacted girder suffers from flexural failure to shear failure if the impact position on the girder transfers from mid-span to support. The increased impact energy deteriorates the damage of impacted girder while has little influence on the un-impacted girder. When the impact area decreases due to the varying impact angle, the displacement and impact force of the impacted girder reduce whereas local damage becomes more severe. The residual stiffness and resistance decrease significantly as the impact energy raises. It is concluded that severe concrete damage of top plate diminishes the flexural capacity of impacted girder.",
+    "keywords": [],
+    "doi": "10.1080/15732479.2022.2035775",
+    "url": "https://www.semanticscholar.org/paper/0cf93f9727f6f6e9a64356360651f6dbc8bb22f5",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "a6e86ab40267e91ad78ac6380ffe2ccaa3a6204b",
+    "title": "Analysis of The Working Performance of Large Curvature Prestressed Concrete Box Girder Bridges",
+    "authors": "Jian Yuan, Liang Luo, Yuzhou Zheng, Suhui Yu, Jun Shi, Jianan Wang, Jiyang Shen",
+    "journal": "Materials",
+    "publish_year": "2022",
+    "abstract": "Based on numerical shape functions and the structural stressing state theory, the mechanical properties of the curved prestressed concrete box girder (CPCBG) bridge model under different loading cases are presented. First, the generalized strain energy density (GSED) obtained from the measured strain data is used to represent the stressing state pattern of the structure; then, the stressing state of the concrete section is analyzed by plotting the strain and stress fields of the bridge model. The stressing state pattern and strain fields of the CPCBG are shown to reveal its mechanical properties. In addition, the measured concrete strain data are interpolated by the non-sample point interpolation (NPI) method. The strain and stress fields of the bridge model have been plotted to analyze the stressing state of the concrete cross-section. The internal forces in the concrete sections are calculated by using interpolated strains. Finally, the torsional effects are simulated by measuring the displacements to show the torsional behavior of the cross-section. The analysis and comparison of the internal force and strain fields reveal the common and different mechanical properties of the bridge model. The results of the analysis of the curved bridge model provide a reference for the future rational design of bridge projects.",
+    "keywords": [
+      "Medicine"
+    ],
+    "doi": "10.3390/ma15155414",
+    "url": "https://www.semanticscholar.org/paper/a6e86ab40267e91ad78ac6380ffe2ccaa3a6204b",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "5f6fa0f8f994c5d4a24c6937d1024d7953953a09",
+    "title": "Analysis of RCC T-beam and prestressed concrete box girder bridges super structure under different span conditions",
+    "authors": "K. Hemalatha, Chippymol James, L. Natrayan, V. Swamynadh",
+    "journal": "Materials Today: Proceedings",
+    "publish_year": "2020",
+    "abstract": "Abstract A bridge is a structure that provides passage over an obstacle without closing the path below. The required crossing may be for a road, rail, pedestrian, canal, or pipe. For constructing the bridges has many types of sections among which Tee beam and Box girder bridges have selected. T-beam bridges are cast-in-situ bridges, popular for short spans and economical. Similarly, the widely used box girder bridge selected which is economical for long spans, that may be either single or multi-celled girder. The type of bridge is concerned with providing maximum efficiency of material and construction technology. As the span increases, the dead load that is an important growth factor also increases. To reduce dead load, unnecessary material, which not used to its full potential, is removed from this section, which can be in the shape of box girders or cellular structures depending on whether the shear deformations neglected or not. In the present study, a two-lane simply supported RCC Tee beam girder and prestressed concrete box girder bridge analyzed and designed for dead load and IRC moving loads, where the considered moving load is of the tracked vehicle of class A-A loading. Courbon's method adopted for analysis and designing. Dead load and live load calculations have done manually. Shear force and bending moment for a vehicular load have calculated. Piguead's curves used for bending moment calculations. The main objective of this paper is to check whether both the T and box girder bridges have adopted for the assumed data with different span conditions.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.matpr.2020.07.119",
+    "url": "https://www.semanticscholar.org/paper/5f6fa0f8f994c5d4a24c6937d1024d7953953a09",
+    "citation_count": 82,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "84f2107bc689e61b57023822bcf61e2840c6421b",
+    "title": "Decision Analysis of a Reinforcement Scheme for In-Service Prestressed Concrete Box Girder Bridges Based on AHP and Evaluation of the Reinforcement Effect",
+    "authors": "Haikuan Liu, Jie Li, Junfeng Zhang, D. Pang",
+    "journal": "Buildings",
+    "publish_year": "2022",
+    "abstract": "Prestressed concrete girder bridges are widely used worldwide due to their mature construction technology, economical cost, and low maintenance. After a certain number of years of service, prestressed concrete girders inevitably suffer from deterioration of their material properties, cracking, and reduced load-carrying capacity due to the natural environment and long-term vehicle loading. When the performance of a bridge declines to the point that it cannot meet the requirements of normal use, reinforcement and maintenance are required. In this study, a 5 × 45 m prestressed concrete continuous box girder bridge that has been in service for 25 years is taken as an example, and the causes of crack development and deterioration of the technical condition of the bridge are analyzed. Based on an analysis of the causes, reinforcement schemes for overall replacement of the girder and adding bridge piers are proposed. According to a comparison of the advantages and disadvantages, a decision analysis of the reinforcement scheme is carried out via the analytic hierarchy process (AHP). The vector weights of the two schemes were found to be 0.4288 and 0.5712, respectively, indicating that adding bridge piers is more advantageous than overall replacement of the girder. Thus, a scheme of adding five piers was adopted to reinforce the bridge. A load test was then performed after the reinforcement, and both the test deflection and strain calibration coefficients were found to be less than 1, indicating that the force state of the added piers and bearings was better than the theoretical calculations. The present study shows that the reinforcement scheme of adding piers can achieve the design goal. The working status of the box girder was significantly improved, the crack development of box girder was suppressed, and the service life of the bridge was prolonged.",
+    "keywords": [],
+    "doi": "10.3390/buildings12101771",
+    "url": "https://www.semanticscholar.org/paper/84f2107bc689e61b57023822bcf61e2840c6421b",
+    "citation_count": 7,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "65b243f8f8415f3e83d0137f2a61bc47f78a927b",
+    "title": "Parameters analysis and design of transverse connection strengthening prestressed concrete T‐girder bridge",
+    "authors": "Chen Chen, C. Yang, Yong Pan, Honglei Zhang, H. De Backer",
+    "journal": "Structural Concrete",
+    "publish_year": "2021",
+    "abstract": "Transverse connection strengthening prestressed concrete T‐girder bridge is an effective method to enhance the integrality of the T‐girder bridge. In a previous work, a new kind of diaphragm transverse connections (DTCs) has been proposed and its validity has been proved. Aiming to study the influential parameters for the strengthening effect, finite element analysis is carried out based on a 30 m prestressed concrete T‐girder bridge in this study. The considered influential parameters are T‐girder spacing, T‐girder height, brace thickness, and installation location of the DTCs. The deflections and load distribution factors of the prestressed concrete T‐girder bridge are calculated to evaluate the impact of each parameter on the strengthening effect. Furthermore, the influence of brace thickness and T‐girder height on axial forces of the DTCs and connection force is studied. The results show that the strengthening effect with DTCs installed at midspan is the best option. With T‐girder height increasing, the deflections of the T‐girder reduce and the maximum load distribution factor increases. Besides, increasing the brace thickness of DTCs or decreasing the T‐girder spacing improves the strengthening effect. By comparing the axial force with the buckling critical force, it shows that the stability of the braces is adequate. Finally, design recommendations are given for the 30 m prestressed concrete T‐girder bridge strengthening.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1002/suco.202100040",
+    "url": "https://www.semanticscholar.org/paper/65b243f8f8415f3e83d0137f2a61bc47f78a927b",
+    "citation_count": 14,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "6ccc187cfc925e19c2985a2eb0d6430d3be77bdd",
+    "title": "Multiscale modelling of the long-term performance of prestressed concrete structures – Case studies on T-Girder beams",
+    "authors": "Emanuele Canestro, A. Strauss, Helder Sousa",
+    "journal": "Engineering Structures",
+    "publish_year": "2021",
+    "abstract": "Abstract It is well known that the long-term performance of prestressed concrete structures, i.e. the evolution of strains and stresses over time, is mainly dominated by the coupled effect of creep and shrinkage of concrete combined with the relaxation occurring in the prestressing tendons. Studies focusing on the long-term performance of real structures have been growing mainly in the last decade focusing on more efficient procedures for the design of prestressed concrete structures. This work introduces a novel bottom-up approach for the long-term analysis of T-girder prestressed beams. Two case studies are considered to support this work: (i) a small-scale beam and (ii) a full-scale double T-girder. A thorough discussion is made based on the quantification of displacements, strains and stresses in both concrete and tendons. It is found that keeping the material-related properties as invariant in the modelling, the attainment of the Serviceability Limit States is dependent on the finite element type selected to model the long-term behaviour of the structure.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/J.ENGSTRUCT.2020.111761",
+    "url": "https://www.semanticscholar.org/paper/6ccc187cfc925e19c2985a2eb0d6430d3be77bdd",
+    "citation_count": 11,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "b9bcbd48ecd35b7283571cde5747f4c20a1fc2c2",
+    "title": "Live-load strain evaluation of the prestressed concrete box-girder bridge using deep learning and clustering",
+    "authors": "Han-wei Zhao, You-liang Ding, Ai-qun Li, Zhaozhao Ren, Kangzhen Yang",
+    "journal": "Structural Health Monitoring",
+    "publish_year": "2019",
+    "abstract": "The monitoring data makes it feasible to quickly evaluate the cracking of the prestressed concrete box-girder bridge. The live-load strain can accurately quantify the load effect and cracking of bridges due to its explicit datum point of signal. Based on the live-load strain data from bridge monitoring system, this study develops a comprehensive data-driven method of state evaluation and cracking early warning for the prestressed concrete box-girder bridge. The feature of vehicle-induced strain is extracted using the deep learning and classification of long short-term memory network. The vehicle-induced strain features are clustered via Gaussian mixture model, and the cracking early warning of the bridge is conducted according to the reliability of heavy vehicle clustering data. This method can be used as an indicator for the bridge inspection, truck-weight-limit and reinforcement work. The results demonstrate that (1) using the long short-term memory network, a deep learning model can be trained to intelligently classify the non-stationary and stationary sections of vehicle-induced strains, of which the test accuracy of classification surpasses 99%, and (2) according to the Gaussian mixture model probability distribution of data, the vehicle-induced strain features can be clustered by the corresponding Gaussian mixture model crest, which is the premise for reflecting relational mapping between vehicle loading and strain response.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1177/1475921719875630",
+    "url": "https://www.semanticscholar.org/paper/b9bcbd48ecd35b7283571cde5747f4c20a1fc2c2",
+    "citation_count": 57,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "3bced42d7c023b085ff0a3765e9d1c2fa3d24a45",
+    "title": "Flexural Behavior of a 30-Meter Full-Scale Simply Supported Prestressed Concrete Box Girder",
+    "authors": "Jianqun Wang, Sheng-Chuan Tang, Huihui Zheng, Congling Zhou, M. Zhu",
+    "journal": "Applied Sciences",
+    "publish_year": "2020",
+    "abstract": "Compared with scaled-model testing, full-scale destructive testing is more reliable since the test has no size effect and can truly record the mechanical performance of the structure. However, due to the high cost, only very few full-scale destructive tests have been conducted on the flexural behavior of prestressed concrete (PC) box girders with girders removed from decommissioned bridges. Moreover, related destructive testing on the flexural behavior of a new precast box girder has been rarely reported. To investigate the flexural behavior and optimize the design, destructive testing of a 30-meter full-scale simply supported prestressed box girder was conducted at the construction site. It is illustrated that the failure mode of the tested girder was fracture of the prestressing tendon, and the corresponding maximum compressive strain in the top flange was only 1456 μ ε , which is far less than the ultimate compressive strain (3300 μ ε ). Therefore, the concrete in the top flange was not fully utilized. A nonlinear analysis procedure was performed using the finite strip method (FSM). The validity of the analysis was demonstrated by comparing the analytical results with those of the full-scale test in the field and a scaled model test in a laboratory. Using the developed numerical method, parametric analyses of the ratio of reinforcement were carried out. The prestressing tendon of the tested girder was increased from four strands to six strands in each duct. After the optimization of the prestressed reinforcement, the girder was ductile and the bearing capacity could be increased by 44.3%.",
+    "keywords": [
+      "Materials Science"
+    ],
+    "doi": "10.3390/app10093076",
+    "url": "https://www.semanticscholar.org/paper/3bced42d7c023b085ff0a3765e9d1c2fa3d24a45",
+    "citation_count": 25,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2c836990429ded4da77a83f79d4bc60c95aa0b89",
+    "title": "On-Site Acoustic-Emission Monitoring for a Prestressed Concrete BT-54 AASHTO Girder Bridge",
+    "authors": "Rafal Anay, Abram Lane, D. Jáuregui, B. Weldon, Vafa Soltangharaei, P. Ziehl",
+    "journal": "Journal of Performance of Constructed Facilities",
+    "publish_year": "2020",
+    "abstract": "AbstractAcoustic emission (AE) data were investigated to better understand damage conditions in a three-span prestressed concrete girder bridge during a load test. The innovation lies in classifica...",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1061/(asce)cf.1943-5509.0001440",
+    "url": "https://www.semanticscholar.org/paper/2c836990429ded4da77a83f79d4bc60c95aa0b89",
+    "citation_count": 22,
+    "source": "semantic_scholar"
+  }
+]

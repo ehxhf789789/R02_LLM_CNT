@@ -1,0 +1,146 @@
+[
+  {
+    "paper_id": "7c21c51a3ad0f9212714c553471381d3359c7753",
+    "title": "Hazard Mitigation Measures for a Cable-stayed Bridge",
+    "authors": "H. Gil, K. Han",
+    "journal": "",
+    "publish_year": "2020",
+    "abstract": "Long span cable supported bridges are important transport infrastructure and exposed to number of different hazards such as fire, strong wind, and earthquake. In 2015, a cable-stayed bridge in Korea, Seohae Bridge, experienced uncommon cable fire due to a lightning strike. A fire caused full and partial failure of three stay cables. The Seohae Bridge was closed to traffic for 15 days and repaired by replacing three damaged cables. After reopening, the extensive retrofit works were carried out to prevent and mitigate damages from fire and lightning. A fire hydrant system and a lightning protection system were newly installed on the Bridge. The Korean Highway Bridge Design Code (Limit State Design Method) for Cable-supported Bridges introduced the performance-based design provisions for seismic design in 2016. Three seismic performance level, operational, Long- term repairable, and collapse prevention, was defined and corresponding return periods. The seismic performance of the Bridge, which was designed using force-based method, was recently verified using a detailed non-linear analysis considering material and geometric nonlinearity according to the displacement-based seismic design concept. The results showed that the bridge can satisfy the required seismic performance levels and safety using progressive increment analysis, under the earthquake with very low frequencies of occurrence.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.2749/SEOUL.2020.330",
+    "url": "https://www.semanticscholar.org/paper/7c21c51a3ad0f9212714c553471381d3359c7753",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "4925341999a3319678ea07bdb55e8938167dddc0",
+    "title": "Resilience-Based Optimal Seismic Retrofit and Recovery Strategies of Bridge Networks under Mainshock–Aftershock Sequences",
+    "authors": "L. Jafari, Mohammad Khanmohammadi, L. Capacci, F. Biondini",
+    "journal": "Journal of Infrastructure Systems",
+    "publish_year": "2024",
+    "abstract": ": This paper proposes a mathematical framework for optimal retrofit and recovery strategies of bridge networks. The pre-earthquake and postearthquake management of the highway systems is addressed considering performance objectives based on seismic resilience and life-cycle costs. Structural capacity of vulnerable bridges and traffic performance of the transportation network are investigated accounting for the effects of aftershocks by state-dependent fragility curves informing cumulative damage scenarios. Optimal intervention sequences are identified under uncertainties related to bridge damage levels and mainshock – aftershock sequences based on a biobjective optimization problem aiming to maximize network resilience and minimize costs associated with pre-event retrofit and postrepair restoration activities.",
+    "keywords": [],
+    "doi": "10.1061/jitse4.iseng-2301",
+    "url": "https://www.semanticscholar.org/paper/4925341999a3319678ea07bdb55e8938167dddc0",
+    "citation_count": 7,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "05dc6cce424085fa861a0bc8f043411075b97d85",
+    "title": "Efforts of Seismic Retrofit: The Future Challenge of Innoshima Bridge Beyond 40 Years of Service",
+    "authors": "Hongxin Wang, Takaoki Kaneda, M. Nishitani, Yasuaki Kaneda",
+    "journal": "IABSE Reports",
+    "publish_year": "2024",
+    "abstract": "Innoshima Bridge, which was opened for traffic in 1983, is a three-span, two-hinged stiffening truss girder suspension bridge with a center span of 770 meters, featuring a double-deck structure with the upper level for motor vehicles and the lower level for bicycles and pedestrians. In response to large-scale earthquakes, the bridge is required to have the performance that limits seismic damage to a minimum and enables a swift rehabilitation of its functionality. The results of the seismic performance evaluation revealed damage to various members in the bridge. Therefore, it is decided to conduct seismic retrofit to the damaged members, such as installation of viscous dampers to reduce the seismic forces, addition and replacement of the structures around the wind tongues, and some other reinforcements. This paper presents a report on the seismic performance verification and retrofit design of Innoshima Bridge.",
+    "keywords": [],
+    "doi": "10.2749/manchester.2024.0067",
+    "url": "https://www.semanticscholar.org/paper/05dc6cce424085fa861a0bc8f043411075b97d85",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "9f7da679ee1efe65a9b8214bd40cf570b873b61b",
+    "title": "Partially restrained seismic isolation system to retrofit a continuous girder RC bridge",
+    "authors": "G. Nanclares, D. Ambrosini, O. Curadelli",
+    "journal": "Structure and Infrastructure Engineering",
+    "publish_year": "2023",
+    "abstract": "Abstract The present paper proposes a partially restrained seismic isolation (PRSI) system to retrofit existing continuous girder reinforced concrete (RC) bridges. It involves a pure-friction system with a self-centring force provided by the stiffness of the deck and the frictional forces generated at the area of contact acting as an energy dissipation mechanism. The advantage is that the very small height of the system allows its application to existing bridges. The dynamic response until the collapse of an existing bridge subjected to seismic accelerations was assessed through a detailed 3D numerical model. This numerical model employed an explicit integration scheme that avoids numerical convergence drawbacks as a result of the strength and stiffness degradation of concrete structures. It was able to identify collapse mechanisms such as the development of cracks in the concrete elements. The seismic response of the original bridge was compared with that resulting from structural rehabilitation through implementation of a P-F type isolator in combination with the PRSI technique, which provided the system with a restitutive mechanism minimizing residual deformations. In addition, a classic structural reinforcement was incorporated by means of steel jacketing of the column. Both structural rehabilitation strategies were compared under the same seismic actions, assessing their efficiency and highlighting their benefits.",
+    "keywords": [],
+    "doi": "10.1080/15732479.2023.2211962",
+    "url": "https://www.semanticscholar.org/paper/9f7da679ee1efe65a9b8214bd40cf570b873b61b",
+    "citation_count": 4,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "a60077d249839d4d09d0ca931e55874ac085cf58",
+    "title": "Toggle buckling-restrained brace systems and a corresponding design method for the seismic retrofit of bridge bents",
+    "authors": "Shi Yan, Zhong Zhengwu, Qin Hongguo, J. Han, Z. Sun",
+    "journal": "Engineering Structures",
+    "publish_year": "2020",
+    "abstract": "Abstract Based on the structural fuse concept, easily replaceable fuses are designed to sustain seismic demand and dissipate seismic energy while keeping RC bridge bents elastic, so the retrofitted bents have a very low displacement demand. Buckling-restrained braces (BRBs) are common fuses used in the seismic retrofit of bridge bents. However, the energy dissipation capacity of BRBs cannot be fully utilized under a small displacement if the diagonal or inverted-V configurations are adopted. Combining the structural fuse concept with toggle brace mechanisms, this paper studied a toggle BRB system that can amplify the effect of damper devices. The system was designed to keep the RC bridge bents elastic through the increased energy dissipation capacity of the BRBs. Several key parameters, including the displacement amplification factor and the steel core length-to-total length ratio, were discussed. The admissible values of the displacement amplification factor for different bents were plotted with contour lines. In addition, a displacement-based design procedure was proposed that ensured the bents achieved the target performance under a design-level earthquake. Two design examples were illustrated: a bent that failed in a flexural mode and another bent that failed in a flexural-shear mode. Finally, the feasibility of the design procedure was validated with nonlinear time history analyses.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.engstruct.2020.110996",
+    "url": "https://www.semanticscholar.org/paper/a60077d249839d4d09d0ca931e55874ac085cf58",
+    "citation_count": 54,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "6acb3d7efebd7345963d849603db5487ef327345",
+    "title": "Seismic retrofit of a truss bridge in Seto-Ohashi bridges",
+    "authors": "T. Kaneda, M. Nishitani, K. Endo, Hiroki Murakami",
+    "journal": "",
+    "publish_year": "2021",
+    "abstract": "This paper reports that isolation rubber bearings were newly installed instead of existing steel bearings as seismic retrofit in a truss portion of the Hitsuishijima viaduct in the Seto-Ohashi Bridges, which is unprecedented method for highway-railway combined bridges in Japan. For the truss bridge, seismic performance evaluation was conducted and it was found that some members were damaged. In order to minimize retrofit work over the railway tracks, the isolation of truss girder was selected. For the truss girder isolation, the constraining effect of the long rail and the running safety of the train were studied. In the retrofit work, in order to minimize the impact on the expressway, railway tracks, and utility facilities, the structural change of the isolation rubber bearings and the displacement of truss girder caused by jacking up had to be studied. The support structure was adopted with a knock-off mechanism, and the effects of jacking up were confirmed by FEM analysis.",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.2749/CHRISTCHURCH.2021.0125",
+    "url": "https://www.semanticscholar.org/paper/6acb3d7efebd7345963d849603db5487ef327345",
+    "citation_count": 0,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "762dd938c1028cfa2ae28d61b9e6ca02bf33dbcf",
+    "title": "Improving Seismic Behavior of Existing Multicolumn RC Bridge Bents Using Low-Damage Retrofit Strategy",
+    "authors": "M. Jafarkarimi, M. Khanmohammadi",
+    "journal": "Journal of Bridge Engineering",
+    "publish_year": "2021",
+    "abstract": "Abstract Implementing a low-damage design (LDD) approach to improve the seismic behavior of existing RC bridge bents as a retrofit strategy is the main focus of the present study. Experimental and ...",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1061/(ASCE)BE.1943-5592.0001684",
+    "url": "https://www.semanticscholar.org/paper/762dd938c1028cfa2ae28d61b9e6ca02bf33dbcf",
+    "citation_count": 3,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "2488bdffbb9a3fec5cd661ed33d71ea58df5ab65",
+    "title": "Review of Research on Seismic Retrofit Technology of RC Bridge Pier",
+    "authors": "Yingxiang Wang, Tianren Li, P. He, Luguang Wang, Zhichao Chen",
+    "journal": "2020 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)",
+    "publish_year": "2020",
+    "abstract": "Aiming at the typical failure modes of RC piers in recent destructive earthquakes, the advantages and disadvantages of conventional RC piers for seismic retrofit technology are summarized, and the research progress of applying new materials to strengthen piers is introduced. Research shows that the use of steel wire rope, BFRP, and shape memory alloy retrofit can effectively improve the seismic performance of the pier, but single technology retrofit has its limitations, and multiple technology composite retrofit can overcome the shortcomings of the single technology. The seismic retrofit technology of bridge piers mentioned in the article can provide a reference for the retrofit and repair of RC structures that have been damaged after earthquakes, fires, explosions and corrosion and aging.",
+    "keywords": [
+      "Engineering"
+    ],
+    "doi": "10.1109/ICITBS49701.2020.00046",
+    "url": "https://www.semanticscholar.org/paper/2488bdffbb9a3fec5cd661ed33d71ea58df5ab65",
+    "citation_count": 2,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "ebacb39974ad480a7c926cfd395f575d62835753",
+    "title": "Seismic Retrofit of Monorail Bridges Considering Soil–Pile–Bridge–Train Interaction",
+    "authors": "M. Shamsi, A. Ghanbari",
+    "journal": "Journal of Bridge Engineering",
+    "publish_year": "2020",
+    "abstract": "Abstract Monorail bridges play an important role in urban transportation networks, and their proper seismic performance is an issue of great concern in earthquake-prone countries. Seismic isolation...",
+    "keywords": [
+      "Geology"
+    ],
+    "doi": "10.1061/(asce)be.1943-5592.0001613",
+    "url": "https://www.semanticscholar.org/paper/ebacb39974ad480a7c926cfd395f575d62835753",
+    "citation_count": 18,
+    "source": "semantic_scholar"
+  },
+  {
+    "paper_id": "0916e842301466966d2db50c5130e64d5e3e465e",
+    "title": "Seismic fragility and cost-benefit analysis of a conventional bridge with retrofit implements",
+    "authors": "Maryam Montazeri, G. Ghodrati Amiri, P. Namiranian",
+    "journal": "Soil Dynamics and Earthquake Engineering",
+    "publish_year": "2020",
+    "abstract": "Abstract Fragility analysis is a well-known tool to evaluate the impact of different retrofit measures on damage probability of structures. In this study, the performances of a conventional multi-span continuous (MSC) concrete girder bridge reinforced with different seismic control devices were investigated. The original bridge is supported by both elastomeric bearings and exterior shear keys. For other retrofitting solutions, lead rubber bearings (LRB), friction pendulum systems (FPS), and buckling-restrained braces (BRB) were considered and compared to the original structure of the bridge in terms of seismic performances and economical costs. To analyze the seismic performances, the fragility curves based on the probabilistic seismic demand model were extracted under various near-field and far-field ground motions. Additionally, cost-benefit analyses were performed to determine the benefit of using each of the devices economically. The results indicated that both LRB and FPS significantly reduced the damage probability of substructure, while FPS provided the bridge with high vulnerability in abutment seat at slight and moderate levels of damage. Also, the installation of BRB seismically was an efficient solution and decreased the damage probability of the bridge system. Based on the results of fragility and cost-benefit analysis, LRB was found to be a beneficial implement for the studied bridge.",
+    "keywords": [
+      "Computer Science"
+    ],
+    "doi": "10.1016/j.soildyn.2020.106456",
+    "url": "https://www.semanticscholar.org/paper/0916e842301466966d2db50c5130e64d5e3e465e",
+    "citation_count": 20,
+    "source": "semantic_scholar"
+  }
+]
